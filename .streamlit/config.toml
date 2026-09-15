@@ -1,0 +1,10 @@
+[client]
+toolbarMode = "viewer"
+
+[server]
+headless = true
+
+[theme]
+base = "light"
+primaryColor = "#145da0"
+backgroundColor = "#f2f5f9"
