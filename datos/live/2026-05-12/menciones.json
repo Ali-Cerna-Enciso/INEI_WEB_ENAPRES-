@@ -78,5 +78,24 @@
     "del_dia": true,
     "nuevo": false,
     "query": "gob.pe:noticias-inei"
+  },
+  {
+    "titulo": "📢 #NotaDePrensa | El INEI, a través de la Encuesta Nacional de Programas Presupuestales (ENAPRES), recolectará datos actualizados sobre seguridad ciudadana, acceso a servicios básicos y telecomunicaciones. 🗞️ www.gob.pe/n/1390294 - Facebook",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPYm9xMDJvQUpQenhMYlJOZ3YyMlJlTHJjaFNKblA3SGZTT0wyS1lIUHRqaHAxeWh0REZOWWFhYXRmWUt2Ukp0OGc2Rzl1VjdkMkIxNnlZYmRJUUtHZFlPenRHNC1Fd1Z5ek5BLWpBVG1Gb2dyZFRQcWtPTTlwMU5teTFQRlYtSWlmVnBBVVNwbnN2VGFJRkpCYk55dVB6R1F6OHB1bU1kZ2YwNW9HNlRpdG9RNEZPV2l4RGJRWlhGUUZmdHlQSDBBSmJlZzZtdmF2dHczQzY4LXpWbEl5eFp2VVcxRVR6VlE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "fuente": "Facebook",
+    "colector": "medios",
+    "fecha_pub": "2026-05-12",
+    "fecha_pub_raw": "Tue, 12 May 2026 07:00:00 GMT",
+    "snippet": "📢 #NotaDePrensa | El INEI, a través de la Encuesta Nacional de Programas Presupuestales (ENAPRES), recolectará datos actualizados sobre seguridad ciudadana, acceso a servicios básicos y telecomunicaciones. 🗞️ www.gob.pe/",
+    "score": 7,
+    "temas": [
+      "basicos",
+      "contexto",
+      "seguridad"
+    ],
+    "alerta": "",
+    "del_dia": true,
+    "nuevo": false,
+    "query": "medios:redes-facebook.com-1"
   }
 ]
