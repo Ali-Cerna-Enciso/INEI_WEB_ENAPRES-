@@ -1,11 +1,14 @@
-"""ENAPRES — catálogo de productos y menciones en prensa (Streamlit)."""
+"""Catálogo ENAPRES y menciones en prensa."""
 from __future__ import annotations
 
 import html
 import hmac
 import json
 import os
+import re
 import sys
+import urllib.error
+import urllib.request
 from datetime import date, timedelta
 from pathlib import Path
 
@@ -24,8 +27,6 @@ try:
     import corpus  # noqa: E402
     import a_catalogo  # noqa: E402
 except ImportError:
-    # Copia sin monitoreo/ (p. ej. Streamlit Cloud desde este repo):
-    # la app abre igual; solo el catálogo tiene contenido.
     actualizar = corpus = a_catalogo = None  # noqa: E402
     SIN_MONITOREO = True
 else:
@@ -48,6 +49,49 @@ NOMBRE_COLECTOR = {
 }
 
 
+def _en_nube() -> bool:
+    return Path("/mount/src").is_dir() or str(DIR).startswith("/mount/src")
+
+
+def _secreto(nombre: str, default: str = "") -> str:
+    try:
+        v = st.secrets.get(nombre, default)
+    except Exception:
+        v = default
+    return str(v or os.environ.get(nombre, default) or default)
+
+
+def _puede_rastrear_aqui() -> bool:
+    return (not SIN_MONITOREO) and os.name == "nt" and not _en_nube()
+
+
+def _lanzar_gha() -> tuple[bool, str]:
+    token = _secreto("GH_TOKEN")
+    repo = _secreto("GH_REPO", "Ali-Cerna-Enciso/INEI_WEB_ENAPRES-")
+    wf = _secreto("GH_WORKFLOW", "monitoreo.yml")
+    if not token:
+        return False, "Falta GH_TOKEN en secretos de Streamlit."
+    url = f"https://api.github.com/repos/{repo}/actions/workflows/{wf}/dispatches"
+    body = json.dumps({"ref": "main"}).encode("utf-8")
+    req = urllib.request.Request(url, data=body, method="POST", headers={
+        "Accept": "application/vnd.github+json",
+        "Authorization": f"Bearer {token}",
+        "X-GitHub-Api-Version": "2022-11-28",
+        "Content-Type": "application/json",
+        "User-Agent": "enapres-webapp",
+    })
+    try:
+        with urllib.request.urlopen(req, timeout=20) as r:
+            if r.status in (204, 200):
+                return True, "Pedido enviado. En 1–3 minutos GitHub Actions actualiza y Streamlit redespliega."
+            return False, f"GitHub respondió {r.status}"
+    except urllib.error.HTTPError as e:
+        detalle = e.read().decode("utf-8", "replace")[:240]
+        return False, f"GitHub {e.code}: {detalle or e.reason}"
+    except urllib.error.URLError as e:
+        return False, str(e.reason or e)
+
+
 def dia_humano(iso: str) -> str:
     try:
         y, m, d = iso.split("-")
@@ -57,11 +101,55 @@ def dia_humano(iso: str) -> str:
 
 
 def fecha_catalogo() -> str:
+    meta = DIR / "catalogo" / "meta.json"
+    try:
+        act = json.loads(meta.read_text(encoding="utf-8")).get("actualizado")
+        if act:
+            return str(act)
+    except (OSError, ValueError):
+        pass
     try:
         texto = CATALOGO.read_text(encoding="utf-8")
         return texto.split(MARCAS[0], 1)[1].split(MARCAS[1], 1)[0].strip()
     except (OSError, IndexError):
         return "sin fecha"
+
+
+def _html_catalogo() -> str:
+    h = CATALOGO.read_text(encoding="utf-8")
+    carpeta = DIR / "catalogo"
+
+    def carga(nombre):
+        try:
+            return json.loads((carpeta / nombre).read_text(encoding="utf-8"))
+        except (OSError, ValueError):
+            return None
+
+    data, prensa, meta = carga("data.json"), carga("prensa.json"), carga("meta.json") or {}
+    if isinstance(data, list):
+        h = re.sub(
+            r"//<!--DATOS-INI-->.*?//<!--DATOS-FIN-->",
+            "//<!--DATOS-INI-->\nconst DATA="
+            + json.dumps(data, ensure_ascii=False)
+            + ";\n//<!--DATOS-FIN-->",
+            h, count=1, flags=re.S,
+        )
+    if isinstance(prensa, list):
+        h = re.sub(
+            r"//<!--PRENSA-INI-->.*?//<!--PRENSA-FIN-->",
+            "//<!--PRENSA-INI-->\nconst PRENSA="
+            + json.dumps(prensa, ensure_ascii=False)
+            + ";\n//<!--PRENSA-FIN-->",
+            h, count=1, flags=re.S,
+        )
+    act = meta.get("actualizado") if isinstance(meta, dict) else None
+    if act:
+        h = re.sub(
+            r"<!--ACTUALIZADO-->.*?<!--/ACTUALIZADO-->",
+            "<!--ACTUALIZADO-->" + str(act) + "<!--/ACTUALIZADO-->",
+            h, count=1, flags=re.S,
+        )
+    return h
 
 
 st.set_page_config(
@@ -136,7 +224,7 @@ else:
     corpus.migrar_diario_viejo()
     indice = corpus.load_indice()
 
-if SIN_MONITOREO:
+if SIN_MONITOREO or _en_nube():
     tab_mon, tab_cat = st.tabs(["Menciones", "Catálogo"])
     tab_cargar = None
 else:
@@ -147,15 +235,28 @@ with tab_mon:
     with top1:
         st.markdown("### Menciones de ENAPRES")
         st.caption(
-            "Notas de gob.pe/INEI, prensa y redes institucionales que nombran la encuesta. "
-            f"Catálogo actualizado: {fecha_catalogo()}."
+            "Notas de gob.pe/INEI, prensa y redes que nombran la encuesta. "
+            f"Catálogo: {fecha_catalogo()}."
         )
     with top2:
-        if not SIN_MONITOREO:
+        actualizar_click = False
+        admin = _secreto("ADMIN_TOKEN")
+        if _en_nube() and admin and _secreto("GH_TOKEN"):
+            pin = st.text_input("Clave", type="password",
+                                label_visibility="collapsed",
+                                placeholder="Clave")
+            if st.button("Actualizar ahora", type="primary",
+                         use_container_width=True):
+                if not pin or not hmac.compare_digest(pin, admin):
+                    st.error("Clave incorrecta.")
+                else:
+                    ok, msg = _lanzar_gha()
+                    (st.success if ok else st.error)(msg)
+        elif _puede_rastrear_aqui():
             actualizar_click = st.button("Actualizar hoy", type="primary",
                                          use_container_width=True)
         else:
-            actualizar_click = False
+            st.caption("Auto: 07:17 y 16:17 Lima")
 
     if actualizar_click:
         bitacora = []
@@ -267,15 +368,8 @@ with tab_mon:
             + f"<a href='{url}' target='_blank' rel='noopener'>Abrir ↗</a></div>",
             unsafe_allow_html=True,
         )
-    if not items and SIN_MONITOREO:
-        st.info("Sin menciones en esta vista. La versión web muestra la última "
-                "instantánea incluida en el repositorio (ver «Última escritura»).")
-    elif not items:
-        st.info(
-            f"Nada en «{ventana}». Pulsa **Actualizar hoy** para buscar en gob.pe/INEI "
-            "(entra a cada noticia) y en Google News con #ENAPRES. "
-            "Los posts de Facebook institucional no se leen solos: van en Difusión OTD."
-        )
+    if not items:
+        st.info(f"Sin menciones en «{ventana}».")
     elif n > tope:
         st.warning(f"Mostrando {tope} de {n}. Afina la búsqueda.")
     else:
@@ -288,11 +382,8 @@ with tab_mon:
         ))
 
         arch = indice.get("archivo") or []
-        with st.expander(f"Archivo interno ({len(arch)} días compactos en datos/archivo)"):
-            st.write(
-                "Cuando hay más de 31 días en vivo, el más antiguo sale de las carpetas "
-                "y queda aquí como `.jsonl.gz` (compacto, archivo interno)."
-            )
+        with st.expander(f"Archivo interno ({len(arch)} días)"):
+            st.caption("Días fuera de los 31 en vivo (jsonl.gz).")
             if not arch:
                 st.caption("Todavía no hay días archivados.")
             else:
@@ -322,7 +413,7 @@ with tab_cat:
     if not CATALOGO.exists():
         st.error(f"No se encontró el catálogo: {CATALOGO}")
     else:
-        components.html(CATALOGO.read_text(encoding="utf-8"), height=1600, scrolling=True)
+        components.html(_html_catalogo(), height=1600, scrolling=True)
 
 
 TEMAS_CATALOGO = ["Servicios básicos", "Agua y saneamiento", "Electrificación",
@@ -333,16 +424,9 @@ TEMAS_CATALOGO = ["Servicios básicos", "Agua y saneamiento", "Electrificación"
 if tab_cargar is not None:
     with tab_cargar:
         st.markdown("### Cargar producto al catálogo")
-        st.caption("Registro interno: escribe en el catálogo y regenera el HTML.")
-        token_cfg = ""
-        try:
-            token_cfg = st.secrets.get("ADMIN_TOKEN", "")
-        except Exception:
-            token_cfg = ""
-        token_cfg = token_cfg or os.environ.get("ADMIN_TOKEN", "")
+        token_cfg = _secreto("ADMIN_TOKEN")
         if not token_cfg:
-            st.info("Alta deshabilitada: configura ADMIN_TOKEN en "
-                    "webapp/.streamlit/secrets.toml o como variable de entorno.")
+            st.info("Configure ADMIN_TOKEN para habilitar el alta.")
         else:
             pw = st.text_input("Clave de alta", type="password")
             if pw and not hmac.compare_digest(pw, str(token_cfg)):
@@ -376,4 +460,5 @@ if tab_cargar is not None:
                             st.warning(err)
                         else:
                             a_catalogo.main()
-                            st.success(f"Guardado {item['id']}: HTML regenerado.")
+                            st.success(f"Guardado {item['id']}.")
+                            st.rerun()

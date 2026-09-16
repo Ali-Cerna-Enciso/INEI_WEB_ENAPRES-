@@ -1,0 +1,15 @@
+# Feeds a sondear — formato nombre|url. Se filtran con taxonomia.csv en cada corrida.
+# Solo XML RSS/Atom verificado 2026-09-15 (200 + <?xml). Si un feed pasa a HTML, se ignora en la corrida.
+Andina|https://andina.pe/agencia/rss/portada.xml
+RPP|https://rpp.pe/rss
+RPP-feed|https://rpp.pe/feed
+Gestion|https://gestion.pe/arcio/rss
+ElComercio|https://elcomercio.pe/arcio/rss
+DiarioCorreo|https://diariocorreo.pe/arcio/rss
+ElBuho|https://elbuho.pe/feed
+Wayka|https://wayka.pe/feed
+Inforegion|https://inforegion.pe/feed
+Caretas|https://caretas.pe/feed
+LaMula|https://lamula.pe/feed
+INEI-Peru-YT|https://www.youtube.com/feeds/videos.xml?channel_id=UCuLBB4cUpoVcuei3Fc4dxvA
+TVPeru-Noticias-YT|https://www.youtube.com/feeds/videos.xml?channel_id=UCkZCoc42IipR1ucqJmIehsA

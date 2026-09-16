@@ -3,6 +3,7 @@ __pycache__/
 .venv/
 venv/
 .streamlit/secrets.toml
-
-# datos locales: no versionar
-datos/
+monitoreo/salidas/
+datos/archivo/
+datos/live/**/crudo/
+datos/diario.json

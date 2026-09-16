@@ -1,0 +1,30 @@
+# Búsqueda ENAPRES. Google News RSS usa when:1y; el corpus guarda por fecha de publicación.
+# Redes: sin API gratis. Se pide a Google lo que indexó (como Instagram).
+# Estado: gob.pe entero (no solo INEI) + ministerios que citan ENAPRES.
+#ENAPRES
+#ENAPRES INEI
+ENAPRES
+ENAPRES INEI
+"Encuesta Nacional de Programas Presupuestales"
+site:gob.pe/institucion/inei ENAPRES
+site:inei.gob.pe ENAPRES
+site:webinei.inei.gob.pe ENAPRES
+site:gob.pe ENAPRES
+site:gob.pe "Encuesta Nacional de Programas Presupuestales"
+site:mininter.gob.pe ENAPRES
+site:minsa.gob.pe ENAPRES
+site:mef.gob.pe ENAPRES
+site:facebook.com #ENAPRES
+site:facebook.com ENAPRES
+site:andina.pe ENAPRES
+site:elperuano.pe ENAPRES
+site:infobae.com/peru ENAPRES
+site:rpp.pe ENAPRES
+ENAPRES 2026
+site:x.com ENAPRES
+site:x.com #ENAPRES
+site:x.com "Encuesta Nacional de Programas Presupuestales"
+site:instagram.com ENAPRES
+site:instagram.com #ENAPRES
+site:tiktok.com #ENAPRES
+site:tiktok.com "Encuesta Nacional de Programas Presupuestales"

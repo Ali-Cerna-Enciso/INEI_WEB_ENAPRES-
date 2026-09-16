@@ -1,46 +1,41 @@
 # ENAPRES — catálogo de productos y menciones
 
-Aplicación Streamlit del Instituto Nacional de Estadística e Informática (INEI) para consulta interna de:
-
-- productos públicos de la Encuesta Nacional de Programas Presupuestales (boletines, publicaciones, microdatos);
-- menciones en prensa, gob.pe y redes institucionales.
+Consulta de productos públicos de ENAPRES y menciones en prensa, gob.pe y redes.
 
 Repositorio: [Ali-Cerna-Enciso/INEI_WEB_ENAPRES-](https://github.com/Ali-Cerna-Enciso/INEI_WEB_ENAPRES-).
 
-Solo se versionan enlaces y textos ya públicos. No incluir microdatos, bases internas ni credenciales.
+Solo enlaces y textos ya públicos. Sin microdatos ni credenciales.
 
 ## Contenido
 
 | Ruta | Uso |
 |---|---|
 | `app.py` | Aplicación Streamlit |
-| `catalogo/index.html` | Catálogo (HTML autocontenido) |
-| `datos_publicos/menciones.json` | Instantánea de menciones (prensa y difusión) |
-| `requirements.txt` | Dependencia: Streamlit |
-
-El rastreo de fuentes se ejecuta fuera de este repositorio. Aquí solo se publica el resultado.
-
-## Uso
-
-Aplicación de consulta. La recarga muestra la última instantánea subida a `main`.
-Tras 12 horas sin visitas el servicio se suspende y el primer acceso lo reanuda.
+| `catalogo/index.html` | Plantilla (el estilo no se reescribe) |
+| `catalogo/data.json` | Productos INEI |
+| `catalogo/prensa.json` | Menciones (automático + aportes en `datos/web_extra.json`) |
+| `catalogo/meta.json` | Fecha de actualización |
+| `datos_publicos/menciones.json` | Instantánea de la pestaña Menciones |
+| `monitoreo/` | Colectores (GitHub Actions) |
+| `datos/live/` | Corpus por día |
+| `.github/workflows/monitoreo.yml` | 07:17 y 16:17 hora Lima + botón en Actions |
 
 ## Actualización
 
-En el entorno interno se regeneran `catalogo/index.html` y `datos_publicos/menciones.json`. Luego:
+GitHub Actions rastrea dos veces al día, escribe los JSON y hace commit. El HTML no cambia. Streamlit Cloud redespliega con el push.
 
-```bash
-git add catalogo/index.html datos_publicos/menciones.json
-git commit -m "Actualiza catálogo y menciones"
-git push
-```
+Pedido manual: GitHub → Actions → monitoreo → Run workflow.
 
-Streamlit Cloud redespliega con el push.
+En Streamlit, «Actualizar ahora» pide `ADMIN_TOKEN` y dispara el mismo workflow (`GH_TOKEN` en secretos de la nube).
 
-## Ejecución local
+Aportes que el rastreador no vio: editar `datos/web_extra.json` (menciones) o `datos/catalogo.json` (productos).
+
+Tras 12 horas sin visitas el servicio se suspende; el primer acceso lo reanuda.
+
+## Local
 
 ```bash
 python -m streamlit run app.py
 ```
 
-Dirección: `http://localhost:8501`.
+`http://localhost:8501`

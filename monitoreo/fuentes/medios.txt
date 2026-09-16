@@ -1,0 +1,139 @@
+# Medios peruanos focalizados + redes (watchlist) — 2026-09-15
+# Formato: dominio | nombre | nota/handle. Secciones [prensa] y [redes].
+# medios_fetch.py arma queries GNews "ENAPRES (site:a OR site:b...)" por lotes de 5.
+# Si el medio no publicó ENAPRES, Google News responde vacío: no ensucia Web.
+# Fuera a propósito: deportes; gob.pe e inei.gob.pe (colectores propios).
+
+[prensa]
+# --- Diarios nacionales (Lima) ---
+elcomercio.pe | El Comercio |
+larepublica.pe | La República |
+peru21.pe | Perú21 |
+expreso.com.pe | Expreso |
+elperuano.pe | El Peruano |
+gestion.pe | Gestión |
+trome.pe | Trome |
+ojo.pe | Ojo |
+elpopular.pe | El Popular |
+larazon.pe | La Razón |
+extra.pe | Extra |
+diariouno.pe | Diario Uno |
+peru.com | Perú.com |
+publimetro.pe | Publimetro |
+correo.pe | Correo |
+diariocorreo.pe | Diario Correo |
+infobae.com | Infobae |
+
+# --- Economía y sectores ---
+semanaeconomica.com | Semana Económica |
+americaeconomia.com | América Economía |
+lacamara.pe | La Cámara CCL |
+ganamas.com.pe | Gan@Más |
+infomercado.pe | Infomercado |
+peru-retail.com | Perú Retail |
+mercadonegro.pe | Mercado Negro |
+proactivo.com.pe | ProActivo |
+rumbominero.com | Rumbo Minero |
+energiminas.com | Energiminas |
+pqs.pe | PQS |
+
+# --- Revistas ---
+caretas.pe | Caretas |
+hildebrandtensustrece.com | Hildebrandt en sus trece |
+poder.pe | Poder |
+revistaideele.com | Ideele Revista |
+stakeholders.com.pe | Stakeholders |
+limagris.com | Lima Gris |
+
+# --- Investigación y nativos digitales ---
+ojo-publico.com | OjoPúblico |
+idl-reporteros.pe | IDL-Reporteros |
+convoca.pe | Convoca |
+saludconlupa.com | Salud con Lupa |
+laencerrona.pe | La Encerrona |
+epicentro.tv | Epicentro TV |
+elfoco.pe | El Foco |
+wayka.pe | Wayka |
+lamula.pe | La Mula |
+utero.pe | Utero.pe |
+sudaca.pe | Sudaca |
+servindi.org | Servindi |
+inforegion.pe | Inforegión |
+
+# --- Radio, TV y agencias ---
+rpp.pe | RPP |
+andina.pe | Andina |
+americatv.com.pe | América Noticias |
+latina.pe | Latina Noticias |
+tvperu.gob.pe | TV Perú |
+canaln.pe | Canal N |
+atv.pe | ATV |
+panamericana.pe | Panamericana |
+willax.pe | Willax |
+nativa.pe | Nativa |
+pbo.pe | PBO |
+exitosa.pe | Exitosa |
+exitosanoticias.pe | Exitosa Noticias |
+radionacional.com.pe | Radio Nacional |
+
+# --- Norte ---
+diariohechicera.com | Diario Hechicera |
+eltiempo.pe | El Tiempo Piura |
+lahora.pe | La Hora Piura |
+walac.pe | Walac |
+elregionalpiura.com.pe | El Regional Piura |
+noticiaspiura30.pe | Noticias Piura 3.0 |
+cutivalu.pe | Cutivalú |
+laindustria.pe | La Industria |
+macronorte.pe | Macronorte |
+n60.pe | N60 |
+elsatelite.pe | Satélite |
+huarazenlinea.com | HuarazEnLínea |
+ancashnoticias.com | Áncash Noticias |
+rsdnoticias.com | RSD Chimbote |
+chimbotenlinea.com | Chimbote en Línea |
+panoramacajamarquino.com | Panorama Cajamarquino |
+
+# --- Centro ---
+prensachalaca.com | Prensa Chalaca |
+lalupa.pe | La Lupa Ica |
+primicia.pe | Primicia |
+semanario7dias.com.pe | 7 Días Huancayo |
+pagina3.pe | Página3 |
+ahora.com.pe | Ahora Huánuco |
+jornada.com.pe | Diario Jornada |
+
+# --- Sur ---
+elpueblo.com.pe | El Pueblo |
+elbuho.pe | El Búho |
+radioyaravi.org.pe | Radio Yaraví |
+sinfronteras.com.pe | Sin Fronteras |
+diarioviral.pe | Diario Viral |
+elsolcusco.pe | El Sol Cusco |
+cuscopost.pe | Cusco Post |
+losandes.com.pe | Los Andes |
+pachamamaradio.org | Pachamama Radio |
+radioondaazul.com | Onda Azul |
+radiouno.pe | Radio Uno Tacna |
+laprensaregional.pe | La Prensa Regional |
+
+# --- Oriente ---
+diariolaregion.com | La Región Loreto |
+proycontra.com.pe | Pro y Contra |
+diarioimpetu.com | Ímpetu |
+voces.com.pe | Voces Tarapoto |
+
+# --- Institucional (no INEI: el colector gobpe cubre noticias INEI) ---
+defensoria.gob.pe | Defensoría del Pueblo |
+comunicaciones.congreso.gob.pe | Congreso comunicaciones |
+mininter.gob.pe | Mininter / observatorio |
+minsa.gob.pe | MINSA |
+mef.gob.pe | MEF |
+webinei.inei.gob.pe | WebINEI |
+
+[redes]
+facebook.com | Facebook | INEI: facebook.com/INEIpaginaOficial (Google indexa; pfbid/share a menudo piden login)
+x.com | X | INEI: @INEI_oficial (API de pago: solo lo que Google indexó)
+instagram.com | Instagram | (login wall: solo lo indexado)
+tiktok.com | TikTok | Solo #ENAPRES o el nombre largo; ENAPRES suelto en TikTok trae ruido
+youtube.com | YouTube | (RSS + yt_search.py)

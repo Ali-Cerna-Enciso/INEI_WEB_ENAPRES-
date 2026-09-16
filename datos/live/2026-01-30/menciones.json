@@ -1,0 +1,21 @@
+[
+  {
+    "titulo": "INEI inicia trabajo de campo de la Encuesta Nacional de Hogares 2026  a nivel nacional",
+    "url": "https://www.gob.pe/institucion/inei/noticias/1343785-inei-inicia-trabajo-de-campo-de-la-encuesta-nacional-de-hogares-2026-a-nivel-nacional",
+    "fuente": "gob.pe/INEI",
+    "colector": "gobpe",
+    "fecha_pub": "2026-01-30",
+    "fecha_pub_raw": "2026-01-30",
+    "snippet": "a Nacional de Programas Presupuestales (ENAPRES) y la Encuesta Demográfica y de Salud Familiar (ENDES), entre otras.",
+    "score": 6,
+    "temas": [
+      "contexto",
+      "operativo",
+      "saneamiento"
+    ],
+    "alerta": "posible-ENAHO",
+    "del_dia": true,
+    "nuevo": true,
+    "query": "gob.pe:noticias-inei"
+  }
+]

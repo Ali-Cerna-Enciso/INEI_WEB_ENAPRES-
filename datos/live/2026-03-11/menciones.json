@@ -1,0 +1,22 @@
+[
+  {
+    "titulo": "Cajamarca: INEI visitará 1554 viviendas en 2026 como parte de la  Encuesta Nacional de Hogares",
+    "url": "https://www.gob.pe/institucion/inei/noticias/1364349-cajamarca-inei-visitara-1554-viviendas-en-2026-como-parte-de-la-encuesta-nacional-de-hogares",
+    "fuente": "gob.pe/INEI",
+    "colector": "gobpe",
+    "fecha_pub": "2026-03-11",
+    "fecha_pub_raw": "2026-03-11",
+    "snippet": "la Encuesta Nacional de Programas Presupuestales (ENAPRES), la Encuesta Demográfica y de Salud Familiar (ENDES) y la Encuesta Permanente de Empleo Nacional (EPEN), entre otras operaciones estadísticas que integran el",
+    "score": 5,
+    "temas": [
+      "contexto",
+      "operativo",
+      "saneamiento",
+      "sociales"
+    ],
+    "alerta": "posible-ENAHO",
+    "del_dia": true,
+    "nuevo": false,
+    "query": "gob.pe:noticias-inei"
+  }
+]
