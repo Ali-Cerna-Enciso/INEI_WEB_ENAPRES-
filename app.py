@@ -9,7 +9,7 @@ import re
 import sys
 import urllib.error
 import urllib.request
-from datetime import date, timedelta
+from datetime import date, datetime, timedelta
 from pathlib import Path
 
 import streamlit as st
@@ -113,6 +113,15 @@ def fecha_catalogo() -> str:
         return texto.split(MARCAS[0], 1)[1].split(MARCAS[1], 1)[0].strip()
     except (OSError, IndexError):
         return "sin fecha"
+
+
+def fecha_catalogo_humana() -> str:
+    raw = fecha_catalogo()
+    try:
+        dt = datetime.strptime(raw[:16], "%Y-%m-%d %H:%M")
+        return f"{dt.day} {MESES[dt.month - 1]} {dt.year} · {dt.strftime('%H:%M')}"
+    except (ValueError, IndexError):
+        return raw
 
 
 def _html_catalogo() -> str:
@@ -235,8 +244,7 @@ with tab_mon:
     with top1:
         st.markdown("### Menciones de ENAPRES")
         st.caption(
-            "Notas de gob.pe/INEI, prensa y redes que nombran la encuesta. "
-            f"Catálogo: {fecha_catalogo()}."
+            "Notas de gob.pe/INEI, prensa y redes que nombran la encuesta."
         )
     with top2:
         actualizar_click = False
@@ -257,6 +265,7 @@ with tab_mon:
                                          use_container_width=True)
         else:
             st.caption("Auto: 07:17 y 16:17 Lima")
+        st.caption(f"Última actualización: {fecha_catalogo_humana()}")
 
     if actualizar_click:
         bitacora = []
@@ -288,7 +297,7 @@ with tab_mon:
                 st.rerun()
 
     st.caption(
-        f"Última escritura: {indice.get('actualizado', '—')} · "
+        f"Última escritura: {fecha_catalogo_humana()} · "
         f"{len(indice.get('dias') or [])}/{indice.get('max_live', 31)} días en vivo"
     )
     ventana = st.radio(

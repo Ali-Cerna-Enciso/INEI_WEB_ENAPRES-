@@ -7,6 +7,7 @@ import re
 import sys
 from datetime import datetime
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import corpus
@@ -161,7 +162,7 @@ def publicar(pub):
     os.makedirs(CAT, exist_ok=True)
     escribir_data()
     pub = mezclar_prensa(pub)
-    hoy = datetime.now().strftime("%Y-%m-%d %H:%M")
+    hoy = datetime.now(ZoneInfo("America/Lima")).strftime("%Y-%m-%d %H:%M")
     Path(CAT, "prensa.json").write_text(
         json.dumps(pub, ensure_ascii=False), encoding="utf-8")
     Path(CAT, "meta.json").write_text(
