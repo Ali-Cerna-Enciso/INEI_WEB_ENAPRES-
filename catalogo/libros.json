@@ -36,18 +36,18 @@
       "alta_tipo": "microdato"
     },
     {
-      "id": "bases",
-      "label": "Bases de datos",
-      "portada": "img/base-de-datos.png",
-      "alta_tema": "General",
-      "alta_tipo": "microdato"
-    },
-    {
       "id": "enapres-anual",
       "label": "ENAPRES completa · Anual",
       "portada": "img/enapres-anual.png",
       "alta_tema": "General",
       "alta_tipo": "publicacion"
+    },
+    {
+      "id": "bases",
+      "label": "Bases de datos",
+      "portada": "img/base-de-datos.png",
+      "alta_tema": "General",
+      "alta_tipo": "microdato"
     }
   ],
   "reglas": [
