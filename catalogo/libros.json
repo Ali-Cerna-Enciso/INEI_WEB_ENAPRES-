@@ -2,42 +2,42 @@
   "libros": [
     {
       "id": "serv-anual",
-      "label": "Servicios básicos · Anual",
+      "label": "Acceso a los servicios básicos en el Perú",
       "portada": "img/servicios-anual.png",
       "alta_tema": "Servicios básicos",
       "alta_tipo": "publicacion"
     },
     {
       "id": "serv-sem",
-      "label": "Servicios básicos · Año móvil",
+      "label": "Acceso a los servicios básicos · Año móvil",
       "portada": "img/servicios-semestral.png",
       "alta_tema": "Servicios básicos",
       "alta_tipo": "boletin"
     },
     {
       "id": "seg-sem",
-      "label": "Seguridad ciudadana · Semestral",
+      "label": "Estadísticas de Seguridad Ciudadana · Semestre móvil",
       "portada": "img/seguridad-semestral.png",
       "alta_tema": "Seguridad ciudadana",
       "alta_tipo": "boletin"
     },
     {
       "id": "vict-anual",
-      "label": "Victimización · Anual",
+      "label": "Victimización en el Perú",
       "portada": "img/victimizacion-anual.png",
       "alta_tema": "Seguridad ciudadana",
       "alta_tipo": "publicacion"
     },
     {
       "id": "pp",
-      "label": "Indicadores PP · 2025",
+      "label": "Indicadores de resultados de los Programas Presupuestales",
       "portada": "img/pp.png",
       "alta_tema": "General",
       "alta_tipo": "microdato"
     },
     {
       "id": "enapres-anual",
-      "label": "ENAPRES completa · Anual",
+      "label": "Encuesta Nacional de Programas Presupuestales",
       "portada": "img/enapres-anual.png",
       "alta_tema": "General",
       "alta_tipo": "publicacion"
