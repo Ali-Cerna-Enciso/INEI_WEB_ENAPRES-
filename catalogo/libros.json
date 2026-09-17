@@ -1,24 +1,17 @@
 {
   "libros": [
     {
-      "id": "serv-anual",
-      "label": "Acceso a los servicios básicos en el Perú",
-      "portada": "img/servicios-anual.png",
-      "alta_tema": "Servicios básicos",
-      "alta_tipo": "publicacion"
+      "id": "seg-sem",
+      "label": "Estadísticas de Seguridad Ciudadana · Semestre móvil",
+      "portada": "img/seguridad-semestral.png",
+      "alta_tema": "Seguridad ciudadana",
+      "alta_tipo": "boletin"
     },
     {
       "id": "serv-sem",
       "label": "Acceso a los servicios básicos · Año móvil",
       "portada": "img/servicios-semestral.png",
       "alta_tema": "Servicios básicos",
-      "alta_tipo": "boletin"
-    },
-    {
-      "id": "seg-sem",
-      "label": "Estadísticas de Seguridad Ciudadana · Semestre móvil",
-      "portada": "img/seguridad-semestral.png",
-      "alta_tema": "Seguridad ciudadana",
       "alta_tipo": "boletin"
     },
     {
@@ -29,18 +22,25 @@
       "alta_tipo": "publicacion"
     },
     {
-      "id": "pp",
-      "label": "Indicadores de resultados de los Programas Presupuestales",
-      "portada": "img/pp.png",
-      "alta_tema": "General",
-      "alta_tipo": "microdato"
-    },
-    {
       "id": "enapres-anual",
       "label": "Encuesta Nacional de Programas Presupuestales",
       "portada": "img/enapres-anual.png",
       "alta_tema": "General",
       "alta_tipo": "publicacion"
+    },
+    {
+      "id": "serv-anual",
+      "label": "Acceso a los servicios básicos en el Perú",
+      "portada": "img/servicios-anual.png",
+      "alta_tema": "Servicios básicos",
+      "alta_tipo": "publicacion"
+    },
+    {
+      "id": "pp",
+      "label": "Indicadores de resultados de los Programas Presupuestales",
+      "portada": "img/pp.png",
+      "alta_tema": "General",
+      "alta_tipo": "microdato"
     },
     {
       "id": "bases",
