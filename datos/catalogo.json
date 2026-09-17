@@ -350,14 +350,14 @@
   "id": "mic-12",
   "tema": "General",
   "tipo": "microdato",
-  "titulo": "Cuestionario urbano 2025",
-  "url": "https://proyectos.inei.gob.pe/iinei/srienaho/descarga/DocumentosZIP/2025-18/02_Cuestionario01A_Urbano.zip",
+  "titulo": "Cuestionario ENAPRES.01A (Urbano) 2025",
+  "url": "https://proyectos.inei.gob.pe/iinei/srienaho/Descarga/DocumentosMetodologicos/2025-18/02_Cuestionario01A_Urbano.pdf",
   "fecha": "2025",
   "periodo": "",
   "imagen": "",
-  "descripcion": "ENAPRES.01A urbano.",
-  "agregado_por": "inei-2025-2026",
-  "agregado_en": "2026-09-15",
+  "descripcion": "Cuestionario urbano ENAPRES.01A. PDF INEI.",
+  "agregado_por": "manual",
+  "agregado_en": "2026-09-17",
   "temas": [
    "General"
   ]
@@ -366,14 +366,14 @@
   "id": "mic-13",
   "tema": "General",
   "tipo": "microdato",
-  "titulo": "Cuestionario rural 2025",
-  "url": "https://proyectos.inei.gob.pe/iinei/srienaho/descarga/DocumentosZIP/2025-18/03_Cuestionario01B_Rural.zip",
+  "titulo": "Cuestionario ENAPRES.01B (Rural) 2025",
+  "url": "https://proyectos.inei.gob.pe/iinei/srienaho/Descarga/DocumentosMetodologicos/2025-18/03_Cuestionario01B_Rural.pdf",
   "fecha": "2025",
   "periodo": "",
   "imagen": "",
-  "descripcion": "ENAPRES.01B rural.",
-  "agregado_por": "inei-2025-2026",
-  "agregado_en": "2026-09-15",
+  "descripcion": "Cuestionario rural ENAPRES.01B. PDF INEI.",
+  "agregado_por": "manual",
+  "agregado_en": "2026-09-17",
   "temas": [
    "General"
   ]
@@ -382,14 +382,14 @@
   "id": "mic-14",
   "tema": "General",
   "tipo": "microdato",
-  "titulo": "Ficha técnica 2025",
-  "url": "https://proyectos.inei.gob.pe/iinei/srienaho/descarga/DocumentosZIP/2025-18/01_Ficha_Tecnica_2025.zip",
+  "titulo": "Ficha técnica ENAPRES 2025",
+  "url": "https://proyectos.inei.gob.pe/iinei/srienaho/Descarga/DocumentosMetodologicos/2025-18/01_Ficha_Tecnica_2025.pdf",
   "fecha": "2025",
   "periodo": "",
   "imagen": "",
-  "descripcion": "Ficha técnica, muestra y capítulos.",
-  "agregado_por": "inei-2025-2026",
-  "agregado_en": "2026-09-15",
+  "descripcion": "Ficha técnica, muestra y capítulos. PDF INEI.",
+  "agregado_por": "manual",
+  "agregado_en": "2026-09-17",
   "temas": [
    "General"
   ]
@@ -399,13 +399,13 @@
   "tema": "General",
   "tipo": "microdato",
   "titulo": "Manual del encuestador urbano 2025",
-  "url": "https://proyectos.inei.gob.pe/iinei/srienaho/descarga/DocumentosZIP/2025-18/21_Manual_Encuestador_Urbano.zip",
+  "url": "https://proyectos.inei.gob.pe/iinei/srienaho/Descarga/DocumentosMetodologicos/2025-18/21_Manual_Encuestador_Urbano.pdf",
   "fecha": "2025",
   "periodo": "",
   "imagen": "",
-  "descripcion": "Manual urbano.",
-  "agregado_por": "inei-2025-2026",
-  "agregado_en": "2026-09-15",
+  "descripcion": "Manual del encuestador urbano. PDF INEI.",
+  "agregado_por": "manual",
+  "agregado_en": "2026-09-17",
   "temas": [
    "General"
   ]
@@ -415,13 +415,13 @@
   "tema": "General",
   "tipo": "microdato",
   "titulo": "Manual del encuestador rural 2025",
-  "url": "https://proyectos.inei.gob.pe/iinei/srienaho/descarga/DocumentosZIP/2025-18/22_Manual_Encuestador_Rural.zip",
+  "url": "https://proyectos.inei.gob.pe/iinei/srienaho/Descarga/DocumentosMetodologicos/2025-18/22_Manual_Encuestador_Rural.pdf",
   "fecha": "2025",
   "periodo": "",
   "imagen": "",
-  "descripcion": "Manual rural.",
-  "agregado_por": "inei-2025-2026",
-  "agregado_en": "2026-09-15",
+  "descripcion": "Manual del encuestador rural. PDF INEI.",
+  "agregado_por": "manual",
+  "agregado_en": "2026-09-17",
   "temas": [
    "General"
   ]
@@ -431,13 +431,13 @@
   "tema": "General",
   "tipo": "microdato",
   "titulo": "Cartilla anexo A 2025",
-  "url": "https://proyectos.inei.gob.pe/iinei/srienaho/descarga/DocumentosZIP/2025-18/23_Anexo_A.zip",
+  "url": "https://proyectos.inei.gob.pe/iinei/srienaho/Descarga/DocumentosMetodologicos/2025-18/23_Anexo_A.pdf",
   "fecha": "2025",
   "periodo": "",
   "imagen": "",
-  "descripcion": "Cartilla de apoyo al campo.",
-  "agregado_por": "inei-2025-2026",
-  "agregado_en": "2026-09-15",
+  "descripcion": "Cartilla de apoyo al campo. PDF INEI.",
+  "agregado_por": "manual",
+  "agregado_en": "2026-09-17",
   "temas": [
    "General"
   ]
@@ -446,30 +446,14 @@
   "id": "mic-18",
   "tema": "General",
   "tipo": "microdato",
-  "titulo": "Ficha técnica 2024",
-  "url": "https://proyectos.inei.gob.pe/iinei/srienaho/descarga/DocumentosZIP/2024-18/01_Ficha_Tecnica_2024.zip",
+  "titulo": "Ficha técnica ENAPRES 2024",
+  "url": "https://proyectos.inei.gob.pe/iinei/srienaho/Descarga/DocumentosMetodologicos/2024-18/01_Ficha_Tecnica_2024.pdf",
   "fecha": "2024",
   "periodo": "",
   "imagen": "",
-  "descripcion": "Ficha técnica ENAPRES 2024.",
-  "agregado_por": "inei-2025-2026",
-  "agregado_en": "2026-09-15",
-  "temas": [
-   "General"
-  ]
- },
- {
-  "id": "mic-19",
-  "tema": "General",
-  "tipo": "microdato",
-  "titulo": "Catálogo ANDA — ENAPRES 2024",
-  "url": "http://webinei.inei.gob.pe/anda_inei/index.php/catalog/824",
-  "fecha": "2024",
-  "periodo": "",
-  "imagen": "",
-  "descripcion": "Documentación y diccionario de la encuesta 2024.",
-  "agregado_por": "inei-2025-2026",
-  "agregado_en": "2026-09-15",
+  "descripcion": "Ficha técnica ENAPRES 2024. PDF INEI.",
+  "agregado_por": "manual",
+  "agregado_en": "2026-09-17",
   "temas": [
    "General"
   ]
@@ -906,6 +890,102 @@
    "Libros digitales",
    "Visita a museos",
    "Electrificación"
+  ]
+ },
+ {
+  "id": "mic-20",
+  "tema": "General",
+  "tipo": "microdato",
+  "titulo": "Ficha técnica ENAPRES 2026",
+  "url": "https://cdn.www.gob.pe/uploads/document/file/3530295/3364568-ficha-tecnica-2026.pdf?v=1770841796",
+  "fecha": "2026-02-11",
+  "periodo": "",
+  "imagen": "",
+  "descripcion": "Ficha técnica ENAPRES 2026. PDF gob.pe / INEI.",
+  "agregado_por": "manual",
+  "agregado_en": "2026-09-17",
+  "temas": [
+   "General"
+  ]
+ },
+ {
+  "id": "mic-21",
+  "tema": "General",
+  "tipo": "microdato",
+  "titulo": "Cuestionario ENAPRES.01A (Urbano) 2026",
+  "url": "https://cdn.www.gob.pe/uploads/document/file/9432798/3364568-cuestionario-enapres-01a-urbano.pdf?v=1770841797",
+  "fecha": "2026-02-11",
+  "periodo": "",
+  "imagen": "",
+  "descripcion": "Cuestionario urbano ENAPRES.01A. PDF gob.pe / INEI.",
+  "agregado_por": "manual",
+  "agregado_en": "2026-09-17",
+  "temas": [
+   "General"
+  ]
+ },
+ {
+  "id": "mic-22",
+  "tema": "General",
+  "tipo": "microdato",
+  "titulo": "Cuestionario ENAPRES.01B (Rural) 2026",
+  "url": "https://cdn.www.gob.pe/uploads/document/file/9432799/3364568-cuestionario-enapres-01b-rural%282%29.pdf?v=1773676958",
+  "fecha": "2026-02-11",
+  "periodo": "",
+  "imagen": "",
+  "descripcion": "Cuestionario rural ENAPRES.01B. PDF gob.pe / INEI.",
+  "agregado_por": "manual",
+  "agregado_en": "2026-09-17",
+  "temas": [
+   "General"
+  ]
+ },
+ {
+  "id": "mic-23",
+  "tema": "General",
+  "tipo": "microdato",
+  "titulo": "Resolución Jefatural N° 040-2026-INEI",
+  "url": "https://cdn.www.gob.pe/uploads/document/file/9446559/3364568-resolucion-jefatural-n-040-2026-inei.pdf?v=1771003323",
+  "fecha": "2026",
+  "periodo": "",
+  "imagen": "",
+  "descripcion": "Resolución de aprobación ENAPRES 2026. PDF gob.pe / INEI.",
+  "agregado_por": "manual",
+  "agregado_en": "2026-09-17",
+  "temas": [
+   "General"
+  ]
+ },
+ {
+  "id": "mic-24",
+  "tema": "General",
+  "tipo": "microdato",
+  "titulo": "Cuestionario ENAPRES.01A (Urbano) 2024",
+  "url": "https://proyectos.inei.gob.pe/iinei/srienaho/Descarga/DocumentosMetodologicos/2024-18/02_Cuestionario_01A.pdf",
+  "fecha": "2024",
+  "periodo": "",
+  "imagen": "",
+  "descripcion": "Cuestionario urbano ENAPRES.01A. PDF INEI.",
+  "agregado_por": "manual",
+  "agregado_en": "2026-09-17",
+  "temas": [
+   "General"
+  ]
+ },
+ {
+  "id": "mic-25",
+  "tema": "General",
+  "tipo": "microdato",
+  "titulo": "Cuestionario ENAPRES.01B (Rural) 2024",
+  "url": "https://proyectos.inei.gob.pe/iinei/srienaho/Descarga/DocumentosMetodologicos/2024-18/03_Cuestionario_01B.pdf",
+  "fecha": "2024",
+  "periodo": "",
+  "imagen": "",
+  "descripcion": "Cuestionario rural ENAPRES.01B. PDF INEI.",
+  "agregado_por": "manual",
+  "agregado_en": "2026-09-17",
+  "temas": [
+   "General"
   ]
  }
 ]
