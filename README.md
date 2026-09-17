@@ -19,22 +19,7 @@ Solo enlaces y textos ya públicos. Sin microdatos ni credenciales.
 | `datos/live/` | Corpus por día |
 | `.github/workflows/monitoreo.yml` | 07:17 y 16:17 hora Lima + botón en Actions |
 
-## Actualización
+## Nota
 
-GitHub Actions rastrea dos veces al día, escribe los JSON y hace commit. El HTML no cambia. Streamlit Cloud redespliega con el push.
-
-Pedido manual: GitHub → Actions → monitoreo → Run workflow.
-
-En Streamlit, «Actualizar ahora» pide `ADMIN_TOKEN` y dispara el mismo workflow (`GH_TOKEN` en secretos de la nube).
-
-Aportes que el rastreador no vio: editar `datos/web_extra.json` (menciones) o `datos/catalogo.json` (productos).
-
-Tras 12 horas sin visitas el servicio se suspende; el primer acceso lo reanuda.
-
-## Local
-
-```bash
-python -m streamlit run app.py
-```
-
-`http://localhost:8501`
+Catálogo interno de consulta. El servicio se suspende tras 12 horas sin
+visitas; el primer acceso lo reanuda.
