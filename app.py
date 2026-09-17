@@ -263,10 +263,16 @@ else:
     indice = corpus.load_indice()
 
 if SIN_MONITOREO or _en_nube():
-    tab_mon, tab_cat = st.tabs(["Menciones", "Catálogo"])
+    tab_cat, tab_mon = st.tabs(["Catálogo", "Menciones"])
     tab_cargar = None
 else:
-    tab_mon, tab_cat, tab_cargar = st.tabs(["Menciones", "Catálogo", "Cargar"])
+    tab_cat, tab_mon, tab_cargar = st.tabs(["Catálogo", "Menciones", "Cargar"])
+
+with tab_cat:
+    if not CATALOGO.exists():
+        st.error(f"No se encontró el catálogo: {CATALOGO}")
+    else:
+        components.html(_html_catalogo(), height=2200, scrolling=True)
 
 with tab_mon:
     top1, top2 = st.columns([3, 1])
@@ -446,12 +452,6 @@ with tab_mon:
                         f"— {it.get('fuente','')} · {it.get('fecha_pub','')}"
                     )
                 st.caption(f"{hit} en archivo {a_sel} ({len(guardados)} en el gzip).")
-
-with tab_cat:
-    if not CATALOGO.exists():
-        st.error(f"No se encontró el catálogo: {CATALOGO}")
-    else:
-        components.html(_html_catalogo(), height=2200, scrolling=True)
 
 
 def _opciones_alta():

@@ -50,14 +50,11 @@ footer{padding:16px 32px 28px;font-size:12px;color:var(--mu);border-top:1px soli
 <header>
 <p class="brand">Instituto Nacional de Estadística e Informática</p>
 <h1>Encuesta Nacional de Programas Presupuestales</h1>
-<p class="lead">Este catálogo reúne los productos oficiales de la ENAPRES: boletines, publicaciones y bases de microdatos del INEI. Entre a un área temática para descargar los recursos institucionales. La zona Web concentra la difusión en medios y redes, con búsqueda y filtro por día.</p>
+<p class="lead">Este catálogo reúne los productos oficiales de la ENAPRES: boletines, publicaciones y bases de microdatos del INEI. Entre a un área para descargar los recursos institucionales.</p>
 </header>
-<div class="bar" id="bar">
-<input id="q" type="search" placeholder="Buscar en Web: dengue, seguridad, museos…" autocomplete="off">
-</div>
 <main id="list"></main>
 <footer>
-<div id="act">Actualizado: <!--ACTUALIZADO-->2026-09-15 13:31<!--/ACTUALIZADO--> · Fuentes: INEI / gob.pe. La zona Web se alimenta del monitoreo de menciones.</div>
+<div id="act">Actualizado: <!--ACTUALIZADO-->2026-09-15 13:31<!--/ACTUALIZADO--> · Fuentes: INEI / gob.pe.</div>
 </footer>
 <script>
 "use strict";
@@ -68,12 +65,11 @@ const DATA=[];
 const PRENSA=[];
 //<!--PRENSA-FIN-->
 //<!--LIBROS-INI-->
-var LIBROS={"web": {"id": "web", "label": "Web", "portada": "img/web.png", "nota": "Prensa, gob.pe y redes · desde 2026"}, "libros": [{"id": "serv-anual", "label": "Servicios básicos · Anual", "portada": "img/servicios-anual.png", "alta_tema": "Servicios básicos", "alta_tipo": "publicacion"}, {"id": "serv-sem", "label": "Servicios básicos · Año móvil", "portada": "img/servicios-semestral.png", "alta_tema": "Servicios básicos", "alta_tipo": "boletin"}, {"id": "seg-sem", "label": "Seguridad ciudadana · Semestral", "portada": "img/seguridad-semestral.png", "alta_tema": "Seguridad ciudadana", "alta_tipo": "boletin"}, {"id": "vict-anual", "label": "Victimización · Anual", "portada": "img/victimizacion-anual.png", "alta_tema": "Seguridad ciudadana", "alta_tipo": "publicacion"}, {"id": "pp", "label": "Indicadores PP · 2025", "portada": "img/pp.png", "alta_tema": "General", "alta_tipo": "microdato"}, {"id": "bases", "label": "Bases de datos", "portada": "img/base-de-datos.png", "alta_tema": "General", "alta_tipo": "microdato"}, {"id": "enapres-anual", "label": "ENAPRES completa · Anual", "portada": "img/enapres-anual.png", "alta_tema": "General", "alta_tipo": "publicacion"}], "reglas": [{"titulo_prefijo": "Indicadores de resultados", "libro": "pp"}, {"tipo": "micro", "libro": "bases"}, {"tema": "Servicios básicos", "tipo": "informes", "libro": "serv-sem"}, {"tema": "Servicios básicos", "libro": "serv-anual"}, {"tema": "Seguridad ciudadana", "tipo": "informes", "libro": "seg-sem"}, {"tema": "Seguridad ciudadana", "libro": "vict-anual"}], "defecto": "enapres-anual", "legado": {"Agua y saneamiento": "serv-anual", "Electrificación": "serv-anual", "Servicios básicos": "serv-anual", "Seguridad ciudadana": "seg-sem", "Seguridad vial": "enapres-anual", "Dengue": "enapres-anual", "Rabia canina": "enapres-anual", "Uso de videojuegos": "enapres-anual", "Libros digitales": "enapres-anual", "Visita a museos": "enapres-anual", "General": "enapres-anual", "Documentación y metodología": "enapres-anual"}};
+var LIBROS={"libros": [{"id": "serv-anual", "label": "Servicios básicos · Anual", "portada": "img/servicios-anual.png", "alta_tema": "Servicios básicos", "alta_tipo": "publicacion"}, {"id": "serv-sem", "label": "Servicios básicos · Año móvil", "portada": "img/servicios-semestral.png", "alta_tema": "Servicios básicos", "alta_tipo": "boletin"}, {"id": "seg-sem", "label": "Seguridad ciudadana · Semestral", "portada": "img/seguridad-semestral.png", "alta_tema": "Seguridad ciudadana", "alta_tipo": "boletin"}, {"id": "vict-anual", "label": "Victimización · Anual", "portada": "img/victimizacion-anual.png", "alta_tema": "Seguridad ciudadana", "alta_tipo": "publicacion"}, {"id": "pp", "label": "Indicadores PP · 2025", "portada": "img/pp.png", "alta_tema": "General", "alta_tipo": "microdato"}, {"id": "bases", "label": "Bases de datos", "portada": "img/base-de-datos.png", "alta_tema": "General", "alta_tipo": "microdato"}, {"id": "enapres-anual", "label": "ENAPRES completa · Anual", "portada": "img/enapres-anual.png", "alta_tema": "General", "alta_tipo": "publicacion"}], "reglas": [{"titulo_prefijo": "Indicadores de resultados", "libro": "pp"}, {"tipo": "micro", "libro": "bases"}, {"tema": "Servicios básicos", "tipo": "informes", "libro": "serv-sem"}, {"tema": "Servicios básicos", "libro": "serv-anual"}, {"tema": "Seguridad ciudadana", "tipo": "informes", "libro": "seg-sem"}, {"tema": "Seguridad ciudadana", "libro": "vict-anual"}], "defecto": "enapres-anual", "legado": {"Agua y saneamiento": "serv-anual", "Electrificación": "serv-anual", "Servicios básicos": "serv-anual", "Seguridad ciudadana": "seg-sem", "Seguridad vial": "enapres-anual", "Dengue": "enapres-anual", "Rabia canina": "enapres-anual", "Uso de videojuegos": "enapres-anual", "Libros digitales": "enapres-anual", "Visita a museos": "enapres-anual", "General": "enapres-anual", "Documentación y metodología": "enapres-anual"}};
 //<!--LIBROS-FIN-->
 function librosLista(){return (LIBROS&&LIBROS.libros)||[]}
 function portadaDe(){
-  var o={},w=LIBROS&&LIBROS.web,i,x,ls=librosLista();
-  if(w&&w.portada)o.Web=w.portada;
+  var o={},i,x,ls=librosLista();
   for(i=0;i<ls.length;i++){x=ls[i];if(x.portada)o[x.id]=x.portada}
   return o;
 }
@@ -92,39 +88,15 @@ function libroDe(d){
   for(i=0;i<rs.length;i++)if(cumpleRegla(rs[i],d))return rs[i].libro;
   return (LIBROS&&LIBROS.defecto)||"enapres-anual";
 }
-var TIPO_LAB={informes:"Boletín",pub:"Publicación",micro:"Microdatos",prensa:"Web"};
-var list=document.getElementById("list"),q=document.getElementById("q"),bar=document.getElementById("bar");
-var vista=null,fAnio="",fAct="2026",fSrc="todas";
+var TIPO_LAB={informes:"Boletín",pub:"Publicación",micro:"Microdatos"};
+var list=document.getElementById("list");
+var vista=null,fAnio="";
 function esc(s){return String(s==null?"":s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;")}
-function norm(s){return String(s||"").toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g,"")}
 function temasDe(d){return [libroDe(d)]}
 function enTema(d,nom){return libroDe(d)===nom}
 function anioDe(f){
   var s=String(f||"");
   var m=/(\d{4})/.exec(s);return m?m[1]:"";
-}
-function fechaISO(f){
-  var m=/^(\d{4})-(\d{2})-(\d{2})/.exec(f||"");if(m)return m[0];
-  var MES={ene:"01",feb:"02",mar:"03",abr:"04",may:"05",jun:"06",jul:"07",ago:"08",set:"09",oct:"10",nov:"11",dic:"12"};
-  m=/^(\d{1,2}) ([a-zá]{3}) (\d{4})/.exec(norm(f||""));
-  if(m&&MES[m[2]])return m[3]+"-"+MES[m[2]]+"-"+("0"+m[1]).slice(-2);
-  return "";
-}
-function pasaDia(d){
-  var iso=fechaISO(d.f);
-  if(fAct==="2026")return !iso||iso>="2026-01-01";
-  if(!iso)return true;
-  var t=new Date(iso+"T12:00:00"),hoy=new Date();
-  hoy.setHours(12,0,0,0);
-  var dif=Math.round((hoy-t)/86400000);
-  if(fAct==="hoy")return dif===0;
-  return dif>=0&&dif<=Number(fAct);
-}
-function fuenteGrupo(src){
-  var s=norm(src||"");
-  if(s.indexOf("gob.pe")>=0||s.indexOf("inei")>=0&&s.indexOf("facebook")<0)return "oficial";
-  if(s.indexOf("facebook")>=0||s.indexOf("instagram")>=0||s.indexOf("tiktok")>=0||s==="x"||s.indexOf("x.com")>=0||s.indexOf("twitter")>=0)return "redes";
-  return "prensa";
 }
 function countTema(nom){
   var n=0,i;for(i=0;i<DATA.length;i++)if(enTema(DATA[i],nom))n++;return n;
@@ -133,20 +105,12 @@ function card(d){
   var url=String(d.u||"");
   var ok=/^https?:\/\//i.test(url)?esc(url):"#";
   var lab=TIPO_LAB[d.c]||"INEI";
-  var extra=d.c==="prensa"?(d.src?" · "+d.src:""):"";
   return '<div class="rowc"><div><a class="tit" href="'+ok+'" target="_blank" rel="noopener">'+esc(d.t)+'</a>'
-    +'<div class="meta">'+esc(lab)+" · "+esc(d.f||"")+extra+(d.d?" · "+esc(d.d):"")+'</div></div>'
+    +'<div class="meta">'+esc(lab)+" · "+esc(d.f||"")+(d.d?" · "+esc(d.d):"")+'</div></div>'
     +'<button type="button" class="copy" data-copy="'+ok+'">Copiar enlace</button></div>';
 }
 function home(){
-  bar.className="bar";
-  var w=(LIBROS&&LIBROS.web)||{label:"Web",nota:"Prensa, gob.pe y redes · desde 2026"};
-  var html='<p class="kicker">Áreas temáticas</p><div class="temas">';
-  html+='<button type="button" class="tile" data-go="web">';
-  if(w.portada||PORTADA.Web)html+='<img class="port" loading="lazy" src="'+esc(w.portada||PORTADA.Web)+'" alt="Portada Web">';
-  else html+='<span class="ic">'+esc(ICONO.Web||"")+'</span>';
-  html+='<b>'+esc(w.label||"Web")+'</b><span class="n">'+esc(w.nota||"")+'</span></button>';
-  var i,p;
+  var html='<p class="kicker">Áreas temáticas</p><div class="temas">',i,p;
   for(i=0;i<TEMAS.length;i++){
     p=TEMAS[i];
     html+='<button type="button" class="tile" data-go="'+esc(p[0])+'">';
@@ -158,7 +122,6 @@ function home(){
   list.innerHTML=html;
 }
 function paginaTema(nom){
-  bar.className="bar";
   var lab=nom,i;for(i=0;i<TEMAS.length;i++)if(TEMAS[i][0]===nom)lab=TEMAS[i][1];
   var items=[],d;
   for(i=0;i<DATA.length;i++){
@@ -170,7 +133,7 @@ function paginaTema(nom){
   var years={},y;for(i=0;i<DATA.length;i++){if(!enTema(DATA[i],nom))continue;y=anioDe(DATA[i].f);if(y)years[y]=1}
   var ys=Object.keys(years).sort().reverse();
   var html='<div class="top"><button type="button" class="back" data-go="">Regresar</button><h2 class="page">'+esc(lab)+'</h2></div>';
-  html+='<p class="ctx">Productos oficiales del INEI para este tema: boletines, publicaciones y microdatos. La difusión en redes y la prensa están en Web.</p>';
+  html+='<p class="ctx">Productos oficiales del INEI para este tema: boletines, publicaciones y microdatos.</p>';
   if(ys.length){
     html+='<div class="filt">Año <select id="anio"><option value="">Todos</option>';
     for(i=0;i<ys.length;i++)html+='<option value="'+ys[i]+'"'+(fAnio===ys[i]?" selected":"")+'>'+ys[i]+'</option>';
@@ -180,53 +143,17 @@ function paginaTema(nom){
   else for(i=0;i<items.length;i++)html+=card(items[i]);
   list.innerHTML=html;
 }
-function paginaWeb(){
-  bar.className="bar on";
-  var s=norm(q.value),items=[],i,d,g;
-  for(i=0;i<PRENSA.length;i++){
-    d=PRENSA[i];
-    d={c:"prensa",t:d.t,f:d.f,u:d.u,d:d.d||"",s:d.s,src:d.src||""};
-    if(!pasaDia(d))continue;
-    g=fuenteGrupo(d.src);
-    if(fSrc!=="todas"&&g!==fSrc)continue;
-    if(s&&norm(d.t+" "+d.d+" "+d.src).indexOf(s)<0)continue;
-    items.push(d);
-  }
-  items.sort(function(a,b){return (b.f||"").localeCompare(a.f||"");});
-  var html='<div class="top"><button type="button" class="back" data-go="">Regresar</button><h2 class="page">Web</h2></div>';
-  html+='<p class="ctx">Menciones de ENAPRES en internet (gob.pe, prensa nacional y redes indexadas). El listado lo arma el monitoreo diario más una pasada de búsqueda web. No es un rastreo de toda la internet en vivo: Facebook/X/Instagram solo entran si Google o gob.pe los indexan, o si OTD pega el enlace. Año 2026 = desde el 1 de enero. Los boletines y bases están en las áreas temáticas.</p>';
-  html+='<div class="filt">Periodo <select id="dia">';
-  var o=[["hoy","Hoy"],["7","Últimos 7 días"],["30","Últimos 30 días"],["2026","Año 2026 (desde 01/01)"]];
-  for(i=0;i<o.length;i++)html+='<option value="'+o[i][0]+'"'+(fAct===o[i][0]?" selected":"")+'>'+o[i][1]+'</option>';
-  html+='</select> · '+items.length+' menciones</div>';
-  html+='<div class="wchips">';
-  var chips=[["todas","Todas"],["oficial","gob.pe / INEI"],["prensa","Prensa"],["redes","Redes"]];
-  for(i=0;i<chips.length;i++)html+='<button type="button" data-src="'+chips[i][0]+'" class="'+(fSrc===chips[i][0]?"on":"")+'">'+chips[i][1]+'</button>';
-  html+='</div>';
-  if(!items.length)html+='<div class="empty">No hay menciones en este recorte. Pruebe Año 2026 o pulse Actualizar hoy en la app.</div>';
-  else{
-    var last="";
-    for(i=0;i<items.length;i++){
-      if(items[i].f&&items[i].f!==last){html+='<div class="dia">'+esc(items[i].f)+'</div>';last=items[i].f;}
-      html+=card(items[i]);
-    }
-  }
-  list.innerHTML=html;
-}
 function render(){
-  if(vista==="web")paginaWeb();
-  else if(vista)paginaTema(vista);
+  if(vista)paginaTema(vista);
   else home();
 }
 function ir(v){
-  var h=v==="web"?"#web":v?"#t="+encodeURIComponent(v):"";
+  var h=v?"#t="+encodeURIComponent(v):"";
   if(location.hash===h){leerHash();render()}else location.hash=h;
 }
 function leerHash(){
   var h=location.hash||"";
-  if(h==="#web"){vista="web";return}
   var m=/^#t=(.*)$/.exec(h);vista=m?decodeURIComponent(m[1]):null;
-  if(vista==="web")return;
   var leg=(LIBROS&&LIBROS.legado)||{};
   if(leg[vista])vista=leg[vista];
   var ok=false,i;for(i=0;i<TEMAS.length;i++)if(TEMAS[i][0]===vista)ok=true;
@@ -237,18 +164,14 @@ function copiar(url,btn){
   function fb(){var t=document.createElement("textarea");t.value=url;document.body.appendChild(t);t.select();try{document.execCommand("copy");ok()}catch(e){}t.remove()}
   if(navigator.clipboard&&navigator.clipboard.writeText)navigator.clipboard.writeText(url).then(ok).catch(fb);else fb();
 }
-q.addEventListener("input",function(){if(vista==="web")render()});
 list.addEventListener("click",function(e){
   var g=e.target.closest?e.target.closest("[data-go]"):null;
   if(g){fAnio="";ir(g.getAttribute("data-go")||"");return}
-  var src=e.target.closest?e.target.closest("[data-src]"):null;
-  if(src){fSrc=src.getAttribute("data-src")||"todas";render();return}
   var c=e.target.closest?e.target.closest("[data-copy]"):null;
   if(c)copiar(c.getAttribute("data-copy")||"",c);
 });
 list.addEventListener("change",function(e){
   if(e.target&&e.target.id==="anio"){fAnio=e.target.value;render()}
-  if(e.target&&e.target.id==="dia"){fAct=e.target.value;render()}
 });
 window.addEventListener("hashchange",function(){leerHash();render()});
 function arrPut(a,b){a.length=0;for(var i=0;i<(b||[]).length;i++)a.push(b[i])}
