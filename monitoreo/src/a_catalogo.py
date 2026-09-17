@@ -83,7 +83,8 @@ def datos_desde_json(items):
                       "u": x.get("url", ""),
                       "g": x.get("tema", ""),
                       "gs": "|".join(t for t in temas if t),
-                      "d": x.get("descripcion", "")})
+                      "d": x.get("descripcion", ""),
+                      **({"libro": x["libro"]} if x.get("libro") else {})})
     return cards
 
 

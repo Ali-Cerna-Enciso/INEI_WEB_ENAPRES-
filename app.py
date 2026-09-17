@@ -1,6 +1,7 @@
 """Catálogo ENAPRES y menciones en prensa."""
 from __future__ import annotations
 
+import base64
 import html
 import hmac
 import json
@@ -124,6 +125,34 @@ def fecha_catalogo_humana() -> str:
         return raw
 
 
+def _cargar_libros() -> dict:
+    try:
+        d = json.loads((DIR / "catalogo" / "libros.json").read_text(encoding="utf-8"))
+        if isinstance(d, dict) and d.get("libros"):
+            return d
+    except (OSError, ValueError):
+        pass
+    return {}
+
+
+def _embeber_js(h: str, ini: str, fin: str, cuerpo: str) -> str:
+    return re.sub(
+        re.escape(ini) + r".*?" + re.escape(fin),
+        ini + "\n" + cuerpo + "\n" + fin,
+        h, count=1, flags=re.S,
+    )
+
+
+def _portadas_en_iframe(h: str, carpeta: Path) -> str:
+    img = carpeta / "img"
+    if not img.is_dir():
+        return h
+    for p in sorted(img.glob("*.png"), key=lambda x: -len(x.name)):
+        uri = "data:image/png;base64," + base64.b64encode(p.read_bytes()).decode("ascii")
+        h = h.replace("img/" + p.name, uri)
+    return h
+
+
 def _html_catalogo() -> str:
     h = CATALOGO.read_text(encoding="utf-8")
     carpeta = DIR / "catalogo"
@@ -135,21 +164,21 @@ def _html_catalogo() -> str:
             return None
 
     data, prensa, meta = carga("data.json"), carga("prensa.json"), carga("meta.json") or {}
+    libros = carga("libros.json")
     if isinstance(data, list):
-        h = re.sub(
-            r"//<!--DATOS-INI-->.*?//<!--DATOS-FIN-->",
-            "//<!--DATOS-INI-->\nconst DATA="
-            + json.dumps(data, ensure_ascii=False)
-            + ";\n//<!--DATOS-FIN-->",
-            h, count=1, flags=re.S,
+        h = _embeber_js(
+            h, "//<!--DATOS-INI-->", "//<!--DATOS-FIN-->",
+            "const DATA=" + json.dumps(data, ensure_ascii=False) + ";",
         )
     if isinstance(prensa, list):
-        h = re.sub(
-            r"//<!--PRENSA-INI-->.*?//<!--PRENSA-FIN-->",
-            "//<!--PRENSA-INI-->\nconst PRENSA="
-            + json.dumps(prensa, ensure_ascii=False)
-            + ";\n//<!--PRENSA-FIN-->",
-            h, count=1, flags=re.S,
+        h = _embeber_js(
+            h, "//<!--PRENSA-INI-->", "//<!--PRENSA-FIN-->",
+            "const PRENSA=" + json.dumps(prensa, ensure_ascii=False) + ";",
+        )
+    if isinstance(libros, dict) and libros.get("libros"):
+        h = _embeber_js(
+            h, "//<!--LIBROS-INI-->", "//<!--LIBROS-FIN-->",
+            "var LIBROS=" + json.dumps(libros, ensure_ascii=False) + ";",
         )
     act = meta.get("actualizado") if isinstance(meta, dict) else None
     if act:
@@ -158,7 +187,7 @@ def _html_catalogo() -> str:
             "<!--ACTUALIZADO-->" + str(act) + "<!--/ACTUALIZADO-->",
             h, count=1, flags=re.S,
         )
-    return h
+    return _portadas_en_iframe(h, carpeta)
 
 
 st.set_page_config(
@@ -422,13 +451,16 @@ with tab_cat:
     if not CATALOGO.exists():
         st.error(f"No se encontró el catálogo: {CATALOGO}")
     else:
-        components.html(_html_catalogo(), height=1600, scrolling=True)
+        components.html(_html_catalogo(), height=2200, scrolling=True)
 
 
-TEMAS_CATALOGO = ["Servicios básicos", "Agua y saneamiento", "Electrificación",
-                  "Seguridad ciudadana", "Seguridad vial", "Dengue",
-                  "Rabia canina", "Uso de videojuegos", "Libros digitales",
-                  "Visita a museos", "General"]
+def _opciones_alta():
+    libros = _cargar_libros().get("libros") or []
+    if not libros:
+        return [{"id": "enapres-anual", "label": "General",
+                 "alta_tema": "General", "alta_tipo": "publicacion"}]
+    return libros
+
 
 if tab_cargar is not None:
     with tab_cargar:
@@ -441,10 +473,17 @@ if tab_cargar is not None:
             if pw and not hmac.compare_digest(pw, str(token_cfg)):
                 st.error("Clave incorrecta: no se escribió nada.")
             elif pw:
+                opciones = _opciones_alta()
+                etiquetas = [x.get("label") or x.get("id") for x in opciones]
+                tipos = ["difusion", "boletin", "publicacion", "microdato"]
+                st.caption(
+                    "El libro es el recorte visible. Si el mapa de áreas cambia, "
+                    "los productos con campo «libro» siguen en su tile; el resto "
+                    "se reclasifica con las reglas de catalogo/libros.json."
+                )
                 with st.form("alta"):
-                    f_tipo = st.selectbox("Tipo", ["difusion", "boletin",
-                                                   "publicacion", "microdato"])
-                    f_tema = st.selectbox("Tema", TEMAS_CATALOGO)
+                    f_libro_lab = st.selectbox("Libro", etiquetas)
+                    f_tipo = st.selectbox("Tipo", tipos)
                     f_titulo = st.text_input("Título").strip()
                     f_url = st.text_input("URL https").strip()
                     f_fecha = st.date_input("Fecha")
@@ -458,7 +497,14 @@ if tab_cargar is not None:
                     elif not f_url.lower().startswith("https://"):
                         st.error("La URL debe empezar con https://")
                     else:
-                        nuevo = {"tema": f_tema, "tipo": f_tipo,
+                        libro = next(
+                            (x for x in opciones
+                             if (x.get("label") or x.get("id")) == f_libro_lab),
+                            opciones[0],
+                        )
+                        nuevo = {"tema": libro.get("alta_tema") or "General",
+                                 "tipo": f_tipo,
+                                 "libro": libro.get("id"),
                                  "titulo": f_titulo, "url": f_url,
                                  "fecha": f_fecha.isoformat(), "periodo": f_periodo,
                                  "imagen": f_img, "descripcion": f_desc,
