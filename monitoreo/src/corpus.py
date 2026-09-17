@@ -7,10 +7,17 @@ import re
 import shutil
 from datetime import date, datetime, timedelta
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 from filtro import guardar_csv, norm, parse_fecha
 from rutas import datos as datos_dir
 from rutas import web
+
+LIMA = ZoneInfo("America/Lima")
+
+
+def ahora_lima() -> datetime:
+    return datetime.now(LIMA)
 
 DATOS = datos_dir()
 LIVE = DATOS / "live"
@@ -124,12 +131,14 @@ def merge_dia(dia_iso: str, nuevos: list[dict], colectores_extra: dict | None = 
     if colectores_extra:
         for k, v in colectores_extra.items():
             cols[k] = v
+    n_nuevo = sum(1 for i in items if i.get("nuevo"))
     meta = {
         "dia": dia_iso,
-        "actualizado": datetime.now().strftime("%Y-%m-%d %H:%M"),
+        "actualizado": meta.get("actualizado") if n_nuevo == 0 and meta.get("actualizado") else ahora_lima().strftime("%Y-%m-%d %H:%M"),
+        "revisado": ahora_lima().strftime("%Y-%m-%d %H:%M"),
         "n": len(items),
         "n_del_dia": len(items),
-        "n_nuevo": sum(1 for i in items if i.get("nuevo")),
+        "n_nuevo": n_nuevo,
         "colectores": cols,
     }
     carpeta = LIVE / dia_iso
@@ -141,13 +150,13 @@ def merge_dia(dia_iso: str, nuevos: list[dict], colectores_extra: dict | None = 
 
 def incorporar(por_colector: dict, corrida_iso: str | None = None) -> dict:
     """Reparte hallazgos a la carpeta de SU fecha de publicación y fusiona."""
-    corrida_iso = corrida_iso or date.today().isoformat()
+    corrida_iso = corrida_iso or ahora_lima().date().isoformat()
     crudo = LIVE / corrida_iso / "crudo"
     crudo.mkdir(parents=True, exist_ok=True)
     previos = urls_en_live()
     por_fecha: dict[str, list] = {}
     colectores: dict[str, dict] = {}
-    hoy = date.today()
+    hoy = ahora_lima().date()
     for nombre, payload in por_colector.items():
         rows = payload.get("rows") or []
         error = payload.get("error") or ""
@@ -228,7 +237,7 @@ def _archivar(dia_iso: str) -> Path:
         "n": len(items),
         "archivo": dest.name,
         "bytes": dest.stat().st_size,
-        "archivado": datetime.now().strftime("%Y-%m-%d %H:%M"),
+        "archivado": ahora_lima().strftime("%Y-%m-%d %H:%M"),
     })
     inv["dias"].sort(key=lambda d: d["dia"], reverse=True)
     write_json(ARCHIVO_INDICE, inv)
@@ -257,7 +266,7 @@ def reconstruir_indice() -> dict:
             })
     arch = read_json(ARCHIVO_INDICE, {"dias": []})
     indice = {
-        "actualizado": datetime.now().strftime("%Y-%m-%d %H:%M"),
+        "actualizado": ahora_lima().strftime("%Y-%m-%d %H:%M"),
         "max_live": MAX_LIVE,
         "dias": dias,
         "archivo": arch.get("dias") or [],

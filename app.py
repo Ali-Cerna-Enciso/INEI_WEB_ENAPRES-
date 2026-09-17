@@ -300,7 +300,7 @@ with tab_mon:
                                          use_container_width=True)
         else:
             st.caption("Auto: 07:17 y 16:17 Lima")
-        st.caption(f"Última actualización: {fecha_catalogo_humana()}")
+        st.caption(f"Última actualización: {fecha_catalogo_humana()} (hora Lima)")
 
     if actualizar_click:
         bitacora = []
@@ -333,7 +333,7 @@ with tab_mon:
                 st.rerun()
 
     st.caption(
-        f"Última escritura: {fecha_catalogo_humana()} · "
+        f"Última escritura: {fecha_catalogo_humana()} (hora Lima) · "
         f"{len(indice.get('dias') or [])}/{indice.get('max_live', 31)} días en vivo"
     )
     ventana = st.radio(

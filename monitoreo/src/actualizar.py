@@ -6,6 +6,8 @@ import sys
 import traceback
 from datetime import datetime
 from pathlib import Path
+from zoneinfo import ZoneInfo
+
 
 SRC = Path(__file__).resolve().parent
 if str(SRC) not in sys.path:
@@ -34,7 +36,7 @@ COLECTORES = (
 
 
 def correr(dia: str | None = None, solo: list[str] | None = None, on_paso=None) -> dict:
-    dia_iso = dia or datetime.now().strftime("%Y-%m-%d")
+    dia_iso = dia or datetime.now(ZoneInfo("America/Lima")).strftime("%Y-%m-%d")
     elegidos = {s.strip().lower() for s in (solo or []) if s.strip()}
     por_colector = {}
     for nombre, fn in COLECTORES:
