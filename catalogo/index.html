@@ -105,6 +105,22 @@ function anioDe(f){
   var s=String(f||"");
   var m=/(\d{4})/.exec(s);return m?m[1]:"";
 }
+function numBol(t){
+  var m=/N°\s*(\d+)/.exec(String(t||""));
+  return m?parseInt(m[1],10):-1;
+}
+function fechaOrd(f){
+  var m=/^(\d{4})-(\d{2})-(\d{2})/.exec(String(f||""));
+  if(m)return m[1]+m[2]+m[3];
+  var a=anioDe(f);return a?a+"0000":"00000000";
+}
+function ordenLibro(a,b){
+  var fa=fechaOrd(a.f),fb=fechaOrd(b.f);
+  if(fb!==fa)return fb<fa?-1:1;
+  var na=numBol(a.t),nb=numBol(b.t);
+  if(nb!==na)return nb-na;
+  return String(a.t).localeCompare(String(b.t));
+}
 function countTema(nom){
   var n=0,i;for(i=0;i<DATA.length;i++)if(enTema(DATA[i],nom))n++;return n;
 }
@@ -138,6 +154,7 @@ function paginaTema(nom){
     if(fAnio&&anioDe(d.f)!==fAnio)continue;
     items.push(d);
   }
+  items.sort(ordenLibro);
   var years={},y;for(i=0;i<DATA.length;i++){if(!enTema(DATA[i],nom))continue;y=anioDe(DATA[i].f);if(y)years[y]=1}
   var ys=Object.keys(years).sort().reverse();
   var html='<div class="top"><button type="button" class="back" data-go="">Regresar</button><h2 class="page">'+esc(lab)+'</h2></div>';
