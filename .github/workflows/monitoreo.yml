@@ -23,14 +23,11 @@ jobs:
         with:
           python-version: "3.12"
       - run: python monitoreo/src/actualizar.py
-      - run: python monitoreo/src/a_catalogo.py
       - run: python monitoreo/src/exportar_snapshot.py
       - name: Commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add datos/live datos/indice.json datos/catalogo.json datos/web_extra.json \
-                  catalogo/data.json catalogo/prensa.json catalogo/meta.json \
-                  datos_publicos/menciones.json
+          git add datos/live datos/indice.json datos_publicos/menciones.json
           git diff --cached --quiet || git commit -m "menciones $(date -u +%Y-%m-%d)"
           git push

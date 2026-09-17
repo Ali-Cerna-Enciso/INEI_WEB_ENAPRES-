@@ -12,10 +12,9 @@ Solo enlaces y textos ya públicos. Sin microdatos ni credenciales.
 |---|---|
 | `app.py` | Aplicación Streamlit |
 | `catalogo/index.html` | Plantilla (el estilo no se reescribe) |
-| `catalogo/data.json` | Productos INEI |
-| `catalogo/prensa.json` | Menciones (automático + aportes en `datos/web_extra.json`) |
-| `catalogo/meta.json` | Fecha de actualización |
+| `catalogo/data.json` | Productos INEI (alta o `datos/catalogo.json`) |
 | `datos_publicos/menciones.json` | Instantánea de la pestaña Menciones |
+| `datos/web_extra.json` | Aportes manuales de menciones |
 | `monitoreo/` | Colectores (GitHub Actions) |
 | `datos/live/` | Corpus por día |
 | `.github/workflows/monitoreo.yml` | 07:17 y 16:17 hora Lima + botón en Actions |

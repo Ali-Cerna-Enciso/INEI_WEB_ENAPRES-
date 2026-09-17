@@ -61,9 +61,6 @@ footer{padding:16px 32px 28px;font-size:12px;color:var(--mu);border-top:1px soli
 //<!--DATOS-INI-->
 const DATA=[];
 //<!--DATOS-FIN-->
-//<!--PRENSA-INI-->
-const PRENSA=[];
-//<!--PRENSA-FIN-->
 //<!--LIBROS-INI-->
 var LIBROS={"libros": [{"id": "serv-anual", "label": "Servicios básicos · Anual", "portada": "img/servicios-anual.png", "alta_tema": "Servicios básicos", "alta_tipo": "publicacion"}, {"id": "serv-sem", "label": "Servicios básicos · Año móvil", "portada": "img/servicios-semestral.png", "alta_tema": "Servicios básicos", "alta_tipo": "boletin"}, {"id": "seg-sem", "label": "Seguridad ciudadana · Semestral", "portada": "img/seguridad-semestral.png", "alta_tema": "Seguridad ciudadana", "alta_tipo": "boletin"}, {"id": "vict-anual", "label": "Victimización · Anual", "portada": "img/victimizacion-anual.png", "alta_tema": "Seguridad ciudadana", "alta_tipo": "publicacion"}, {"id": "pp", "label": "Indicadores PP · 2025", "portada": "img/pp.png", "alta_tema": "General", "alta_tipo": "microdato"}, {"id": "bases", "label": "Bases de datos", "portada": "img/base-de-datos.png", "alta_tema": "General", "alta_tipo": "microdato"}, {"id": "enapres-anual", "label": "ENAPRES completa · Anual", "portada": "img/enapres-anual.png", "alta_tema": "General", "alta_tipo": "publicacion"}], "reglas": [{"titulo_prefijo": "Indicadores de resultados", "libro": "pp"}, {"tipo": "micro", "libro": "bases"}, {"tema": "Servicios básicos", "tipo": "informes", "libro": "serv-sem"}, {"tema": "Servicios básicos", "libro": "serv-anual"}, {"tema": "Seguridad ciudadana", "tipo": "informes", "libro": "seg-sem"}, {"tema": "Seguridad ciudadana", "libro": "vict-anual"}], "defecto": "enapres-anual", "legado": {"Agua y saneamiento": "serv-anual", "Electrificación": "serv-anual", "Servicios básicos": "serv-anual", "Seguridad ciudadana": "seg-sem", "Seguridad vial": "enapres-anual", "Dengue": "enapres-anual", "Rabia canina": "enapres-anual", "Uso de videojuegos": "enapres-anual", "Libros digitales": "enapres-anual", "Visita a museos": "enapres-anual", "General": "enapres-anual", "Documentación y metodología": "enapres-anual"}};
 //<!--LIBROS-FIN-->
@@ -183,16 +180,15 @@ function aplicarLibros(cfg){
 }
 function arrancar(){
   function seguir(){leerHash();render()}
-  var hayDatos=DATA.length||PRENSA.length;
+  var hayDatos=!!DATA.length;
   var hayLibros=!!(LIBROS&&LIBROS.libros);
   if(hayDatos&&hayLibros){seguir();return}
   Promise.all([
     hayDatos?Promise.resolve(DATA):fetch("data.json").then(function(r){return r.ok?r.json():[]}).catch(function(){return []}),
-    hayDatos?Promise.resolve(PRENSA):fetch("prensa.json").then(function(r){return r.ok?r.json():[]}).catch(function(){return []}),
     hayLibros?Promise.resolve(LIBROS):fetch("libros.json").then(function(r){return r.ok?r.json():null}).catch(function(){return null})
   ]).then(function(x){
-    if(!hayDatos){arrPut(DATA,x[0]);arrPut(PRENSA,x[1])}
-    aplicarLibros(x[2]);
+    if(!hayDatos)arrPut(DATA,x[0]);
+    aplicarLibros(x[1]);
     seguir();
   });
 }

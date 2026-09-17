@@ -27,8 +27,9 @@ try:
     import actualizar  # noqa: E402
     import corpus  # noqa: E402
     import a_catalogo  # noqa: E402
+    import exportar_snapshot  # noqa: E402
 except ImportError:
-    actualizar = corpus = a_catalogo = None  # noqa: E402
+    actualizar = corpus = a_catalogo = exportar_snapshot = None  # noqa: E402
     SIN_MONITOREO = True
 else:
     SIN_MONITOREO = False
@@ -102,13 +103,17 @@ def dia_humano(iso: str) -> str:
 
 
 def fecha_catalogo() -> str:
-    meta = DIR / "catalogo" / "meta.json"
-    try:
-        act = json.loads(meta.read_text(encoding="utf-8")).get("actualizado")
-        if act:
-            return str(act)
-    except (OSError, ValueError):
-        pass
+    for p in (
+        DIR / "datos_publicos" / "menciones.json",
+        ROOT / "datos" / "indice.json",
+        DIR / "datos" / "indice.json",
+    ):
+        try:
+            act = json.loads(p.read_text(encoding="utf-8")).get("actualizado")
+            if act:
+                return str(act)
+        except (OSError, ValueError):
+            pass
     try:
         texto = CATALOGO.read_text(encoding="utf-8")
         return texto.split(MARCAS[0], 1)[1].split(MARCAS[1], 1)[0].strip()
@@ -163,25 +168,20 @@ def _html_catalogo() -> str:
         except (OSError, ValueError):
             return None
 
-    data, prensa, meta = carga("data.json"), carga("prensa.json"), carga("meta.json") or {}
+    data = carga("data.json")
     libros = carga("libros.json")
     if isinstance(data, list):
         h = _embeber_js(
             h, "//<!--DATOS-INI-->", "//<!--DATOS-FIN-->",
             "const DATA=" + json.dumps(data, ensure_ascii=False) + ";",
         )
-    if isinstance(prensa, list):
-        h = _embeber_js(
-            h, "//<!--PRENSA-INI-->", "//<!--PRENSA-FIN-->",
-            "const PRENSA=" + json.dumps(prensa, ensure_ascii=False) + ";",
-        )
     if isinstance(libros, dict) and libros.get("libros"):
         h = _embeber_js(
             h, "//<!--LIBROS-INI-->", "//<!--LIBROS-FIN-->",
             "var LIBROS=" + json.dumps(libros, ensure_ascii=False) + ";",
         )
-    act = meta.get("actualizado") if isinstance(meta, dict) else None
-    if act:
+    act = fecha_catalogo()
+    if act and act != "sin fecha":
         h = re.sub(
             r"<!--ACTUALIZADO-->.*?<!--/ACTUALIZADO-->",
             "<!--ACTUALIZADO-->" + str(act) + "<!--/ACTUALIZADO-->",
@@ -323,10 +323,11 @@ with tab_mon:
                 st.error(f"La actualización falló: {e}")
             else:
                 try:
-                    pub = a_catalogo.desde_live() or []
-                    bitacora.append(f"✓ Catálogo: {len(pub)} menciones")
+                    if exportar_snapshot:
+                        exportar_snapshot.main()
+                    bitacora.append("✓ Instantánea de menciones")
                 except Exception as e:
-                    bitacora.append(f"⚠ Catálogo: no se regeneró ({e})")
+                    bitacora.append(f"⚠ Instantánea: {e}")
                 caja.markdown("\n\n".join(bitacora))
                 st.success("Corpus del día actualizado.")
                 st.rerun()
@@ -514,6 +515,6 @@ if tab_cargar is not None:
                         if err:
                             st.warning(err)
                         else:
-                            a_catalogo.main()
+                            a_catalogo.escribir_data()
                             st.success(f"Guardado {item['id']}.")
                             st.rerun()
