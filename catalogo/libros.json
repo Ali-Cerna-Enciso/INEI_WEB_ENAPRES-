@@ -43,6 +43,13 @@
       "alta_tipo": "microdato"
     },
     {
+      "id": "docmet",
+      "label": "Documentos metodológicos",
+      "portada": "img/documentos-metodologicos.png",
+      "alta_tema": "General",
+      "alta_tipo": "microdato"
+    },
+    {
       "id": "bases",
       "label": "Bases de datos",
       "portada": "img/base-de-datos.png",
@@ -52,6 +59,11 @@
   ],
   "reglas": [
     {"titulo_prefijo": "Indicadores de resultados", "libro": "pp"},
+    {"titulo_prefijo": "Cuestionario", "libro": "docmet"},
+    {"titulo_prefijo": "Ficha técnica", "libro": "docmet"},
+    {"titulo_prefijo": "Manual del encuestador", "libro": "docmet"},
+    {"titulo_prefijo": "Cartilla", "libro": "docmet"},
+    {"titulo_prefijo": "Catálogo ANDA", "libro": "docmet"},
     {"tipo": "micro", "libro": "bases"},
     {"tema": "Servicios básicos", "tipo": "informes", "libro": "serv-sem"},
     {"tema": "Servicios básicos", "libro": "serv-anual"},
