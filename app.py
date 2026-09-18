@@ -149,7 +149,8 @@ def fecha_catalogo() -> str:
         return "sin fecha"
 
 
-def fecha_catalogo_humana() -> str:
+@st.cache_data(ttl=600, show_spinner=False)
+def fecha_catalogo_humana(mt_men: float = 0.0, mt_ind: float = 0.0, mt_cat: float = 0.0) -> str:
     raw = fecha_catalogo()
     try:
         dt = datetime.strptime(raw[:16], "%Y-%m-%d %H:%M")
@@ -186,7 +187,8 @@ def _portadas_en_iframe(h: str, carpeta: Path) -> str:
     return h
 
 
-def _html_catalogo() -> str:
+@st.cache_data(ttl=600, show_spinner=False)
+def _html_catalogo(mt: float = 0.0) -> str:
     h = CATALOGO.read_text(encoding="utf-8")
     carpeta = DIR / "catalogo"
 
@@ -263,12 +265,29 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-def _cargar_snapshot():
+def _mtime(p: Path) -> float:
+    try:
+        return p.stat().st_mtime
+    except OSError:
+        return 0.0
+
+
+def _catalogo_mtime() -> float:
+    cands = [CATALOGO, DIR / "catalogo" / "data.json", DIR / "catalogo" / "libros.json"]
+    try:
+        cands += sorted((DIR / "catalogo" / "img").glob("*.png"))
+    except OSError:
+        pass
+    return max([_mtime(p) for p in cands] or [0.0])
+
+
+@st.cache_data(ttl=600, show_spinner=False)
+def _cargar_snapshot(mt: float = 0.0):
     try:
         snap = json.loads((DIR / "datos_publicos" / "menciones.json").read_text(encoding="utf-8"))
     except (OSError, ValueError):
         return {}, []
-    items = snap.get("items") or []
+    items = list(snap.get("items") or [])
     items.sort(key=lambda r: (r.get("fecha_pub") or "", -int(r.get("score") or 0)), reverse=True)
     return snap, items
 
@@ -290,14 +309,15 @@ def _filtrar_snapshot(items, ventana):
             and (col is None or it.get("colector") == col)]
 
 
-def _cargar_noticias_snap(area: str) -> tuple[dict, list]:
+@st.cache_data(ttl=600, show_spinner=False)
+def _cargar_noticias_snap(area: str, mt: float = 0.0) -> tuple[dict, list]:
     try:
         snap = json.loads(
             (DIR / "datos_publicos" / f"noticias_{area}.json").read_text(encoding="utf-8")
         )
     except (OSError, ValueError):
         return {}, []
-    items = snap.get("items") or []
+    items = list(snap.get("items") or [])
     items.sort(key=lambda r: (r.get("fecha_pub") or "", r.get("titulo") or ""), reverse=True)
     return snap, items
 
@@ -326,21 +346,22 @@ def _filtrar_noticias(items, ventana, mes=""):
     return out
 
 
-def _items_noticias(area: str, ventana: str, mes: str = "") -> list:
+@st.cache_data(ttl=600, show_spinner=False)
+def _corpus_noticias(area: str, ventana: str, mes: str, hoy: str) -> list:
+    if mes:
+        return noticias_corpus.load_area(area, desde=f"{mes}-01", hasta=f"{mes}-31")
+    if ventana == "Hoy":
+        return noticias_corpus.load_area(area, desde=hoy)
+    if ventana == "Semana":
+        return noticias_corpus.load_area(area, desde=str(date.fromisoformat(hoy) - timedelta(days=6)))
+    if ventana == "Mes":
+        return noticias_corpus.load_area(area, desde=str(date.fromisoformat(hoy) - timedelta(days=29)))
+    return noticias_corpus.load_area(area, desde="2026-01-01")
+
+
     if (not SIN_MONITOREO) and noticias_corpus is not None:
-        if mes:
-            return noticias_corpus.load_area(area, desde=f"{mes}-01",
-                                             hasta=f"{mes}-31")
-        if ventana == "Hoy":
-            return noticias_corpus.load_area(area, desde=date.today().isoformat())
-        if ventana == "Semana":
-            return noticias_corpus.load_area(
-                area, desde=(date.today() - timedelta(days=6)).isoformat())
-        if ventana == "Mes":
-            return noticias_corpus.load_area(
-                area, desde=(date.today() - timedelta(days=29)).isoformat())
-        return noticias_corpus.load_area(area, desde="2026-01-01")
-    _, items = _cargar_noticias_snap(area)
+        return _corpus_noticias(area, ventana, mes, date.today().isoformat())
+    _, items = _cargar_noticias_snap(area, _mtime(DIR / "datos_publicos" / f"noticias_{area}.json"))
     return _filtrar_noticias(items, ventana, mes)
 
 
@@ -363,7 +384,7 @@ def _barra_actualizar(clave: str) -> bool:
                                 use_container_width=True, key=f"btn_{clave}")
     else:
         st.caption("Auto: 07:17, 16:17 y 23:50 Lima")
-    st.caption(f"Última actualización: {fecha_catalogo_humana()} (hora Lima)")
+    st.caption(f"Última actualización: {fecha_catalogo_humana(_mtime(DIR / 'datos_publicos' / 'menciones.json'), _mtime(ROOT / 'datos' / 'indice.json'), _mtime(DIR / 'datos' / 'indice.json'))} (hora Lima)")
     return local_click
 
 
@@ -404,7 +425,10 @@ def _correr_rastreo():
         st.rerun()
 
 
-def _tarjeta_noticia(it: dict, extra_meta: str = "") -> None:
+_POR_PAGINA = 30
+
+
+def _html_tarjeta(it: dict) -> str:
     badges = []
     if it.get("fecha_pub"):
         badges.append(f'<span class="en-badge b-fresco">{html.escape(it["fecha_pub"])}</span>')
@@ -421,17 +445,23 @@ def _tarjeta_noticia(it: dict, extra_meta: str = "") -> None:
     meta = f"{''.join(badges)} {canal} · {fuente} · {temas} · {via}"
     if ubi:
         meta += f" · {html.escape(ubi)}"
-    if extra_meta:
-        meta += f" · {html.escape(extra_meta)}"
-    st.markdown(
+    return (
         f"<div class='en-card'><h4>{titulo}</h4>"
         f"<div class='en-meta'>{meta}</div>"
         + (f"<p class='en-snip'>{snip}</p>" if snip else "")
-        + f"<a href='{url}' target='_blank' rel='noopener'>Abrir ↗</a></div>",
-        unsafe_allow_html=True,
+        + f"<a href='{url}' target='_blank' rel='noopener'>Abrir ↗</a></div>"
     )
 
 
+def _tarjeta_noticia(it: dict, extra_meta: str = "") -> None:
+    if extra_meta:
+        it = dict(it)
+        ubi = ", ".join(it.get("ubigeo") or [])
+        it["ubigeo"] = (ubi + ", " + extra_meta) if ubi else extra_meta
+    st.markdown(_html_tarjeta(it), unsafe_allow_html=True)
+
+
+@st.fragment
 def _panel_noticias(area: str, titulo: str, caption: str, clave: str) -> bool:
     top1, top2 = st.columns([3, 1])
     with top1:
@@ -443,7 +473,7 @@ def _panel_noticias(area: str, titulo: str, caption: str, clave: str) -> bool:
     if (not SIN_MONITOREO) and noticias_corpus is not None:
         meses = noticias_corpus.meses_guardados(area)
     else:
-        _, crudos = _cargar_noticias_snap(area)
+        _, crudos = _cargar_noticias_snap(area, _mtime(DIR / "datos_publicos" / f"noticias_{area}.json"))
         meses = sorted({(it.get("fecha_pub") or "")[:7] for it in crudos if it.get("fecha_pub")})
     ventana = st.radio(
         "Periodo (fecha de publicación)",
@@ -510,38 +540,64 @@ def _panel_noticias(area: str, titulo: str, caption: str, clave: str) -> bool:
             help="Delitos consumados ENAPRES (P424) o servicios básicos. "
                  "Sin intentos ni percepción de inseguridad.",
         )
-    n = mostrados = 0
-    tope = 250
+    firma = (ventana, mes_sel, f_sel, t_sel, q)
+    if st.session_state.get(f"firma_{clave}") != firma:
+        st.session_state[f"firma_{clave}"] = firma
+        st.session_state[f"pag_{clave}"] = 1
+    filtradas = []
     for it in items:
         if f_sel != "Todas" and _tipo_fuente(it) != f_sel:
             continue
         if t_sel != "Todos" and t_sel not in (it.get("temas") or []):
             continue
-        blob = " ".join([
-            it.get("titulo") or "", it.get("snippet") or "",
-            it.get("fuente") or "", " ".join(it.get("temas") or []),
-            " ".join(it.get("ubigeo") or []), _tipo_fuente(it),
-        ]).lower()
-        if q and q not in blob:
-            continue
-        n += 1
-        if mostrados >= tope:
-            continue
-        mostrados += 1
-        _tarjeta_noticia(it)
+        if q:
+            blob = " ".join([
+                it.get("titulo") or "", it.get("snippet") or "",
+                it.get("fuente") or "", " ".join(it.get("temas") or []),
+                " ".join(it.get("ubigeo") or []), _tipo_fuente(it),
+            ]).lower()
+            if q not in blob:
+                continue
+        filtradas.append(it)
+    n = len(filtradas)
     if not items:
         st.info(f"Sin noticias en «{mes_sel or ventana}». "
                 "La primera corrida llena 2026; las siguientes solo agregan.")
-    elif n > tope:
-        st.warning(f"Mostrando {tope} de {n}. Afina la búsqueda.")
-    else:
-        st.caption(f"{n} mostradas ({mes_sel or ventana}).")
+        return click
+    paginas = max(1, (n + _POR_PAGINA - 1) // _POR_PAGINA)
+    pag = st.session_state.get(f"pag_{clave}", 1)
+    try:
+        pag = int(pag)
+    except (TypeError, ValueError):
+        pag = 1
+    pag = min(max(1, pag), paginas)
+    st.session_state[f"pag_{clave}"] = pag
+    if paginas > 1:
+        p1, p2, p3 = st.columns([1, 2, 1])
+        with p1:
+            if st.button("◀ Anteriores", key=f"prev_{clave}", disabled=pag <= 1,
+                         use_container_width=True):
+                st.session_state[f"pag_{clave}"] = pag - 1
+        with p2:
+            st.caption(f"Página {pag} de {paginas} · {n} noticias")
+        with p3:
+            if st.button("Siguientes ▶", key=f"next_{clave}", disabled=pag >= paginas,
+                         use_container_width=True):
+                st.session_state[f"pag_{clave}"] = pag + 1
+    st.markdown(
+        "".join(_html_tarjeta(it) for it in filtradas[(pag - 1) * _POR_PAGINA:pag * _POR_PAGINA]),
+        unsafe_allow_html=True,
+    )
+    st.caption(f"{min(n, pag * _POR_PAGINA)} de {n} ({mes_sel or ventana}).")
+    if click:
+        _correr_rastreo()
+        return False
     return click
 
 
 _SNAP_ITEMS: list = []
 if SIN_MONITOREO:
-    _snap, _SNAP_ITEMS = _cargar_snapshot()
+    _snap, _SNAP_ITEMS = _cargar_snapshot(_mtime(DIR / "datos_publicos" / "menciones.json"))
     indice = {"actualizado": _snap.get("actualizado") or "—", "dias": [],
               "max_live": _snap.get("max_live", 31)}
 else:
@@ -562,7 +618,7 @@ with tab_cat:
     if not CATALOGO.exists():
         st.error(f"No se encontró el catálogo: {CATALOGO}")
     else:
-        components.html(_html_catalogo(), height=2200, scrolling=True)
+        components.html(_html_catalogo(_catalogo_mtime()), height=2200, scrolling=True)
 
 with tab_mon:
     top1, top2 = st.columns([3, 1])
@@ -578,7 +634,7 @@ with tab_mon:
         _correr_rastreo()
 
     st.caption(
-        f"Última escritura: {fecha_catalogo_humana()} (hora Lima) · "
+        f"Última escritura: {fecha_catalogo_humana(_mtime(DIR / 'datos_publicos' / 'menciones.json'), _mtime(ROOT / 'datos' / 'indice.json'), _mtime(DIR / 'datos' / 'indice.json'))} (hora Lima) · "
         f"{len(indice.get('dias') or [])}/{indice.get('max_live', 31)} días en vivo"
     )
     ventana = st.radio(
