@@ -17,7 +17,10 @@ concurrency:
 jobs:
   rastrear:
     runs-on: ubuntu-latest
-    timeout-minutes: 40
+    timeout-minutes: 25
+    env:
+      CORRER_NOTICIAS: ${{ (github.event_name == 'workflow_dispatch' || github.event.schedule == '50 4 * * *') && '1' || '0' }}
+      NOTICIAS_SIN_GDELT: "1"
     steps:
       - uses: actions/checkout@v5
       - uses: actions/setup-python@v6
@@ -25,7 +28,9 @@ jobs:
           python-version: "3.12"
       - run: python monitoreo/src/actualizar.py
       - run: python monitoreo/src/exportar_snapshot.py
-      - run: python monitoreo/src/exportar_noticias.py
+      - name: Snapshot noticias
+        if: env.CORRER_NOTICIAS == '1'
+        run: python monitoreo/src/exportar_noticias.py
       - name: Commit
         run: |
           git config user.name "github-actions[bot]"

@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import argparse
+import os
 import sys
 import traceback
 from datetime import datetime
@@ -36,7 +37,8 @@ COLECTORES = (
 )
 
 
-def correr(dia: str | None = None, solo: list[str] | None = None, on_paso=None) -> dict:
+def correr(dia: str | None = None, solo: list[str] | None = None, on_paso=None,
+           sin_noticias: bool | None = None) -> dict:
     dia_iso = dia or datetime.now(ZoneInfo("America/Lima")).strftime("%Y-%m-%d")
     elegidos = {s.strip().lower() for s in (solo or []) if s.strip()}
     por_colector = {}
@@ -61,8 +63,17 @@ def correr(dia: str | None = None, solo: list[str] | None = None, on_paso=None) 
     meta = resultado["meta"]
     print(f"LIVE: {meta['n']} menciones en {len(meta.get('dias_tocados') or [])} días "
           f"-> {corpus.LIVE}")
+    if sin_noticias is None:
+        sin_noticias = os.environ.get("CORRER_NOTICIAS", "1").strip().lower() in (
+            "0", "false", "no")
+    if sin_noticias:
+        print("NOTICIAS: omitidas (corrida solo de menciones)")
+        return resultado
     try:
-        resultado["noticias"] = noticias_actualizar.correr(on_paso=on_paso)
+        sin_gdelt = os.environ.get("NOTICIAS_SIN_GDELT", "1").strip().lower() not in (
+            "0", "false", "no")
+        resultado["noticias"] = noticias_actualizar.correr(
+            on_paso=on_paso, sin_gdelt=sin_gdelt)
     except Exception as e:
         print(f"[ERROR] noticias: {e}")
         traceback.print_exc()
@@ -74,9 +85,12 @@ def main(argv=None):
     p = argparse.ArgumentParser(description="Actualiza el corpus diario ENAPRES")
     p.add_argument("--dia", help="YYYY-MM-DD (por defecto: hoy)")
     p.add_argument("--solo", help="colectores separados por coma (ej. gobpe,medios)")
+    p.add_argument("--sin-noticias", action="store_true",
+                   help="no correr inseguridad/servicios")
     args = p.parse_args(argv)
     solo = args.solo.split(",") if args.solo else None
-    correr(dia=args.dia, solo=solo)
+    correr(dia=args.dia, solo=solo,
+           sin_noticias=True if args.sin_noticias else None)
 
 
 if __name__ == "__main__":
