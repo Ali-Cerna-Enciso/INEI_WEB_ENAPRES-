@@ -9,6 +9,7 @@ from urllib.parse import urlparse, urlunparse, parse_qsl, urlencode
 from zoneinfo import ZoneInfo
 
 from filtro import norm, parse_fecha
+from noticias_clasificar import clasificar, tipo_fuente
 from rutas import datos as datos_dir
 from rutas import web
 
@@ -104,8 +105,11 @@ def ubigeo_hint(titulo: str, snippet: str = "") -> list[str]:
     hits = []
     for nombre in list(DISTRITOS) + list(DEPTOS):
         n = norm(nombre)
-        if n and n in blob and nombre not in hits:
-            hits.append(nombre)
+        if not n:
+            continue
+        if re.search(rf"(?<![a-z0-9]){re.escape(n)}(?![a-z0-9])", blob):
+            if nombre not in hits:
+                hits.append(nombre)
         if len(hits) >= 3:
             break
     return hits
@@ -185,6 +189,8 @@ def load_area(area: str, desde: str | None = None, hasta: str | None = None) -> 
                 continue
             if hasta and f > hasta:
                 continue
+            if it.get("descartar"):
+                continue
             out.append(it)
     out.sort(key=lambda r: (r.get("fecha_pub") or "", r.get("titulo") or ""), reverse=True)
     return out
@@ -221,11 +227,13 @@ def item_desde_fila(row: dict, area: str, colector: str) -> dict | None:
         "url_canon": canon_url(url),
         "titulo": titulo,
         "fuente": (row.get("fuente") or "").strip(),
+        "tipo_fuente": tipo_fuente(row.get("fuente") or "", url),
         "colector": colector,
         "fecha_pub": fecha.isoformat(),
         "fecha_hecho": None,
         "snippet": snip,
         "temas": temas,
+        "descartar": False,
         "ubigeo": ubigeo_hint(titulo, snip),
         "score": score,
         "query": row.get("query") or "",
@@ -267,10 +275,13 @@ def merge_items(existentes: list[dict], nuevos: list[dict]) -> tuple[list[dict],
             # Conserva el registro viejo; solo rellena huecos.
             if not prev.get("snippet") and it.get("snippet"):
                 prev["snippet"] = it["snippet"]
-            if not prev.get("temas") and it.get("temas"):
+            if it.get("temas") and (not prev.get("temas") or prev.get("descartar")):
                 prev["temas"] = it["temas"]
+                prev["descartar"] = False
             if not prev.get("ubigeo") and it.get("ubigeo"):
                 prev["ubigeo"] = it["ubigeo"]
+            if not prev.get("tipo_fuente") and it.get("tipo_fuente"):
+                prev["tipo_fuente"] = it["tipo_fuente"]
             best[k] = prev
     seen, out = set(), []
     for k in orden:
@@ -302,6 +313,43 @@ def incorporar(area: str, filas: list[dict], colector: str) -> dict:
         n_nuevo += added
     return {"area": area, "colector": colector, "crudo": len(filas),
             "ok": n_ok, "nuevos": n_nuevo, "meses": sorted(por_mes)}
+
+
+def reclasificar_existentes(areas: tuple[str, ...] | None = None) -> dict:
+    """Reetiqueta el JSON ya guardado. No borra ítems (el archivo solo crece)."""
+    areas = areas or AREAS
+    resumen = {}
+    for area in areas:
+        n_ok = n_desc = n_tema = 0
+        for mes in meses_guardados(area):
+            bloque = load_mes(area, mes)
+            nuevos = []
+            for it in bloque.get("items") or []:
+                it = dict(it)
+                r = clasificar(area, it.get("titulo") or "",
+                               it.get("snippet") or "", it.get("url") or "")
+                it["tipo_fuente"] = tipo_fuente(it.get("fuente") or "",
+                                                it.get("url") or "")
+                it["ubigeo"] = ubigeo_hint(it.get("titulo") or "",
+                                           it.get("snippet") or "")
+                if r is None:
+                    it["descartar"] = True
+                    n_desc += 1
+                else:
+                    s, cats = r
+                    it["temas"] = cats
+                    it["score"] = s
+                    it["descartar"] = False
+                    n_ok += 1
+                    if cats:
+                        n_tema += 1
+                nuevos.append(it)
+            bloque["items"] = nuevos
+            bloque["actualizado"] = ahora_lima().strftime("%Y-%m-%d %H:%M")
+            save_mes(area, bloque)
+        resumen[area] = {"conservados": n_ok, "descartar": n_desc, "con_tema": n_tema}
+    reconstruir_indice()
+    return resumen
 
 
 def ventana_incremental(lookback_dias: int = 7) -> tuple[date, date]:

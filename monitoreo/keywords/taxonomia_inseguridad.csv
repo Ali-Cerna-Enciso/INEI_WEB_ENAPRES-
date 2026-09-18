@@ -1,46 +1,57 @@
 nivel,categoria,termino
-ancla,extorsion,extorsión
-ancla,extorsion,extorsion
-ancla,extorsion,gota a gota
-ancla,estafa,estafa
-ancla,estafa,phishing
-ancla,arma_fuego,arma de fuego
-ancla,arma_fuego,arma de fuego
-ancla,arma_fuego,disparo
-ancla,arma_fuego,balacera
-ancla,arma_fuego,sicariato
-ancla,arma_fuego,sicario
-ancla,homicidio,homicidio
-ancla,homicidio,asesinato
-ancla,homicidio,asesinado
-ancla,homicidio,feminicidio
-ancla,secuestro,secuestro
-ancla,secuestro,secuestrado
-ancla,asalto,mano armada
-ancla,asalto,robo a mano armada
-ancla,asalto,asalto a mano armada
-ancla,organizado,crimen organizado
-ancla,organizado,banda criminal
-ancla,marcaje,marcaje
-ancla,marcaje,marcado de vivienda
-tema,extorsion,cupo
-tema,extorsion,cuota
-tema,estafa,clonación
-tema,estafa,estafa virtual
-tema,estafa,estafa telefónica
-tema,estafa,delito informático
-tema,arma_fuego,pistola
-tema,arma_fuego,fusil
-tema,arma_fuego,arma de fuego
-tema,homicidio,sicariato
-tema,homicidio,ajuste de cuentas
-tema,secuestro,secuestro al paso
-tema,asalto,asalto
-tema,asalto,robo de vehículo
-tema,asalto,robo de moto
-tema,general,hecho delictivo
-tema,general,delincuencia
-tema,general,inseguridad ciudadana
+ancla,Extorsión,extorsión
+ancla,Extorsión,extorsion
+ancla,Extorsión,gota a gota
+ancla,Extorsión,cobro de cupo
+ancla,Extorsión,extorsionador
+ancla,Secuestro,secuestro
+ancla,Secuestro,secuestrado
+ancla,Secuestro,secuestraron
+ancla,Secuestro,secuestro al paso
+ancla,Homicidio / sicariato,homicidio
+ancla,Homicidio / sicariato,asesinato
+ancla,Homicidio / sicariato,asesinado
+ancla,Homicidio / sicariato,feminicidio
+ancla,Homicidio / sicariato,sicariato
+ancla,Homicidio / sicariato,sicario
+ancla,Homicidio / sicariato,masacre
+ancla,Estafa,estafa
+ancla,Estafa,estafador
+ancla,Estafa,phishing
+ancla,Fraude bancario,fraude bancario
+ancla,Suplantación de identidad,suplantación de identidad
+ancla,Ciberacoso,ciberacoso
+ancla,Delito informático,delito informático
+ancla,Robo de vehículo,robo de vehículo
+ancla,Robo de vehículo,robo de auto
+ancla,Robo de autopartes,robo de autopartes
+ancla,Robo de motocicleta/mototaxi,robo de moto
+ancla,Robo de motocicleta/mototaxi,robo de motocicleta
+ancla,Robo de bicicleta,robo de bicicleta
+ancla,Robo de dinero cartera celular,robo de celular
+ancla,Robo de dinero cartera celular,robo al paso
+ancla,Robo de dinero cartera celular,robo de dinero
+ancla,Robo de negocio,robo de negocio
+ancla,Robo en la vivienda,robo en la vivienda
+ancla,Robo en la vivienda,marcado de vivienda
+ancla,Amenazas e intimidaciones,amenazas de muerte
+ancla,Maltrato físico y/o psicológico,maltrato físico
+ancla,Ofensas sexuales,abuso sexual
+ancla,Ofensas sexuales,violación sexual
+ancla,Asalto a mano armada,mano armada
+ancla,Asalto a mano armada,asalto a mano armada
+tema,Extorsión,cupo
+tema,Extorsión,vacuna criminal
+tema,Homicidio / sicariato,ajuste de cuentas
+tema,Homicidio / sicariato,balacera
+tema,Asalto a mano armada,crimen organizado
+tema,Asalto a mano armada,Los Pulpos
+exclusion,ruido,intento de robo
+exclusion,ruido,intento de secuestro
+exclusion,ruido,intento de extorsión
+exclusion,ruido,tentativa de
+exclusion,ruido,percepción de inseguridad
+exclusion,ruido,sensación de inseguridad
 exclusion,ruido,ENAPRES
 exclusion,ruido,Encuesta Nacional de Programas Presupuestales
 exclusion,ruido,encuesta electoral

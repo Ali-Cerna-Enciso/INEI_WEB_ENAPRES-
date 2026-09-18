@@ -1,6 +1,6 @@
 {
   "mes": "2026-04",
-  "actualizado": "2026-09-18 12:28",
+  "actualizado": "2026-09-18 13:09",
   "items": [
     {
       "id": "0cac60cdfebbc9e7",
@@ -12,15 +12,17 @@
       "fecha_pub": "2026-04-30",
       "fecha_hecho": null,
       "snippet": "Secuestradores de empresario ostentaban lujos extremos larepublica.pe",
-      "temas": [],
-      "ubigeo": [
-        "Ica"
+      "temas": [
+        "Secuestro"
       ],
-      "score": 1,
+      "ubigeo": [],
+      "score": 3,
       "query": "secuestro Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "3501e2574b309b5c",
@@ -32,15 +34,17 @@
       "fecha_pub": "2026-04-30",
       "fecha_hecho": null,
       "snippet": "SJL: Rescatan a empresario tras cinco días de secuestro América TV",
-      "temas": [],
-      "ubigeo": [
-        "Ica"
+      "temas": [
+        "Secuestro"
       ],
-      "score": 1,
+      "ubigeo": [],
+      "score": 3,
       "query": "secuestro Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "df1c844878f1a8b8",
@@ -52,16 +56,19 @@
       "fecha_pub": "2026-04-30",
       "fecha_hecho": null,
       "snippet": "Liberan a los 8 militares acusados por homicidio calificado tras la muerte de cinco jóvenes en Huancavelica El Comercio Perú",
-      "temas": [],
+      "temas": [
+        "Homicidio / sicariato"
+      ],
       "ubigeo": [
-        "Ica",
         "Huancavelica"
       ],
-      "score": 1,
+      "score": 3,
       "query": "homicidio Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "cca6fc98a248d00c",
@@ -73,16 +80,19 @@
       "fecha_pub": "2026-04-30",
       "fecha_hecho": null,
       "snippet": "En pleno velorio: sicarios matan a mujer y dejan 10 heridos en el Cercado de Lima tras balacera larepublica.pe",
-      "temas": [],
+      "temas": [
+        "Homicidio / sicariato"
+      ],
       "ubigeo": [
-        "Ica",
         "Lima"
       ],
-      "score": 1,
+      "score": 3,
       "query": "sicariato Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "963b50563fd86397",
@@ -102,7 +112,9 @@
       "query": "\"crimen organizado\" Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": true
     },
     {
       "id": "156c21547557acbb",
@@ -114,15 +126,19 @@
       "fecha_pub": "2026-04-30",
       "fecha_hecho": null,
       "snippet": "Detienen en flagrancia a policía de Ica acusado de extorsionar con S/7 mil: PNP utilizó billetes con reactivo químico Infobae",
-      "temas": [],
+      "temas": [
+        "Extorsión"
+      ],
       "ubigeo": [
         "Ica"
       ],
-      "score": 1,
+      "score": 3,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "c58fad9068a70354",
@@ -134,15 +150,17 @@
       "fecha_pub": "2026-04-30",
       "fecha_hecho": null,
       "snippet": "Detienen a 4 policías en actividad por extorsión y organización criminal larepublica.pe",
-      "temas": [],
-      "ubigeo": [
-        "Ica"
+      "temas": [
+        "Extorsión"
       ],
-      "score": 1,
+      "ubigeo": [],
+      "score": 3,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "36a7fedcaa09d80c",
@@ -154,13 +172,18 @@
       "fecha_pub": "2026-04-30",
       "fecha_hecho": null,
       "snippet": "Crimen organizado se expande en el sur del Perú: crecen extorsiones y homicidios Diario Correo",
-      "temas": [],
+      "temas": [
+        "Extorsión",
+        "Homicidio / sicariato"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 5,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "270f7e115567dde7",
@@ -173,7 +196,7 @@
       "fecha_hecho": null,
       "snippet": "Capturan a expolicía que asaltó a mano armada 10 tiendas Mass de Lima Norte (VIDEOS) Perú 21",
       "temas": [
-        "asalto"
+        "Asalto a mano armada"
       ],
       "ubigeo": [
         "Lima"
@@ -182,7 +205,9 @@
       "query": "\"mano armada\" Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "cc30aaf97de82366",
@@ -194,15 +219,19 @@
       "fecha_pub": "2026-04-30",
       "fecha_hecho": null,
       "snippet": "'Los Ecos de Lima' secuestró y torturó a empresario 5 días ATV.pe",
-      "temas": [],
+      "temas": [
+        "Secuestro"
+      ],
       "ubigeo": [
         "Lima"
       ],
-      "score": 1,
+      "score": 3,
       "query": "secuestro Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "5a276f6326437d4f",
@@ -214,13 +243,17 @@
       "fecha_pub": "2026-04-29",
       "fecha_hecho": null,
       "snippet": "Una intervención militar en Perú bajo sospecha tras el asesinato de cinco civiles confundidos con narcoterroristas EL PAÍS",
-      "temas": [],
+      "temas": [
+        "Homicidio / sicariato"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "homicidio Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "c3e1dc6d144d5c6b",
@@ -232,16 +265,19 @@
       "fecha_pub": "2026-04-29",
       "fecha_hecho": null,
       "snippet": "Sicario disfrazado de repartidor asesinó a hombre en San Miguel: víctima contaba con antecedentes policiales willax.pe",
-      "temas": [],
-      "ubigeo": [
-        "San Miguel",
-        "Ica"
+      "temas": [
+        "Homicidio / sicariato"
       ],
-      "score": 1,
+      "ubigeo": [
+        "San Miguel"
+      ],
+      "score": 3,
       "query": "sicariato Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "866ec768be7bf25c",
@@ -254,16 +290,17 @@
       "fecha_hecho": null,
       "snippet": "Sicariato, extorsión y homicidios: las razones detrás de la nueva prórroga del Estado de Emergencia Infobae",
       "temas": [
-        "homicidio"
+        "Extorsión",
+        "Homicidio / sicariato"
       ],
-      "ubigeo": [
-        "Ica"
-      ],
-      "score": 3,
+      "ubigeo": [],
+      "score": 5,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "26ad8a03dd38a958",
@@ -276,16 +313,18 @@
       "fecha_hecho": null,
       "snippet": "Promotora educativa y músico son intervenidos con arma de fuego Diario de Chimbote",
       "temas": [
-        "arma_fuego"
+        "Homicidio / sicariato"
       ],
       "ubigeo": [
         "Chimbote"
       ],
-      "score": 3,
+      "score": 2,
       "query": "\"arma de fuego\" Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "46107f9cfce5298f",
@@ -297,15 +336,19 @@
       "fecha_pub": "2026-04-29",
       "fecha_hecho": null,
       "snippet": "Piura: Policía detenido por presunta extorsión con esposa soltv peru",
-      "temas": [],
+      "temas": [
+        "Extorsión"
+      ],
       "ubigeo": [
         "Piura"
       ],
-      "score": 1,
+      "score": 3,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "eb050bc090366de6",
@@ -317,15 +360,17 @@
       "fecha_pub": "2026-04-29",
       "fecha_hecho": null,
       "snippet": "Peruanos enviados a Rusia habrían sido amenazados de muerte tras denunciar estafa laboral larepublica.pe",
-      "temas": [],
-      "ubigeo": [
-        "Ica"
+      "temas": [
+        "Estafa"
       ],
-      "score": 1,
+      "ubigeo": [],
+      "score": 3,
       "query": "estafa Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "e3195e12cdc75050",
@@ -337,15 +382,17 @@
       "fecha_pub": "2026-04-29",
       "fecha_hecho": null,
       "snippet": "Peruanos en Rusia han sido amenazados de muerte tras avisar estafa laboral: Tres reclutadores fueron identificados Exitosa Noticias",
-      "temas": [],
-      "ubigeo": [
-        "Ica"
+      "temas": [
+        "Estafa"
       ],
-      "score": 1,
+      "ubigeo": [],
+      "score": 3,
       "query": "estafa Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "b0d5efffc6822938",
@@ -357,13 +404,17 @@
       "fecha_pub": "2026-04-29",
       "fecha_hecho": null,
       "snippet": "Extorsión del régimen de Beijing: once países respaldaron a Panamá ante retenciones de buques en puertos chinos Infobae",
-      "temas": [],
+      "temas": [
+        "Extorsión"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "7d0fe597bfab15b1",
@@ -375,15 +426,17 @@
       "fecha_pub": "2026-04-29",
       "fecha_hecho": null,
       "snippet": "Exitosa Noticias. . 🔴🔵 #ExitosaTeEscucha 🎤 | Una madre de familia clama ayuda para lograr el retorno de su hijo de 21 años, quien habría sido víctima de una presunta estafa laboral que terminó llevándolo a Rusia y, poste",
-      "temas": [],
-      "ubigeo": [
-        "Ate"
+      "temas": [
+        "Estafa"
       ],
-      "score": 1,
+      "ubigeo": [],
+      "score": 3,
       "query": "estafa Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Redes sociales",
+      "descartar": false
     },
     {
       "id": "35181b1348e4e745",
@@ -395,16 +448,19 @@
       "fecha_pub": "2026-04-29",
       "fecha_hecho": null,
       "snippet": "Crimen a plena luz del día en San Miguel: sicarios acribillan a hombre dentro de su auto en avenida cerca de centro juvenil Maranguita Infobae",
-      "temas": [],
-      "ubigeo": [
-        "San Miguel",
-        "Ica"
+      "temas": [
+        "Homicidio / sicariato"
       ],
-      "score": 1,
+      "ubigeo": [
+        "San Miguel"
+      ],
+      "score": 3,
       "query": "sicariato Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "41fa293c604982a0",
@@ -416,13 +472,17 @@
       "fecha_pub": "2026-04-29",
       "fecha_hecho": null,
       "snippet": "ALERTA POR PRESUNTA ESTAFA MILLONARIA VINCULADA A ENTORNO TECNOLÓGICO DE INTERBANK RCR Peru",
-      "temas": [],
+      "temas": [
+        "Estafa"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "estafa Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "0d9b669609ef4fa6",
@@ -434,13 +494,17 @@
       "fecha_pub": "2026-04-28",
       "fecha_hecho": null,
       "snippet": "¡Estafa mortal en Rusia! Ya hay 8 muertos y más de 120 desaparecidos entre los peruanos que fueron por trabajo y terminaron en la guerra Trome.com",
-      "temas": [],
+      "temas": [
+        "Estafa"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "estafa Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "d1013c3020caaf3e",
@@ -452,15 +516,17 @@
       "fecha_pub": "2026-04-28",
       "fecha_hecho": null,
       "snippet": "Perú | Miembros del Ejército fueron detenidos tras presunto asesinato de cinco jóvenes durante intervención militar en Colcabamba NODAL - Noticias de América Latina y el Caribe",
-      "temas": [],
-      "ubigeo": [
-        "Ica"
+      "temas": [
+        "Homicidio / sicariato"
       ],
-      "score": 1,
+      "ubigeo": [],
+      "score": 3,
       "query": "homicidio Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "c752087d6e667d6d",
@@ -472,15 +538,17 @@
       "fecha_pub": "2026-04-28",
       "fecha_hecho": null,
       "snippet": "Exitosa Noticias. . 🔴🔵 #ExitosaPerú🇵🇪🇵🇪 | Capturan a cuatro presuntos integrantes de una banda criminal denominada “Los Mexicanos Nueva Generación”, presuntamente dedicados a casos de extorsión a empresa de transporte. 📻",
-      "temas": [],
-      "ubigeo": [
-        "Ica"
+      "temas": [
+        "Extorsión"
       ],
-      "score": 1,
+      "ubigeo": [],
+      "score": 2,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Redes sociales",
+      "descartar": false
     },
     {
       "id": "eb3615d43b69ad52",
@@ -492,13 +560,17 @@
       "fecha_pub": "2026-04-28",
       "fecha_hecho": null,
       "snippet": "Exitosa Noticias. . 🔴🔵 #ExitosaPerú🇵🇪🇵🇪 | Agentes de la Policía Nacional del Perú (PNP) lograron la detención de una mujer de 71 años por el presunto delito de extorsión. 📻 95.5 FM 📡 6.1 señal digital abierta 📺 Movistar:",
-      "temas": [],
+      "temas": [
+        "Extorsión"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Redes sociales",
+      "descartar": false
     },
     {
       "id": "87c691b3e1e7b6ed",
@@ -510,15 +582,19 @@
       "fecha_pub": "2026-04-28",
       "fecha_hecho": null,
       "snippet": "Empresa de transporte Uvita deja de operar definitivamente por extorsión en Lima norte: más de 50 conductores quedan sin empleo Infobae",
-      "temas": [],
+      "temas": [
+        "Extorsión"
+      ],
       "ubigeo": [
         "Lima"
       ],
-      "score": 1,
+      "score": 3,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "38164620b00441d3",
@@ -530,16 +606,19 @@
       "fecha_pub": "2026-04-28",
       "fecha_hecho": null,
       "snippet": "Caso de pediatra: PNP captura a sicario acusado de asesinar a doctora en Piura TVPerú",
-      "temas": [],
-      "ubigeo": [
-        "Piura",
-        "Ica"
+      "temas": [
+        "Homicidio / sicariato"
       ],
-      "score": 1,
+      "ubigeo": [
+        "Piura"
+      ],
+      "score": 3,
       "query": "sicariato Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "b062c0b1657fe313",
@@ -551,13 +630,17 @@
       "fecha_pub": "2026-04-28",
       "fecha_hecho": null,
       "snippet": "Cantagallo: vecinos denuncian secuestro de una menor por más de siete horas ATV.pe",
-      "temas": [],
+      "temas": [
+        "Secuestro"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "secuestro Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "a3cb5ae15ff43ef1",
@@ -569,16 +652,19 @@
       "fecha_pub": "2026-04-27",
       "fecha_hecho": null,
       "snippet": "🔴🔵#ElInformativoDeExitosa📺📺 | La Fiscalía Provincial Penal Corporativa de Tayacaja, en Huancavelica, inició una investigación preliminar a ocho efectivos del Ejército del Perú por el presunto delito de homicidio califica",
-      "temas": [],
+      "temas": [
+        "Homicidio / sicariato"
+      ],
       "ubigeo": [
-        "Ica",
         "Huancavelica"
       ],
-      "score": 1,
+      "score": 2,
       "query": "homicidio Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Redes sociales",
+      "descartar": false
     },
     {
       "id": "9a56609940552a44",
@@ -590,16 +676,19 @@
       "fecha_pub": "2026-04-27",
       "fecha_hecho": null,
       "snippet": "¡Todo ocurrió en segundos! Sicarios asesinan a joven dentro de carwash y caen tres sospechosos en el Callao Trome.com",
-      "temas": [],
+      "temas": [
+        "Homicidio / sicariato"
+      ],
       "ubigeo": [
-        "Ica",
         "Callao"
       ],
-      "score": 1,
+      "score": 3,
       "query": "sicariato Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "85109dd9ec1f0729",
@@ -611,13 +700,17 @@
       "fecha_pub": "2026-04-27",
       "fecha_hecho": null,
       "snippet": "¡Operativo en la mira! Ocho militares detenidos por presunto homicidio de cinco personas tras intervención en el Vraem Trome.com",
-      "temas": [],
+      "temas": [
+        "Homicidio / sicariato"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "homicidio Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "a3c1b086e7cfa3ce",
@@ -629,15 +722,17 @@
       "fecha_pub": "2026-04-27",
       "fecha_hecho": null,
       "snippet": "Sicarios asesinan a joven en carwash de Mi Perú y capturan a tres sospechosos Diario Correo",
-      "temas": [],
-      "ubigeo": [
-        "Ica"
+      "temas": [
+        "Homicidio / sicariato"
       ],
-      "score": 1,
+      "ubigeo": [],
+      "score": 3,
       "query": "sicariato Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "4624c4064b18650a",
@@ -649,13 +744,17 @@
       "fecha_pub": "2026-04-27",
       "fecha_hecho": null,
       "snippet": "Secuestro de embarcación en la Amazonía peruana deja un policía fallecido: captores piden USD 500 mil para liberar a víctimas Infobae",
-      "temas": [],
+      "temas": [
+        "Secuestro"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "secuestro Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "28012873e74957f2",
@@ -667,16 +766,19 @@
       "fecha_pub": "2026-04-27",
       "fecha_hecho": null,
       "snippet": "Por presunto homicidio calificado en operativo en Huancavelica, fiscalía inició investigación preliminar contra 8 militares Perú Informa",
-      "temas": [],
+      "temas": [
+        "Homicidio / sicariato"
+      ],
       "ubigeo": [
-        "Ica",
         "Huancavelica"
       ],
-      "score": 1,
+      "score": 3,
       "query": "homicidio Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "03c4b320d3f8eed9",
@@ -688,13 +790,17 @@
       "fecha_pub": "2026-04-27",
       "fecha_hecho": null,
       "snippet": "Peruanos atrapados en la guerra Rusia–Ucrania por estafa % larazon.pe",
-      "temas": [],
+      "temas": [
+        "Estafa"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "estafa Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "1ff63c4509459ce6",
@@ -706,13 +812,17 @@
       "fecha_pub": "2026-04-27",
       "fecha_hecho": null,
       "snippet": "Impactante robo a mano armada en Medellín queda en video: delincuentes en moto interceptaron taxi a plena luz del día El Tiempo",
-      "temas": [],
+      "temas": [
+        "Asalto a mano armada"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "\"mano armada\" Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "bf673ca8365d78b8",
@@ -724,13 +834,17 @@
       "fecha_pub": "2026-04-27",
       "fecha_hecho": null,
       "snippet": "Fiscalía abre investigación contra ocho miembros del Ejército por asesinato de jóvenes durante intervención en Colcabamba Infobae",
-      "temas": [],
+      "temas": [
+        "Homicidio / sicariato"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "homicidio Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "c54225248048ec23",
@@ -742,17 +856,21 @@
       "fecha_pub": "2026-04-27",
       "fecha_hecho": null,
       "snippet": "Empresa de buses Sur Lima suspende rutas a SJL y La Victoria tras extorsión y atentado en Chorrillos Infobae",
-      "temas": [],
-      "ubigeo": [
-        "Ate",
-        "Chorrillos",
-        "La Victoria"
+      "temas": [
+        "Extorsión"
       ],
-      "score": 1,
+      "ubigeo": [
+        "Chorrillos",
+        "La Victoria",
+        "Lima"
+      ],
+      "score": 3,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "1ee743b813caba5f",
@@ -764,16 +882,17 @@
       "fecha_pub": "2026-04-27",
       "fecha_hecho": null,
       "snippet": "Casma: Presunta estafa a compradores de \"Miami Beach Peruano\" estaría bajo investigación fiscal ancashaldia.com",
-      "temas": [],
-      "ubigeo": [
-        "Áncash",
-        "Ancash"
+      "temas": [
+        "Estafa"
       ],
-      "score": 1,
+      "ubigeo": [],
+      "score": 3,
       "query": "estafa Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "5c92ac2c0f60724b",
@@ -785,16 +904,19 @@
       "fecha_pub": "2026-04-26",
       "fecha_hecho": null,
       "snippet": "“Yo no robo, yo mato”: cae ‘Jamby’, presunto sicario acusado de siete asesinatos en Lima Norte Perú 21",
-      "temas": [],
+      "temas": [
+        "Homicidio / sicariato"
+      ],
       "ubigeo": [
-        "Ica",
         "Lima"
       ],
-      "score": 1,
+      "score": 3,
       "query": "sicariato Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "8bd192a3685ed42c",
@@ -807,14 +929,16 @@
       "fecha_hecho": null,
       "snippet": "¡Golpe a la extorsión! Caen padre e hijo que lideraban ‘Los Chukys del Cono Norte’: delincuentes cobraban cupos a comerciantes Trome.com",
       "temas": [
-        "extorsion"
+        "Extorsión"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "b5bd76fea630a48b",
@@ -827,16 +951,18 @@
       "fecha_hecho": null,
       "snippet": "Trujillo: Hallan arma de fuego en posesión de escolares Diario Correo",
       "temas": [
-        "arma_fuego"
+        "Homicidio / sicariato"
       ],
       "ubigeo": [
         "Trujillo"
       ],
-      "score": 3,
+      "score": 2,
       "query": "\"arma de fuego\" Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "88e911a6120104f3",
@@ -848,13 +974,17 @@
       "fecha_pub": "2026-04-26",
       "fecha_hecho": null,
       "snippet": "La extorsión a control remoto crece: Delincuentes adaptan aparatos tecnológicos para atacar negocios Diario Correo",
-      "temas": [],
+      "temas": [
+        "Extorsión"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "f118539eaa514f98",
@@ -866,17 +996,19 @@
       "fecha_pub": "2026-04-26",
       "fecha_hecho": null,
       "snippet": "Feroz atentado en La Libertad: Sicarios irrumpen en fiesta familiar y dejan dos fallecidos Infobae",
-      "temas": [],
+      "temas": [
+        "Homicidio / sicariato"
+      ],
       "ubigeo": [
-        "Ate",
-        "Ica",
         "La Libertad"
       ],
-      "score": 1,
+      "score": 3,
       "query": "sicariato Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "48f760c43e087d56",
@@ -889,16 +1021,17 @@
       "fecha_hecho": null,
       "snippet": "Barranca: desarticulan banda “Los Ángeles Verdes” vinculada a extorsión y sicariato Perú 21",
       "temas": [
-        "homicidio"
+        "Extorsión",
+        "Homicidio / sicariato"
       ],
-      "ubigeo": [
-        "Ica"
-      ],
-      "score": 3,
+      "ubigeo": [],
+      "score": 5,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "46351bac9dcc2cce",
@@ -910,13 +1043,17 @@
       "fecha_pub": "2026-04-26",
       "fecha_hecho": null,
       "snippet": "Atraco a mano armada, el delito con mayor impacto que se mantiene en el país Zona Cero",
-      "temas": [],
+      "temas": [
+        "Asalto a mano armada"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "\"mano armada\" Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "063a30de8cea9318",
@@ -934,7 +1071,9 @@
       "query": "\"crimen organizado\" Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": true
     },
     {
       "id": "501e38fd2e70b658",
@@ -947,14 +1086,14 @@
       "fecha_hecho": null,
       "snippet": "🔴🔵#ElInformativoDeExitosa📺📺 | El Ministerio del Interior presenta la estrategia nacional al 2030 para enfrentar la minería ilegal. Con este nuevo marco estratégico, se busca desarticular la cadena de valor del crimen org",
       "temas": [],
-      "ubigeo": [
-        "Ate"
-      ],
+      "ubigeo": [],
       "score": 1,
       "query": "\"crimen organizado\" Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Redes sociales",
+      "descartar": true
     },
     {
       "id": "f03dd722837faccf",
@@ -967,17 +1106,18 @@
       "fecha_hecho": null,
       "snippet": "Escolares son atacados con arma de fuego al salir de colegio en Independencia: dos resultaron heridos larepublica.pe",
       "temas": [
-        "arma_fuego"
+        "Homicidio / sicariato"
       ],
       "ubigeo": [
-        "Independencia",
-        "Ica"
+        "Independencia"
       ],
-      "score": 3,
+      "score": 2,
       "query": "\"arma de fuego\" Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "2bd0cb418db28ba4",
@@ -989,13 +1129,17 @@
       "fecha_pub": "2026-04-25",
       "fecha_hecho": null,
       "snippet": "Crimen en SJL: hombre fue asesinado a balazos mientras conducía su auto RPP Noticias",
-      "temas": [],
+      "temas": [
+        "Homicidio / sicariato"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "\"arma de fuego\" Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "1c56f4e95961c76c",
@@ -1007,15 +1151,19 @@
       "fecha_pub": "2026-04-24",
       "fecha_hecho": null,
       "snippet": "🔴🔵 #ExitosaPerú🇵🇪🇵🇪 | En la región de Arequipa, una pareja fue detenida con más de 19 mil soles durante un operativo, presuntamente vinculados a casos de extorsión. 📻 95.5 FM 📡 6.1 señal digital abierta 📺 Movistar: 552 S",
-      "temas": [],
+      "temas": [
+        "Extorsión"
+      ],
       "ubigeo": [
         "Arequipa"
       ],
-      "score": 1,
+      "score": 3,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Redes sociales",
+      "descartar": false
     },
     {
       "id": "176c29da26f8b3a1",
@@ -1028,16 +1176,18 @@
       "fecha_hecho": null,
       "snippet": "Trujillo: hallan arma de fuego en posesión de escolar de la IE. Los Pinos N60.pe",
       "temas": [
-        "arma_fuego"
+        "Homicidio / sicariato"
       ],
       "ubigeo": [
         "Trujillo"
       ],
-      "score": 3,
+      "score": 2,
       "query": "\"arma de fuego\" Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "aca8a6cd68cdb5a7",
@@ -1049,15 +1199,17 @@
       "fecha_pub": "2026-04-24",
       "fecha_hecho": null,
       "snippet": "Sicarios son cada vez más jóvenes: bandas... panamericana.pe",
-      "temas": [],
-      "ubigeo": [
-        "Ica"
+      "temas": [
+        "Homicidio / sicariato"
       ],
-      "score": 1,
+      "ubigeo": [],
+      "score": 3,
       "query": "sicariato Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "c53f92dac45bc5f6",
@@ -1069,13 +1221,17 @@
       "fecha_pub": "2026-04-24",
       "fecha_hecho": null,
       "snippet": "RLA se disculpa con Samuel Dyer, vía carta notarial, por decir que financió personeros de FP y participó en «secuestro del Perú LP | Pasión por el Derecho",
-      "temas": [],
+      "temas": [
+        "Secuestro"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "secuestro Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "2587245d3ca6de58",
@@ -1087,16 +1243,19 @@
       "fecha_pub": "2026-04-24",
       "fecha_hecho": null,
       "snippet": "PNP desarticula a los 'Chukis del Cono Norte', banda dedicada a la extorsión de comerciantes en Lima Norte RPP Noticias",
-      "temas": [],
+      "temas": [
+        "Extorsión"
+      ],
       "ubigeo": [
-        "Ica",
         "Lima"
       ],
-      "score": 1,
+      "score": 3,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "affe74fcf8766c5a",
@@ -1109,17 +1268,18 @@
       "fecha_hecho": null,
       "snippet": "Niños de 12 años son captados por el sicariato en el Callao Perú 21",
       "temas": [
-        "homicidio"
+        "Homicidio / sicariato"
       ],
       "ubigeo": [
-        "Ica",
         "Callao"
       ],
       "score": 3,
       "query": "sicariato Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "cc7338a0b24d57f1",
@@ -1131,15 +1291,17 @@
       "fecha_pub": "2026-04-24",
       "fecha_hecho": null,
       "snippet": "Desarticulan banda Los Chukis del Cono Norte dedicada a la extorsión de comerciantes TVPerú",
-      "temas": [],
-      "ubigeo": [
-        "Ica"
+      "temas": [
+        "Extorsión"
       ],
-      "score": 1,
+      "ubigeo": [],
+      "score": 3,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "3780d74fee390bd9",
@@ -1151,13 +1313,17 @@
       "fecha_pub": "2026-04-24",
       "fecha_hecho": null,
       "snippet": "Crimen organizado se expande en el norte del país con extorsión como principal amenaza ciudadana inforegion.pe",
-      "temas": [],
+      "temas": [
+        "Extorsión"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "9332f4664178513a",
@@ -1169,13 +1335,17 @@
       "fecha_pub": "2026-04-24",
       "fecha_hecho": null,
       "snippet": "Chincha: capturan a prófugo acusado del homicidio de una abogada del INPE RPP Noticias",
-      "temas": [],
+      "temas": [
+        "Homicidio / sicariato"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "homicidio Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "de34608f8ebd0de6",
@@ -1187,13 +1357,17 @@
       "fecha_pub": "2026-04-24",
       "fecha_hecho": null,
       "snippet": "Capturan en Chincha a prófugo acusado del homicidio de abogada del INPE Perú 21",
-      "temas": [],
+      "temas": [
+        "Homicidio / sicariato"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "homicidio Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "b4271d2f277b9577",
@@ -1205,13 +1379,17 @@
       "fecha_pub": "2026-04-24",
       "fecha_hecho": null,
       "snippet": "Así fue el secuestro de la comerciante peruana 24horas",
-      "temas": [],
+      "temas": [
+        "Secuestro"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "secuestro Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "6fe0b62e64e650d6",
@@ -1224,14 +1402,16 @@
       "fecha_hecho": null,
       "snippet": "Asaltos a mano armada en Las Heras y Luján: atacaron a un delivery y a dos jóvenes Diario Mendoza",
       "temas": [
-        "asalto"
+        "Asalto a mano armada"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "\"mano armada\" Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "447efa2cac2cc429",
@@ -1243,15 +1423,19 @@
       "fecha_pub": "2026-04-24",
       "fecha_hecho": null,
       "snippet": "Alarma en colegio de Chorrillos: hallan casquillos, pero descartan extorsión y revelan insólita razón Trome.com",
-      "temas": [],
+      "temas": [
+        "Extorsión"
+      ],
       "ubigeo": [
         "Chorrillos"
       ],
-      "score": 1,
+      "score": 3,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "765c8020b47ca375",
@@ -1263,13 +1447,17 @@
       "fecha_pub": "2026-04-23",
       "fecha_hecho": null,
       "snippet": "Yahaira pierde los papeles al ver documento que acusa a su pareja, Luis Fernando ‘El Diablo’, de extorsión: “Huev****” Trome.com",
-      "temas": [],
+      "temas": [
+        "Extorsión"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "1c254e03631e6799",
@@ -1291,7 +1479,9 @@
       "query": "\"crimen organizado\" Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": true
     },
     {
       "id": "530f56fd2e8cd4f5",
@@ -1303,13 +1493,17 @@
       "fecha_pub": "2026-04-23",
       "fecha_hecho": null,
       "snippet": "Investigan presunto secuestro de mujer peruana en Estación Central Publimetro",
-      "temas": [],
+      "temas": [
+        "Secuestro"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "secuestro Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "e67783d1f04c9177",
@@ -1321,13 +1515,17 @@
       "fecha_pub": "2026-04-23",
       "fecha_hecho": null,
       "snippet": "Investigan nuevo secuestro en Estación Central: Víctima sería mujer peruana Teletrece",
-      "temas": [],
+      "temas": [
+        "Secuestro"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "secuestro Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "899335e971df009c",
@@ -1340,16 +1538,18 @@
       "fecha_hecho": null,
       "snippet": "Encontraron un arma de fuego y balas en el baño de colegio Trilce en Chorrillos Infobae",
       "temas": [
-        "arma_fuego"
+        "Homicidio / sicariato"
       ],
       "ubigeo": [
         "Chorrillos"
       ],
-      "score": 3,
+      "score": 2,
       "query": "\"arma de fuego\" Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "0b38dd4f9c378ac7",
@@ -1362,17 +1562,18 @@
       "fecha_hecho": null,
       "snippet": "Directora de colegio Trilce en Chorrillos desmiente hallazgo de arma de fuego y niega extorsión: caso estaría ligado a reto viral larepublica.pe",
       "temas": [
-        "arma_fuego"
+        "Extorsión"
       ],
       "ubigeo": [
-        "Chorrillos",
-        "Ica"
+        "Chorrillos"
       ],
       "score": 3,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "fc3fc4ca9b103538",
@@ -1384,16 +1585,19 @@
       "fecha_pub": "2026-04-23",
       "fecha_hecho": null,
       "snippet": "Chorrillos: Policía desarticula banda criminal 'Los Miserables del Sur', dedicada a la extorsión de transportistas RPP Noticias",
-      "temas": [],
-      "ubigeo": [
-        "Chorrillos",
-        "Ica"
+      "temas": [
+        "Extorsión"
       ],
-      "score": 1,
+      "ubigeo": [
+        "Chorrillos"
+      ],
+      "score": 3,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "147b0e6c9fa64fd1",
@@ -1405,16 +1609,19 @@
       "fecha_pub": "2026-04-23",
       "fecha_hecho": null,
       "snippet": "Atentado en el Callao: balean a chofer y cobrador en combi de empresa que era extorsionada Infobae",
-      "temas": [],
+      "temas": [
+        "Extorsión"
+      ],
       "ubigeo": [
-        "Ate",
         "Callao"
       ],
-      "score": 1,
+      "score": 3,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "ce1cc1b8e10c2e29",
@@ -1426,13 +1633,17 @@
       "fecha_pub": "2026-04-22",
       "fecha_hecho": null,
       "snippet": "Robo mano armada deja un herido y un detenido Diario La Hora",
-      "temas": [],
+      "temas": [
+        "Asalto a mano armada"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "\"mano armada\" Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "fbd080acbde30cc4",
@@ -1444,15 +1655,17 @@
       "fecha_pub": "2026-04-22",
       "fecha_hecho": null,
       "snippet": "Roban camioneta a mano armada en la colonia La Campiña en Culiacán debate.com.mx",
-      "temas": [],
-      "ubigeo": [
-        "Ate"
+      "temas": [
+        "Asalto a mano armada"
       ],
-      "score": 1,
+      "ubigeo": [],
+      "score": 3,
       "query": "\"mano armada\" Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "2477ae77def3f7fd",
@@ -1465,16 +1678,18 @@
       "fecha_hecho": null,
       "snippet": "Padres de familia reportan que un arma de fuego y balas fueron halladas dentro del baño de un colegio en Chorrillos RPP Noticias",
       "temas": [
-        "arma_fuego"
+        "Homicidio / sicariato"
       ],
       "ubigeo": [
         "Chorrillos"
       ],
-      "score": 3,
+      "score": 2,
       "query": "\"arma de fuego\" Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "0a50da4581a3118d",
@@ -1486,16 +1701,19 @@
       "fecha_pub": "2026-04-22",
       "fecha_hecho": null,
       "snippet": "Condenan a 30 años a hermana de ‘Jhon Pulpo’ por secuestro de universitaria en Trujillo: otros tres implicados también fueron sentenciados Infobae",
-      "temas": [],
-      "ubigeo": [
-        "Trujillo",
-        "Ica"
+      "temas": [
+        "Secuestro"
       ],
-      "score": 1,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 3,
       "query": "secuestro Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "d1f111e90073e457",
@@ -1507,15 +1725,19 @@
       "fecha_pub": "2026-04-22",
       "fecha_hecho": null,
       "snippet": "Chorrillos: Joven se resiste a secuestro y delincuentes lo balean en la rodilla Perú 21",
-      "temas": [],
+      "temas": [
+        "Secuestro"
+      ],
       "ubigeo": [
         "Chorrillos"
       ],
-      "score": 1,
+      "score": 3,
       "query": "secuestro Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "2ebab844e12f0279",
@@ -1527,13 +1749,17 @@
       "fecha_pub": "2026-04-21",
       "fecha_hecho": null,
       "snippet": "Cyber Days 2026: consejos para no ser víctima de una estafa digital con IA El Peruano",
-      "temas": [],
+      "temas": [
+        "Estafa"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "estafa Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "a82e6ad1bbfb9fe9",
@@ -1553,7 +1779,9 @@
       "query": "secuestro Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": true
     },
     {
       "id": "a3a257324c5427f7",
@@ -1565,15 +1793,17 @@
       "fecha_pub": "2026-04-21",
       "fecha_hecho": null,
       "snippet": "Cae alias 'Satanás': joven colombiano de 20 años extorsionaba a transportistas y empresarios de Gamarra larepublica.pe",
-      "temas": [],
-      "ubigeo": [
-        "Ica"
+      "temas": [
+        "Extorsión"
       ],
-      "score": 1,
+      "ubigeo": [],
+      "score": 3,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "371936651d98fe79",
@@ -1585,15 +1815,17 @@
       "fecha_pub": "2026-04-20",
       "fecha_hecho": null,
       "snippet": "🔵⚪ Antauro Humala, exmilitar condenado por homicidio y rebelión, generó polémica por declaraciones en las que elogió a Sendero Luminoso. Ante ello, el especialista Pedro Yaranga señaló que el fiscal de la Nación debería ",
-      "temas": [],
-      "ubigeo": [
-        "Ica"
+      "temas": [
+        "Homicidio / sicariato"
       ],
-      "score": 1,
+      "ubigeo": [],
+      "score": 3,
       "query": "homicidio Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Redes sociales",
+      "descartar": false
     },
     {
       "id": "370f285ec1eff82c",
@@ -1605,15 +1837,17 @@
       "fecha_pub": "2026-04-20",
       "fecha_hecho": null,
       "snippet": "Samuel Dyer exige a RLA rectificarse por decir que financió personeros de FP y participó en «secuestro del Perú LP | Pasión por el Derecho",
-      "temas": [],
-      "ubigeo": [
-        "Ica"
+      "temas": [
+        "Secuestro"
       ],
-      "score": 1,
+      "ubigeo": [],
+      "score": 3,
       "query": "secuestro Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "5540502d9356621f",
@@ -1625,16 +1859,19 @@
       "fecha_pub": "2026-04-20",
       "fecha_hecho": null,
       "snippet": "Identifican actos de extorsión desde el penal de Juliaca Pachamama Radio",
-      "temas": [],
+      "temas": [
+        "Extorsión"
+      ],
       "ubigeo": [
-        "Ica",
         "Juliaca"
       ],
-      "score": 1,
+      "score": 3,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "11b1e47a11f26d63",
@@ -1646,13 +1883,17 @@
       "fecha_pub": "2026-04-20",
       "fecha_hecho": null,
       "snippet": "El INPE aclara que interno acusado de manejar extorsiones desde el penal no está recluido en Challapalca Infobae",
-      "temas": [],
+      "temas": [
+        "Extorsión"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "fe3c21745133cf9d",
@@ -1664,13 +1905,17 @@
       "fecha_pub": "2026-04-20",
       "fecha_hecho": null,
       "snippet": "Detienen a presunto integrante de banda criminal vinculada a casos de extorsión a comerciantes y empresas de transporte RPP Noticias",
-      "temas": [],
+      "temas": [
+        "Extorsión"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "c4c3b74a0a2ee763",
@@ -1690,7 +1935,9 @@
       "query": "secuestro Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": true
     },
     {
       "id": "527fcfc0d1b09f9d",
@@ -1702,13 +1949,17 @@
       "fecha_pub": "2026-04-20",
       "fecha_hecho": null,
       "snippet": "Caso Minosska Pinto: piden prisión preventiva contra esposo, acusado como presunto autor intelectual del asesinato Infobae",
-      "temas": [],
+      "temas": [
+        "Homicidio / sicariato"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "sicariato Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "7c98bed08eece41d",
@@ -1720,13 +1971,17 @@
       "fecha_pub": "2026-04-19",
       "fecha_hecho": null,
       "snippet": "¡Perú en alerta! Puesto 11 en inseguridad mundial, 75 denuncias de extorsión al día y una estela de muerte que no se detiene Trome.com",
-      "temas": [],
+      "temas": [
+        "Extorsión"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "594e1902a7a5ab36",
@@ -1738,15 +1993,18 @@
       "fecha_pub": "2026-04-19",
       "fecha_hecho": null,
       "snippet": "Terror en SJL: Sicario balea a vigilante en mercado extorsionado y lo deja grave Infobae",
-      "temas": [],
-      "ubigeo": [
-        "Ica"
+      "temas": [
+        "Extorsión",
+        "Homicidio / sicariato"
       ],
-      "score": 1,
+      "ubigeo": [],
+      "score": 5,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "fdcf3fb67e147304",
@@ -1758,17 +2016,20 @@
       "fecha_pub": "2026-04-19",
       "fecha_hecho": null,
       "snippet": "PNP desbarata dos bandas dedicadas a la extorsión en Lima Norte y Miraflores El Peruano",
-      "temas": [],
+      "temas": [
+        "Extorsión"
+      ],
       "ubigeo": [
         "Miraflores",
-        "Ica",
         "Lima"
       ],
-      "score": 1,
+      "score": 3,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "5612a069779d01a7",
@@ -1780,15 +2041,19 @@
       "fecha_pub": "2026-04-19",
       "fecha_hecho": null,
       "snippet": "Huancayo: joven confesó haber asesinado a su mejor amigo de 17 años tras una discusión mientras bebían alcohol Infobae",
-      "temas": [],
+      "temas": [
+        "Homicidio / sicariato"
+      ],
       "ubigeo": [
         "Huancayo"
       ],
-      "score": 1,
+      "score": 3,
       "query": "homicidio Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "9d42f9121ce39ccf",
@@ -1801,16 +2066,16 @@
       "fecha_hecho": null,
       "snippet": "Exitosa Noticias. . 🔴🔵 #ExitosaPerú 🇵🇪🇵🇪 | En la provincia de Pisco, la Policía Nacional detuvo a un presunto sicario de nacionalidad venezolana, que portaba un arma de fuego y municiones al momento de la intervención. S",
       "temas": [
-        "arma_fuego"
+        "Homicidio / sicariato"
       ],
-      "ubigeo": [
-        "Ica"
-      ],
+      "ubigeo": [],
       "score": 3,
       "query": "\"arma de fuego\" Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Redes sociales",
+      "descartar": false
     },
     {
       "id": "efadc2a0fdd18d2a",
@@ -1822,16 +2087,19 @@
       "fecha_pub": "2026-04-19",
       "fecha_hecho": null,
       "snippet": "Desde Juliaca, Lucio Moreno (a) Viejo, dirigía extorsiones a transportistas larepublica.pe",
-      "temas": [],
+      "temas": [
+        "Extorsión"
+      ],
       "ubigeo": [
-        "Ica",
         "Juliaca"
       ],
-      "score": 1,
+      "score": 3,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "06aba92a504db02c",
@@ -1843,17 +2111,20 @@
       "fecha_pub": "2026-04-19",
       "fecha_hecho": null,
       "snippet": "Desarticulan dos bandas criminales dedicadas a la extorsión en Lima Norte y Miraflores RPP Noticias",
-      "temas": [],
+      "temas": [
+        "Extorsión"
+      ],
       "ubigeo": [
         "Miraflores",
-        "Ica",
         "Lima"
       ],
-      "score": 1,
+      "score": 3,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "468fc686cd46ba50",
@@ -1865,13 +2136,17 @@
       "fecha_pub": "2026-04-19",
       "fecha_hecho": null,
       "snippet": "Condenan a 35 años de prisión a tres extranjeros por secuestro a empresaria El Peruano",
-      "temas": [],
+      "temas": [
+        "Secuestro"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "secuestro Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "5610fb33a705654a",
@@ -1883,16 +2158,19 @@
       "fecha_pub": "2026-04-19",
       "fecha_hecho": null,
       "snippet": "Comas: capturan a presunto sicario sospechoso de homicidio de joven de 19 años RPP Noticias",
-      "temas": [],
-      "ubigeo": [
-        "Comas",
-        "Ica"
+      "temas": [
+        "Homicidio / sicariato"
       ],
-      "score": 1,
+      "ubigeo": [
+        "Comas"
+      ],
+      "score": 3,
       "query": "homicidio Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "c1900e80b463f8f6",
@@ -1905,16 +2183,17 @@
       "fecha_hecho": null,
       "snippet": "Cifras de extorsión, sicariato y retos del nuevo gobierno América TV",
       "temas": [
-        "homicidio"
+        "Extorsión",
+        "Homicidio / sicariato"
       ],
-      "ubigeo": [
-        "Ica"
-      ],
-      "score": 3,
+      "ubigeo": [],
+      "score": 5,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "20ad0ec19507cdb8",
@@ -1927,14 +2206,14 @@
       "fecha_hecho": null,
       "snippet": "Uso de drones en guerra y contra crimen organizado redefine combate moderno y amplía su impacto en lucha contra criminalidad Diario Expreso",
       "temas": [],
-      "ubigeo": [
-        "Ate"
-      ],
+      "ubigeo": [],
       "score": 1,
       "query": "\"crimen organizado\" Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": true
     },
     {
       "id": "c4b93798fa852da7",
@@ -1946,16 +2225,19 @@
       "fecha_pub": "2026-04-18",
       "fecha_hecho": null,
       "snippet": "Sicarios ejecutan a hombre de ocho disparos en El Agustino Perú 21",
-      "temas": [],
-      "ubigeo": [
-        "El Agustino",
-        "Ica"
+      "temas": [
+        "Homicidio / sicariato"
       ],
-      "score": 1,
+      "ubigeo": [
+        "El Agustino"
+      ],
+      "score": 3,
       "query": "sicariato Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "0f88378f384a1bf4",
@@ -1967,16 +2249,19 @@
       "fecha_pub": "2026-04-18",
       "fecha_hecho": null,
       "snippet": "Exitosa Noticias. . 🔴🔵#ExitosaPerú🇵🇪🇵🇪 | En el distrito de Los Olivos, la Policía detuvo a dos presuntos integrantes de 'La Nueva Generación' que se dedicaba a extorsionar a mototaxistas. 📻 95.5 FM 📡 6.1 señal digital ab",
-      "temas": [],
-      "ubigeo": [
-        "Los Olivos",
-        "Ica"
+      "temas": [
+        "Extorsión"
       ],
-      "score": 1,
+      "ubigeo": [
+        "Los Olivos"
+      ],
+      "score": 3,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Redes sociales",
+      "descartar": false
     },
     {
       "id": "8284db1d9e7c6e4f",
@@ -1988,13 +2273,17 @@
       "fecha_pub": "2026-04-18",
       "fecha_hecho": null,
       "snippet": "Banda que extorsionaba a transportistas con falsas polladas logró amasar más de dos millones de soles Infobae",
-      "temas": [],
+      "temas": [
+        "Extorsión"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "8d6026f1e5f9bf59",
@@ -2007,16 +2296,18 @@
       "fecha_hecho": null,
       "snippet": "Trujillo: Intervienen a dos escolares con arma de fuego y crece preocupación entre padres de familia Exitosa Noticias",
       "temas": [
-        "arma_fuego"
+        "Homicidio / sicariato"
       ],
       "ubigeo": [
         "Trujillo"
       ],
-      "score": 3,
+      "score": 2,
       "query": "\"arma de fuego\" Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "6086816f523f650b",
@@ -2029,16 +2320,18 @@
       "fecha_hecho": null,
       "snippet": "Dos escolares en Trujillo son retenidos con arma de fuego: ¿qué medidas tomarán las autoridades? RPP Noticias",
       "temas": [
-        "arma_fuego"
+        "Homicidio / sicariato"
       ],
       "ubigeo": [
         "Trujillo"
       ],
-      "score": 3,
+      "score": 2,
       "query": "\"arma de fuego\" Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "4a39edad3243b5dd",
@@ -2050,17 +2343,19 @@
       "fecha_pub": "2026-04-17",
       "fecha_hecho": null,
       "snippet": "Caen Los Malditos de Bayóvar: banda acusada de extorsionar y atentar contra empresa de transporte en San Juan de Lurigancho larepublica.pe",
-      "temas": [],
-      "ubigeo": [
-        "San Juan de Lurigancho",
-        "Ate",
-        "Ica"
+      "temas": [
+        "Extorsión"
       ],
-      "score": 1,
+      "ubigeo": [
+        "San Juan de Lurigancho"
+      ],
+      "score": 3,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "246377847aee20bb",
@@ -2072,15 +2367,19 @@
       "fecha_pub": "2026-04-16",
       "fecha_hecho": null,
       "snippet": "Tacna: Asesinato de empresaria da giro con detención de abogada como principal sospechosa del crimen Exitosa Noticias",
-      "temas": [],
+      "temas": [
+        "Homicidio / sicariato"
+      ],
       "ubigeo": [
         "Tacna"
       ],
-      "score": 1,
+      "score": 3,
       "query": "homicidio Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "5c1c65003a4e70df",
@@ -2093,16 +2392,18 @@
       "fecha_hecho": null,
       "snippet": "Soldado robó arma de fuego y 2,400 soles a un mayor dentro de cuartel en Trujillo ATV.pe",
       "temas": [
-        "arma_fuego"
+        "Homicidio / sicariato"
       ],
       "ubigeo": [
         "Trujillo"
       ],
-      "score": 3,
+      "score": 2,
       "query": "\"arma de fuego\" Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "d19526cb1ee90d65",
@@ -2115,17 +2416,18 @@
       "fecha_hecho": null,
       "snippet": "Sicariato en Lima Norte: crimen sería por disputa familiar América TV",
       "temas": [
-        "homicidio"
+        "Homicidio / sicariato"
       ],
       "ubigeo": [
-        "Ica",
         "Lima"
       ],
       "score": 3,
       "query": "sicariato Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "aa18addc66ddacd0",
@@ -2137,13 +2439,17 @@
       "fecha_pub": "2026-04-16",
       "fecha_hecho": null,
       "snippet": "Policía de Nebraska abatió a mujer que secuestró a un niño y lo atacó con un cuchillo | VIDEO Perú 21",
-      "temas": [],
+      "temas": [
+        "Secuestro"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "secuestro Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "d3149f4101c74d25",
@@ -2155,15 +2461,19 @@
       "fecha_pub": "2026-04-16",
       "fecha_hecho": null,
       "snippet": "La Libertad: ¿qué se sabe de los cuatro policías que fueron intervenidos en Pataz acusados de extorsión? RPP Noticias",
-      "temas": [],
+      "temas": [
+        "Extorsión"
+      ],
       "ubigeo": [
         "La Libertad"
       ],
-      "score": 1,
+      "score": 3,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "d8f4ba61a41585ef",
@@ -2175,16 +2485,19 @@
       "fecha_pub": "2026-04-16",
       "fecha_hecho": null,
       "snippet": "Extorsionador ataca a obrero en Comas, huye y se estrella contra combi antes de ser capturado larepublica.pe",
-      "temas": [],
-      "ubigeo": [
-        "Comas",
-        "Ica"
+      "temas": [
+        "Extorsión"
       ],
-      "score": 1,
+      "ubigeo": [
+        "Comas"
+      ],
+      "score": 3,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "23c564e45f623d2c",
@@ -2197,17 +2510,18 @@
       "fecha_hecho": null,
       "snippet": "🔴🔵#ElInformativoDeExitosa📺📺 | Un nuevo acto de sicariato se registró en Trujillo, luego de que un sujeto fuera baleado en el límite de los distritos de La Esperanza y Huanchaco. El ataque se registró cuando salía de su a",
       "temas": [
-        "homicidio"
+        "Homicidio / sicariato"
       ],
       "ubigeo": [
-        "Trujillo",
-        "Ica"
+        "Trujillo"
       ],
       "score": 3,
       "query": "sicariato Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Redes sociales",
+      "descartar": false
     },
     {
       "id": "13c6ab8cdbfc7696",
@@ -2219,15 +2533,17 @@
       "fecha_pub": "2026-04-15",
       "fecha_hecho": null,
       "snippet": "Sicario asesina a odontólogo que regresaba de jugar fútbol en Bellavista Perú 21",
-      "temas": [],
-      "ubigeo": [
-        "Ica"
+      "temas": [
+        "Homicidio / sicariato"
       ],
-      "score": 1,
+      "ubigeo": [],
+      "score": 3,
       "query": "sicariato Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "44d74bf0a88b2fba",
@@ -2240,16 +2556,16 @@
       "fecha_hecho": null,
       "snippet": "Sicariato de paraguaya en Perú: caen integrantes del temible Tren de Aragua abc.com.py",
       "temas": [
-        "homicidio"
+        "Homicidio / sicariato"
       ],
-      "ubigeo": [
-        "Ica"
-      ],
+      "ubigeo": [],
       "score": 3,
       "query": "sicariato Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "db854d637c6bcab2",
@@ -2261,16 +2577,19 @@
       "fecha_pub": "2026-04-15",
       "fecha_hecho": null,
       "snippet": "Liberan a esposo de doctora acusado de encargar su asesinato en Piura: sicario confesó el pago de un soborno larepublica.pe",
-      "temas": [],
-      "ubigeo": [
-        "Piura",
-        "Ica"
+      "temas": [
+        "Homicidio / sicariato"
       ],
-      "score": 1,
+      "ubigeo": [
+        "Piura"
+      ],
+      "score": 3,
       "query": "homicidio Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "95153e97bb378bb8",
@@ -2282,16 +2601,19 @@
       "fecha_pub": "2026-04-15",
       "fecha_hecho": null,
       "snippet": "Joven evitó presunto secuestro tras resistirse y pedir ayuda, pero terminó herido de bala en Chorrillos larepublica.pe",
-      "temas": [],
-      "ubigeo": [
-        "Chorrillos",
-        "Ica"
+      "temas": [
+        "Secuestro"
       ],
-      "score": 1,
+      "ubigeo": [
+        "Chorrillos"
+      ],
+      "score": 3,
       "query": "secuestro Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "0b1249f97281a2bd",
@@ -2309,7 +2631,9 @@
       "query": "\"crimen organizado\" Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": true
     },
     {
       "id": "6df8da145b3007a4",
@@ -2321,16 +2645,20 @@
       "fecha_pub": "2026-04-15",
       "fecha_hecho": null,
       "snippet": "Huánuco: detienen a dos extranjeros por extorsión en la modalidad de 'gota a gota' RPP Noticias",
-      "temas": [],
+      "temas": [
+        "Extorsión"
+      ],
       "ubigeo": [
         "Huánuco",
         "Huanuco"
       ],
-      "score": 1,
+      "score": 3,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "70183931f289ee37",
@@ -2342,15 +2670,17 @@
       "fecha_pub": "2026-04-15",
       "fecha_hecho": null,
       "snippet": "Extorsionadores atentan a balazos contra la oficina del excongresista Daniel Salaverry: se salvó de milagro Infobae",
-      "temas": [],
-      "ubigeo": [
-        "Ate"
+      "temas": [
+        "Extorsión"
       ],
-      "score": 1,
+      "ubigeo": [],
+      "score": 3,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "282185f9f70e0a1c",
@@ -2362,13 +2692,18 @@
       "fecha_pub": "2026-04-15",
       "fecha_hecho": null,
       "snippet": "Exitosa Noticias. . 🔴🔵#HablemosClaro💬💬 | Dictan 13 meses de prisión preventiva contra policías que son investigados por presunto secuestro y extorsión en agravio de mujeres en Huaura. 📻 95.5 FM 📡 6.1 señal digital abiert",
-      "temas": [],
+      "temas": [
+        "Extorsión",
+        "Secuestro"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 5,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Redes sociales",
+      "descartar": false
     },
     {
       "id": "b7dd4fd021f6bef4",
@@ -2380,13 +2715,17 @@
       "fecha_pub": "2026-04-15",
       "fecha_hecho": null,
       "snippet": "Detienen a amiga de empresaria: Es la principal sospechosa de su asesinato latinanoticias.pe",
-      "temas": [],
+      "temas": [
+        "Homicidio / sicariato"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "homicidio Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "390c71747b7bc0ae",
@@ -2398,16 +2737,19 @@
       "fecha_pub": "2026-04-15",
       "fecha_hecho": null,
       "snippet": "Callao vive madrugada de terror: tres personas fueron asesinadas por sicarios en solo dos horas Infobae",
-      "temas": [],
+      "temas": [
+        "Homicidio / sicariato"
+      ],
       "ubigeo": [
-        "Ica",
         "Callao"
       ],
-      "score": 1,
+      "score": 3,
       "query": "sicariato Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "43a41ffbe82372f2",
@@ -2419,13 +2761,17 @@
       "fecha_pub": "2026-04-14",
       "fecha_hecho": null,
       "snippet": "Tres bandas extorsionan a “Los Rojitos” en SJM: ataques armados y amenazas reducen unidades y agravan crisis del servicio Infobae",
-      "temas": [],
+      "temas": [
+        "Extorsión"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "be433fbdc606b56f",
@@ -2437,15 +2783,17 @@
       "fecha_pub": "2026-04-14",
       "fecha_hecho": null,
       "snippet": "Sicario asesina a odontólogo en Bellavista tras regresar de jugar fútbol con amigos larepublica.pe",
-      "temas": [],
-      "ubigeo": [
-        "Ica"
+      "temas": [
+        "Homicidio / sicariato"
       ],
-      "score": 1,
+      "ubigeo": [],
+      "score": 3,
       "query": "sicariato Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "be831fbcf50f9eae",
@@ -2458,15 +2806,14 @@
       "fecha_hecho": null,
       "snippet": "PRONABI convoca subasta pública 2026 de vehículos decomisados al crimen organizado. Participa e infórmate El Peruano",
       "temas": [],
-      "ubigeo": [
-        "Ate",
-        "Ica"
-      ],
+      "ubigeo": [],
       "score": 1,
       "query": "\"crimen organizado\" Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": true
     },
     {
       "id": "3ca60164b8bc8853",
@@ -2478,16 +2825,19 @@
       "fecha_pub": "2026-04-14",
       "fecha_hecho": null,
       "snippet": "Exesposo habría mandado matar a doctora por S/10 mil en Piura: sicario la siguió 13 minutos y disparó frente a colegio Infobae",
-      "temas": [],
-      "ubigeo": [
-        "Piura",
-        "Ica"
+      "temas": [
+        "Homicidio / sicariato"
       ],
-      "score": 1,
+      "ubigeo": [
+        "Piura"
+      ],
+      "score": 3,
       "query": "sicariato Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "8924c6d2a9fd6080",
@@ -2499,16 +2849,19 @@
       "fecha_pub": "2026-04-14",
       "fecha_hecho": null,
       "snippet": "Crimen de doctora en Piura da un giro: Sicario acusa al esposo como autor intelectual, según PNP Infobae",
-      "temas": [],
-      "ubigeo": [
-        "Piura",
-        "Ica"
+      "temas": [
+        "Homicidio / sicariato"
       ],
-      "score": 1,
+      "ubigeo": [
+        "Piura"
+      ],
+      "score": 3,
       "query": "sicariato Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "3b8d896f6dd86b32",
@@ -2520,16 +2873,19 @@
       "fecha_pub": "2026-04-14",
       "fecha_hecho": null,
       "snippet": "Convocan a vigilia nacional para exigir justicia por el asesinato de médica en Piura a manos de sicarios Infobae",
-      "temas": [],
-      "ubigeo": [
-        "Piura",
-        "Ica"
+      "temas": [
+        "Homicidio / sicariato"
       ],
-      "score": 1,
+      "ubigeo": [
+        "Piura"
+      ],
+      "score": 3,
       "query": "sicariato Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "fcdd015049233c78",
@@ -2541,13 +2897,17 @@
       "fecha_pub": "2026-04-14",
       "fecha_hecho": null,
       "snippet": "Capturan a cuatro policías de la Divincri en Pataz: investigan secuestro, cobro de S/40 mil y vínculos con redes ilícitas Infobae",
-      "temas": [],
+      "temas": [
+        "Secuestro"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "1a8aede5411a7f4b",
@@ -2559,15 +2919,20 @@
       "fecha_pub": "2026-04-14",
       "fecha_hecho": null,
       "snippet": "4 policías de la Divincri Trujillo fueron detenidos por presunto secuestro y extorsión Macronorte",
-      "temas": [],
+      "temas": [
+        "Extorsión",
+        "Secuestro"
+      ],
       "ubigeo": [
         "Trujillo"
       ],
-      "score": 1,
+      "score": 5,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "1d338922197850db",
@@ -2579,13 +2944,19 @@
       "fecha_pub": "2026-04-13",
       "fecha_hecho": null,
       "snippet": "🔴🔵#ElInformativoDeExitosa📺📺 | Los dos extranjeros que secuestraron y asesinaron a un empresario de 51 años fueron condenados a cadena perpetua. La sentencia se les aplicó por los delitos de extorsión agravada y secuestro",
-      "temas": [],
+      "temas": [
+        "Extorsión",
+        "Secuestro",
+        "Homicidio / sicariato"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 6,
       "query": "secuestro Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Redes sociales",
+      "descartar": false
     },
     {
       "id": "52e3c84b112968eb",
@@ -2597,13 +2968,17 @@
       "fecha_pub": "2026-04-13",
       "fecha_hecho": null,
       "snippet": "Muere un futbolista en un atraco a mano armada al autobús del equipo La Razón",
-      "temas": [],
+      "temas": [
+        "Asalto a mano armada"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "\"mano armada\" Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "2fb1503e5df00129",
@@ -2615,15 +2990,20 @@
       "fecha_pub": "2026-04-13",
       "fecha_hecho": null,
       "snippet": "La Libertad: detienen a cuatro policías investigados por extorsión y secuestro Macronorte",
-      "temas": [],
+      "temas": [
+        "Extorsión",
+        "Secuestro"
+      ],
       "ubigeo": [
         "La Libertad"
       ],
-      "score": 1,
+      "score": 5,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "8f0b5e2ea0391b41",
@@ -2635,13 +3015,17 @@
       "fecha_pub": "2026-04-13",
       "fecha_hecho": null,
       "snippet": "Detienen a 4 policías por presunto secuestro y cobro de S/40,000 en Pataz Perú 21",
-      "temas": [],
+      "temas": [
+        "Secuestro"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "secuestro Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "a25bbba1523d5162",
@@ -2653,16 +3037,20 @@
       "fecha_pub": "2026-04-13",
       "fecha_hecho": null,
       "snippet": "Capturan a cuatro policías de inteligencia por extorsión y secuestro de mujer en Pataz, La Libertad larepublica.pe",
-      "temas": [],
+      "temas": [
+        "Extorsión",
+        "Secuestro"
+      ],
       "ubigeo": [
-        "Ica",
         "La Libertad"
       ],
-      "score": 1,
+      "score": 5,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "10152fe921283796",
@@ -2674,16 +3062,19 @@
       "fecha_pub": "2026-04-13",
       "fecha_hecho": null,
       "snippet": "Asesinato de médica pediatra en Piura: detenido acusa al esposo de Minosska Pinto como autor intelectual del crimen larepublica.pe",
-      "temas": [],
-      "ubigeo": [
-        "Piura",
-        "Ica"
+      "temas": [
+        "Homicidio / sicariato"
       ],
-      "score": 1,
+      "ubigeo": [
+        "Piura"
+      ],
+      "score": 3,
       "query": "homicidio Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "cf95061e078c05af",
@@ -2695,15 +3086,17 @@
       "fecha_pub": "2026-04-12",
       "fecha_hecho": null,
       "snippet": "Extorsiones: Mientras la PNP dice que son 3.891 casos, el MP afirma que van 5.966 hechos larepublica.pe",
-      "temas": [],
-      "ubigeo": [
-        "Ica"
+      "temas": [
+        "Extorsión"
       ],
-      "score": 1,
+      "ubigeo": [],
+      "score": 3,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "3e05fc609af8f8bf",
@@ -2716,16 +3109,17 @@
       "fecha_hecho": null,
       "snippet": "Entre extorsiones y sicariato: la crisis que marcará al próximo gobierno América TV",
       "temas": [
-        "homicidio"
+        "Extorsión",
+        "Homicidio / sicariato"
       ],
-      "ubigeo": [
-        "Ica"
-      ],
-      "score": 3,
+      "ubigeo": [],
+      "score": 5,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "8f6727d51db43df9",
@@ -2738,17 +3132,18 @@
       "fecha_hecho": null,
       "snippet": "Sicariato en Piura: asesinan a médica pediatra en la puerta de su casa y familia exige investigación inmediata Revista Caretas",
       "temas": [
-        "homicidio"
+        "Homicidio / sicariato"
       ],
       "ubigeo": [
-        "Piura",
-        "Ica"
+        "Piura"
       ],
       "score": 3,
       "query": "sicariato Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "91b666e9d91788a4",
@@ -2760,15 +3155,18 @@
       "fecha_pub": "2026-04-11",
       "fecha_hecho": null,
       "snippet": "Rafael López Aliaga plantea declarar al Perú en conflicto armado interno desde 28 de julio: \"Entraremos a la guerra contra extorsionadores y sicarios\" willax.pe",
-      "temas": [],
-      "ubigeo": [
-        "Ica"
+      "temas": [
+        "Extorsión",
+        "Homicidio / sicariato"
       ],
-      "score": 1,
+      "ubigeo": [],
+      "score": 5,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "4a5751fd1533af9e",
@@ -2780,16 +3178,19 @@
       "fecha_pub": "2026-04-11",
       "fecha_hecho": null,
       "snippet": "Piura: Sicario asesina a doctora de 38 años en la puerta de su casa El Comercio Perú",
-      "temas": [],
-      "ubigeo": [
-        "Piura",
-        "Ica"
+      "temas": [
+        "Homicidio / sicariato"
       ],
-      "score": 1,
+      "ubigeo": [
+        "Piura"
+      ],
+      "score": 3,
       "query": "sicariato Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "6db82d7d120175ed",
@@ -2801,15 +3202,19 @@
       "fecha_pub": "2026-04-10",
       "fecha_hecho": null,
       "snippet": "Trujillo: PNP desarticula banda criminal de adolescentes acusados de extorsionar soltv peru",
-      "temas": [],
+      "temas": [
+        "Extorsión"
+      ],
       "ubigeo": [
         "Trujillo"
       ],
-      "score": 1,
+      "score": 3,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "27e654536230652f",
@@ -2821,15 +3226,17 @@
       "fecha_pub": "2026-04-10",
       "fecha_hecho": null,
       "snippet": "Dejan artefacto explosivo en la puerta del colegio Dios Es Amor en Ancón: investigan posible caso de extorsión larepublica.pe",
-      "temas": [],
-      "ubigeo": [
-        "Ica"
+      "temas": [
+        "Extorsión"
       ],
-      "score": 1,
+      "ubigeo": [],
+      "score": 3,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "b0c7e94c49234d62",
@@ -2841,15 +3248,17 @@
       "fecha_pub": "2026-04-09",
       "fecha_hecho": null,
       "snippet": "¡Golpe a la extorsión! Capturan a alias... panamericana.pe",
-      "temas": [],
-      "ubigeo": [
-        "Ica"
+      "temas": [
+        "Extorsión"
       ],
-      "score": 1,
+      "ubigeo": [],
+      "score": 3,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "b269325ab70b25f5",
@@ -2869,7 +3278,9 @@
       "query": "homicidio Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": true
     },
     {
       "id": "c368449a3699cf6b",
@@ -2881,13 +3292,17 @@
       "fecha_pub": "2026-04-09",
       "fecha_hecho": null,
       "snippet": "Tragedia en la PNP: suboficial pierde la vida tras recibir disparo accidental en el pecho de su compañero policía Infobae",
-      "temas": [],
+      "temas": [
+        "Homicidio / sicariato"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 2,
       "query": "\"arma de fuego\" Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "7d64560824a19bf5",
@@ -2899,13 +3314,17 @@
       "fecha_pub": "2026-04-09",
       "fecha_hecho": null,
       "snippet": "Rafael Grisolle: Exponen imágenes del empresario llevándose a su hijo del colegio en medio de denuncia por presunto secuestro Infobae",
-      "temas": [],
+      "temas": [
+        "Secuestro"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "secuestro Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "e317c565259b5c47",
@@ -2923,7 +3342,9 @@
       "query": "\"crimen organizado\" Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": true
     },
     {
       "id": "b52c0c2ebb5bc22d",
@@ -2935,13 +3356,17 @@
       "fecha_pub": "2026-04-09",
       "fecha_hecho": null,
       "snippet": "Las cuentas del miedo: Promotor de eventos sería el brazo financiero de extorsionadores capturados en megaoperativo Infobae",
-      "temas": [],
+      "temas": [
+        "Extorsión"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "0fb69ccd7b6be5d9",
@@ -2953,13 +3378,17 @@
       "fecha_pub": "2026-04-09",
       "fecha_hecho": null,
       "snippet": "Empresa de transportes ‘41’ suspende operaciones tras nuevas amenazas de extorsión Perú 21",
-      "temas": [],
+      "temas": [
+        "Extorsión"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "faf00fb09dc5f248",
@@ -2971,15 +3400,17 @@
       "fecha_pub": "2026-04-09",
       "fecha_hecho": null,
       "snippet": "Casa en Punta Negra era base de una banda criminal dedicada a estafas bancarias: 18 miembros fueron detenidos Infobae",
-      "temas": [],
-      "ubigeo": [
-        "Ica"
+      "temas": [
+        "Estafa"
       ],
-      "score": 1,
+      "ubigeo": [],
+      "score": 3,
       "query": "estafa Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "e116ed368c47aed6",
@@ -2992,14 +3423,16 @@
       "fecha_hecho": null,
       "snippet": "Asalto a mano armada en restaurante de Usaquén quedó en video: motorizados hurtaron un reloj de alta gama Infobae",
       "temas": [
-        "asalto"
+        "Asalto a mano armada"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "\"mano armada\" Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "192f7ad912619fbc",
@@ -3017,7 +3450,9 @@
       "query": "\"crimen organizado\" Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": true
     },
     {
       "id": "8c7983ac45ebe732",
@@ -3035,7 +3470,9 @@
       "query": "\"crimen organizado\" Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": true
     },
     {
       "id": "7d53588241b888d0",
@@ -3047,13 +3484,17 @@
       "fecha_pub": "2026-04-08",
       "fecha_hecho": null,
       "snippet": "¡Última hora! Christian Lara irá a prisión por robo a mano armada ¿cuándo sale? bolavip.com",
-      "temas": [],
+      "temas": [
+        "Asalto a mano armada"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "\"mano armada\" Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "26d30a51ca39602b",
@@ -3065,13 +3506,18 @@
       "fecha_pub": "2026-04-08",
       "fecha_hecho": null,
       "snippet": "¡Captados como delincuentes! | Extorsión, secuestro, robo y drogas: tres casos que golpean a la PNP (VIDEO) El Búho.pe",
-      "temas": [],
+      "temas": [
+        "Extorsión",
+        "Secuestro"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 5,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "95096ed8333c32ec",
@@ -3083,13 +3529,17 @@
       "fecha_pub": "2026-04-08",
       "fecha_hecho": null,
       "snippet": "Nuevo: Amsterdam Brand Partners y ASEP buscan ayudar a víctimas de extorsión en Perú Adlatina",
-      "temas": [],
+      "temas": [
+        "Extorsión"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "c93690236c082617",
@@ -3102,14 +3552,14 @@
       "fecha_hecho": null,
       "snippet": "Ministerio Público investiga preliminarmente a candidato de Perú Primero por presunto intento de homicidio contra periodista larepublica.pe",
       "temas": [],
-      "ubigeo": [
-        "Ica"
-      ],
+      "ubigeo": [],
       "score": 1,
       "query": "homicidio Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": true
     },
     {
       "id": "36f3d464c6e1617f",
@@ -3121,15 +3571,19 @@
       "fecha_pub": "2026-04-08",
       "fecha_hecho": null,
       "snippet": "Golpe a la extorsión en Lima: detienen a 18 integrantes de banda criminal Las Cuentas del Miedo TVPerú",
-      "temas": [],
+      "temas": [
+        "Extorsión"
+      ],
       "ubigeo": [
         "Lima"
       ],
-      "score": 1,
+      "score": 3,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "3b6f5e94fb000148",
@@ -3145,14 +3599,15 @@
         "general"
       ],
       "ubigeo": [
-        "San Juan de Lurigancho",
-        "Ica"
+        "San Juan de Lurigancho"
       ],
       "score": 3,
       "query": "\"arma de fuego\" Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Redes sociales",
+      "descartar": true
     },
     {
       "id": "1481108f6a98dadd",
@@ -3164,13 +3619,17 @@
       "fecha_pub": "2026-04-08",
       "fecha_hecho": null,
       "snippet": "En video quedó nuevo atraco a mano armada a un café en exclusiva zona de Bogotá y en pleno día Infobae",
-      "temas": [],
+      "temas": [
+        "Asalto a mano armada"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "\"mano armada\" Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "03e65b82b92775cb",
@@ -3182,13 +3641,17 @@
       "fecha_pub": "2026-04-08",
       "fecha_hecho": null,
       "snippet": "Elecciones en Perú: la escalada de extorsiones instala la pena de muerte en el centro de la campaña perfil.com",
-      "temas": [],
+      "temas": [
+        "Extorsión"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "330a88bc72688062",
@@ -3201,16 +3664,16 @@
       "fecha_hecho": null,
       "snippet": "Denuncian al candidato de Perú Primero por atentar contra periodista: lo acusan de realizar disparos con arma de fuego Infobae",
       "temas": [
-        "arma_fuego"
+        "Homicidio / sicariato"
       ],
-      "ubigeo": [
-        "Ate"
-      ],
-      "score": 3,
+      "ubigeo": [],
+      "score": 2,
       "query": "\"arma de fuego\" Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "e8bd078e83afe89c",
@@ -3222,13 +3685,17 @@
       "fecha_pub": "2026-04-08",
       "fecha_hecho": null,
       "snippet": "Chofer de ‘Los Rojitos’ detenido por extorsión a transportistas: así ayudaba a delincuentes a seleccionar víctimas Diario Expreso",
-      "temas": [],
+      "temas": [
+        "Extorsión"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "9c1495478afd1eaf",
@@ -3246,7 +3713,9 @@
       "query": "\"crimen organizado\" Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": true
     },
     {
       "id": "b468584066b5b26e",
@@ -3258,13 +3727,17 @@
       "fecha_pub": "2026-04-08",
       "fecha_hecho": null,
       "snippet": "Caen 18 integrantes de organización criminal que extorsionaba a transportistas: miembro de las FF.AA. entre los detenidos Infobae",
-      "temas": [],
+      "temas": [
+        "Extorsión"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "add1a1ac87d8c5d9",
@@ -3276,15 +3749,17 @@
       "fecha_pub": "2026-04-08",
       "fecha_hecho": null,
       "snippet": "Cae sicario que baleó a mujer en condominio de Jesús María: PNP investiga autoría intelectual del ataque Infobae",
-      "temas": [],
-      "ubigeo": [
-        "Ica"
+      "temas": [
+        "Homicidio / sicariato"
       ],
-      "score": 1,
+      "ubigeo": [],
+      "score": 3,
       "query": "sicariato Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "289802fe134d27db",
@@ -3296,16 +3771,17 @@
       "fecha_pub": "2026-04-08",
       "fecha_hecho": null,
       "snippet": "Cae sicario que atentó contra madre en Jesús María: PNP apunta a autor intelectual del ataque larepublica.pe",
-      "temas": [],
-      "ubigeo": [
-        "Ate",
-        "Ica"
+      "temas": [
+        "Homicidio / sicariato"
       ],
-      "score": 1,
+      "ubigeo": [],
+      "score": 3,
       "query": "sicariato Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "8bd6399e8195194d",
@@ -3317,13 +3793,17 @@
       "fecha_pub": "2026-04-08",
       "fecha_hecho": null,
       "snippet": "Aumentan los atracos a mano armada en La Paz: Son más violentos y los asaltantes son jóvenes urgente.bo",
-      "temas": [],
+      "temas": [
+        "Asalto a mano armada"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "\"mano armada\" Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "5a2ebb7dccba8655",
@@ -3336,17 +3816,18 @@
       "fecha_hecho": null,
       "snippet": "Adolescente involucrado en redes de sicariato es detenido por segunda vez en el Callao Infobae",
       "temas": [
-        "homicidio"
+        "Homicidio / sicariato"
       ],
       "ubigeo": [
-        "Ica",
         "Callao"
       ],
       "score": 3,
       "query": "\"arma de fuego\" Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "0fd21795fce20c59",
@@ -3358,13 +3839,17 @@
       "fecha_pub": "2026-04-08",
       "fecha_hecho": null,
       "snippet": "ARMY Perú advierte sobre estafas y rechaza la reventa ante la venta de entradas para BTS Infobae",
-      "temas": [],
+      "temas": [
+        "Estafa"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "estafa Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "228bccabdf836803",
@@ -3376,15 +3861,19 @@
       "fecha_pub": "2026-04-07",
       "fecha_hecho": null,
       "snippet": "🔴🔵 Una combi de transporte público fue incendiada en plena madrugada en el Callao. Según testigos, un sujeto se aproximó a la unidad y causó el fuego. El vehículo quedó reducido a cenizas y las autoridades investigan un ",
-      "temas": [],
+      "temas": [
+        "Extorsión"
+      ],
       "ubigeo": [
         "Callao"
       ],
-      "score": 1,
+      "score": 2,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Redes sociales",
+      "descartar": false
     },
     {
       "id": "09cbd2b90f4cea0c",
@@ -3396,15 +3885,17 @@
       "fecha_pub": "2026-04-07",
       "fecha_hecho": null,
       "snippet": "¡Más de 18 disparos! Sicario irrumpe en reunión y asesina a presunto traficante frente a su familia en Sullana Trome.com",
-      "temas": [],
-      "ubigeo": [
-        "Ica"
+      "temas": [
+        "Homicidio / sicariato"
       ],
-      "score": 1,
+      "ubigeo": [],
+      "score": 3,
       "query": "sicariato Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "340331bb181a0f2a",
@@ -3416,13 +3907,17 @@
       "fecha_pub": "2026-04-07",
       "fecha_hecho": null,
       "snippet": "Tres detenidos por asesinato de una paraguaya en Perú extra.com.py",
-      "temas": [],
+      "temas": [
+        "Homicidio / sicariato"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "homicidio Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "70be03f2d28d6f2a",
@@ -3434,15 +3929,17 @@
       "fecha_pub": "2026-04-07",
       "fecha_hecho": null,
       "snippet": "Ricardo Belmont: el candidato acusado de estafa, investigado en Fiscalía y vinculado a Vladimir Cerrón y Pedro Castillo larepublica.pe",
-      "temas": [],
-      "ubigeo": [
-        "Ica"
+      "temas": [
+        "Estafa"
       ],
-      "score": 1,
+      "ubigeo": [],
+      "score": 3,
       "query": "estafa Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "012087d42bfd852a",
@@ -3454,13 +3951,17 @@
       "fecha_pub": "2026-04-07",
       "fecha_hecho": null,
       "snippet": "Perú alcanza 518 homicidios en el primer trimestre de 2026: Uno cada cuatro horas ATV.pe",
-      "temas": [],
+      "temas": [
+        "Homicidio / sicariato"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "homicidio Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "25838da82ac15e4e",
@@ -3472,13 +3973,17 @@
       "fecha_pub": "2026-04-07",
       "fecha_hecho": null,
       "snippet": "Pasajeros tardan media hora en tomar un bus por culpa de las extorsiones y evitan el asiento preferencial por temor a un ataque Infobae",
-      "temas": [],
+      "temas": [
+        "Extorsión"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "cc2c2bff95cb7b32",
@@ -3490,16 +3995,19 @@
       "fecha_pub": "2026-04-07",
       "fecha_hecho": null,
       "snippet": "Le disparó más de 20 veces: Sicario mata a hombre frente a su familia en Piura (VIDEO) Perú 21",
-      "temas": [],
-      "ubigeo": [
-        "Piura",
-        "Ica"
+      "temas": [
+        "Homicidio / sicariato"
       ],
-      "score": 1,
+      "ubigeo": [
+        "Piura"
+      ],
+      "score": 3,
       "query": "sicariato Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "4604d8bc0d0905c1",
@@ -3511,13 +4019,17 @@
       "fecha_pub": "2026-04-07",
       "fecha_hecho": null,
       "snippet": "La violencia empaña la llegada de Boca Juniors a Chile: denuncian robo a mano armada a hinchas “Xeneizes” bolavip.com",
-      "temas": [],
+      "temas": [
+        "Asalto a mano armada"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "\"mano armada\" Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "786f5c07e7a83f0e",
@@ -3529,15 +4041,19 @@
       "fecha_pub": "2026-04-07",
       "fecha_hecho": null,
       "snippet": "Keiko Fujimori utiliza el asesinato de Paul ‘Russo’ Flores y la presencia de Armonía 10 en su cierre de campaña en Piura Infobae",
-      "temas": [],
+      "temas": [
+        "Homicidio / sicariato"
+      ],
       "ubigeo": [
         "Piura"
       ],
-      "score": 1,
+      "score": 3,
       "query": "sicariato Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "168a5b3a2b734d7d",
@@ -3549,15 +4065,17 @@
       "fecha_pub": "2026-04-07",
       "fecha_hecho": null,
       "snippet": "Instalan botón de pánico y cámaras de seguridad en buses para frenar a sicarios Perú 21",
-      "temas": [],
-      "ubigeo": [
-        "Ica"
+      "temas": [
+        "Homicidio / sicariato"
       ],
-      "score": 1,
+      "ubigeo": [],
+      "score": 3,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "0a5f62fb679ecf72",
@@ -3569,13 +4087,17 @@
       "fecha_pub": "2026-04-07",
       "fecha_hecho": null,
       "snippet": "Elecciones Perú 2026: Aumento de extorsiones avivan pedido de pena de muerte rfi.fr",
-      "temas": [],
+      "temas": [
+        "Extorsión"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "b139badcce3a0129",
@@ -3587,13 +4109,17 @@
       "fecha_pub": "2026-04-07",
       "fecha_hecho": null,
       "snippet": "Elecciones 2026: alertan estafas con enlaces falsos sobre cambios de local de votación para robar datos personales Infobae",
-      "temas": [],
+      "temas": [
+        "Estafa"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "estafa Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "3cb2dbb9a6caf7f4",
@@ -3605,13 +4131,17 @@
       "fecha_pub": "2026-04-07",
       "fecha_hecho": null,
       "snippet": "CRISIS EN PYMES: 8 MIL BODEGAS CERRARON EN 2025 POR EXTORSIÓN Y CANDIDATOS NO TIENEN PLAN, ADVIERTE GREMIO EMPRESARIAL RCR Peru",
-      "temas": [],
+      "temas": [
+        "Extorsión"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "ab9758ddb825f044",
@@ -3623,13 +4153,17 @@
       "fecha_pub": "2026-04-07",
       "fecha_hecho": null,
       "snippet": "BTS en Perú: Reventa de entradas llegan hasta los S/2500 y armys alertan ola de estafas tras agotarse preventa Exitosa Noticias",
-      "temas": [],
+      "temas": [
+        "Estafa"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "estafa Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "1ad7aabd0764cd4f",
@@ -3641,13 +4175,17 @@
       "fecha_pub": "2026-04-07",
       "fecha_hecho": null,
       "snippet": "BTS Perú: ARMY rechazan la reventa y alertan sobre estafas en la venta de entradas Revista Caretas",
-      "temas": [],
+      "temas": [
+        "Estafa"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "estafa Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "15c2f376ce64a96c",
@@ -3659,15 +4197,17 @@
       "fecha_pub": "2026-04-06",
       "fecha_hecho": null,
       "snippet": "¡Volvió al Perú y sicario la mató! Pasajera fallecida en ataque a bus de Vipusa había regresado de EE.UU. Trome.com",
-      "temas": [],
-      "ubigeo": [
-        "Ica"
+      "temas": [
+        "Homicidio / sicariato"
       ],
-      "score": 1,
+      "ubigeo": [],
+      "score": 3,
       "query": "sicariato Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "f0a6646bf503bbd9",
@@ -3679,13 +4219,17 @@
       "fecha_pub": "2026-04-06",
       "fecha_hecho": null,
       "snippet": "Transportistas financian adquisición de 'botones de pánico' y cámaras de seguridad ante amenazas de extorsión RPP Noticias",
-      "temas": [],
+      "temas": [
+        "Extorsión"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "f9ff14f4774379cd",
@@ -3697,13 +4241,17 @@
       "fecha_pub": "2026-04-06",
       "fecha_hecho": null,
       "snippet": "Suman 518 los asesinatos en el primer trimestre del año Diario Correo",
-      "temas": [],
+      "temas": [
+        "Homicidio / sicariato"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "homicidio Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "1fec40ce63c30975",
@@ -3715,17 +4263,21 @@
       "fecha_pub": "2026-04-06",
       "fecha_hecho": null,
       "snippet": "PNP desarticula banda vinculada a extorsiones en el Callao y San Martín de Porres TVPerú",
-      "temas": [],
+      "temas": [
+        "Extorsión"
+      ],
       "ubigeo": [
         "San Martín de Porres",
         "Callao",
         "San Martín"
       ],
-      "score": 1,
+      "score": 3,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "74278ddfcee19255",
@@ -3737,15 +4289,17 @@
       "fecha_pub": "2026-04-06",
       "fecha_hecho": null,
       "snippet": "La Paz: detienen a un peruano sindicado por el homicidio de un ciudadano venezolano El Deber",
-      "temas": [],
-      "ubigeo": [
-        "Ica"
+      "temas": [
+        "Homicidio / sicariato"
       ],
-      "score": 1,
+      "ubigeo": [],
+      "score": 3,
       "query": "homicidio Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "0981d87cd751d278",
@@ -3757,13 +4311,17 @@
       "fecha_pub": "2026-04-06",
       "fecha_hecho": null,
       "snippet": "El cuento de la lotería: así estafaron a un adulto mayor en Perú con falsos videos de la princesa Leonor TV Azteca",
-      "temas": [],
+      "temas": [
+        "Estafa"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "estafa Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "e3711067921a01d1",
@@ -3775,15 +4333,17 @@
       "fecha_pub": "2026-04-06",
       "fecha_hecho": null,
       "snippet": "De terror: sicario ingresa a fiesta y asesina a sujeto frente a su familia latinanoticias.pe",
-      "temas": [],
-      "ubigeo": [
-        "Ica"
+      "temas": [
+        "Homicidio / sicariato"
       ],
-      "score": 1,
+      "ubigeo": [],
+      "score": 3,
       "query": "sicariato Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "b829bfe64d4686ce",
@@ -3795,16 +4355,19 @@
       "fecha_pub": "2026-04-06",
       "fecha_hecho": null,
       "snippet": "Capturan en Estados Unidos a presunto sicario implicado en crimen en Carabayllo Perú 21",
-      "temas": [],
-      "ubigeo": [
-        "Carabayllo",
-        "Ica"
+      "temas": [
+        "Homicidio / sicariato"
       ],
-      "score": 1,
+      "ubigeo": [
+        "Carabayllo"
+      ],
+      "score": 3,
       "query": "sicariato Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "02a770b7d28a23e1",
@@ -3816,13 +4379,17 @@
       "fecha_pub": "2026-04-06",
       "fecha_hecho": null,
       "snippet": "Alarma por violencia en Perú: Sinadef reporta más de 520 homicidios en solo tres meses del 2026 latinanoticias.pe",
-      "temas": [],
+      "temas": [
+        "Homicidio / sicariato"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "homicidio Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "ae0ac03a596be0ac",
@@ -3835,17 +4402,18 @@
       "fecha_hecho": null,
       "snippet": "🔴🔵#ElInformativoDeExitosa📺📺 | En Arequipa, la Policía Nacional del Perú capturó a miembros de la banda criminal 'Los Correcaminos del Sur'. La organización delictiva se dedicaba al robo de vehículos. 📻 95.5 FM 📡 6.1 seña",
       "temas": [
-        "asalto"
+        "Robo de vehículo"
       ],
       "ubigeo": [
-        "Arequipa",
-        "Ica"
+        "Arequipa"
       ],
-      "score": 3,
+      "score": 2,
       "query": "\"mano armada\" Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Redes sociales",
+      "descartar": false
     },
     {
       "id": "b3664fbce1731885",
@@ -3865,7 +4433,9 @@
       "query": "homicidio Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": true
     },
     {
       "id": "67da52f32f778bbd",
@@ -3877,16 +4447,19 @@
       "fecha_pub": "2026-04-04",
       "fecha_hecho": null,
       "snippet": "Prisión preventiva a presunto sicario que intentó inyectar sustancia letal a paciente en hospital de Trujillo Infobae",
-      "temas": [],
-      "ubigeo": [
-        "Trujillo",
-        "Ica"
+      "temas": [
+        "Homicidio / sicariato"
       ],
-      "score": 1,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 3,
       "query": "homicidio Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "086b47d40b48a431",
@@ -3898,15 +4471,17 @@
       "fecha_pub": "2026-04-03",
       "fecha_hecho": null,
       "snippet": "¡Con dron! Cae banda criminal ‘Los bandidos de Villa’ dedicada al robo de autos en VES Trome.com",
-      "temas": [],
-      "ubigeo": [
-        "Ica"
+      "temas": [
+        "Robo de vehículo"
       ],
-      "score": 1,
+      "ubigeo": [],
+      "score": 3,
       "query": "\"mano armada\" Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "9a43bca7861780c3",
@@ -3918,16 +4493,19 @@
       "fecha_pub": "2026-04-03",
       "fecha_hecho": null,
       "snippet": "Sicarios pagaron S/ 500 por arma enviada vía delivery para cometer crimen en Lima norte larepublica.pe",
-      "temas": [],
+      "temas": [
+        "Homicidio / sicariato"
+      ],
       "ubigeo": [
-        "Ica",
         "Lima"
       ],
-      "score": 1,
+      "score": 3,
       "query": "sicariato Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "20a824c2a798a74b",
@@ -3939,16 +4517,19 @@
       "fecha_pub": "2026-04-03",
       "fecha_hecho": null,
       "snippet": "Sicarios asesinan a ingeniero frente a su esposa e hija de 5 años en pleno Viernes Santo en Trujillo larepublica.pe",
-      "temas": [],
-      "ubigeo": [
-        "Trujillo",
-        "Ica"
+      "temas": [
+        "Homicidio / sicariato"
       ],
-      "score": 1,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 3,
       "query": "sicariato Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "ec16b5db8dc6f57b",
@@ -3961,16 +4542,16 @@
       "fecha_hecho": null,
       "snippet": "Mototaxistas se salvan de morir luego de que extorsionador les dispare en plena vía pública por negarse a pagar cupo de S/15 larepublica.pe",
       "temas": [
-        "extorsion"
+        "Extorsión"
       ],
-      "ubigeo": [
-        "Ica"
-      ],
+      "ubigeo": [],
       "score": 3,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "7f4dadf0786c4ffa",
@@ -3982,16 +4563,19 @@
       "fecha_pub": "2026-04-03",
       "fecha_hecho": null,
       "snippet": "La Libertad: capturan a presuntos extorsionadores que exigían S/ 30 mil a alcalde para no atentar contra su vida RPP Noticias",
-      "temas": [],
+      "temas": [
+        "Extorsión"
+      ],
       "ubigeo": [
-        "Ate",
         "La Libertad"
       ],
-      "score": 1,
+      "score": 3,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "5ed6a11d5ea135e3",
@@ -4003,16 +4587,19 @@
       "fecha_pub": "2026-04-03",
       "fecha_hecho": null,
       "snippet": "Feroz incendio consumió cochera con 14 vehículos de transporte público en Independencia: conductores no descartan ataque por extorsión larepublica.pe",
-      "temas": [],
-      "ubigeo": [
-        "Independencia",
-        "Ica"
+      "temas": [
+        "Extorsión"
       ],
-      "score": 1,
+      "ubigeo": [
+        "Independencia"
+      ],
+      "score": 3,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "c144d5e5211199df",
@@ -4024,17 +4611,19 @@
       "fecha_pub": "2026-04-03",
       "fecha_hecho": null,
       "snippet": "Detienen a presuntos extorsionadores de alcalde en La Libertad: le exigían S/30.000 para no atentar en su contra larepublica.pe",
-      "temas": [],
+      "temas": [
+        "Extorsión"
+      ],
       "ubigeo": [
-        "Ate",
-        "Ica",
         "La Libertad"
       ],
-      "score": 1,
+      "score": 3,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "9b1bad542af41db3",
@@ -4046,13 +4635,18 @@
       "fecha_pub": "2026-04-03",
       "fecha_hecho": null,
       "snippet": "Cuatro policías fueron detenidos en Huaura por presuntos delitos de extorsión y secuestro RPP Noticias",
-      "temas": [],
+      "temas": [
+        "Extorsión",
+        "Secuestro"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 5,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "6549ad40aaf40005",
@@ -4064,13 +4658,18 @@
       "fecha_pub": "2026-04-03",
       "fecha_hecho": null,
       "snippet": "Cuatro policías detenidos en Huaura por presuntos delitos de extorsión y secuestro Perú 21",
-      "temas": [],
+      "temas": [
+        "Extorsión",
+        "Secuestro"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 5,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "9c540a71b6fb2308",
@@ -4082,15 +4681,18 @@
       "fecha_pub": "2026-04-03",
       "fecha_hecho": null,
       "snippet": "Choferes de Vipusa reciben nuevas amenazas de extorsionadores tras asesinato de pasajera: \"En el Sur no están protegidos\" larepublica.pe",
-      "temas": [],
-      "ubigeo": [
-        "Ica"
+      "temas": [
+        "Extorsión",
+        "Homicidio / sicariato"
       ],
-      "score": 1,
+      "ubigeo": [],
+      "score": 5,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "8cb4b4fb35ca2ba7",
@@ -4102,16 +4704,19 @@
       "fecha_pub": "2026-04-03",
       "fecha_hecho": null,
       "snippet": "Callao: Sicarios asesinan a balazos a un hombre al interior de su vehículo en Semana Santa Exitosa Noticias",
-      "temas": [],
+      "temas": [
+        "Homicidio / sicariato"
+      ],
       "ubigeo": [
-        "Ica",
         "Callao"
       ],
-      "score": 1,
+      "score": 3,
       "query": "sicariato Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "2b442398d49be5d4",
@@ -4123,13 +4728,17 @@
       "fecha_pub": "2026-04-02",
       "fecha_hecho": null,
       "snippet": "Perú | Cuidado con estafas por WhatsApp: delincuentes usan enlaces y códigos QR para robar datos dplnews.com",
-      "temas": [],
+      "temas": [
+        "Estafa"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "estafa Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "464eb6aa7282d681",
@@ -4149,7 +4758,9 @@
       "query": "\"crimen organizado\" Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": true
     },
     {
       "id": "53f8f869874bb8b9",
@@ -4161,15 +4772,19 @@
       "fecha_pub": "2026-04-02",
       "fecha_hecho": null,
       "snippet": "Cae integrante del Tren de Aragua en Los Olivos: Operativo PNP permitió captura de extorsionador alias 'Kendryx' Exitosa Noticias",
-      "temas": [],
+      "temas": [
+        "Extorsión"
+      ],
       "ubigeo": [
         "Los Olivos"
       ],
-      "score": 1,
+      "score": 3,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "ab591604626ef076",
@@ -4181,16 +4796,19 @@
       "fecha_pub": "2026-04-01",
       "fecha_hecho": null,
       "snippet": "¡Terror en Puente Piedra! Sicarios disparan contra bus de Vipusa y matan a pasajera Trome.com",
-      "temas": [],
-      "ubigeo": [
-        "Puente Piedra",
-        "Ica"
+      "temas": [
+        "Homicidio / sicariato"
       ],
-      "score": 1,
+      "ubigeo": [
+        "Puente Piedra"
+      ],
+      "score": 3,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "3b91b006c556cdac",
@@ -4202,15 +4820,17 @@
       "fecha_pub": "2026-04-01",
       "fecha_hecho": null,
       "snippet": "Yeikol, el sicario capturado en Chile, será investigado en Perú por el asesinato de Gastón Medina larepublica.pe",
-      "temas": [],
-      "ubigeo": [
-        "Ica"
+      "temas": [
+        "Homicidio / sicariato"
       ],
-      "score": 1,
+      "ubigeo": [],
+      "score": 3,
       "query": "sicariato Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "f725fed2bf25ec8f",
@@ -4222,16 +4842,19 @@
       "fecha_pub": "2026-04-01",
       "fecha_hecho": null,
       "snippet": "Sicarios balean bus de Vipusa en Puente Piedra: pasajera muere y otras dos quedan heridas larepublica.pe",
-      "temas": [],
-      "ubigeo": [
-        "Puente Piedra",
-        "Ica"
+      "temas": [
+        "Homicidio / sicariato"
       ],
-      "score": 1,
+      "ubigeo": [
+        "Puente Piedra"
+      ],
+      "score": 3,
       "query": "sicariato Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "4509e86daa33a88f",
@@ -4243,15 +4866,17 @@
       "fecha_pub": "2026-04-01",
       "fecha_hecho": null,
       "snippet": "Kendrix: “El Ingeniero o Negro Paisa” mueve la extorsión en Perú y tiene unos 60 crímenes” larepublica.pe",
-      "temas": [],
-      "ubigeo": [
-        "Ica"
+      "temas": [
+        "Extorsión"
       ],
-      "score": 1,
+      "ubigeo": [],
+      "score": 3,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "7078a2c9880eb58b",
@@ -4263,15 +4888,19 @@
       "fecha_pub": "2026-04-01",
       "fecha_hecho": null,
       "snippet": "Extorsión en el Callao: Menor confiesa que intentó quemar un bus de transporte público por 100 soles Infobae",
-      "temas": [],
+      "temas": [
+        "Extorsión"
+      ],
       "ubigeo": [
         "Callao"
       ],
-      "score": 1,
+      "score": 3,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "ec3b6e2e526fed47",
@@ -4283,15 +4912,17 @@
       "fecha_pub": "2026-04-01",
       "fecha_hecho": null,
       "snippet": "Extorsionadores amenazan a mototaxistas de SJL con granadas y pagos de S/15.000: “Tenemos ubicadas sus casas” larepublica.pe",
-      "temas": [],
-      "ubigeo": [
-        "Ica"
+      "temas": [
+        "Extorsión"
       ],
-      "score": 1,
+      "ubigeo": [],
+      "score": 3,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "50c738fb2962874d",
@@ -4303,13 +4934,17 @@
       "fecha_pub": "2026-04-01",
       "fecha_hecho": null,
       "snippet": "Cierran La Casa de la Comedia por extorsiones: una historia de amenazas y cómo esta situación afecta al sector cultural El Comercio Perú",
-      "temas": [],
+      "temas": [
+        "Extorsión"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "0eb198c8c0d6dc21",
@@ -4321,13 +4956,17 @@
       "fecha_pub": "2026-04-01",
       "fecha_hecho": null,
       "snippet": "BCP alerta sobre estafas con llamadas que suplantan su número oficial cuantoestaeldolar.pe",
-      "temas": [],
+      "temas": [
+        "Estafa"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "estafa Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "5654b46f76e9c80a",
@@ -4339,15 +4978,19 @@
       "fecha_pub": "2026-04-01",
       "fecha_hecho": null,
       "snippet": "Ate: criminal robó vehículo y extorsionó al dueño con S/8,000 para devolvérselo (VIDEO) Perú 21",
-      "temas": [],
+      "temas": [
+        "Extorsión"
+      ],
       "ubigeo": [
         "Ate"
       ],
-      "score": 1,
+      "score": 3,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "4cf0738842bca771",
@@ -4359,15 +5002,19 @@
       "fecha_pub": "2026-04-01",
       "fecha_hecho": null,
       "snippet": "Ataque contra bus de Vipusa en Puente Piedra iba dirigido al chofer: disparos se hicieron desde la puerta de pasajeros Infobae",
-      "temas": [],
+      "temas": [
+        "Homicidio / sicariato"
+      ],
       "ubigeo": [
         "Puente Piedra"
       ],
-      "score": 1,
+      "score": 2,
       "query": "sicariato Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "bd3c2ff84a46ae91",
@@ -4379,16 +5026,19 @@
       "fecha_pub": "2026-04-01",
       "fecha_hecho": null,
       "snippet": "Alias ‘Jota’: el líder criminal que dirige desde México la red de extorsión que aterroriza a transportistas en Lima Trome.com",
-      "temas": [],
+      "temas": [
+        "Extorsión"
+      ],
       "ubigeo": [
-        "Ate",
         "Lima"
       ],
-      "score": 1,
+      "score": 3,
       "query": "extorsión Perú",
       "area": "inseguridad",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:28"
+      "agregado": "2026-09-18 12:28",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     }
   ],
   "n": 221

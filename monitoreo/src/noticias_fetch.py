@@ -11,15 +11,12 @@ from datetime import date, timedelta
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from filtro import (BASE, clave_dedup, fetch_gnews_items,
-                    load_taxonomy, norm, parse_gnews_items, request, score)
+                    parse_gnews_items, request)
+from noticias_clasificar import clasificar
 from feed_poll import parse_feed
 
 PAUSA = 1.5
 PAUSA_GDELT = 0.4
-TAX = {
-    "inseguridad": os.path.join(BASE, "keywords", "taxonomia_inseguridad.csv"),
-    "servicios": os.path.join(BASE, "keywords", "taxonomia_servicios.csv"),
-}
 QFILE = {
     "inseguridad": os.path.join(BASE, "queries", "inseguridad.txt"),
     "servicios": os.path.join(BASE, "queries", "servicios.txt"),
@@ -28,18 +25,20 @@ FFEEDS = os.path.join(BASE, "fuentes", "feeds.txt")
 
 GDELT_Q = {
     "inseguridad": (
-        '(extorsion OR "gota a gota") sourcecountry:PE sourcelang:spanish',
-        '(estafa OR phishing) sourcecountry:PE sourcelang:spanish',
-        '("arma de fuego" OR sicariato OR sicario OR balacera) sourcecountry:PE sourcelang:spanish',
-        '(homicidio OR asesinato OR feminicidio) sourcecountry:PE sourcelang:spanish',
-        '(secuestro OR "mano armada") sourcecountry:PE sourcelang:spanish',
+        '(extorsion OR "gota a gota" OR "cobro de cupo") sourcecountry:PE sourcelang:spanish',
+        '(estafa OR phishing OR "fraude bancario") sourcecountry:PE sourcelang:spanish',
+        '(sicariato OR sicario OR masacre OR feminicidio) sourcecountry:PE sourcelang:spanish',
+        '(homicidio OR asesinato) sourcecountry:PE sourcelang:spanish',
+        '(secuestro OR "secuestro al paso" OR "Los Pulpos") sourcecountry:PE sourcelang:spanish',
+        '("mano armada" OR "robo al paso" OR "robo de celular") sourcecountry:PE sourcelang:spanish',
+        '("robo de vehiculo" OR "robo de moto" OR "robo en vivienda") sourcecountry:PE sourcelang:spanish',
         '("crimen organizado" OR "banda criminal") sourcecountry:PE sourcelang:spanish',
     ),
     "servicios": (
-        '("corte de agua" OR Sedapal OR "sin agua") sourcecountry:PE sourcelang:spanish',
-        '("corte de luz" OR apagon OR "corte electrico") sourcecountry:PE sourcelang:spanish',
+        '("corte de agua" OR Sedapal OR Sedalib OR "sin agua") sourcecountry:PE sourcelang:spanish',
+        '("corte de luz" OR apagon OR Hidrandina OR "corte electrico") sourcecountry:PE sourcelang:spanish',
         '(desague OR alcantarillado OR aniego) sourcecountry:PE sourcelang:spanish',
-        '("agua potable") sourcecountry:PE sourcelang:spanish',
+        '("agua potable" OR "recoleccion de basura" OR "relleno sanitario") sourcecountry:PE sourcelang:spanish',
     ),
 }
 
@@ -70,7 +69,6 @@ def load_feeds():
 def _filas(area: str, items: list[dict], colector: str, query: str,
            seen: set, resolver=False) -> list[dict]:
     from filtro import resolver_gnews
-    ancla, temas, excl = load_taxonomy(TAX[area])
     rows = []
     for it in items:
         url = it.get("url") or ""
@@ -82,14 +80,12 @@ def _filas(area: str, items: list[dict], colector: str, query: str,
         key = clave_dedup(it.get("titulo", ""), it.get("fuente", ""), url)
         if not url or key in seen:
             continue
-        nt, nd = norm(it.get("titulo", "")), norm(it.get("desc") or it.get("snippet") or "")
-        r = score(nt, nd, ancla, temas, excl)
+        r = clasificar(area, it.get("titulo", ""),
+                       it.get("desc") or it.get("snippet") or "", url)
         if r is None:
             continue
         seen.add(key)
-        s, cats, veto = r
-        if veto:
-            continue
+        s, cats = r
         rows.append({
             "fecha_pub": it.get("fecha_pub") or "",
             "fuente": it.get("fuente") or colector,
@@ -99,7 +95,7 @@ def _filas(area: str, items: list[dict], colector: str, query: str,
             "query": query,
             "score": s,
             "temas": ";".join(cats),
-            "alerta_ruido": veto,
+            "alerta_ruido": "",
             "colector": colector,
         })
     return rows

@@ -1,36 +1,36 @@
 nivel,categoria,termino
-ancla,agua,corte de agua
-ancla,agua,sin agua
-ancla,agua,desabastecimiento de agua
-ancla,agua,falta de agua
-ancla,agua,Sedapal
-ancla,agua,SEDAPAL
-ancla,agua,agua potable
-ancla,luz,corte de luz
-ancla,luz,corte eléctrico
-ancla,luz,apagón
-ancla,luz,sin luz
-ancla,luz,sin energía eléctrica
-ancla,desague,desagüe
-ancla,desague,desague
-ancla,desague,alcantarillado
-ancla,desague,aniego
-ancla,desague,colapso de desagüe
-tema,agua,corte de agua
-tema,agua,Sedapal
-tema,agua,EPS
-tema,agua,agua potable
-tema,agua,no hay agua
-tema,luz,corte de luz
-tema,luz,Enel
-tema,luz,Seal
-tema,luz,Electrocentro
-tema,luz,Hidrandina
-tema,luz,apagón
-tema,desague,desagüe
-tema,desague,alcantarillado
-tema,desague,aniego
-tema,desague,desborde
+ancla,Agua por red pública,corte de agua
+ancla,Agua por red pública,sin agua
+ancla,Agua por red pública,desabastecimiento de agua
+ancla,Agua por red pública,falta de agua
+ancla,Agua por red pública,Sedapal
+ancla,Agua por red pública,SEDAPAL
+ancla,Agua por red pública,agua potable
+ancla,Agua por red pública,racionamiento de agua
+ancla,Agua por red pública,Sedalib
+ancla,Energía eléctrica,corte de luz
+ancla,Energía eléctrica,corte eléctrico
+ancla,Energía eléctrica,apagón
+ancla,Energía eléctrica,sin luz
+ancla,Energía eléctrica,sin energía eléctrica
+ancla,Energía eléctrica,Hidrandina
+ancla,Energía eléctrica,electrificación
+ancla,Alcantarillado,desagüe
+ancla,Alcantarillado,desague
+ancla,Alcantarillado,alcantarillado
+ancla,Alcantarillado,aniego
+ancla,Alcantarillado,colapso de desagüe
+ancla,Residuos sólidos,recolección de basura
+ancla,Residuos sólidos,residuos sólidos
+ancla,Residuos sólidos,relleno sanitario
+tema,Agua por red pública,EPS
+tema,Agua por red pública,no hay agua
+tema,Energía eléctrica,Enel
+tema,Energía eléctrica,Seal
+tema,Energía eléctrica,Electrocentro
+tema,Energía eléctrica,Luz del Sur
+tema,Alcantarillado,desborde
+tema,Residuos sólidos,camión de basura
 exclusion,ruido,ENAPRES
 exclusion,ruido,Encuesta Nacional de Programas Presupuestales
 exclusion,ruido,luz verde

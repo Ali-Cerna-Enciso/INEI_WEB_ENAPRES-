@@ -32,6 +32,11 @@ def correr(modo: str | None = None, areas: list[str] | None = None, on_paso=None
         inicio, fin = nc.ventana_incremental()
     print(f"NOTICIAS modo={modo} {inicio}..{fin} areas={areas} sin_gdelt={sin_gdelt}",
           flush=True)
+    try:
+        rec = nc.reclasificar_existentes(tuple(areas))
+        print(f"  reclasificar {rec}", flush=True)
+    except Exception as e:
+        print(f"[AVISO] reclasificar: {e}", flush=True)
     resumen = {"modo": modo, "inicio": inicio.isoformat(), "fin": fin.isoformat(),
                "areas": {}}
     for area in areas:

@@ -1,6 +1,6 @@
 {
   "mes": "2026-05",
-  "actualizado": "2026-09-18 12:31",
+  "actualizado": "2026-09-18 13:09",
   "items": [
     {
       "id": "5fe29bfac629cb2e",
@@ -13,14 +13,16 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua hoy, 31 de mayo: horarios y distritos afectados sin el servicio de Sedapal latinanoticias.pe",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [],
-      "score": 5,
+      "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "2c5dcd13a7a17e82",
@@ -33,17 +35,18 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua hasta por 12 horas en Lima: distritos, horarios y zonas afectadas este 30 de mayo, según Sedapal larepublica.pe",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
-        "Ica",
         "Lima"
       ],
-      "score": 5,
+      "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "2773f745a6a6b883",
@@ -56,7 +59,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua en Lima hoy 31 de mayo: Distritos y horarios afectados RPP Noticias",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
@@ -65,7 +68,9 @@
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "2810c8fa2388adde",
@@ -78,14 +83,16 @@
       "fecha_hecho": null,
       "snippet": "🔴🔵Corte de AGUA el 30 de mayo: 🚱🪣 Estos distritos se verán afectados HOY, según Sedapal 👇 https://short.do/ejrquS facebook.com",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [],
-      "score": 5,
+      "score": 3,
       "query": "\"sin agua potable\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Redes sociales",
+      "descartar": false
     },
     {
       "id": "e0f271ced0f2f9d3",
@@ -98,7 +105,7 @@
       "fecha_hecho": null,
       "snippet": "Piura: Vivienda impulsa obra de agua y desagüe en beneficio de 321 mil vecinos de Sullana Agencia Andina",
       "temas": [
-        "desague"
+        "Alcantarillado"
       ],
       "ubigeo": [
         "Piura"
@@ -107,7 +114,9 @@
       "query": "desagüe Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "60d24b9d53e6c438",
@@ -120,14 +129,16 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua para este lunes 01 de junio por más 10 horas: ¿Qué zonas son las afectadas? Infobae",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "51a1b1cdbc40c08d",
@@ -140,16 +151,18 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua en Lima el 1 junio: Distritos afectados y horarios de suspensión, según Sedapal apnoticias.pe",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
       ],
-      "score": 5,
+      "score": 3,
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "4fa782ed3336c5cb",
@@ -162,14 +175,16 @@
       "fecha_hecho": null,
       "snippet": "🔴🔵🔴🔵¡A llenar los baldes YA! 🪣💧Corte de AGUA el 30 de mayo: Distritos que se verán afectados 👇 https://goo.su/pVSgSN facebook.com",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Redes sociales",
+      "descartar": false
     },
     {
       "id": "aa086f5dd30b531f",
@@ -182,16 +197,16 @@
       "fecha_hecho": null,
       "snippet": "🔴🔵¡Prepárate! ⚠️💡 Corte de LUZ el 30 y 31 de mayo: Estos distritos se verán afectados desde MAÑANA 👇 https://short.do/i4tUzS facebook.com",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
-      "ubigeo": [
-        "Ate"
-      ],
+      "ubigeo": [],
       "score": 3,
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Redes sociales",
+      "descartar": false
     },
     {
       "id": "d3a9fc54d7f2ea0f",
@@ -204,16 +219,16 @@
       "fecha_hecho": null,
       "snippet": "¡ATENCIÓN! Corte de AGUA y LUZ este SÁBADO 30 de mayo: consulta distritos, zonas y horarios afectados El Popular",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
-      "ubigeo": [
-        "Ate"
-      ],
+      "ubigeo": [],
       "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "a6f56961e40f5000",
@@ -226,14 +241,16 @@
       "fecha_hecho": null,
       "snippet": "Supervisan avance de proyecto de agua y alcantarillado en Ventanilla y Mi Perú Revista Construir",
       "temas": [
-        "desague"
+        "Alcantarillado"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "alcantarillado Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "f838cbfe6052abbd",
@@ -246,7 +263,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de luz en Lima HOY, viernes 29 de mayo: revisa horarios y zonas afectadas El Comercio Perú",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
         "Lima"
@@ -255,7 +272,9 @@
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "7d618966fed6175a",
@@ -268,7 +287,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua en Lima hoy 29 de mayo: Distritos y horarios afectados RPP Noticias",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
@@ -277,7 +296,9 @@
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "d5682b90998e003d",
@@ -290,7 +311,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua en Lima Metropolitana este sábado 30 de mayo: sectores afectados y horarios programados Diario Expreso",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
@@ -299,7 +320,9 @@
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "a5b4e97faa24e9c3",
@@ -312,14 +335,16 @@
       "fecha_hecho": null,
       "snippet": "Corte de LUZ el 30 y 31 de mayo: ¿Qué distritos se verán afectados con suspensión del servicio? apnoticias.pe",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "db486fca165c346f",
@@ -332,14 +357,16 @@
       "fecha_hecho": null,
       "snippet": "Alerta por corte de luz este 30 y 31 de mayo: consulte los distritos involucrados Diario Expreso",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "97be2a34be760dfb",
@@ -352,14 +379,16 @@
       "fecha_hecho": null,
       "snippet": "🚰 Sedapal ejecutará trabajos de mantenimiento y limpieza de reservorios en distintos puntos de la capital, por lo que recomendó a los vecinos almacenar agua con anticipación. facebook.com",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Redes sociales",
+      "descartar": false
     },
     {
       "id": "d61494dae0ea8912",
@@ -372,10 +401,9 @@
       "fecha_hecho": null,
       "snippet": "🔴🔵¡Prepárate! ⚠️💡Nuevo corte de luz el 29 de mayo: Conoce qué distritos de Lima y Callao se verán afectados con la suspensión temporal del servicio eléctrico. facebook.com",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
-        "Ate",
         "Callao",
         "Lima"
       ],
@@ -383,7 +411,9 @@
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Redes sociales",
+      "descartar": false
     },
     {
       "id": "d2ae7374c9d42530",
@@ -396,16 +426,16 @@
       "fecha_hecho": null,
       "snippet": "🔴🔵¡Prepárate! ⚠️💡 Anuncian corte de LUZ para el 29 de mayo: Estos distritos se verán afectados MAÑANA 👇 facebook.com",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
-      "ubigeo": [
-        "Ate"
-      ],
+      "ubigeo": [],
       "score": 3,
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Redes sociales",
+      "descartar": false
     },
     {
       "id": "60c66537fb86b29a",
@@ -418,14 +448,16 @@
       "fecha_hecho": null,
       "snippet": "🔴🔵¡A llenar los baldes YA!🪣💧Sedapal anuncia corte de AGUA el 29 de mayo: Estos distritos se verán afectados MAÑANA👇 facebook.com",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [],
-      "score": 5,
+      "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Redes sociales",
+      "descartar": false
     },
     {
       "id": "c7c2e1b0c06b412b",
@@ -438,16 +470,16 @@
       "fecha_hecho": null,
       "snippet": "El riesgo de apagón es muy alto, advierte el presidente de Grupo Energía Bogotá, Juan Ricardo Ortega Caracol Radio",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
-      "ubigeo": [
-        "Ica"
-      ],
+      "ubigeo": [],
       "score": 3,
       "query": "apagón Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "837e3168f0c99fc0",
@@ -460,7 +492,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de luz afectará varios distritos de Lima y Callao este viernes 29 de mayo: revise si su zona figura en el cronograma Diario Expreso",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
         "Callao",
@@ -470,7 +502,9 @@
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "8c957cf7adfa5ca7",
@@ -483,14 +517,16 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua para este 30 de mayo: ¿Dónde y qué lugares no tendrá el servicio? Infobae",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "a7bd024495d6e329",
@@ -503,7 +539,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua en Lima hoy 28 de mayo: Distritos y horarios afectados RPP Noticias",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
@@ -512,7 +548,9 @@
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "dc2c2c0aa92b080c",
@@ -525,16 +563,18 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua en Lima el 28 de mayo: Distritos, zonas y horarios, según Sedapal Exitosa Noticias",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
       ],
-      "score": 5,
+      "score": 3,
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "2dc39712d5048e7f",
@@ -547,7 +587,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de LUZ en Lima y Callao el 29 de mayo: Distritos, zonas y horarios de la suspensión Exitosa Noticias",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
         "Callao",
@@ -557,7 +597,9 @@
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "14ba302ade901edb",
@@ -570,16 +612,18 @@
       "fecha_hecho": null,
       "snippet": "Corte de AGUA en Lima el 29 de mayo: Estos distritos se verán afectados el viernes, según Sedapal Exitosa Noticias",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
       ],
-      "score": 5,
+      "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "25c85db10fa9c52a",
@@ -592,14 +636,16 @@
       "fecha_hecho": null,
       "snippet": "🔴🔵¡A llenar los baldes YA! 🪣💧Corte de AGUA el 28 de mayo: 🚱 Estos distritos se verán afectados MAÑANA, según Sedapal 👇 facebook.com",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [],
-      "score": 5,
+      "score": 3,
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Redes sociales",
+      "descartar": false
     },
     {
       "id": "e954fc6444d98df0",
@@ -612,7 +658,7 @@
       "fecha_hecho": null,
       "snippet": "🔴🔵Corte de luz programado para el 28 de mayo: ⚠️💡Estos distritos de Lima y Callao se verán afectados con la suspensión temporal del servicio. ¡Toma tus precauciones! facebook.com",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
         "Callao",
@@ -622,7 +668,9 @@
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Redes sociales",
+      "descartar": false
     },
     {
       "id": "a5b90a76deadc0c4",
@@ -635,7 +683,7 @@
       "fecha_hecho": null,
       "snippet": "¡A TOMAR PRECAUCIONES! Corte de AGUA y LUZ en Lima este jueves 28 de mayo: revisa si tu zona será afectada El Popular",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
@@ -644,7 +692,9 @@
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "eed86c610d141098",
@@ -657,14 +707,16 @@
       "fecha_hecho": null,
       "snippet": "La Banda de Shilcayo: Proyecto de agua y desagüe del Óvalo del Sur se licitará a fines de junio Televisión Tarapoto",
       "temas": [
-        "desague"
+        "Alcantarillado"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "desagüe Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "21b3759bbdcb9d33",
@@ -677,17 +729,18 @@
       "fecha_hecho": null,
       "snippet": "Corte de luz en estos distritos de Lima este 27 y 28 de mayo: consulta horarios y zonas afectadas larepublica.pe",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
-        "Ica",
         "Lima"
       ],
       "score": 3,
       "query": "apagón Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "a77a7c204b7aea17",
@@ -700,7 +753,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de luz en Lima y Callao el 28 de mayo: Distritos que se verán afectados y horario de suspensión Exitosa Noticias",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
         "Callao",
@@ -710,7 +763,9 @@
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "085f3fd199dce43c",
@@ -723,14 +778,16 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua para el viernes 29 de mayo por más de 10 horas: conoce cuáles son las zonas afectadas Infobae",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "fa5c8f124007f370",
@@ -743,7 +800,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua en Lima hoy 27 de mayo: Distritos y horarios afectados RPP Noticias",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
@@ -752,7 +809,9 @@
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "338627b10ebf6436",
@@ -765,7 +824,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de LUZ en Lima y Callao el 27 de mayo: Distritos afectados y horarios de suspensión Exitosa Noticias",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
         "Callao",
@@ -775,7 +834,9 @@
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "24ff04308e462667",
@@ -788,16 +849,18 @@
       "fecha_hecho": null,
       "snippet": "Corte de AGUA en Lima el 27 de mayo: Estos distritos se verán afectados, según Sedapal Exitosa Noticias",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
       ],
-      "score": 5,
+      "score": 3,
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "0954e3d1b14e646e",
@@ -810,14 +873,16 @@
       "fecha_hecho": null,
       "snippet": "🔴🔵Corte de AGUA el 27 de mayo: 🚱🪣 Estos distritos se verán afectados MAÑANA, según Sedapal 👇 facebook.com",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [],
-      "score": 5,
+      "score": 3,
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Redes sociales",
+      "descartar": false
     },
     {
       "id": "1e88624c1db5f563",
@@ -830,17 +895,18 @@
       "fecha_hecho": null,
       "snippet": "¡Atención! Los 5 distritos de Lima que se verán afectados por corte de agua HOY, martes 26 de mayo: estos son los horarios El Comercio Perú",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
-        "Ate",
         "Lima"
       ],
       "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "59a1e416b9c62aec",
@@ -853,16 +919,16 @@
       "fecha_hecho": null,
       "snippet": "¡ATENCIÓN! Corte de AGUA y LUZ este miércoles 27 de mayo: consulta distritos, zonas y horarios afectados El Popular",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
-      "ubigeo": [
-        "Ate"
-      ],
+      "ubigeo": [],
       "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "bda778f69e5b1f62",
@@ -875,7 +941,7 @@
       "fecha_hecho": null,
       "snippet": "¡A tomar precauciones! Habrá corte de luz y agua en Lima del 27 al 29 de mayo: revise los distritos y horarios Perú 21",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
         "Lima"
@@ -884,7 +950,9 @@
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "5a54c3714a89470e",
@@ -897,7 +965,7 @@
       "fecha_hecho": null,
       "snippet": "Pucallpa: Más de 39 asentamientos humanos serán beneficiados con proyectos de agua potable y saneamiento Peru Construye",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Pucallpa"
@@ -906,7 +974,9 @@
       "query": "alcantarillado Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "30fb5c643752e1f1",
@@ -919,8 +989,8 @@
       "fecha_hecho": null,
       "snippet": "Loreto: Vivienda impulsa Proyecto Integral de Agua Potable y Alcantarillado en Yurimaguas Agencia Andina",
       "temas": [
-        "agua",
-        "desague"
+        "Agua por red pública",
+        "Alcantarillado"
       ],
       "ubigeo": [
         "Loreto"
@@ -929,7 +999,9 @@
       "query": "desagüe Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "08e91d2fbb20ff8c",
@@ -942,7 +1014,7 @@
       "fecha_hecho": null,
       "snippet": "El riesgo sísmico amenaza el 45 % de las tuberías de agua y desagüe en Lima y Callao Infobae",
       "temas": [
-        "desague"
+        "Alcantarillado"
       ],
       "ubigeo": [
         "Callao",
@@ -952,7 +1024,9 @@
       "query": "desagüe Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "7cff9a3055c3ac55",
@@ -965,7 +1039,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de luz en varios distritos de Lima desde este miércoles 27 hasta el viernes 29 de mayo: estas son las zonas afectadas Infobae",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
         "Lima"
@@ -974,7 +1048,9 @@
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "7d45f143a6d6771e",
@@ -987,14 +1063,16 @@
       "fecha_hecho": null,
       "snippet": "Corte de luz MULTISECTORIAL este 25 y 26 de mayo: estos son los distritos afectados por hasta 10 horas El Popular",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "392b93bfab3e6401",
@@ -1007,14 +1085,16 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua para este jueves 28 de mayo por más de 10 horas: conoce cuáles son los lugares afectados Infobae",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "0d0065c1128e6ba8",
@@ -1027,16 +1107,18 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua en Lima, 26 de mayo: zonas y horarios vía Sedapal Revista Caretas",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
       ],
-      "score": 5,
+      "score": 3,
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "34d3e835c9184daa",
@@ -1049,7 +1131,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua en Lima hoy 26 de mayo: Distritos y horarios afectados RPP Noticias",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
@@ -1058,7 +1140,9 @@
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "dee0223abf0092f7",
@@ -1071,7 +1155,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua HOY, martes 26 de mayo en Lima: revisa los distritos afectados y horarios de suspensión Diario Libero",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
@@ -1080,7 +1164,9 @@
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "d1e26d45feae02b6",
@@ -1093,7 +1179,7 @@
       "fecha_hecho": null,
       "snippet": "🔴🔵Corte de LUZ en Lima y Callao el 25 y 26 de mayo: ¿Qué distritos se verán afectados desde HOY?👇 facebook.com",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
         "Callao",
@@ -1103,7 +1189,9 @@
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Redes sociales",
+      "descartar": false
     },
     {
       "id": "840f93035a52bfa4",
@@ -1116,16 +1204,16 @@
       "fecha_hecho": null,
       "snippet": "Tubería de Sedapal se rompe e inunda COLEGIO en SJL: Minedu toma DRÁSTICA decisión ante riesgo sanitario El Popular",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
-      "ubigeo": [
-        "Ica"
-      ],
+      "ubigeo": [],
       "score": 3,
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "7ef7c644b637c9eb",
@@ -1138,16 +1226,18 @@
       "fecha_hecho": null,
       "snippet": "Sedapal confirma corte de AGUA en Lima el 26 de mayo: Lista de distritos afectados el martes Exitosa Noticias",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
       ],
-      "score": 5,
+      "score": 3,
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "d038c2db53df2ac7",
@@ -1160,16 +1250,18 @@
       "fecha_hecho": null,
       "snippet": "Sedapal anuncia corte de agua en Lima para hoy y mañana: horarios y zonas afectadas este 25 y 26 de mayo Infobae",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
       ],
-      "score": 5,
+      "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "7f515b49ad5033c8",
@@ -1182,7 +1274,7 @@
       "fecha_hecho": null,
       "snippet": "San Juan de Lurigancho: áreas de colegio dañadas tras inundación por rotura de tubería de Sedapal El Comercio Perú",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "San Juan de Lurigancho"
@@ -1191,7 +1283,9 @@
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "e413c44213e3fac0",
@@ -1204,14 +1298,16 @@
       "fecha_hecho": null,
       "snippet": "Planta potabilizadora de Chilibre fuera de operaciones por apagón, confirma el IDAAN La Estrella de Panamá",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "apagón Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "f23a7b8a14f90d25",
@@ -1224,7 +1320,7 @@
       "fecha_hecho": null,
       "snippet": "Piura: Defensoría del Pueblo hace seguimiento a compromisos asumidos tras aniegos de aguas residuales en Paita Plataforma del Estado Peruano",
       "temas": [
-        "desague"
+        "Alcantarillado"
       ],
       "ubigeo": [
         "Piura"
@@ -1233,7 +1329,9 @@
       "query": "aniego Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "634cfee724d2709b",
@@ -1246,7 +1344,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de luz: Pluz suspende su servicio en SJL, Comas y otros distritos de Lima HOY 25 de mayo Infobae",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
         "Comas",
@@ -1256,7 +1354,9 @@
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "dc8854a31124b621",
@@ -1269,7 +1369,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua en Lima hoy 25 de mayo: Distritos y horarios afectados RPP Noticias",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
@@ -1278,7 +1378,9 @@
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "7505843312b28950",
@@ -1291,17 +1393,18 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua en Arequipa: Sedapar suspende el servicio este 21 y 22 de mayo en varios distritos larepublica.pe",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
-        "Arequipa",
-        "Ica"
+        "Arequipa"
       ],
       "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "4859a6d8beedd43f",
@@ -1314,17 +1417,18 @@
       "fecha_hecho": null,
       "snippet": "¡Hasta por 11 horas! Estos distritos de Lima no tendrán agua este martes 26 de mayo, según Sedapal: consulta zonas afectadas larepublica.pe",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
-        "Ica",
         "Lima"
       ],
       "score": 3,
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "39316474ec329e5f",
@@ -1337,16 +1441,18 @@
       "fecha_hecho": null,
       "snippet": "¡A sacar los baldes! Sedapal ANUNCIA corte de agua el 25 de mayo en Lima: distritos hasta 9 horas sin servicio El Popular",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
       ],
-      "score": 5,
+      "score": 3,
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "0b3fd8e50123fa1e",
@@ -1359,7 +1465,7 @@
       "fecha_hecho": null,
       "snippet": "Suspensión temporal de agua potable en San Juan de Lurigancho por rotura de tubería Infobae",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "San Juan de Lurigancho"
@@ -1368,7 +1474,9 @@
       "query": "aniego Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "8f1d7dca0ff25973",
@@ -1381,14 +1489,16 @@
       "fecha_hecho": null,
       "snippet": "SJL: aniego inunda colegio Fe y Alegría y deja graves daños en aulas y equipos Diario Correo",
       "temas": [
-        "desague"
+        "Alcantarillado"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "aniego Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "93df4fe637d5db01",
@@ -1401,7 +1511,7 @@
       "fecha_hecho": null,
       "snippet": "Rotura de tubería de Sedapal inunda colegio Fe y Alegría N.º 25 en San Juan de Lurigancho Exitosa Noticias",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "San Juan de Lurigancho"
@@ -1410,7 +1520,9 @@
       "query": "aniego Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "d02f54c524b41d3c",
@@ -1423,7 +1535,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua en Lima hoy 24 de mayo: Distritos y horarios afectados RPP Noticias",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
@@ -1432,7 +1544,9 @@
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "3785169487a41a6f",
@@ -1445,7 +1559,7 @@
       "fecha_hecho": null,
       "snippet": "Aniego inunda colegio de San Juan de Lurigancho: Padres rechazan posible retorno a clases virtuales Infobae",
       "temas": [
-        "desague"
+        "Alcantarillado"
       ],
       "ubigeo": [
         "San Juan de Lurigancho"
@@ -1454,7 +1568,9 @@
       "query": "aniego Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "d8fb85b18c889d29",
@@ -1467,14 +1583,16 @@
       "fecha_hecho": null,
       "snippet": "🔴🔵¡A llenar los baldes YA! 🚱🪣Sedapal anuncia corte de AGUA el 25 de mayo: Estos distritos se verán afectados el lunes👇 facebook.com",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [],
-      "score": 5,
+      "score": 3,
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Redes sociales",
+      "descartar": false
     },
     {
       "id": "e95dccb5954caec6",
@@ -1487,14 +1605,16 @@
       "fecha_hecho": null,
       "snippet": "🔴🔵Sedapal anuncia corte de AGUA el 23 de mayo: 🚱🪣 Estos distritos se verán afectados HOY👇 facebook.com",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [],
-      "score": 5,
+      "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Redes sociales",
+      "descartar": false
     },
     {
       "id": "79e6f52613d7b30a",
@@ -1507,16 +1627,18 @@
       "fecha_hecho": null,
       "snippet": "Sedapal anuncia corte de AGUA en Lima el 25 de mayo: Estos distritos se verán afectados el lunes Exitosa Noticias",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
       ],
-      "score": 5,
+      "score": 3,
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "08331db693b60e7f",
@@ -1529,7 +1651,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de luz en Lima y Callao hoy, 23 de mayo: horarios, distritos y zonas afectadas según Pluz Energía El Comercio Perú",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
         "Callao",
@@ -1539,7 +1661,9 @@
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "54e9e878934d3238",
@@ -1552,7 +1676,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de luz en Lima y Callao el 25 de mayo: Distritos afectados, zonas y horarios de suspensión Exitosa Noticias",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
         "Callao",
@@ -1562,7 +1686,9 @@
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "24534daa014ce9b7",
@@ -1575,7 +1701,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua en Lima hoy 23 de mayo: Distritos y horarios afectados RPP Noticias",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
@@ -1584,7 +1710,9 @@
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "fd2ebd0e49264471",
@@ -1597,14 +1725,16 @@
       "fecha_hecho": null,
       "snippet": "Sedapal anuncia corte de agua el 23 de mayo: ¿Qué distritos se verán afectados y en qué horario? apnoticias.pe",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [],
-      "score": 5,
+      "score": 3,
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "b37f159ef1b30cf6",
@@ -1617,7 +1747,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de luz en Lima y Callao este 23 de mayo: Pluz anuncia suspensión del servicio en tres distritos Infobae",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
         "Callao",
@@ -1627,7 +1757,9 @@
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "f44769ce0e57cd0a",
@@ -1640,7 +1772,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de luz en Lima y Callao el 22 y 23 de mayo: zonas y horarios Revista Caretas",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
         "Callao",
@@ -1650,7 +1782,9 @@
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "935f9cdd352e6d42",
@@ -1663,7 +1797,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de luz en Lima y Callao desde hoy viernes 22 al sábado 23 de mayo: todos los distritos afectados y horarios RPP Noticias",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
         "Callao",
@@ -1673,7 +1807,9 @@
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "8c7408a8cf31ad7d",
@@ -1686,14 +1822,16 @@
       "fecha_hecho": null,
       "snippet": "Corte de luz MULTISECTORIAL este 21 y 22 de mayo por hasta 10 horas: revisa AQUÍ si tu distrito será AFECTADO El Popular",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "b58ee32acaee1f6c",
@@ -1706,16 +1844,18 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua hoy, viernes 22 de mayo, en distritos de Lima: zonas y horarios, según reporte de Sedapal Diario Expreso",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
       ],
-      "score": 5,
+      "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "174ab643f09b6ac2",
@@ -1728,7 +1868,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de LUZ en Lima y Callao el 23 de mayo: Lista de distritos afectados y horario de suspensión Exitosa Noticias",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
         "Callao",
@@ -1738,7 +1878,9 @@
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "745ce3e7f263798d",
@@ -1751,14 +1893,16 @@
       "fecha_hecho": null,
       "snippet": "CONFIRMADO | Corte de luz masivo por 10 HORAS afectará a miles de ciudadanos de esta región este domingo 24 de mayo El Popular",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "482880c04ec5edd7",
@@ -1771,14 +1915,16 @@
       "fecha_hecho": null,
       "snippet": "🔴🔵¿Apagón por más de 7 horas? ⚠️💡 Anuncian corte de LUZ para el 22 de mayo: Estos distritos se verán afectados MAÑANA👇 facebook.com",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [],
-      "score": 5,
+      "score": 3,
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Redes sociales",
+      "descartar": false
     },
     {
       "id": "b91def0fb434554b",
@@ -1791,7 +1937,7 @@
       "fecha_hecho": null,
       "snippet": "🔴🔵Corte de luz programado para el 22 de mayo: Conoce qué distritos de Lima y Callao se verán afectados con la suspensión del servicio eléctrico. facebook.com",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
         "Callao",
@@ -1801,7 +1947,9 @@
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Redes sociales",
+      "descartar": false
     },
     {
       "id": "a057b46c9583fd08",
@@ -1814,10 +1962,9 @@
       "fecha_hecho": null,
       "snippet": "Desde las 8 a. m. hasta las 6 p. m.: Corte de luz en varios distritos de Lima y Callao este 20 de mayo: consulta horarios y zonas afectados larepublica.pe",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
-        "Ica",
         "Callao",
         "Lima"
       ],
@@ -1825,7 +1972,9 @@
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "ecef3b95822c3560",
@@ -1838,7 +1987,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de luz en Lima y Callao este 22 de mayo: Pluz anuncia suspensión del servicio en cinco distritos Infobae",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
         "Callao",
@@ -1848,7 +1997,9 @@
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "ceed0f9abf652e83",
@@ -1861,17 +2012,18 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua hasta por 10 horas en Lima: distritos, horarios y zonas afectadas para hoy jueves 21 de mayo por Sedapal larepublica.pe",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
-        "Ica",
         "Lima"
       ],
-      "score": 5,
+      "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "a934645cc39159aa",
@@ -1884,7 +2036,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua en Lima hoy 21 de mayo: Distritos y horarios afectados RPP Noticias",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
@@ -1893,7 +2045,9 @@
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "9595795319b303c3",
@@ -1906,16 +2060,18 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua en Lima el 21 de mayo: ¿Qué distritos serán afectados con la suspensión, según Sedapal? Exitosa Noticias",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
       ],
-      "score": 5,
+      "score": 3,
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "6f3fdb8ccc113bdd",
@@ -1928,16 +2084,18 @@
       "fecha_hecho": null,
       "snippet": "Corte de AGUA en Lima el 22 de mayo: Distritos afectados y horario de suspensión, según Sedapal apnoticias.pe",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
       ],
-      "score": 5,
+      "score": 3,
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "cb2a0fbc6d53626d",
@@ -1950,10 +2108,9 @@
       "fecha_hecho": null,
       "snippet": "🔴🔵¡Prepárate! ⚠️Anuncian corte de LUZ el 21 de mayo en Lima y Callao: 🤯 AQUÍ los distritos afectados MAÑANA👇 facebook.com",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
-        "Ate",
         "Callao",
         "Lima"
       ],
@@ -1961,7 +2118,9 @@
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Redes sociales",
+      "descartar": false
     },
     {
       "id": "4ab2e948e0c1504e",
@@ -1974,7 +2133,7 @@
       "fecha_hecho": null,
       "snippet": "Vecinos del Cercado de Lima, Callao y Los Olivos reportan corte de luz desde hace más dos días [VIDEO] ROTAFONO RPP",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
         "Los Olivos",
@@ -1985,7 +2144,9 @@
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "d80e5f4b3ee52e4b",
@@ -1998,7 +2159,7 @@
       "fecha_hecho": null,
       "snippet": "Seis distritos de Lima y Callao tendrán corte de luz HOY, 21 de mayo: Horarios y lista de zonas afectadas, según Pluz Infobae",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
         "Callao",
@@ -2008,7 +2169,9 @@
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "c26902fb50deb874",
@@ -2021,16 +2184,18 @@
       "fecha_hecho": null,
       "snippet": "Sedapal anuncia corte de agua de Lima HOY, 20 de mayo: horarios y zonas afectadas El Comercio Perú",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
       ],
-      "score": 5,
+      "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "5be6cf3b70002cf7",
@@ -2043,7 +2208,7 @@
       "fecha_hecho": null,
       "snippet": "Otra sanción para Alianza Lima por el apagón de Matute: esta vez la multa es de S/ 164.230, pero no hubo devolución de entradas Infobae",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
         "Lima"
@@ -2052,7 +2217,9 @@
       "query": "apagón Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "ced8731d269aaca7",
@@ -2065,7 +2232,7 @@
       "fecha_hecho": null,
       "snippet": "Iquitos: Pareja se oculta en desagüe para evitar su captura tras asaltar a turistas | VIDEO Perú 21",
       "temas": [
-        "desague"
+        "Alcantarillado"
       ],
       "ubigeo": [
         "Iquitos"
@@ -2074,7 +2241,9 @@
       "query": "desagüe Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "35f2fbd31eba6f49",
@@ -2087,7 +2256,7 @@
       "fecha_hecho": null,
       "snippet": "HOY, corte de luz en Lima y Callao: horarios, y zonas afectadas por distrito El Comercio Perú",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
         "Callao",
@@ -2097,7 +2266,9 @@
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "ca57927cf35cc32b",
@@ -2110,7 +2281,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de luz el 21 de mayo en Lima y Callao: Estos distritos se verán afectados con la suspensión temporal Exitosa Noticias",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
         "Callao",
@@ -2120,7 +2291,9 @@
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "002031576ae50c05",
@@ -2133,14 +2306,16 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua para este viernes 22 de mayo: conoce qué zonas son las afectadas Infobae",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "90db090dbed2d796",
@@ -2153,14 +2328,16 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua para este jueves 21 de mayo por más de 10 horas: ¿Cuáles son las zonas afectadas por la suspensión del servicio? Infobae",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "dd25eb81b50b944e",
@@ -2173,7 +2350,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua en Lima hoy 20 de mayo: Distritos y horarios afectados RPP Noticias",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
@@ -2182,7 +2359,9 @@
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "9bad28edf4f2ae90",
@@ -2195,17 +2374,18 @@
       "fecha_hecho": null,
       "snippet": "Capturan ladrones dentro de buzón de desagüe en Iquitos América TV",
       "temas": [
-        "desague"
+        "Alcantarillado"
       ],
       "ubigeo": [
-        "Iquitos",
-        "Ica"
+        "Iquitos"
       ],
       "score": 3,
       "query": "desagüe Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "d40793ea3f3fcf35",
@@ -2218,14 +2398,16 @@
       "fecha_hecho": null,
       "snippet": "VMT: atacan a balazos a dos trabajadores de consorcio que presta servicios a Sedapal RPP Noticias",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "0a97b0213d069c6d",
@@ -2238,14 +2420,16 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua para este 20 de mayo: conoce cuáles son las zonas afectadas Infobae",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "26fcbc4c6c25aa77",
@@ -2258,7 +2442,7 @@
       "fecha_hecho": null,
       "snippet": "🔴🔵¿Apagón en Lima y Callao? ⚠️💡Estos distritos se quedarán SIN LUZ el 18 y 19 de mayo, según Pluz Energía Perú. ¿Tu zona está en la lista? facebook.com",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
         "Callao",
@@ -2268,7 +2452,9 @@
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Redes sociales",
+      "descartar": false
     },
     {
       "id": "e1e471955cc06792",
@@ -2280,17 +2466,20 @@
       "fecha_pub": "2026-05-18",
       "fecha_hecho": null,
       "snippet": "🔴🔵¡Prepárate! ⚠️💡Lima y Callao se quedarán SIN LUZ el 18 y 19 de mayo: Lista de distritos afectados desde HOY👇 facebook.com",
-      "temas": [],
+      "temas": [
+        "Energía eléctrica"
+      ],
       "ubigeo": [
-        "Ate",
         "Callao",
         "Lima"
       ],
-      "score": 1,
+      "score": 3,
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Redes sociales",
+      "descartar": false
     },
     {
       "id": "5058058226acbb55",
@@ -2303,14 +2492,16 @@
       "fecha_hecho": null,
       "snippet": "🔴🔵¡A llenar los baldes desde YA! 🚱Corte de AGUA el 19 de mayo por más de 9 horas: Estos distritos se verán afectados MAÑANA 👇 facebook.com",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Redes sociales",
+      "descartar": false
     },
     {
       "id": "9022a3d27ff61abe",
@@ -2323,16 +2514,18 @@
       "fecha_hecho": null,
       "snippet": "Sedapal anuncia corte de AGUA el 19 de mayo: Estos distritos de Lima se verán afectados Exitosa Noticias",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
       ],
-      "score": 5,
+      "score": 3,
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "87f25e029c05c94f",
@@ -2345,16 +2538,18 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua hoy, lunes 18 de mayo, en distritos de Lima: zonas y horarios, según reporte de Sedapal Diario Expreso",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
       ],
-      "score": 5,
+      "score": 3,
       "query": "alcantarillado Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "38dfaa1fe8d74c7e",
@@ -2367,7 +2562,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua en Lima hoy 18 de mayo: Distritos y horarios afectados RPP Noticias",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
@@ -2376,7 +2571,9 @@
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "b8ac10e2c7ab5ae4",
@@ -2389,7 +2586,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de LUZ en Lima y Callao el 18 y 19 de mayo: Distritos afectados y horarios de suspensión Exitosa Noticias",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
         "Callao",
@@ -2399,7 +2596,9 @@
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "c1fbb9dcefd5d95e",
@@ -2412,16 +2611,18 @@
       "fecha_hecho": null,
       "snippet": "Corte de AGUA en Lima el 18 de mayo: Distritos afectados y horarios, según Sedapal Exitosa Noticias",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
       ],
-      "score": 5,
+      "score": 3,
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "9fe9a03a48d3b845",
@@ -2434,16 +2635,16 @@
       "fecha_hecho": null,
       "snippet": "Aniego por rotura de tubería inunda casas en VMT América TV",
       "temas": [
-        "desague"
+        "Alcantarillado"
       ],
-      "ubigeo": [
-        "Ica"
-      ],
+      "ubigeo": [],
       "score": 3,
       "query": "aniego Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "66409c844804f951",
@@ -2456,16 +2657,19 @@
       "fecha_hecho": null,
       "snippet": "Exitosa Noticias. . 🔴🔵 #ExitosaPerú 🇵🇪🇵🇪 | Ante la falta de agua y el colapso del sistema de alcantarillado, vecinos de Parcona, en Ica, expresaron su molestia con Emapica, empresa que presta el servicio. Denuncian que n",
       "temas": [
-        "desague"
+        "Agua por red pública",
+        "Alcantarillado"
       ],
       "ubigeo": [
         "Ica"
       ],
-      "score": 3,
+      "score": 5,
       "query": "desagüe Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Redes sociales",
+      "descartar": false
     },
     {
       "id": "e13d361e5f9c6ee0",
@@ -2478,7 +2682,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua en Lima hoy 17 de mayo: Distritos y horarios afectados RPP Noticias",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
@@ -2487,7 +2691,9 @@
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "f22bc1025c3c1997",
@@ -2499,16 +2705,20 @@
       "fecha_pub": "2026-05-17",
       "fecha_hecho": null,
       "snippet": "CONFIRMADO | Estos distritos de Lima y Callao se quedarán sin luz este 17 y 18 de mayo: revisa si tu zona será afectada El Popular",
-      "temas": [],
+      "temas": [
+        "Energía eléctrica"
+      ],
       "ubigeo": [
         "Callao",
         "Lima"
       ],
-      "score": 1,
+      "score": 3,
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "8827290381588c41",
@@ -2521,10 +2731,9 @@
       "fecha_hecho": null,
       "snippet": "¡Atentos! Corte de luz en Lima y Callao HOY, 16 de mayo: horarios, zonas y distritos El Comercio Perú",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
-        "Ate",
         "Callao",
         "Lima"
       ],
@@ -2532,7 +2741,9 @@
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "873530cccf0df5a7",
@@ -2545,7 +2756,7 @@
       "fecha_hecho": null,
       "snippet": "Lima y Callao sufrirán corte de luz por varias horas este 18 de mayo: distritos y horarios Diario Expreso",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
         "Callao",
@@ -2555,7 +2766,9 @@
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "ae0c4d86e8bacdf3",
@@ -2568,7 +2781,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de luz en Lima y Callao este 18 de mayo: Pluz anuncia suspensión del servicio en cinco distritos Infobae",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
         "Callao",
@@ -2578,7 +2791,9 @@
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "87e6c78d1bf7f70b",
@@ -2591,17 +2806,18 @@
       "fecha_hecho": null,
       "snippet": "Corte de luz en Lima del 14 al 16 de mayo: consulta horarios y distritos afectados, según Pluz Energía larepublica.pe",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
-        "Ica",
         "Lima"
       ],
       "score": 3,
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "17b364f2b61867ff",
@@ -2614,17 +2830,18 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua este 15 y 16 de mayo en Lima: horarios y distritos afectados por Sedapal larepublica.pe",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
-        "Ica",
         "Lima"
       ],
-      "score": 5,
+      "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "637191efac16c67b",
@@ -2637,7 +2854,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua en Lima hoy sábado 16 de mayo: Consulta los horarios, distritos y zonas afectadas ATV.pe",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
@@ -2646,7 +2863,9 @@
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "7d0a49af18bed6a6",
@@ -2659,7 +2878,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua en Lima hoy 16 de mayo: Distritos y horarios afectados RPP Noticias",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
@@ -2668,7 +2887,9 @@
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "b44f624d03895333",
@@ -2681,14 +2902,16 @@
       "fecha_hecho": null,
       "snippet": "Corte de LUZ el 17 y 18 de mayo: ¿Qué distritos se verán afectados con suspensión del servicio eléctrico? Exitosa Noticias",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "afda9c6de9c10bec",
@@ -2700,13 +2923,17 @@
       "fecha_pub": "2026-05-15",
       "fecha_hecho": null,
       "snippet": "🔴🔵¡Hasta 10 horas SIN LUZ! ⚠️💡Anuncian corte del servicio el 16 de mayo: Estos distritos se verán afectados MAÑANA 👇 facebook.com",
-      "temas": [],
+      "temas": [
+        "Energía eléctrica"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Redes sociales",
+      "descartar": false
     },
     {
       "id": "84cca5399b6de7ec",
@@ -2719,14 +2946,16 @@
       "fecha_hecho": null,
       "snippet": "🔴🔵¡A llenar los baldes desde YA! 🚱🪣 Corte de AGUA el 16 de mayo: Estos distritos se verán afectados MAÑANA 👇 facebook.com",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Redes sociales",
+      "descartar": false
     },
     {
       "id": "490408432d2ff9bc",
@@ -2739,7 +2968,7 @@
       "fecha_hecho": null,
       "snippet": "🔴🔵Nuevo corte de luz el 16 de mayo: Conoce qué distritos de Lima y Callao se verán afectados con la suspensión del servicio eléctrico el sábado. facebook.com",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
         "Callao",
@@ -2749,7 +2978,9 @@
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Redes sociales",
+      "descartar": false
     },
     {
       "id": "e57d8d4b66c22d36",
@@ -2762,14 +2993,16 @@
       "fecha_hecho": null,
       "snippet": "Sociedad Peruana de Gas Licuado: No estamos cerca de un apagón energético Rumbo Minero",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "apagón Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "6599a2e6d75e0617",
@@ -2782,7 +3015,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de luz en Lima y Arequipa hoy 15 de mayo: zonas afectadas y horarios RPP Noticias",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
         "Arequipa",
@@ -2792,7 +3025,9 @@
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "4d507068561331a5",
@@ -2805,16 +3040,18 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua hoy, viernes 15 de mayo, en Lima: horarios y distritos afectados, según Sedapal Diario Libero",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
       ],
-      "score": 5,
+      "score": 3,
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "91a4a2a5aece069d",
@@ -2827,7 +3064,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua en Lima hoy 15 de mayo: Distritos y horarios afectados RPP Noticias",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
@@ -2836,7 +3073,9 @@
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "38b6bd989a6ad09e",
@@ -2849,7 +3088,7 @@
       "fecha_hecho": null,
       "snippet": "CONFIRMADO | Corte de luz en Lima este 16 de mayo: hasta 9 horas sin servicio en 11 zonas, revisa distritos y horarios El Popular",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
         "Lima"
@@ -2858,7 +3097,9 @@
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "6b854e18922bb3e0",
@@ -2871,17 +3112,19 @@
       "fecha_hecho": null,
       "snippet": "🔴🔵¿Apagón en Lima y Callao? ⚠️💡Estos distritos se verán afectados con el corte de luz programado para el 14 y 15 de mayo. facebook.com",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
         "Callao",
         "Lima"
       ],
-      "score": 5,
+      "score": 3,
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Redes sociales",
+      "descartar": false
     },
     {
       "id": "56c1d6bc37846720",
@@ -2894,17 +3137,19 @@
       "fecha_hecho": null,
       "snippet": "🔴🔵¿Apagón en Lima y Callao? ⚠️💡 Anuncian corte de LUZ el 14 y 15 de mayo: ¿Tu zona se verá afectada desde HOY?👇 facebook.com",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
         "Callao",
         "Lima"
       ],
-      "score": 5,
+      "score": 3,
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Redes sociales",
+      "descartar": false
     },
     {
       "id": "1ae9c5090253acbc",
@@ -2917,14 +3162,16 @@
       "fecha_hecho": null,
       "snippet": "🔴🔵¡Por más de 10 horas! ⚠️Corte de AGUA el 14 y 15 de mayo: 🚱🪣 Estos distritos se verán afectados desde HOY👇 facebook.com",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Redes sociales",
+      "descartar": false
     },
     {
       "id": "76d41d9ad5b96da5",
@@ -2937,14 +3184,16 @@
       "fecha_hecho": null,
       "snippet": "¡CORTE DE AGUA! Sedapal confirma suspensión del servicio este 14 y 15 de mayo: consulta AQUÍ distritos y horarios El Popular",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [],
-      "score": 5,
+      "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "fbb974561785e143",
@@ -2957,16 +3206,16 @@
       "fecha_hecho": null,
       "snippet": "Trabajadores rechazan designación de Jorge Gómez Reátegui como presidente de Sedapal y denuncian presunto cuoteo político altavoz.pe",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
-      "ubigeo": [
-        "Ate"
-      ],
+      "ubigeo": [],
       "score": 3,
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "2e4a5e34d090b0a3",
@@ -2979,7 +3228,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de luz en Lima, 15 de mayo: Lista de zonas y distritos donde Pluz suspenderá su servicio este viernes Infobae",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
         "Lima"
@@ -2988,7 +3237,9 @@
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "f9a0bddaa8175d8c",
@@ -3001,7 +3252,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de luz en Lima y Arequipa HOY jueves 14 de mayo: estas son las zonas afectadas y horarios RPP Noticias",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
         "Arequipa",
@@ -3011,7 +3262,9 @@
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "e97957d478086d8f",
@@ -3024,7 +3277,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de LUZ en Lima y Callao el 14 y 15 de mayo: Lista de distritos y zonas afectadas Exitosa Noticias",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
         "Callao",
@@ -3034,7 +3287,9 @@
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "dde93b0cc25bce3e",
@@ -3047,16 +3302,18 @@
       "fecha_hecho": null,
       "snippet": "Corte de AGUA en Lima el 14 y 15 de mayo: Estos distritos se verán afectados, según Sedapal Exitosa Noticias",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
       ],
-      "score": 5,
+      "score": 3,
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "ecc370e4cc6995f5",
@@ -3069,14 +3326,16 @@
       "fecha_hecho": null,
       "snippet": "CONFIRMADO | Anuncian CORTE DE LUZ este 14 y 15 de mayo: revisa AQUÍ distritos y horarios programados El Popular",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "9b88f3c4d6551ba4",
@@ -3089,7 +3348,7 @@
       "fecha_hecho": null,
       "snippet": "🔴🔵 #ExitosaPerú🇵🇪🇵🇪 | En Chiclayo, un morador estuvo a punto de perder la vida luego de caer a un buzón de desagüe. 📻 95.5 FM 📡 6.1 señal digital abierta 📺 Movistar: 552 SD - 774 HD 🌐 exitosanoticias.pe facebook.com",
       "temas": [
-        "desague"
+        "Alcantarillado"
       ],
       "ubigeo": [
         "Chiclayo"
@@ -3098,7 +3357,9 @@
       "query": "desagüe Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Redes sociales",
+      "descartar": false
     },
     {
       "id": "e18136c5c72d073f",
@@ -3111,7 +3372,7 @@
       "fecha_hecho": null,
       "snippet": "¿Habrá corte de luz en tu distrito? Revisa las zonas y horarios afectados del 13 al 16 de mayo en Lima y Callao Revista Caretas",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
         "Callao",
@@ -3121,7 +3382,9 @@
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "b08caa3a75695137",
@@ -3134,7 +3397,7 @@
       "fecha_hecho": null,
       "snippet": "San Martín: Más de la mitad de la población carece de agua y desagüe Diario Voces",
       "temas": [
-        "desague"
+        "Alcantarillado"
       ],
       "ubigeo": [
         "San Martín",
@@ -3144,7 +3407,9 @@
       "query": "desagüe Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "e6d18f308e612665",
@@ -3157,17 +3422,18 @@
       "fecha_hecho": null,
       "snippet": "Estos 5 distritos de Lima Metropolitana no tendrán agua hasta el 13 de mayo, según Sedapal: conoce horarios y zonas afectadas larepublica.pe",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
-        "Ica",
         "Lima"
       ],
       "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "0e73ca4a11079b09",
@@ -3180,7 +3446,7 @@
       "fecha_hecho": null,
       "snippet": "Emapica admite que virtió desagüe al canal de riego agrícola La Achirana en Ica lalupa.pe",
       "temas": [
-        "desague"
+        "Alcantarillado"
       ],
       "ubigeo": [
         "Ica"
@@ -3189,7 +3455,9 @@
       "query": "desagüe Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "8e0f67afb778d109",
@@ -3202,7 +3470,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de luz en Lima y Callao hasta el 16 de mayo: Distritos, zonas y horarios Perú 21",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
         "Callao",
@@ -3212,7 +3480,9 @@
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "3ba4faf5c7af4760",
@@ -3225,7 +3495,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de luz en Lima y Callao HOY, miércoles 13 de mayo: distritos, zonas y horarios de la suspensión del servicio eléctrico Infobae",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
         "Callao",
@@ -3235,7 +3505,9 @@
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "f0e076ccc9dbf056",
@@ -3248,14 +3520,16 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua para este viernes 15 de mayo por más de 10 horas: conoce cuáles son las zonas afectadas Infobae",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "dc7772d110948557",
@@ -3268,14 +3542,16 @@
       "fecha_hecho": null,
       "snippet": "🔴🔵Corte de LUZ HOY, 12 de mayo: ⚠️💡 Estos distritos se verán afectados por más de 10 horas 👇 facebook.com",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Redes sociales",
+      "descartar": false
     },
     {
       "id": "4bc74a007ef57b6a",
@@ -3288,7 +3564,7 @@
       "fecha_hecho": null,
       "snippet": "🔴 Pluz Energía Perú anuncia corte de luz en Lima y Callao este miércoles 13 de mayo: horarios y zonas afectadas facebook.com",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
         "Callao",
@@ -3298,7 +3574,9 @@
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Redes sociales",
+      "descartar": false
     },
     {
       "id": "1dadedf039c47b4b",
@@ -3311,7 +3589,7 @@
       "fecha_hecho": null,
       "snippet": "Una semana a oscuras: Vecinos de San Martín de Porres denuncian abandono y pérdidas por prolongado corte de luz Infobae",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
         "San Martín de Porres",
@@ -3322,7 +3600,9 @@
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "a8e17cc28da47ea3",
@@ -3335,7 +3615,7 @@
       "fecha_hecho": null,
       "snippet": "Pluz Energía Perú anuncia corte de luz en Lima y Callao este miércoles 13 de mayo: horarios y zonas afectadas Diario Expreso",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
         "Callao",
@@ -3345,7 +3625,9 @@
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "5909542d5011927f",
@@ -3358,18 +3640,18 @@
       "fecha_hecho": null,
       "snippet": "Piura: Defensoría del Pueblo logra acuerdos para atención médica y saneamiento en Paita ante colapso de desagüe Plataforma del Estado Peruano",
       "temas": [
-        "desague"
+        "Alcantarillado"
       ],
       "ubigeo": [
-        "Ate",
-        "Piura",
-        "Ica"
+        "Piura"
       ],
       "score": 3,
       "query": "desagüe Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "37a22c3ccc62b030",
@@ -3382,16 +3664,16 @@
       "fecha_hecho": null,
       "snippet": "Investigan presunta participación de trabajadores de Sedapal, Sunarp y PJ que habrían colaborado con red dedicada al tráfico de terrenos LP | Pasión por el Derecho",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
-      "ubigeo": [
-        "Ica"
-      ],
+      "ubigeo": [],
       "score": 3,
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "c510c736b1702fc3",
@@ -3404,17 +3686,19 @@
       "fecha_hecho": null,
       "snippet": "Corte de luz en Lima y Callao: Pluz anuncia apagones programados en distritos desde HOY hasta el sábado 16 de mayo Infobae",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
         "Callao",
         "Lima"
       ],
-      "score": 5,
+      "score": 3,
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "2761e1a91a6399d2",
@@ -3427,7 +3711,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de luz en Lima y Callao el 13 de mayo: Estos distritos se verán afectados el miércoles Exitosa Noticias",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
         "Callao",
@@ -3437,7 +3721,9 @@
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "552c62a87561fc57",
@@ -3450,16 +3736,18 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua en Lima hoy, 13 de mayo: zonas afectadas y horario, según Sedapal Revista Caretas",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
       ],
-      "score": 5,
+      "score": 3,
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "f10b0d9fd0f70892",
@@ -3472,7 +3760,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua en Lima hoy 12 de mayo: Distritos y horarios afectados RPP Noticias",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
@@ -3481,7 +3769,9 @@
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "e06ff06b6e6e8991",
@@ -3494,14 +3784,16 @@
       "fecha_hecho": null,
       "snippet": "Argentina: Inician obras de desagüe pluvial y repavimentación vial en Gualeguaychú Peru Construye",
       "temas": [
-        "desague"
+        "Alcantarillado"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "desagüe Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "3d2a23087c592b89",
@@ -3514,17 +3806,19 @@
       "fecha_hecho": null,
       "snippet": "🔴🔵¿Apagón en Lima y Callao? ⚠️💡 Corte de LUZ el 12 de mayo: Revisa AQUÍ si tu distrito se verá afectado MAÑANA👇 facebook.com",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
         "Callao",
         "Lima"
       ],
-      "score": 5,
+      "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Redes sociales",
+      "descartar": false
     },
     {
       "id": "5f41d8caa78f6b02",
@@ -3537,10 +3831,9 @@
       "fecha_hecho": null,
       "snippet": "🔴🔵¡Prepárate! ⚠️💡Anuncian corte de luz en distritos de Lima y Callao para el 12 de mayo: Conoce qué zonas se verán afectadas y en qué horario. facebook.com",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
-        "Ate",
         "Callao",
         "Lima"
       ],
@@ -3548,7 +3841,9 @@
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Redes sociales",
+      "descartar": false
     },
     {
       "id": "8933081b19fc59ca",
@@ -3561,7 +3856,7 @@
       "fecha_hecho": null,
       "snippet": "🔴🔵Anuncian nuevo corte de LUZ en Lima y Callao: ⚠️💡 Revisa AQUÍ si tu distrito se verá afectado HOY, 11 de mayo👇 facebook.com",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
         "Callao",
@@ -3571,7 +3866,9 @@
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Redes sociales",
+      "descartar": false
     },
     {
       "id": "93967769d362f466",
@@ -3584,16 +3881,18 @@
       "fecha_hecho": null,
       "snippet": "Sedapal: mañana habrá corte de agua parcial en Lima, ¿cuáles serán las zonas afectadas este 12 de mayo? Infobae",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
       ],
-      "score": 5,
+      "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "7da18f8b5b534fed",
@@ -3606,7 +3905,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua en Lima hoy 11 de mayo: Distritos y horarios afectados RPP Noticias",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
@@ -3615,7 +3914,9 @@
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "03c8f4f93a76d84f",
@@ -3628,7 +3929,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua en Lima HOY, lunes 11 de mayo: horarios y distritos afectados El Comercio Perú",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
@@ -3637,7 +3938,9 @@
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "49283d3caf57c5b1",
@@ -3650,7 +3953,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de LUZ en Lima y Callao el 12 de mayo: ¿En qué distritos será la suspensión temporal? Exitosa Noticias",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
         "Callao",
@@ -3660,7 +3963,9 @@
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "0322d03fa550ea39",
@@ -3673,7 +3978,7 @@
       "fecha_hecho": null,
       "snippet": "🔴🔵 Corte de LUZ el 11 de mayo en Lima y Callao 💡⚠️ Distritos afectados con suspensión del servicio eléctrico ⬇️ facebook.com",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
         "Callao",
@@ -3683,7 +3988,9 @@
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Redes sociales",
+      "descartar": false
     },
     {
       "id": "1c1a9c84c1cdb627",
@@ -3696,16 +4003,18 @@
       "fecha_hecho": null,
       "snippet": "💧 Corte de agua hoy, domingo 10 de mayo, en distritos de Lima: zonas y horarios, según reporte de Sedapal facebook.com",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
       ],
-      "score": 5,
+      "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Redes sociales",
+      "descartar": false
     },
     {
       "id": "8e8336e93182ade2",
@@ -3718,10 +4027,9 @@
       "fecha_hecho": null,
       "snippet": "Corte de luz en 11 distritos de Lima y Callao: revisa el cronograma y horarios de las zonas afectadas larepublica.pe",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
-        "Ica",
         "Callao",
         "Lima"
       ],
@@ -3729,7 +4037,9 @@
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "f6616ba3223fb0a3",
@@ -3742,14 +4052,16 @@
       "fecha_hecho": null,
       "snippet": "🔴🔵¡A llenar los baldes desde YA! 🚱🪣 Corte de agua el 10 y 11 de mayo: Estos distritos se verán afectados desde MAÑANA👇 facebook.com",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Redes sociales",
+      "descartar": false
     },
     {
       "id": "6bfdcdfcacecd2cc",
@@ -3762,7 +4074,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua en Lima hoy 09 de mayo: Distritos y horarios afectados RPP Noticias",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
@@ -3771,7 +4083,9 @@
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "c719c531c20eddc3",
@@ -3784,7 +4098,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de LUZ el 11 de mayo en Lima y Callao: Distritos afectados con suspensión del servicio eléctrico Exitosa Noticias",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
         "Callao",
@@ -3794,7 +4108,9 @@
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "e8369f1a35cb359f",
@@ -3807,7 +4123,7 @@
       "fecha_hecho": null,
       "snippet": "🔴🔵Corte de LUZ en Lima y Callao el 9 de mayo: ⚠️Estos distritos se quedarán sin electricidad MAÑANA 👇 facebook.com",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
         "Callao",
@@ -3817,7 +4133,9 @@
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Redes sociales",
+      "descartar": false
     },
     {
       "id": "40124b2878972f9d",
@@ -3830,7 +4148,7 @@
       "fecha_hecho": null,
       "snippet": "💡 Corte de luz en Lima y Callao este 8 y 9 de mayo: consulte horarios y zonas afectadas por distrito facebook.com",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
         "Callao",
@@ -3840,7 +4158,9 @@
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Redes sociales",
+      "descartar": false
     },
     {
       "id": "4ebe395dc58a4ede",
@@ -3853,16 +4173,16 @@
       "fecha_hecho": null,
       "snippet": "¡Escándalo en hospitales de EsSalud! Denuncian lavandería clandestina que lavaría ropa médica con agua de desagüe Trome.com",
       "temas": [
-        "desague"
+        "Alcantarillado"
       ],
-      "ubigeo": [
-        "Ica"
-      ],
+      "ubigeo": [],
       "score": 3,
       "query": "desagüe Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "b1c7d45e4d0bd442",
@@ -3875,16 +4195,18 @@
       "fecha_hecho": null,
       "snippet": "Sedapal revela las zonas de Lima donde habrá CORTE DE AGUA este sábado 9 de mayo: interrupción de hasta 13 horas El Popular",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
       ],
-      "score": 5,
+      "score": 3,
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "dc8aed77a7f43a2f",
@@ -3897,16 +4219,18 @@
       "fecha_hecho": null,
       "snippet": "Sedapal anuncia corte de agua en Lima este 9 de mayo: revise si su zona será afectada Diario Expreso",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
       ],
-      "score": 5,
+      "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "926f2b386fbc3764",
@@ -3919,14 +4243,16 @@
       "fecha_hecho": null,
       "snippet": "Reducción en la pobreza multidimensional, pero menor acceso a agua y desagüe ComexPerú - Sociedad de Comercio Exterior del Perú",
       "temas": [
-        "desague"
+        "Alcantarillado"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "desagüe Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "95a4444a41b37079",
@@ -3939,7 +4265,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de luz en Lima y Callao este 8 y 9 de mayo: consulte horarios y zonas afectadas por distrito Diario Expreso",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
         "Callao",
@@ -3949,7 +4275,9 @@
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "c42dab3d3651812a",
@@ -3962,7 +4290,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de luz afectará a 11 distritos de Lima y Callao hasta el 9 de mayo: ¿qué zonas serán afectadas hoy? El Comercio Perú",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
         "Callao",
@@ -3972,7 +4300,9 @@
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "38c563c7dde936d4",
@@ -3985,7 +4315,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua en Lima hoy 08 de mayo: Distritos y horarios afectados RPP Noticias",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
@@ -3994,7 +4324,9 @@
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "318139c67b0a8f68",
@@ -4007,7 +4339,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de LUZ en Lima y Callao el 9 de mayo: ¿Qué distritos se quedarán sin electricidad? Exitosa Noticias",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
         "Callao",
@@ -4017,7 +4349,9 @@
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "04e9b7d1acd3b981",
@@ -4030,7 +4364,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de LUZ en Lima HOY, viernes 8 de mayo de 2026: distritos afectados y horarios según Pluz Energía Perú Diario Libero",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
         "Lima"
@@ -4039,7 +4373,9 @@
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "7eb73576324a8269",
@@ -4052,17 +4388,19 @@
       "fecha_hecho": null,
       "snippet": "🔴🔵¿Apagón en Lima y Callao? ⚠️💡 Anuncian corte de LUZ el 7 y 8 de mayo: Estos distritos se verán afectados desde HOY 👇 facebook.com",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
         "Callao",
         "Lima"
       ],
-      "score": 5,
+      "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Redes sociales",
+      "descartar": false
     },
     {
       "id": "5e504d66d6217364",
@@ -4075,14 +4413,16 @@
       "fecha_hecho": null,
       "snippet": "¡CORTE DE AGUA! Sedapal confirma suspensión del servicio este viernes 8 de mayo: revisa si tu distrito se verá afectado El Popular",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [],
-      "score": 5,
+      "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "12a6d3f77f41a9d8",
@@ -4095,7 +4435,7 @@
       "fecha_hecho": null,
       "snippet": "Proyecto de agua y alcantarillado en Villa María del Triunfo supera el 48% de avance Peru Construye",
       "temas": [
-        "desague"
+        "Alcantarillado"
       ],
       "ubigeo": [
         "Villa María del Triunfo"
@@ -4104,7 +4444,9 @@
       "query": "desagüe Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "87cfa60de262bb43",
@@ -4117,16 +4459,16 @@
       "fecha_hecho": null,
       "snippet": "MVCS: Sedapal renueva certificación internacional de plantas de tratamiento de aguas residuales de Santa Clara y Cieneguilla construyendo.pe",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
-      "ubigeo": [
-        "Ica"
-      ],
+      "ubigeo": [],
       "score": 3,
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "da70e05df770873a",
@@ -4139,14 +4481,16 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua para este 09 de mayo: conoce cuáles son las zonas afectadas Infobae",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "1fdbc659c0448a28",
@@ -4159,7 +4503,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua en Lima hoy 07 de mayo: Distritos y horarios afectados RPP Noticias",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
@@ -4168,7 +4512,9 @@
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "b9e8893f89a527da",
@@ -4181,16 +4527,18 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua en Lima el viernes 8 de mayo: Distritos afectados y horarios de Sedapal Exitosa Noticias",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
       ],
-      "score": 5,
+      "score": 3,
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "77a71add325aa231",
@@ -4203,17 +4551,18 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua en Lima HOY: conoce los distritos y horarios afectados este 8 de mayo, según Sedapal larepublica.pe",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
-        "Ica",
         "Lima"
       ],
-      "score": 5,
+      "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "7934176ea2d45e11",
@@ -4226,7 +4575,7 @@
       "fecha_hecho": null,
       "snippet": "🔴🔵Anuncian corte de LUZ en Lima y Callao el 7 y 8 de mayo: ⚠️💡 Estos distritos se verán afectados desde MAÑANA👇 facebook.com",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
         "Callao",
@@ -4236,7 +4585,9 @@
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Redes sociales",
+      "descartar": false
     },
     {
       "id": "10f883049fc0d7a0",
@@ -4249,16 +4600,16 @@
       "fecha_hecho": null,
       "snippet": "Fonafe designó a Jorge Gómez Reátegui como nuevo presidente de Sedapal Gestión",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
-      "ubigeo": [
-        "Ate"
-      ],
+      "ubigeo": [],
       "score": 3,
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "34134014088b03e5",
@@ -4271,17 +4622,19 @@
       "fecha_hecho": null,
       "snippet": "Corte de luz en Lima y Callao: 11 distritos registrarán apagones localizados hasta el 9 de mayo, anunció Pluz Infobae",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
         "Callao",
         "Lima"
       ],
-      "score": 5,
+      "score": 3,
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "1f2b821ba72be3e7",
@@ -4294,14 +4647,16 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua para este viernes 08 de mayo: conoce cuáles son las zonas afectadas Infobae",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "596cd8a456f174be",
@@ -4314,7 +4669,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua en Lima hoy 06 de mayo: Distritos y horarios afectados RPP Noticias",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
@@ -4323,7 +4678,9 @@
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "c55737cbfba8c973",
@@ -4336,7 +4693,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de LUZ en Lima y Callao el 7 y 8 de mayo: Estos distritos se verán afectados Exitosa Noticias",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
         "Callao",
@@ -4346,7 +4703,9 @@
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "ce8d359e0113a49b",
@@ -4359,17 +4718,18 @@
       "fecha_hecho": null,
       "snippet": "¡Atención! Corte de agua en Lima hoy, 5 de mayo: Sedapal anuncia las zonas afectadas y horarios El Comercio Perú",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
-        "Ate",
         "Lima"
       ],
-      "score": 5,
+      "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "28b1dd5bb5b35811",
@@ -4382,7 +4742,7 @@
       "fecha_hecho": null,
       "snippet": "Policía rescató a un perro que quedó atrapado en un canal de desagüe a varios metros bajo la calle en Cusco [VIDEO] RPP Noticias",
       "temas": [
-        "desague"
+        "Alcantarillado"
       ],
       "ubigeo": [
         "Cusco"
@@ -4391,7 +4751,9 @@
       "query": "desagüe Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "2942a7aa656311e7",
@@ -4404,7 +4766,7 @@
       "fecha_hecho": null,
       "snippet": "Piura: Colapso de alcantarillado en Paita inunda viviendas y suspende clases escolares lalupa.pe",
       "temas": [
-        "desague"
+        "Alcantarillado"
       ],
       "ubigeo": [
         "Piura"
@@ -4413,7 +4775,9 @@
       "query": "desagüe Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "6a8eb81cb8ef8345",
@@ -4426,7 +4790,7 @@
       "fecha_hecho": null,
       "snippet": "La Policía salvó a a un perro que quedó atrapado en canal de desagüe en Cusco RPP Noticias",
       "temas": [
-        "desague"
+        "Alcantarillado"
       ],
       "ubigeo": [
         "Cusco"
@@ -4435,7 +4799,9 @@
       "query": "desagüe Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "7fb8c2209b79b914",
@@ -4448,14 +4814,16 @@
       "fecha_hecho": null,
       "snippet": "Emergencia sanitaria en Paita: colapso de red de alcantarillado inunda calles y viviendas Agencia Andina",
       "temas": [
-        "desague"
+        "Alcantarillado"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "desagüe Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "122b7d8edca5efbe",
@@ -4468,14 +4836,16 @@
       "fecha_hecho": null,
       "snippet": "Corte de luz programado en Mollendo este jueves 7 de mayo La Prensa Regional",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "43e953ad4e87f5e4",
@@ -4488,14 +4858,16 @@
       "fecha_hecho": null,
       "snippet": "Corte de luz el 7 de mayo: Estos distritos se quedarán sin electricidad este jueves Exitosa Noticias",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "fb3c95a71de6cae7",
@@ -4508,14 +4880,16 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua para este 07 de mayo por más de 10 horas: ¿Cuáles son las zonas afectadas? Infobae",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "346ba5ca05d3df65",
@@ -4528,16 +4902,18 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua en Lima | Sedapal anuncia suspensión del 6 al 7 de mayo: Consulta AQUÍ los distritos y horarios El Popular",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
       ],
-      "score": 5,
+      "score": 3,
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "509788a3f65498a3",
@@ -4550,7 +4926,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua en Lima HOY martes 05 de mayo: los distritos y horarios afectados RPP Noticias",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
@@ -4559,7 +4935,9 @@
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "90c6ce1b9f1adc37",
@@ -4572,16 +4950,16 @@
       "fecha_hecho": null,
       "snippet": "🔴🔵¡Prepárate! ⚠️🤯 Anuncian corte de LUZ el 5 y 6 de mayo: Estos distritos se verán afectados desde MAÑANA 👇 facebook.com",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
-      "ubigeo": [
-        "Ate"
-      ],
+      "ubigeo": [],
       "score": 3,
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Redes sociales",
+      "descartar": false
     },
     {
       "id": "75d9a75f12423d42",
@@ -4594,16 +4972,18 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua hoy, lunes 4 de mayo, en distritos de Lima: zonas y horarios, según reporte de Sedapal Diario Expreso",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
       ],
-      "score": 5,
+      "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "c1bf142adfa86299",
@@ -4616,7 +4996,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua en Lima hoy 04 de mayo: Distritos y horarios afectados RPP Noticias",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
@@ -4625,7 +5005,9 @@
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "9f2b038b39302795",
@@ -4638,16 +5020,18 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua en Lima el 5 de mayo: Lista de distritos afectados el martes, según Sedapal Exitosa Noticias",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
       ],
-      "score": 5,
+      "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "11a9558f5ad1b241",
@@ -4660,16 +5044,18 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua de Sedapal programado para mañana 5 de mayo: qué zonas de Lima serán afectadas Infobae",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
       ],
-      "score": 5,
+      "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "143ca7bfb3951353",
@@ -4681,13 +5067,17 @@
       "fecha_pub": "2026-05-03",
       "fecha_hecho": null,
       "snippet": "Oficial | Estos distritos se quedarán SIN LUZ del 5 al 6 de mayo: revisa si tu zona esta en la lista El Popular",
-      "temas": [],
+      "temas": [
+        "Energía eléctrica"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "35fdcbc4e837136d",
@@ -4700,14 +5090,16 @@
       "fecha_hecho": null,
       "snippet": "Más de 20 mil vecinos de Chincha accederán a agua y desagüe tras más de 15 años de espera Diario Correo",
       "temas": [
-        "desague"
+        "Alcantarillado"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "desagüe Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "b88a5e62f64ff55e",
@@ -4720,16 +5112,18 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua hoy, domingo 3 de mayo, en distritos de Lima: zonas y horarios, según reporte de Sedapal Diario Expreso",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
       ],
-      "score": 5,
+      "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "a122e2cfb01f5302",
@@ -4742,14 +5136,16 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua este 4 y 5 de mayo por más de 10 horas: revisa si tu distrito será afectado, según Sedapal El Popular",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [],
-      "score": 5,
+      "score": 3,
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "0e60bd4d68d7ff6c",
@@ -4762,7 +5158,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua en Lima hoy 03 de mayo: Distritos y horarios afectados RPP Noticias",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
@@ -4771,7 +5167,9 @@
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "c2d0ea2825751599",
@@ -4784,17 +5182,18 @@
       "fecha_hecho": null,
       "snippet": "Cinco distritos de Lima Metropolitana no tendrán agua hasta por 12 horas este 4 y 5 de mayo, según Sedapal: revisa zonas afectadas larepublica.pe",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
-        "Ica",
         "Lima"
       ],
       "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "5f55c7f90f62f2f5",
@@ -4807,14 +5206,16 @@
       "fecha_hecho": null,
       "snippet": "🔴 Corte de luz de hasta 10 horas este domingo 3 de mayo: lista completa de distritos afectados facebook.com",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Redes sociales",
+      "descartar": false
     },
     {
       "id": "19f7aeccfec6fde9",
@@ -4827,7 +5228,7 @@
       "fecha_hecho": null,
       "snippet": "¿Qué zonas serán afectadas por el corte de agua en Lima por más de 10 horas este 2 de mayo? El Comercio Perú",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
@@ -4836,7 +5237,9 @@
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "0f19f83a270609e8",
@@ -4849,14 +5252,16 @@
       "fecha_hecho": null,
       "snippet": "¡A sacar los baldes! Sedapal anuncia corte de agua de hasta 13 horas este 3 de mayo: ¿a qué zonas afectará? El Popular",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [],
-      "score": 5,
+      "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "c5e0fcd6cbb606a5",
@@ -4869,16 +5274,18 @@
       "fecha_hecho": null,
       "snippet": "Sedapal anuncia corte de agua en Lima este 3 y 4 de mayo: distritos y horarios confirmados Diario Expreso",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
       ],
-      "score": 5,
+      "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "4078fd078cc9d260",
@@ -4891,14 +5298,16 @@
       "fecha_hecho": null,
       "snippet": "Corte de luz de hasta 10 horas este domingo 3 de mayo: lista completa de distritos afectados Diario Expreso",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "b60bfcc82dfdec49",
@@ -4911,14 +5320,16 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua para este 04 de mayo por más de 10 horas: ¿Cuáles son las zonas que serán afectadas? Infobae",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "038765e3dae9cf26",
@@ -4931,14 +5342,16 @@
       "fecha_hecho": null,
       "snippet": "Corte de LUZ el 3 de mayo: ¿Qué distritos se verán afectados el domingo hasta por 10 horas? Exitosa Noticias",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "d508cfee2c953e3b",
@@ -4951,16 +5364,18 @@
       "fecha_hecho": null,
       "snippet": "Sedapal anuncia corte de agua este 2 de mayo en Lima por más de 10 horas: revise si su zona será afectada Diario Expreso",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
       ],
-      "score": 5,
+      "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "e0f51da54bfc0cb1",
@@ -4973,14 +5388,16 @@
       "fecha_hecho": null,
       "snippet": "Los pequeños negocios de Perú podrán seguir “inundando” los desagües con sus residuos por un año más: los detalles Infobae",
       "temas": [
-        "desague"
+        "Alcantarillado"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "desagüe Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "0ca04ef2339e9498",
@@ -4993,7 +5410,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua en Lima hoy 01 de mayo: Distritos y horarios afectados RPP Noticias",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
@@ -5002,7 +5419,9 @@
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:31"
+      "agregado": "2026-09-18 12:31",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     }
   ],
   "n": 229

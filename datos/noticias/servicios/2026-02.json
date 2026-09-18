@@ -1,6 +1,6 @@
 {
   "mes": "2026-02",
-  "actualizado": "2026-09-18 12:30",
+  "actualizado": "2026-09-18 13:09",
   "items": [
     {
       "id": "6fd861d9251bce4b",
@@ -13,16 +13,16 @@
       "fecha_hecho": null,
       "snippet": "¡Prepárate! Anuncian corte de LUZ para el 3 de marzo: ¿Qué distritos se verán afectados? Exitosa Noticias",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
-      "ubigeo": [
-        "Ate"
-      ],
+      "ubigeo": [],
       "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "f3b487b0def657c5",
@@ -35,17 +35,18 @@
       "fecha_hecho": null,
       "snippet": "¡Prepárate! Anuncian corte de AGUA el 1 y 2 de marzo en Lima: Distritos afectados, según Sedapal Exitosa Noticias",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
-        "Ate",
         "Lima"
       ],
-      "score": 5,
+      "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "bba8e88a0f4dbe1d",
@@ -58,16 +59,18 @@
       "fecha_hecho": null,
       "snippet": "Vecinos de Chiclayo exigen ayuda por aniegos y colapso de desagües soltv peru",
       "temas": [
-        "desague"
+        "Alcantarillado"
       ],
       "ubigeo": [
         "Chiclayo"
       ],
-      "score": 5,
+      "score": 3,
       "query": "desagüe Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "fa7d97c4dfc66c71",
@@ -80,17 +83,19 @@
       "fecha_hecho": null,
       "snippet": "Sedapal garantiza abastecimiento de agua potable ante incremento del caudal del río Rímac Agencia Andina",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Rímac",
         "Rimac"
       ],
-      "score": 5,
+      "score": 3,
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "617ca8b6112460c4",
@@ -103,17 +108,18 @@
       "fecha_hecho": null,
       "snippet": "Sedapal confirmó corte de agua en 3 distritos de Lima este 28 de febrero: ¿Tu zona se perjudicará? Verifica AQUÍ Diario Libero",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
-        "Ica",
         "Lima"
       ],
-      "score": 5,
+      "score": 3,
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "feb65aff79ad8853",
@@ -126,16 +132,18 @@
       "fecha_hecho": null,
       "snippet": "Oficial | Sedapal anuncia CORTE DE AGUA el 1 y 2 de marzo en Lima: distritos NO tendrán agua hasta por 12 horas El Popular",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
       ],
-      "score": 5,
+      "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "3ece8b9eed539a5c",
@@ -148,17 +156,18 @@
       "fecha_hecho": null,
       "snippet": "Lluvia y tormenta eléctrica causan apagón e inundaciones en Tumbes soltv peru",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
-        "Ica",
         "Tumbes"
       ],
       "score": 3,
       "query": "aniego Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "2f970a7d25380bba",
@@ -171,16 +180,18 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua en Lima este domingo 1 de marzo: distritos afectados y horarios, según Sedapal Diario Libero",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
       ],
-      "score": 5,
+      "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "1fd8b2843bfbabaa",
@@ -193,7 +204,7 @@
       "fecha_hecho": null,
       "snippet": "¿Sin servicio de AGUA en Lima y Callao por incremento del caudal del río Rímac? Esto responde Sedapal Exitosa Noticias",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Rímac",
@@ -204,7 +215,9 @@
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "63743d1eefc916c4",
@@ -217,7 +230,7 @@
       "fecha_hecho": null,
       "snippet": "¿Nos quedamos sin agua en Lima? Sedapal responde por riesgo de cortes tras crecida del río Rímac El Popular",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Rímac",
@@ -228,7 +241,9 @@
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "c62af10b9066a252",
@@ -241,14 +256,16 @@
       "fecha_hecho": null,
       "snippet": "¡Sin agua por más de 11 horas! Sedapal confirma los distritos que sufrirán del corte masivo del servicio este 01 de marzo El Popular",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "d1b25cce9656e79f",
@@ -261,17 +278,18 @@
       "fecha_hecho": null,
       "snippet": "Tumbes: tormenta eléctrica histórica inunda institutos y colapsa desagües El Comercio Perú",
       "temas": [
-        "desague"
+        "Alcantarillado"
       ],
       "ubigeo": [
-        "Ica",
         "Tumbes"
       ],
       "score": 3,
       "query": "desagüe Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "3e8342baba062c31",
@@ -284,17 +302,18 @@
       "fecha_hecho": null,
       "snippet": "Sedapal confirmó corte de agua en 3 distritos de Lima este sábado 28 de febrero: revisa si tu sector está en la lista de afectados larepublica.pe",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
-        "Ica",
         "Lima"
       ],
-      "score": 5,
+      "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "79a5934781549281",
@@ -307,7 +326,7 @@
       "fecha_hecho": null,
       "snippet": "Piura: Defensoría del Pueblo alerta grave riesgo por colapso de desagües y retrasos en obras de saneamiento en Catacaos Plataforma del Estado Peruano",
       "temas": [
-        "desague"
+        "Alcantarillado"
       ],
       "ubigeo": [
         "Piura"
@@ -316,7 +335,9 @@
       "query": "desagüe Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "818fc59e2590b9f8",
@@ -329,7 +350,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua en Lima este viernes 27 de febrero: distritos no contarán con el servicio por 12 horas Diario Libero",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
@@ -338,7 +359,9 @@
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "5f1e4227c77af3ca",
@@ -351,7 +374,7 @@
       "fecha_hecho": null,
       "snippet": "Confirmado | Sedapal anunció CORTE masivo de agua en Lima este sábado 28: 18 sectores afectados El Popular",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
@@ -360,7 +383,9 @@
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "8ad71071f2c18118",
@@ -372,13 +397,17 @@
       "fecha_pub": "2026-02-27",
       "fecha_hecho": null,
       "snippet": "Alumnos corren peligro en colegios por infraestructura deteriorada: Contraloría hizo inspección y encontró ambientes inhabitables, sin agua y sin servicios Diario Expreso",
-      "temas": [],
+      "temas": [
+        "Agua por red pública"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "\"sin agua potable\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "cd9c3dfa14c9adc2",
@@ -391,8 +420,8 @@
       "fecha_hecho": null,
       "snippet": "¡Urgente! Colapso del alcantarillado deja sin agua potable a varios sectores de Chiclayo Exitosa Noticias",
       "temas": [
-        "agua",
-        "desague"
+        "Agua por red pública",
+        "Alcantarillado"
       ],
       "ubigeo": [
         "Chiclayo"
@@ -401,7 +430,9 @@
       "query": "desagüe Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "6e93a0c36730c882",
@@ -414,8 +445,8 @@
       "fecha_hecho": null,
       "snippet": "Restringen el servicio de agua potable en Chiclayo por colapso de la red de alcantarillado Agencia Andina",
       "temas": [
-        "agua",
-        "desague"
+        "Agua por red pública",
+        "Alcantarillado"
       ],
       "ubigeo": [
         "Chiclayo"
@@ -424,7 +455,9 @@
       "query": "desagüe Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "a4f61bd164db8720",
@@ -436,15 +469,19 @@
       "fecha_pub": "2026-02-26",
       "fecha_hecho": null,
       "snippet": "Hasta 12 HORAS SIN AGUA en Lima: ¿Qué distritos sufrirán el corte del servicio el 27 de febrero? Exitosa Noticias",
-      "temas": [],
+      "temas": [
+        "Agua por red pública"
+      ],
       "ubigeo": [
         "Lima"
       ],
-      "score": 1,
+      "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "71b4dccf2d0cdd81",
@@ -457,7 +494,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua en Lima hoy 26 de febrero: Distritos y horarios afectados RPP Noticias",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
@@ -466,7 +503,9 @@
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "9f47906faa0e3ea8",
@@ -479,8 +518,8 @@
       "fecha_hecho": null,
       "snippet": "Chiclayo queda sin agua potable tras jornada de lluvias intensas que colapsaron red de alcantarillado Infobae",
       "temas": [
-        "agua",
-        "desague"
+        "Agua por red pública",
+        "Alcantarillado"
       ],
       "ubigeo": [
         "Chiclayo"
@@ -489,7 +528,9 @@
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "80e76e80272e1b3f",
@@ -502,16 +543,16 @@
       "fecha_hecho": null,
       "snippet": "¡Prepárate! Anuncian corte de AGUA HOY, 25 de febrero: Distritos afectados Exitosa Noticias",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
-      "ubigeo": [
-        "Ate"
-      ],
+      "ubigeo": [],
       "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "2f527daf39b85b8c",
@@ -524,14 +565,16 @@
       "fecha_hecho": null,
       "snippet": "¡Apagón por 8 horas! Anuncian CORTE MASIVO DE LUZ este miércoles 25: los 10 sectores donde NO HABRÁ SERVICIO El Popular",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "b6e5ec6065250d89",
@@ -544,14 +587,16 @@
       "fecha_hecho": null,
       "snippet": "Pobladores del A.H. Primero de Mayo en Máncora denuncian abandono tras huaico: viviendas inundadas y sin agua potable Infobae",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "\"sin agua potable\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "14295e39580e18d3",
@@ -564,7 +609,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua en Lima hoy 25 de febrero: Distritos y horarios afectados RPP Noticias",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
@@ -573,7 +618,9 @@
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "116f07b196d96bec",
@@ -586,16 +633,18 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua HOY 25 de febrero en Lima: consulta los distritos afectados y horarios de Sedapal El Popular",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
       ],
-      "score": 5,
+      "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "988f168ede93bb08",
@@ -608,7 +657,7 @@
       "fecha_hecho": null,
       "snippet": "Arequipa tendrá corte de agua hasta el 1 de marzo: Sedapar realizará trabajos en medio de emergencia por lluvias Infobae",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Arequipa"
@@ -617,7 +666,9 @@
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "fce85d8daadb445d",
@@ -630,16 +681,16 @@
       "fecha_hecho": null,
       "snippet": "🔴🔵¡Prepárate! 🚫💡 Anuncian corte de LUZ el 24 y 25 de febrero: Revisa AQUÍ si tu distrito se verá afectado desde HOY 👇 facebook.com",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
-      "ubigeo": [
-        "Ate"
-      ],
+      "ubigeo": [],
       "score": 3,
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Redes sociales",
+      "descartar": false
     },
     {
       "id": "c36dcfe8a17ebda8",
@@ -652,14 +703,16 @@
       "fecha_hecho": null,
       "snippet": "¡Apagón por 8 horas! Confirman CORTE DE LUZ este martes 24: los 20 sectores donde NO HABRÁ SERVICIO El Popular",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [],
-      "score": 5,
+      "score": 3,
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "408c58f883540b38",
@@ -672,16 +725,16 @@
       "fecha_hecho": null,
       "snippet": "Máncora inundada por lluvias: huaicos, rayos y aniegos golpean el balneario turístico del norte peruano larepublica.pe",
       "temas": [
-        "desague"
+        "Alcantarillado"
       ],
-      "ubigeo": [
-        "Ica"
-      ],
+      "ubigeo": [],
       "score": 3,
       "query": "aniego Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "214d4054974ebeca",
@@ -694,7 +747,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua este martes 24 de febrero: Comas y Lima Cercado no tendrán servicio hasta por 12 horas Diario Libero",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Comas",
@@ -704,7 +757,9 @@
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "b07be3a217d22130",
@@ -717,7 +772,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua en Arequipa: rotura de tubería afectará cuatro distritos este martes 24 El Búho.pe",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Arequipa"
@@ -726,7 +781,9 @@
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "9a7bb397f006ae61",
@@ -739,14 +796,16 @@
       "fecha_hecho": null,
       "snippet": "CERCA DE TRES MILLONES DE PERUANOS CARECEN DE ACCESO A SERVICIOS DE AGUA POTABLE EN EL TERRITORIO NACIONAL RCR Peru",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "alcantarillado Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "3f0c4ffebfc122ff",
@@ -759,7 +818,7 @@
       "fecha_hecho": null,
       "snippet": "Ayacucho: corte de luz el 1 de marzo por obras del estadio jornada.com.pe",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
         "Ayacucho"
@@ -768,7 +827,9 @@
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "cb3485b9090dfac1",
@@ -781,16 +842,16 @@
       "fecha_hecho": null,
       "snippet": "🔴🔵¡Prepárate! 🚫💡Anuncian corte de LUZ el 24 y 25 de febrero: Revisa AQUÍ si tu zona se verá afectada desde MAÑANA 👇 facebook.com",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
-      "ubigeo": [
-        "Ate"
-      ],
+      "ubigeo": [],
       "score": 3,
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Redes sociales",
+      "descartar": false
     },
     {
       "id": "7dfa1609f8c130cd",
@@ -803,14 +864,16 @@
       "fecha_hecho": null,
       "snippet": "¡APAGÓN MASIVO! Anuncian CORTE DE LUZ el 26 y 27 de febrero: consulta las zonas y horarios afectados El Popular",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [],
-      "score": 5,
+      "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "2d404ec705c30fb9",
@@ -823,7 +886,7 @@
       "fecha_hecho": null,
       "snippet": "Sedapal invierte más de S/2 mil millones en obras de agua y saneamiento en Lima y Callao beneficiando a 482 mil nuevos usuarios Business Empresarial",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Callao",
@@ -833,7 +896,9 @@
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "8b7a5acfe991c8bf",
@@ -846,16 +911,18 @@
       "fecha_hecho": null,
       "snippet": "Sedapal CONFIRMA corte de agua MAÑANA 24 de febrero en Lima: distritos sin servicio hasta 12 horas El Popular",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
       ],
-      "score": 5,
+      "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "237601ac7724b5ff",
@@ -868,16 +935,16 @@
       "fecha_hecho": null,
       "snippet": "Máncora afectada por las lluvias: tránsito restringido por aniegos de agua y lodo en la Panamericana Norte [VIDEO] RPP Noticias",
       "temas": [
-        "desague"
+        "Alcantarillado"
       ],
-      "ubigeo": [
-        "Ica"
-      ],
+      "ubigeo": [],
       "score": 3,
       "query": "desagüe Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "cf10b897070562dc",
@@ -889,13 +956,17 @@
       "fecha_pub": "2026-02-23",
       "fecha_hecho": null,
       "snippet": "Hasta 9 horas SIN LUZ el 26 y 27 de febrero: Lista de distritos afectados con el corte del servicio eléctrico Exitosa Noticias",
-      "temas": [],
+      "temas": [
+        "Energía eléctrica"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "30d78ec100e95b63",
@@ -908,16 +979,18 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua y restitución progresiva de agua potable en Arequipa: Sedapar activa plan de emergencia tras huaicos Infobae",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Arequipa"
       ],
-      "score": 5,
+      "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "a3bed9d4cefb4a39",
@@ -930,7 +1003,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua en Lima hoy 23 de febrero: Distritos y horarios afectados RPP Noticias",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
@@ -939,7 +1012,9 @@
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "67ef26d3d1d376c8",
@@ -952,7 +1027,7 @@
       "fecha_hecho": null,
       "snippet": "12 horas SIN AGUA en Lima: Distritos afectados el martes 24 de febrero, según Sedapal Exitosa Noticias",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
@@ -961,7 +1036,9 @@
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "9c403d18a3de9df8",
@@ -973,13 +1050,17 @@
       "fecha_pub": "2026-02-21",
       "fecha_hecho": null,
       "snippet": "🔴🔵SIN LUZ hasta por 11 horas el 22 de febrero: 🚫💡Revisa AQUÍ qué distritos se verán afectados MAÑANA 👇 facebook.com",
-      "temas": [],
+      "temas": [
+        "Energía eléctrica"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Redes sociales",
+      "descartar": false
     },
     {
       "id": "300c10cf3b909833",
@@ -992,7 +1073,7 @@
       "fecha_hecho": null,
       "snippet": "¿Vives aquí? Este distrito de Lima se quedará sin agua el 23 de febrero, según Sedapal El Popular",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
@@ -1001,7 +1082,9 @@
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "b83840ce034491fd",
@@ -1013,13 +1096,17 @@
       "fecha_pub": "2026-02-21",
       "fecha_hecho": null,
       "snippet": "¡Hasta 8 horas SIN LUZ! Anuncian corte de servicio eléctrico el 24 y 25 de febrero: Distritos afectados Exitosa Noticias",
-      "temas": [],
+      "temas": [
+        "Energía eléctrica"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "88bfd56f844c51b8",
@@ -1031,13 +1118,17 @@
       "fecha_pub": "2026-02-21",
       "fecha_hecho": null,
       "snippet": "¡Cortes de hasta 8 horas! Estas zonas se quedarán sin luz el 24 y 25 de febrero Diario Expreso",
-      "temas": [],
+      "temas": [
+        "Energía eléctrica"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "apagón Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "72bd4545fa0b4857",
@@ -1050,14 +1141,16 @@
       "fecha_hecho": null,
       "snippet": "Corte de luz durante el 24 y 25 de febrero: distritos se quedarán SIN SERVICIO eléctrico hasta por 8 horas El Popular",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "c520d285afe266e3",
@@ -1070,7 +1163,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua en Lima hoy 21 de febrero: Distritos y horarios afectados RPP Noticias",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
@@ -1079,7 +1172,9 @@
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "e74000b553a42544",
@@ -1092,14 +1187,16 @@
       "fecha_hecho": null,
       "snippet": "Anuncian corte de AGUA para el 23 de febrero: ¿Tu distrito se verá afectado este lunes? Exitosa Noticias",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "c970816497d8385e",
@@ -1112,16 +1209,18 @@
       "fecha_hecho": null,
       "snippet": "Sedapal realizará corte de agua en este distrito de Lima este 21 de febrero Infobae",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
       ],
-      "score": 5,
+      "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "22c86326a7223e29",
@@ -1134,14 +1233,16 @@
       "fecha_hecho": null,
       "snippet": "Sedapal confirma corte de agua este sábado 21 de febrero por hasta 8 horas: este distrito se verá afectado wapa.pe",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [],
-      "score": 5,
+      "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "2fec3084195d1325",
@@ -1154,17 +1255,18 @@
       "fecha_hecho": null,
       "snippet": "Sedapal anuncia corte de agua en 2 distritos de Lima hoy viernes 20 de febrero: verifica si tu zona será afectada larepublica.pe",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
-        "Ica",
         "Lima"
       ],
-      "score": 5,
+      "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "0d289606e0e43911",
@@ -1176,16 +1278,19 @@
       "fecha_pub": "2026-02-20",
       "fecha_hecho": null,
       "snippet": "Lluvias y huaicos dejan severos daños en Arequipa, miles sin agua y rescates de emergencia, según último reporte de INDECI Infobae",
-      "temas": [],
+      "temas": [
+        "Agua por red pública"
+      ],
       "ubigeo": [
-        "Ate",
         "Arequipa"
       ],
-      "score": 1,
+      "score": 3,
       "query": "\"sin agua potable\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "12fbba07384f0262",
@@ -1198,17 +1303,18 @@
       "fecha_hecho": null,
       "snippet": "Globos metálicos causan corte de luz en Ate, Chosica y Chaclacayo El Comercio Perú",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
-        "Ate",
-        "Ica"
+        "Ate"
       ],
       "score": 3,
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "70b219caa8bde15a",
@@ -1221,14 +1327,17 @@
       "fecha_hecho": null,
       "snippet": "Defensoría del Pueblo lidera mesa de trabajo para búsqueda de soluciones ante colapsos de redes de desagüe, cortes de luz y mejoramiento de los servicios públicos en Sullana Plataforma del Estado Peruano",
       "temas": [
-        "desague"
+        "Alcantarillado",
+        "Energía eléctrica"
       ],
       "ubigeo": [],
-      "score": 3,
+      "score": 5,
       "query": "desagüe Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "d15d45ddf7f2576b",
@@ -1241,17 +1350,18 @@
       "fecha_hecho": null,
       "snippet": "Corte de luz en varios distritos de Arequipa este 19 y 20 de febrero: consulta las zonas afectadas larepublica.pe",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
-        "Arequipa",
-        "Ica"
+        "Arequipa"
       ],
       "score": 3,
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "411c72a71d7497cf",
@@ -1264,14 +1374,16 @@
       "fecha_hecho": null,
       "snippet": "Contaminación en playa Bujama: reportan tuberías de desagüe expuestas y presencia de coliformes fecales en el mar El Comercio Perú",
       "temas": [
-        "desague"
+        "Alcantarillado"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "desagüe Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "f14034e618f1bd58",
@@ -1284,7 +1396,7 @@
       "fecha_hecho": null,
       "snippet": "Cerca de 30 mil hogares en Arequipa siguen sin agua potable tras lluvias y deslizamientos Infobae",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Arequipa"
@@ -1293,7 +1405,9 @@
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "8ebbc7e1cb645f9f",
@@ -1306,7 +1420,7 @@
       "fecha_hecho": null,
       "snippet": "Arequipa: Proyecto de agua y desagüe sería prioridad en el 154° Aniversario de Mejía Diario Correo",
       "temas": [
-        "desague"
+        "Alcantarillado"
       ],
       "ubigeo": [
         "Arequipa"
@@ -1315,7 +1429,9 @@
       "query": "desagüe Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "476a79aab32f22b6",
@@ -1328,17 +1444,18 @@
       "fecha_hecho": null,
       "snippet": "• Corte de luz en Ate, Chosica y Chaclacayo por explosión de globos metálicos RPP Noticias",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
-        "Ate",
-        "Ica"
+        "Ate"
       ],
       "score": 3,
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "eb0061e5b360222c",
@@ -1350,13 +1467,17 @@
       "fecha_pub": "2026-02-19",
       "fecha_hecho": null,
       "snippet": "SIN LUZ hasta por 11 horas el 22 de febrero: Distritos que se verán afectados el domingo Exitosa Noticias",
-      "temas": [],
+      "temas": [
+        "Energía eléctrica"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "31085a8483ad72dd",
@@ -1369,14 +1490,16 @@
       "fecha_hecho": null,
       "snippet": "SIN AGUA hasta por 12 horas el 20 de febrero: ¿Qué distritos se verán afectados, según Sedapal? Exitosa Noticias",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "e79a522d07f1fa21",
@@ -1389,7 +1512,7 @@
       "fecha_hecho": null,
       "snippet": "Piura: Paita y Talara se quedan sin agua potable Diario Correo",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Piura"
@@ -1398,7 +1521,9 @@
       "query": "\"sin agua potable\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "c6e57bd12b342a2e",
@@ -1411,16 +1536,16 @@
       "fecha_hecho": null,
       "snippet": "Oficial | Corte de luz MASIVO 20 y 21 de febrero: distritos no tendrán energía eléctrica hasta por 10 horas El Popular",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
-      "ubigeo": [
-        "Ica"
-      ],
+      "ubigeo": [],
       "score": 3,
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "2581b58345fdefda",
@@ -1433,14 +1558,16 @@
       "fecha_hecho": null,
       "snippet": "Corte de luz CONFIRMADO para este domingo 22 de febrero: distritos sin servicio hasta por 11 horas El Popular",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "4fd46006596c7ad1",
@@ -1453,16 +1580,18 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua este 20 de febrero: Sedapal advierte que estos distritos de Lima quedarán sin servicio Infobae",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
       ],
-      "score": 5,
+      "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "2af45559cd647e97",
@@ -1475,7 +1604,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua en Lima hoy 19 de febrero: Distritos y horarios afectados RPP Noticias",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
@@ -1484,7 +1613,9 @@
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "363946bedea37734",
@@ -1497,17 +1628,18 @@
       "fecha_hecho": null,
       "snippet": "Apagón masivo en Lima Este: globo metálico dejó sin electricidad a más de 47.000 familias larepublica.pe",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
-        "Ica",
         "Lima"
       ],
       "score": 3,
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "6e10b4eca96ecf3d",
@@ -1520,7 +1652,7 @@
       "fecha_hecho": null,
       "snippet": "Apagón en Lima Este: Explosión por globos metálicos deja sin luz a más de 47 mil familias Infobae",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
         "Lima"
@@ -1529,7 +1661,9 @@
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "54ed2e5d12a55185",
@@ -1542,14 +1676,16 @@
       "fecha_hecho": null,
       "snippet": "Sedapal cortará el agua HASTA POR 12 HORAS este jueves 19 de febrero: Lista de distritos afectados Perú 21",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "f24a71088cbb0fdf",
@@ -1561,13 +1697,17 @@
       "fecha_pub": "2026-02-18",
       "fecha_hecho": null,
       "snippet": "SIN AGUA hasta por 12 horas el 19 de febrero: ¿Qué distritos se verán afectados con el corte del servicio? Exitosa Noticias",
-      "temas": [],
+      "temas": [
+        "Agua por red pública"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "40dc8c1f91295da7",
@@ -1580,14 +1720,16 @@
       "fecha_hecho": null,
       "snippet": "ES OFICIAL | Corte de luz este jueves 19: 2 distritos tendrán 'apagón' hasta por 8 horas El Popular",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [],
-      "score": 5,
+      "score": 3,
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "59ebd63df9919319",
@@ -1600,7 +1742,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua en Lima hoy 18 de febrero: Distritos y horarios afectados RPP Noticias",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
@@ -1609,7 +1751,9 @@
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "15792b5e3512d2f8",
@@ -1621,15 +1765,17 @@
       "fecha_pub": "2026-02-18",
       "fecha_hecho": null,
       "snippet": "Camaná sin agua ni luz por falla eléctrica y la paralización de la planta Diario Correo",
-      "temas": [],
-      "ubigeo": [
-        "Ica"
+      "temas": [
+        "Agua por red pública"
       ],
-      "score": 1,
+      "ubigeo": [],
+      "score": 3,
       "query": "\"sin agua potable\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "d5c37db961aab98f",
@@ -1642,14 +1788,16 @@
       "fecha_hecho": null,
       "snippet": "Viceministro de Construcción y Saneamiento pide la remoción del presidente de Sedapal Gestión",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "cdea89ade0b54a02",
@@ -1662,17 +1810,18 @@
       "fecha_hecho": null,
       "snippet": "Sedapal anuncia corte de agua el martes 17 de febrero en 10 distritos de Lima: estas son las zonas y los horarios larepublica.pe",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
-        "Ica",
         "Lima"
       ],
-      "score": 5,
+      "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "78dab9730135fc7c",
@@ -1684,13 +1833,17 @@
       "fecha_pub": "2026-02-17",
       "fecha_hecho": null,
       "snippet": "SIN LUZ el 18 y 19 de febrero: Estos distritos se verán afectados con el corte del servicio eléctrico Exitosa Noticias",
-      "temas": [],
+      "temas": [
+        "Energía eléctrica"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "dc7222c9aaf93576",
@@ -1703,17 +1856,19 @@
       "fecha_hecho": null,
       "snippet": "Piura colapsa tras apagón de más de 36 horas: sin agua, con golpes de calor e inundaciones por lluvias larepublica.pe",
       "temas": [
-        "luz"
+        "Agua por red pública",
+        "Energía eléctrica"
       ],
       "ubigeo": [
-        "Piura",
-        "Ica"
+        "Piura"
       ],
-      "score": 3,
+      "score": 5,
       "query": "apagón Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "c0de9bb5093abc50",
@@ -1726,7 +1881,7 @@
       "fecha_hecho": null,
       "snippet": "Lluvias en Perú: Arequipa sufre con casas inundadas, colapso de desagües y pasajeros rescatados RPP Noticias",
       "temas": [
-        "desague"
+        "Alcantarillado"
       ],
       "ubigeo": [
         "Arequipa"
@@ -1735,7 +1890,9 @@
       "query": "desagüe Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "e5483786b9a35e3d",
@@ -1748,7 +1905,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua en Lima hoy 17 de febrero: Distritos y horarios afectados RPP Noticias",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
@@ -1757,7 +1914,9 @@
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "00a319fdaa36151c",
@@ -1770,7 +1929,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua en Arequipa afectará a zonas de un distrito, este miércoles El Búho.pe",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Arequipa"
@@ -1779,7 +1938,9 @@
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "79da7f6994ce2c69",
@@ -1792,14 +1953,16 @@
       "fecha_hecho": null,
       "snippet": "Confirman masivo corte de luz este 18 de febrero por hasta 9 horas: revisa los horarios y las zonas afectadas wapa.pe",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "63a55588de76fa6b",
@@ -1812,14 +1975,16 @@
       "fecha_hecho": null,
       "snippet": "Sedapal confirma corte de agua este 16 de febrero: revisa qué zonas serán afectadas y horarios Diario Libero",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [],
-      "score": 5,
+      "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "e59e4cfcc0fb605e",
@@ -1832,14 +1997,16 @@
       "fecha_hecho": null,
       "snippet": "Roberto Benavides advierte irregularidad por militante que despachaba en Sedapal sin contrato formal Canal N",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "281210bbfe6de9f1",
@@ -1851,15 +2018,19 @@
       "fecha_pub": "2026-02-16",
       "fecha_hecho": null,
       "snippet": "Piura, Castilla y Veintiséis de Octubre se quedan sin luz por más de 30 horas Perú 21",
-      "temas": [],
+      "temas": [
+        "Energía eléctrica"
+      ],
       "ubigeo": [
         "Piura"
       ],
-      "score": 1,
+      "score": 3,
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "4a74e0eb1b788869",
@@ -1872,14 +2043,16 @@
       "fecha_hecho": null,
       "snippet": "Piden la remoción del presidente del directorio de Sedapal Canal N",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "8896e34e9cdfa5b2",
@@ -1892,14 +2065,16 @@
       "fecha_hecho": null,
       "snippet": "Militante de Somos Perú asistió a reuniones en Sedapal sin contrato ni cargo formal Infobae",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "c71788df2204ee2e",
@@ -1912,16 +2087,18 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua de Sedapal este martes 17 en al menos 10 distritos: zonas afectadas y horarios en los que no habrá servicio en Lima Infobae",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
       ],
-      "score": 5,
+      "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "05a6ba10a4a52586",
@@ -1934,14 +2111,16 @@
       "fecha_hecho": null,
       "snippet": "Sedapal confirma que 8 distritos no tendrán agua este 15 de febrero: zonas y horarios del corte Diario Libero",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "287fba7e5ffd2435",
@@ -1954,14 +2133,16 @@
       "fecha_hecho": null,
       "snippet": "Militante de Somos Perú despachó en Sedapal sin contrato y luego obtuvo orden de servicio Diario Correo",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "6c72decf5ad5faef",
@@ -1974,16 +2155,16 @@
       "fecha_hecho": null,
       "snippet": "Militante de Somos Perú despachaba en Sedapal sin contrato América TV",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
-      "ubigeo": [
-        "Ica"
-      ],
+      "ubigeo": [],
       "score": 3,
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "8f71f02b71c3e8ef",
@@ -1996,7 +2177,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua en Lima hoy 15 de febrero: Distritos y horarios afectados RPP Noticias",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
@@ -2005,7 +2186,9 @@
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "c22885169923a6e8",
@@ -2018,14 +2201,16 @@
       "fecha_hecho": null,
       "snippet": "Sedapal invertirá más de S/ 2,000 millones en obras El Peruano",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "711dfee480672953",
@@ -2038,17 +2223,18 @@
       "fecha_hecho": null,
       "snippet": "Sedapal anuncia corte de agua en 9 distritos de Lima el 14 de febrero: revisa si tu zona será afectada larepublica.pe",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
-        "Ica",
         "Lima"
       ],
-      "score": 5,
+      "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "9a57dd042d4c19e0",
@@ -2061,14 +2247,16 @@
       "fecha_hecho": null,
       "snippet": "Residuos y grasa podrían hacer colapsar el sistema de desagüe en la provincia de Pisco Diario Correo",
       "temas": [
-        "desague"
+        "Alcantarillado"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "desagüe Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "c243b5306808266a",
@@ -2081,7 +2269,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de luz en Arequipa y Trujillo superará las nueve horas este 15 de febrero: aquí las zonas afectadas Diario Expreso",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [
         "Trujillo",
@@ -2091,7 +2279,9 @@
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "c5f2952c86830fbd",
@@ -2104,14 +2294,16 @@
       "fecha_hecho": null,
       "snippet": "Corte de luz 15 de febrero: más de 6 distritos NO tendrán el servicio eléctrico hasta por 9 HORAS El Popular",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "8e5cad194c4a48d7",
@@ -2124,7 +2316,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua para este lunes 16 de febrero en Lima Metropolitana: conoce las zonas afectadas y los horarios Infobae",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
@@ -2133,7 +2325,9 @@
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "9a6f5feb0c4f4740",
@@ -2146,7 +2340,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua en Lima hoy 14 de febrero: Distritos y horarios afectados RPP Noticias",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
@@ -2155,7 +2349,9 @@
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "4348a2a3fc9dd3ad",
@@ -2168,17 +2364,18 @@
       "fecha_hecho": null,
       "snippet": "Vecinos de Puente Piedra protestan frente al Congreso exigiendo agua y desagüe para 62 sectores: “Estamos abandonados hace 50 años” larepublica.pe",
       "temas": [
-        "desague"
+        "Alcantarillado"
       ],
       "ubigeo": [
-        "Puente Piedra",
-        "Ica"
+        "Puente Piedra"
       ],
       "score": 3,
       "query": "desagüe Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "017136cd56b1cefa",
@@ -2191,7 +2388,7 @@
       "fecha_hecho": null,
       "snippet": "Sedapal invertirá más de S/2,000 millones en obras de agua y saneamiento en Lima y Callao Agencia Andina",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Callao",
@@ -2201,7 +2398,9 @@
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "6b18dfee8153b333",
@@ -2214,17 +2413,18 @@
       "fecha_hecho": null,
       "snippet": "Sedapal anuncia corte de agua de hasta 8 horas este viernes 13 de febrero en 3 distritos de Lima Metropolitana larepublica.pe",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
-        "Ica",
         "Lima"
       ],
-      "score": 5,
+      "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "944df70357debfbc",
@@ -2237,17 +2437,18 @@
       "fecha_hecho": null,
       "snippet": "Piura: Defensoría del Pueblo promueve trabajo articulado para atender problemas en alcantarillado de Paita Plataforma del Estado Peruano",
       "temas": [
-        "desague"
+        "Alcantarillado"
       ],
       "ubigeo": [
-        "Ate",
         "Piura"
       ],
       "score": 3,
       "query": "alcantarillado Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "6484ae058c715184",
@@ -2259,13 +2460,17 @@
       "fecha_pub": "2026-02-12",
       "fecha_hecho": null,
       "snippet": "¡Sin luz en las próximas 24 horas! Estos son los distritos que sufrirán el corte masivo del servicio hasta el 13 de febrero El Popular",
-      "temas": [],
+      "temas": [
+        "Energía eléctrica"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "dbaa6b937630b390",
@@ -2278,14 +2483,16 @@
       "fecha_hecho": null,
       "snippet": "¡No solo Sedapal! 31 empresas de agua aumentan tarifas, pero recibos serán fraccionados ¿Cuáles son? RPP Noticias",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "a24bb69044ccbde7",
@@ -2298,7 +2505,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de AGUA el 13 de febrero en Lima: ¿Qué distritos se verán afectados el viernes? Exitosa Noticias",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
@@ -2307,7 +2514,9 @@
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "bd4b04db365e865d",
@@ -2320,14 +2529,16 @@
       "fecha_hecho": null,
       "snippet": "Confirmado | Estos son los distritos que se quedarán sin agua hasta por 8 horas este viernes 13 de febrero, según Sedapal El Popular",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "08305731ef5300c7",
@@ -2340,14 +2551,16 @@
       "fecha_hecho": null,
       "snippet": "¡A alistar los baldes! Sedapal confirma corte masivo de agua de hasta 12 horas: estos son los distritos afectados este 11 de febrero El Popular",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "0474c33e46fac9cb",
@@ -2360,16 +2573,16 @@
       "fecha_hecho": null,
       "snippet": "Sedapal fraccionará aumento de tarifa de agua hasta 2027: revisa cómo se aplicará el cobro Gestión",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
-      "ubigeo": [
-        "Ica"
-      ],
+      "ubigeo": [],
       "score": 3,
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "26559e3fea17e767",
@@ -2382,17 +2595,18 @@
       "fecha_hecho": null,
       "snippet": "Sedapal confirma corte de agua en Lima por 12 horas HOY, 11 de febrero: ¿cuáles serán las zonas afectadas? larepublica.pe",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
-        "Ica",
         "Lima"
       ],
-      "score": 5,
+      "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "d735ab3416507c28",
@@ -2404,13 +2618,17 @@
       "fecha_pub": "2026-02-11",
       "fecha_hecho": null,
       "snippet": "SIN LUZ hasta por 9 horas el 12 y 13 de febrero: ¿Qué zonas se verán afectadas con el corte del servicio? Exitosa Noticias",
-      "temas": [],
+      "temas": [
+        "Energía eléctrica"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "427f72e275f05ac3",
@@ -2423,16 +2641,18 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua en Lima por hasta 12 horas hoy 11 de febrero: conoce las zonas y horarios, según Sedapal Infobae",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
       ],
-      "score": 5,
+      "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "244ba44bee917133",
@@ -2445,7 +2665,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua en Lima hoy 11 de febrero: Distritos y horarios afectados RPP Noticias",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
@@ -2454,7 +2674,9 @@
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "18a7b167d72bf906",
@@ -2466,13 +2688,17 @@
       "fecha_pub": "2026-02-10",
       "fecha_hecho": null,
       "snippet": "¡SIN AGUA hasta por 12 horas el 11 de febrero! Estos distritos se verán afectados con el corte del servicio Exitosa Noticias",
-      "temas": [],
+      "temas": [
+        "Agua por red pública"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "6b5c251f5b7699cf",
@@ -2485,16 +2711,16 @@
       "fecha_hecho": null,
       "snippet": "¡Atención usuarios de Sedapal!: Ahora podrán fraccionar el incremento en la tarifa de agua hasta 2027 Exitosa Noticias",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
-      "ubigeo": [
-        "Ate"
-      ],
+      "ubigeo": [],
       "score": 3,
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "4399a09b2106e1ab",
@@ -2507,14 +2733,16 @@
       "fecha_hecho": null,
       "snippet": "¡Apagón total! Anuncian corte de luz hasta por 9 horas para este jueves 12 de febrero: revisa las zonas que se verán afectadas El Popular",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [],
-      "score": 5,
+      "score": 3,
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "f2cfccea059339d5",
@@ -2527,14 +2755,16 @@
       "fecha_hecho": null,
       "snippet": "Sedapal fraccionará sus tarifas de agua hasta 2027 tras anuncio de alza en 2026 Infobae",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "1fa29565020b244b",
@@ -2547,14 +2777,16 @@
       "fecha_hecho": null,
       "snippet": "Sedapal anunció corte de agua el 10 de febrero: distritos afectados y horarios para este martes Diario Libero",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [],
-      "score": 5,
+      "score": 3,
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "84163a64b65329c6",
@@ -2567,17 +2799,18 @@
       "fecha_hecho": null,
       "snippet": "Estos distritos de Lima Metropolitana no tendrán agua hasta por 8 horas este martes 10 de febrero, según Sedapal larepublica.pe",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
-        "Ica",
         "Lima"
       ],
       "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "b0af04c8fe6b722d",
@@ -2590,14 +2823,16 @@
       "fecha_hecho": null,
       "snippet": "Confirmado | Corte de luz este 10 de febrero: ¡Hasta 9 horas sin servicio! Distritos que se quedan sin energía El Popular",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "035114fd6c0cd0b3",
@@ -2609,13 +2844,17 @@
       "fecha_pub": "2026-02-09",
       "fecha_hecho": null,
       "snippet": "¡Hasta 9 horas SIN LUZ! Anuncian interrupción del servicio eléctrico el 10 y 11 de febrero: ¿Tu zona se verá afectada? Exitosa Noticias",
-      "temas": [],
+      "temas": [
+        "Energía eléctrica"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "e051b86d1d7775a9",
@@ -2628,14 +2867,16 @@
       "fecha_hecho": null,
       "snippet": "Corte de luz HOY miércoles 11 de febrero: revisa los horarios y distritos afectados que no contarán con servicio eléctrico El Popular",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "e868025b4c299138",
@@ -2648,16 +2889,18 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua hoy, lunes 9 de febrero, en distritos de Lima: zonas y horarios, según reporte de Sedapal Diario Expreso",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
       ],
-      "score": 5,
+      "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "469914062ba6dbf3",
@@ -2670,7 +2913,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua en Lima hoy 09 de febrero: Distritos y horarios afectados RPP Noticias",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
@@ -2679,7 +2922,9 @@
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "b1ea69da154cbc68",
@@ -2692,14 +2937,16 @@
       "fecha_hecho": null,
       "snippet": "Confirmado | Sedapal anuncia un corte masivo de agua de hasta por 8 horas: estos son los distritos afectados este 10 de febrero El Popular",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "077e443dec8a866f",
@@ -2712,16 +2959,18 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua en Lima este 9 de febrero: Revisa AQUÍ si tu distrito está en la lista de Sedapal El Popular",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
       ],
-      "score": 5,
+      "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "72adc39bfcaae571",
@@ -2734,17 +2983,18 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua en Lima: zonas afectadas y horario de Sedapal para HOY lunes 9 de febrero larepublica.pe",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
-        "Ica",
         "Lima"
       ],
-      "score": 5,
+      "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "1e1e179699b4117d",
@@ -2757,7 +3007,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua en Lima hoy 07 de febrero: Distritos y horarios afectados RPP Noticias",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
@@ -2766,7 +3016,9 @@
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "62b679f2ae01dd9a",
@@ -2779,14 +3031,16 @@
       "fecha_hecho": null,
       "snippet": "Sunass advierte riesgos por abrir buzones de desagüe durante lluvias intensas La Prensa Regional",
       "temas": [
-        "desague"
+        "Alcantarillado"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "desagüe Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "4290238de94c96c1",
@@ -2799,7 +3053,7 @@
       "fecha_hecho": null,
       "snippet": "Distritos de Lima no tendrán agua hasta por 12 horas: Sedapal confirma corte este viernes 6 de febrero Diario Libero",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
@@ -2808,7 +3062,9 @@
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "f2bfd5fb701ab949",
@@ -2821,7 +3077,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua este 6 de febrero: Magdalena y San Miguel sin agua hasta por 12 horas; sectores y horarios El Popular",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "San Miguel"
@@ -2830,7 +3086,9 @@
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "6a3f7a58b5af3ccb",
@@ -2843,7 +3101,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua en Lima hoy 06 de febrero: Distritos y horarios afectados RPP Noticias",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
@@ -2852,7 +3110,9 @@
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "cf872ad1bb86e786",
@@ -2865,16 +3125,16 @@
       "fecha_hecho": null,
       "snippet": "🔴🔵#ExitosaTeEscucha 🎤 | El presidente de la Sunass, Mauro Gutiérrez, indicó que el incremento de la tarifa del agua está aún en evaluación. Explicó que, de acuerdo a Sedapal, la tasa de ganancia debería aumentar en un 5 ",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
-      "ubigeo": [
-        "Ate"
-      ],
+      "ubigeo": [],
       "score": 3,
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Redes sociales",
+      "descartar": false
     },
     {
       "id": "7206c40ffff6e954",
@@ -2887,16 +3147,16 @@
       "fecha_hecho": null,
       "snippet": "Tarifa del agua subirá este año: Sedapal... panamericana.pe",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
-      "ubigeo": [
-        "Ica"
-      ],
+      "ubigeo": [],
       "score": 3,
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "e9a65d61c049d3f5",
@@ -2909,14 +3169,16 @@
       "fecha_hecho": null,
       "snippet": "María Pía sufre apagón en pleno stream, pero la transmisión no se corta y usuarios no le creen: “Armani” Infobae",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "b907fa29bcc30189",
@@ -2929,7 +3191,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua en Lima hoy 05 de febrero: Distritos y horarios afectados RPP Noticias",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
@@ -2938,7 +3200,9 @@
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "0d648998d0c76836",
@@ -2951,7 +3215,7 @@
       "fecha_hecho": null,
       "snippet": "Confirmado | Estos son los distritos de Lima que no tendrán agua hasta por 12 horas este 6 y 7 de febrero, según Sedapal El Popular",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
@@ -2960,7 +3224,9 @@
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "6e5283550bac14b8",
@@ -2973,16 +3239,16 @@
       "fecha_hecho": null,
       "snippet": "Alza de tarifa del agua seguirá en evaluación: Sunass defiende tope de 6%, mientras que Sedapal plantea aumento de 12% larepublica.pe",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
-      "ubigeo": [
-        "Ica"
-      ],
+      "ubigeo": [],
       "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "cd71d053b717867d",
@@ -2994,13 +3260,17 @@
       "fecha_pub": "2026-02-04",
       "fecha_hecho": null,
       "snippet": "¡Hasta 8 horas SIN LUZ! Anuncian corte del servicio eléctrico el 5 y 6 de febrero: Zonas afectadas Exitosa Noticias",
-      "temas": [],
+      "temas": [
+        "Energía eléctrica"
+      ],
       "ubigeo": [],
-      "score": 1,
+      "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "8ed9ad6b481f0a0d",
@@ -3013,7 +3283,7 @@
       "fecha_hecho": null,
       "snippet": "Sedapal conecta tubería sin cortar agua en Lima Sur Revista Caretas",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
@@ -3022,7 +3292,9 @@
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "e3c0ab81f1fc9a2c",
@@ -3035,14 +3307,16 @@
       "fecha_hecho": null,
       "snippet": "Huaycán de Cieneguilla: tras años de espera, el proyecto de agua y desagüe empieza a hacerse realidad Perú 21",
       "temas": [
-        "desague"
+        "Alcantarillado"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "desagüe Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "4d1ec519f362be5c",
@@ -3055,16 +3329,18 @@
       "fecha_hecho": null,
       "snippet": "Hoy 4 de febrero habrá corte de agua en tres distritos de Lima: zonas y horarios, según Sedapal Infobae",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
       ],
-      "score": 5,
+      "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "ed2544bf3862cf52",
@@ -3077,14 +3353,16 @@
       "fecha_hecho": null,
       "snippet": "Corte de luz masivo por mantenimiento este 5 y 6 de febrero: horarios y zonas afectadas Diario Expreso",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "5750d94a78bd1d5c",
@@ -3097,14 +3375,16 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua de MÁS DE 10 HORAS este miércoles 4 de febrero: Lista de distritos afectados Perú 21",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "d61e62d95f88315b",
@@ -3117,14 +3397,16 @@
       "fecha_hecho": null,
       "snippet": "Confirmado | Sedapal anuncia el corte masivo de agua potable para este miércoles 04 de febrero hasta por 12 horas en estos distritos El Popular",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [],
-      "score": 5,
+      "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "b8f13c656e9088f3",
@@ -3137,17 +3419,18 @@
       "fecha_hecho": null,
       "snippet": "Sedapal aplica tecnología innovadora para ejecutar empalme sin cortar el servicio de agua en Lima Sur TVPerú",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
-        "Ica",
         "Lima"
       ],
       "score": 3,
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "6ed8eb4ceb6e10ec",
@@ -3160,14 +3443,16 @@
       "fecha_hecho": null,
       "snippet": "Sedapal anunció corte de agua en estos distritos el jueves 5 de febrero: horario y zonas que no tendrán el servicio hasta por 8 horas Infobae",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [],
-      "score": 5,
+      "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "7ce9f8c6122031d8",
@@ -3180,18 +3465,19 @@
       "fecha_hecho": null,
       "snippet": "San Juan de Miraflores: Aniego inunda casas rotura tubería América TV",
       "temas": [
-        "desague"
+        "Alcantarillado"
       ],
       "ubigeo": [
         "San Juan de Miraflores",
-        "Miraflores",
-        "Ica"
+        "Miraflores"
       ],
       "score": 3,
       "query": "aniego Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "58535d8b29f7115e",
@@ -3204,14 +3490,16 @@
       "fecha_hecho": null,
       "snippet": "Rospigliosi defiende leyes del Congreso, cuestiona privilegios en Sedapal y desacato del Poder Judicial Congreso",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "5f647da057471c3b",
@@ -3224,16 +3512,18 @@
       "fecha_hecho": null,
       "snippet": "Oficial | Sedapal anuncia corte de agua MAÑANA 3 de febrero en Lima: sin servicio hasta por 10 horas El Popular",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
       ],
-      "score": 5,
+      "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "88599c3e3fca70b9",
@@ -3246,14 +3536,16 @@
       "fecha_hecho": null,
       "snippet": "Milton Von Hesse compara a Sedapal con Petroperú Gestión",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "b814a5f4b4551936",
@@ -3266,7 +3558,7 @@
       "fecha_hecho": null,
       "snippet": "Lluvias intensas en Piura provocan inundaciones y afectan al Hospital Santa Rosa por aniegos e ingreso de agua Infobae",
       "temas": [
-        "desague"
+        "Alcantarillado"
       ],
       "ubigeo": [
         "Piura"
@@ -3275,7 +3567,9 @@
       "query": "aniego Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "267a1df778f15539",
@@ -3288,14 +3582,16 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua este 3 de febrero: Sedapal confirma qué distritos serán afectados con la suspensión Diario Libero",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [],
-      "score": 5,
+      "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "9e801b0b0b4164c6",
@@ -3308,7 +3604,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua en Lima hoy 03 de febrero: Distritos y horarios afectados RPP Noticias",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
@@ -3317,7 +3613,9 @@
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "181dca4aa5617e92",
@@ -3330,14 +3628,16 @@
       "fecha_hecho": null,
       "snippet": "Comisión de Defensa del Consumidor convoca al ministro de Vivienda, Sedapal y Sunass ante incremento tarifario del servicio de agua potable Congreso",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [],
-      "score": 5,
+      "score": 3,
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "a151355a0b296c79",
@@ -3350,14 +3650,16 @@
       "fecha_hecho": null,
       "snippet": "Apagón no detuvo a Corazón Serrano en pleno concierto y el momento se vuelve viral [VIDEO] RPP Noticias",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "apagón Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "2cb9d8ab874ff6ea",
@@ -3369,16 +3671,19 @@
       "fecha_pub": "2026-02-02",
       "fecha_hecho": null,
       "snippet": "Vecinos de Lima Sur realizan marcha de sacrificio por falta de agua y piden continuar obra potable Nueva Rinconada: \"Los silos están colapsando\" larepublica.pe",
-      "temas": [],
+      "temas": [
+        "Agua por red pública"
+      ],
       "ubigeo": [
-        "Ica",
         "Lima"
       ],
-      "score": 1,
+      "score": 3,
       "query": "desagüe Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "4d96228016408b92",
@@ -3391,16 +3696,16 @@
       "fecha_hecho": null,
       "snippet": "Sedapal justifica incremento de la tarifa de agua mientras mantiene altos sueldos y bonos en su planilla Infobae",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
-      "ubigeo": [
-        "Ica"
-      ],
+      "ubigeo": [],
       "score": 3,
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "6d6ee81b5cc0c6f7",
@@ -3413,16 +3718,16 @@
       "fecha_hecho": null,
       "snippet": "Sedapal en polémica por sueldos: Funcionarios ganan más que el presidente pese a crisis financiera RPP Noticias",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
-      "ubigeo": [
-        "Ica"
-      ],
+      "ubigeo": [],
       "score": 3,
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "b1c77c4aa30b4f98",
@@ -3435,16 +3740,18 @@
       "fecha_hecho": null,
       "snippet": "Sedapal CONFIRMA corte de agua en Lima este lunes 2 de febrero: distritos estarán sin servicio hasta por 12 horas El Popular",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
       ],
-      "score": 5,
+      "score": 3,
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "4183576db091342e",
@@ -3457,14 +3764,16 @@
       "fecha_hecho": null,
       "snippet": "Nuevo corte de agua para HOY, 2 de febrero: Sedapal anuncia suspensión en dos distritos Diario Libero",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [],
-      "score": 5,
+      "score": 3,
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "c4d6d1f0bf19b1c6",
@@ -3477,14 +3786,16 @@
       "fecha_hecho": null,
       "snippet": "Exministro César Paniagua advierte desproporción salarial en Sedapal mientras se plantea alza tarifaria Canal N",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "desagüe Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "feccc416692b4fbc",
@@ -3497,16 +3808,18 @@
       "fecha_hecho": null,
       "snippet": "Exitosa Noticias. . 🔴🔵#HablemosClaro💬💬 | Cientos de residentes de los distritos de Lima Sur realizan una marcha hacia el Palacio de Gobierno para exigir que se retomen las obras de agua y desagüe. 📻 95.5 FM 📡 6.1 señal d",
       "temas": [
-        "desague"
+        "Alcantarillado"
       ],
       "ubigeo": [
         "Lima"
       ],
-      "score": 3,
+      "score": 2,
       "query": "desagüe Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Redes sociales",
+      "descartar": false
     },
     {
       "id": "d81eb7fb0163f871",
@@ -3519,18 +3832,20 @@
       "fecha_hecho": null,
       "snippet": "Exitosa Noticias. . 🔴🔵#ElInformativoDeExitosa📺📺 |En los exteriores del Congreso de la República, una madre de familia se desmayó tras más de nueve horas de marcha exigiendo agua y desagüe en los distritos de Villa el Sal",
       "temas": [
-        "desague"
+        "Alcantarillado"
       ],
       "ubigeo": [
         "Villa El Salvador",
         "San Juan de Miraflores",
         "Miraflores"
       ],
-      "score": 3,
+      "score": 2,
       "query": "desagüe Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Redes sociales",
+      "descartar": false
     },
     {
       "id": "91974f0914b7e439",
@@ -3543,14 +3858,16 @@
       "fecha_hecho": null,
       "snippet": "Confirman CORTE DE LUZ este 4 de febrero: distritos NO contarán con servicio eléctrico hasta por 8 HORAS El Popular",
       "temas": [
-        "luz"
+        "Energía eléctrica"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "\"corte de luz\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "3def5f325fe1e9df",
@@ -3563,14 +3880,16 @@
       "fecha_hecho": null,
       "snippet": "Alza en la tarifa del agua se posterga hasta junio: Sedapal no se acogió al decreto, informa el MVCS RPP Noticias",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "f342b4f7be04a78d",
@@ -3583,16 +3902,16 @@
       "fecha_hecho": null,
       "snippet": "Sedapal: ruptura financiera, pero planillas jugosas América TV",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
-      "ubigeo": [
-        "Ica"
-      ],
+      "ubigeo": [],
       "score": 3,
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "28d5f1cd0c78e192",
@@ -3605,7 +3924,7 @@
       "fecha_hecho": null,
       "snippet": "Pobladores del sur de Lima marcharán a Palacio exigiendo continuidad de mega obra Nueva Rinconada y la renuncia del Presidente del Directorio de Sedapal diariouno.pe",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
@@ -3614,7 +3933,9 @@
       "query": "Sedapal",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "aed4c2a8e71c9ea5",
@@ -3627,14 +3948,16 @@
       "fecha_hecho": null,
       "snippet": "Destraban puntos críticos en proyecto de agua potable para más de 2,300 viviendas en Ñaña Agencia Andina",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [],
       "score": 3,
       "query": "alcantarillado Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     },
     {
       "id": "67701e5d60f0fc74",
@@ -3647,7 +3970,7 @@
       "fecha_hecho": null,
       "snippet": "Corte de agua en Lima hoy 01 de febrero: Distritos y horarios afectados RPP Noticias",
       "temas": [
-        "agua"
+        "Agua por red pública"
       ],
       "ubigeo": [
         "Lima"
@@ -3656,7 +3979,9 @@
       "query": "\"corte de agua\" Perú",
       "area": "servicios",
       "cluster_id": null,
-      "agregado": "2026-09-18 12:30"
+      "agregado": "2026-09-18 12:30",
+      "tipo_fuente": "Noticias/reportes",
+      "descartar": false
     }
   ],
   "n": 172

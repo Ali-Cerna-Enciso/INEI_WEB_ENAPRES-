@@ -103,6 +103,25 @@ def _lanzar_gha() -> tuple[bool, str]:
         return False, str(e.reason or e)
 
 
+_REDES_HOSTS = (
+    "facebook.com", "fb.com", "instagram.com", "x.com", "twitter.com",
+    "tiktok.com", "youtube.com", "youtu.be", "t.me", "telegram.me",
+    "whatsapp.com", "threads.net",
+)
+TIPO_NOTICIAS = "Noticias/reportes"
+TIPO_REDES = "Redes sociales"
+TIPOS_FUENTE = [TIPO_NOTICIAS, TIPO_REDES]
+
+
+def _tipo_fuente(it: dict) -> str:
+    if it.get("tipo_fuente") in TIPOS_FUENTE:
+        return it["tipo_fuente"]
+    blob = f"{it.get('fuente') or ''} {it.get('url') or ''}".lower()
+    if any(h in blob for h in _REDES_HOSTS):
+        return TIPO_REDES
+    return TIPO_NOTICIAS
+
+
 def dia_humano(iso: str) -> str:
     try:
         y, m, d = iso.split("-")
@@ -230,6 +249,15 @@ st.markdown(
       .stTabs [role="tablist"] {gap:14px}
       .stTabs [role="tab"] {padding:14px 20px !important}
       .stTabs [role="tab"] p {font-size:19px !important; font-weight:700}
+      .en-mes-label {font-size:17px !important; font-weight:800 !important;
+        color:#0b3d91 !important; margin: 0 0 4px !important}
+      div[data-testid="stSelectbox"] label p {font-size:15px !important; font-weight:700}
+      div[data-testid="stSelectbox"] div[data-baseweb="select"] > div {
+        min-height: 48px; border: 2px solid #1d4ed8 !important;
+        background: #fff !important; box-shadow: 0 1px 4px rgba(29,78,216,.18)
+      }
+      [data-testid="stExpander"] details {border: 2px solid #1d4ed8 !important;
+        background: #e8f1fb !important; border-radius: 12px}
     </style>
     """,
     unsafe_allow_html=True,
@@ -276,17 +304,26 @@ def _cargar_noticias_snap(area: str) -> tuple[dict, list]:
 
 def _filtrar_noticias(items, ventana, mes=""):
     hoy = date.today()
-    if mes:
-        return [it for it in items if (it.get("fecha_pub") or "")[:7] == mes]
-    if ventana == "Hoy":
-        corte = hoy.isoformat()
-    elif ventana == "Semana":
-        corte = (hoy - timedelta(days=6)).isoformat()
-    elif ventana == "Mes":
-        corte = (hoy - timedelta(days=29)).isoformat()
-    else:
-        corte = "2026-01-01"
-    return [it for it in items if (it.get("fecha_pub") or "")[:10] >= corte]
+    out = []
+    for it in items:
+        if it.get("descartar"):
+            continue
+        f = (it.get("fecha_pub") or "")[:10]
+        if mes:
+            if f[:7] == mes:
+                out.append(it)
+            continue
+        if ventana == "Hoy":
+            corte = hoy.isoformat()
+        elif ventana == "Semana":
+            corte = (hoy - timedelta(days=6)).isoformat()
+        elif ventana == "Mes":
+            corte = (hoy - timedelta(days=29)).isoformat()
+        else:
+            corte = "2026-01-01"
+        if f >= corte:
+            out.append(it)
+    return out
 
 
 def _items_noticias(area: str, ventana: str, mes: str = "") -> list:
@@ -380,7 +417,8 @@ def _tarjeta_noticia(it: dict, extra_meta: str = "") -> None:
     fuente = html.escape(it.get("fuente") or "?")
     url = html.escape(it.get("url") or "#", quote=True)
     via = html.escape(NOMBRE_COLECTOR.get(it.get("colector") or "", it.get("colector") or ""))
-    meta = f"{''.join(badges)} {fuente} · {temas} · {via}"
+    canal = html.escape(_tipo_fuente(it))
+    meta = f"{''.join(badges)} {canal} · {fuente} · {temas} · {via}"
     if ubi:
         meta += f" · {html.escape(ubi)}"
     if extra_meta:
@@ -408,25 +446,43 @@ def _panel_noticias(area: str, titulo: str, caption: str, clave: str) -> bool:
         _, crudos = _cargar_noticias_snap(area)
         meses = sorted({(it.get("fecha_pub") or "")[:7] for it in crudos if it.get("fecha_pub")})
     ventana = st.radio(
-        "Periodo",
+        "Periodo (fecha de publicación)",
         ["Hoy", "Semana", "Mes", "Año 2026"],
         index=3,
         horizontal=True,
         key=f"per_{clave}",
         help="Hoy/semana/mes recortan por fecha de publicación. "
              "Año 2026 lee el JSON acumulado. Un día sin botón no se pierde: "
-             "la corrida de las 23:50 o la siguiente mira al menos 7 días atrás.",
+             "la corrida de las 23:50 o la siguiente mira al menos 7 días atrás. "
+             "Si eliges un mes archivado, ese mes manda sobre el periodo.",
     )
     mes_sel = ""
     if meses:
-        mes_sel = st.selectbox(
-            "Mes archivado",
-            ["Todos"] + meses,
-            format_func=lambda m: m if m == "Todos" else f"{m} ({MESES[int(m[5:7]) - 1]})",
-            key=f"mes_{clave}",
+        st.markdown(
+            '<p class="en-mes-label">Mes archivado — elige el mes del archivo 2026</p>',
+            unsafe_allow_html=True,
         )
+        try:
+            caja_mes = st.container(border=True)
+        except TypeError:
+            caja_mes = st.container()
+        with caja_mes:
+            mes_sel = st.selectbox(
+                "Mes archivado",
+                ["Todos"] + meses,
+                format_func=lambda m: (
+                    "Todos los meses (usa el periodo de arriba)" if m == "Todos"
+                    else f"{m}  ·  {MESES[int(m[5:7]) - 1].upper()} 2026"
+                ),
+                key=f"mes_{clave}",
+                help="Mes calendario guardado en el JSON. Es independiente "
+                     "del recorte Hoy/Semana/Mes (últimos 30 días).",
+            )
         if mes_sel == "Todos":
             mes_sel = ""
+        else:
+            st.info(f"Viendo el mes calendario **{mes_sel}**. "
+                    "El periodo Hoy/Semana/Mes no se aplica.")
     items = _items_noticias(area, ventana, mes_sel)
     c1, c2, c3 = st.columns(3)
     c1.metric("Noticias", len(items))
@@ -436,24 +492,35 @@ def _panel_noticias(area: str, titulo: str, caption: str, clave: str) -> bool:
               sum(1 for i in items if not (i.get("temas") or [])))
     q = st.text_input("Buscar", placeholder="extorsión, Sedapal, Comas…",
                       key=f"q_{clave}").strip().lower()
-    fuentes = sorted({i.get("fuente") or "?" for i in items})
     temas_disp = sorted({t for i in items for t in (i.get("temas") or [])})
     f1, f2 = st.columns(2)
     with f1:
-        f_sel = st.selectbox("Fuente", ["Todas"] + fuentes, key=f"fu_{clave}")
+        f_sel = st.selectbox(
+            "Fuente",
+            ["Todas", TIPO_NOTICIAS, TIPO_REDES],
+            key=f"fu_{clave}",
+            help="Solo dos grupos: medios/reportes vs redes sociales. "
+                 "El diario concreto sigue en cada tarjeta.",
+        )
     with f2:
-        t_sel = st.selectbox("Tema", ["Todos"] + temas_disp, key=f"te_{clave}")
+        t_sel = st.selectbox(
+            "Tema",
+            ["Todos"] + temas_disp,
+            key=f"te_{clave}",
+            help="Delitos consumados ENAPRES (P424) o servicios básicos. "
+                 "Sin intentos ni percepción de inseguridad.",
+        )
     n = mostrados = 0
     tope = 250
     for it in items:
-        if f_sel != "Todas" and (it.get("fuente") or "?") != f_sel:
+        if f_sel != "Todas" and _tipo_fuente(it) != f_sel:
             continue
         if t_sel != "Todos" and t_sel not in (it.get("temas") or []):
             continue
         blob = " ".join([
             it.get("titulo") or "", it.get("snippet") or "",
             it.get("fuente") or "", " ".join(it.get("temas") or []),
-            " ".join(it.get("ubigeo") or []),
+            " ".join(it.get("ubigeo") or []), _tipo_fuente(it),
         ]).lower()
         if q and q not in blob:
             continue
@@ -637,8 +704,9 @@ with tab_ins:
     click_ins = _panel_noticias(
         "inseguridad",
         "Noticias de inseguridad",
-        "Prensa peruana 2026: delitos en general. Los temas (extorsión, estafa, "
-        "arma de fuego…) son una etiqueta previa; el archivo JSON solo crece.",
+        "Delitos consumados de ENAPRES (P424): extorsión, secuestro, estafa, "
+        "robos, etc. Sin intentos ni percepción de inseguridad. "
+        "El archivo JSON solo crece; los duplicados se unen por URL o título.",
         "inseguridad",
     )
     if click_ins:
@@ -648,8 +716,9 @@ with tab_ser:
     click_ser = _panel_noticias(
         "servicios",
         "Noticias de servicios básicos",
-        "Agua, luz y desagüe en medios peruanos, 2026. El ubigeo se sugiere "
-        "si el título nombra departamento o distrito.",
+        "Agua, alcantarillado, electricidad y residuos sólidos en medios "
+        "peruanos, 2026. El ubigeo se sugiere si el título nombra departamento "
+        "o distrito.",
         "servicios",
     )
     if click_ser:
