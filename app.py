@@ -348,6 +348,8 @@ def _filtrar_noticias(items, ventana, mes=""):
 
 @st.cache_data(ttl=600, show_spinner=False)
 def _corpus_noticias(area: str, ventana: str, mes: str, hoy: str) -> list:
+    if noticias_corpus is None:
+        return []
     if mes:
         return noticias_corpus.load_area(area, desde=f"{mes}-01", hasta=f"{mes}-31")
     if ventana == "Hoy":
@@ -359,6 +361,7 @@ def _corpus_noticias(area: str, ventana: str, mes: str, hoy: str) -> list:
     return noticias_corpus.load_area(area, desde="2026-01-01")
 
 
+def _items_noticias(area: str, ventana: str, mes: str = "") -> list:
     if (not SIN_MONITOREO) and noticias_corpus is not None:
         return _corpus_noticias(area, ventana, mes, date.today().isoformat())
     _, items = _cargar_noticias_snap(area, _mtime(DIR / "datos_publicos" / f"noticias_{area}.json"))
@@ -578,12 +581,20 @@ def _panel_noticias(area: str, titulo: str, caption: str, clave: str) -> bool:
             if st.button("◀ Anteriores", key=f"prev_{clave}", disabled=pag <= 1,
                          use_container_width=True):
                 st.session_state[f"pag_{clave}"] = pag - 1
+                try:
+                    st.rerun(scope="fragment")
+                except TypeError:
+                    st.rerun()
         with p2:
             st.caption(f"Página {pag} de {paginas} · {n} noticias")
         with p3:
             if st.button("Siguientes ▶", key=f"next_{clave}", disabled=pag >= paginas,
                          use_container_width=True):
                 st.session_state[f"pag_{clave}"] = pag + 1
+                try:
+                    st.rerun(scope="fragment")
+                except TypeError:
+                    st.rerun()
     st.markdown(
         "".join(_html_tarjeta(it) for it in filtradas[(pag - 1) * _POR_PAGINA:pag * _POR_PAGINA]),
         unsafe_allow_html=True,
@@ -757,26 +768,34 @@ with tab_mon:
 
 
 with tab_ins:
-    click_ins = _panel_noticias(
-        "inseguridad",
-        "Noticias de inseguridad",
-        "Delitos consumados de ENAPRES (P424): extorsión, secuestro, estafa, "
-        "robos, etc. Sin intentos ni percepción de inseguridad. "
-        "El archivo JSON solo crece; los duplicados se unen por URL o título.",
-        "inseguridad",
-    )
+    try:
+        click_ins = _panel_noticias(
+            "inseguridad",
+            "Noticias de inseguridad",
+            "Delitos consumados de ENAPRES (P424): extorsión, secuestro, estafa, "
+            "robos, etc. Sin intentos ni percepción de inseguridad. "
+            "El archivo JSON solo crece; los duplicados se unen por URL o título.",
+            "inseguridad",
+        )
+    except Exception as e:
+        st.error(f"No se pudo cargar noticias de inseguridad: {e}")
+        click_ins = False
     if click_ins:
         _correr_rastreo()
 
 with tab_ser:
-    click_ser = _panel_noticias(
-        "servicios",
-        "Noticias de servicios básicos",
-        "Agua, alcantarillado, electricidad y residuos sólidos en medios "
-        "peruanos, 2026. El ubigeo se sugiere si el título nombra departamento "
-        "o distrito.",
-        "servicios",
-    )
+    try:
+        click_ser = _panel_noticias(
+            "servicios",
+            "Noticias de servicios básicos",
+            "Agua, alcantarillado, electricidad y residuos sólidos en medios "
+            "peruanos, 2026. El ubigeo se sugiere si el título nombra departamento "
+            "o distrito.",
+            "servicios",
+        )
+    except Exception as e:
+        st.error(f"No se pudo cargar noticias de servicios: {e}")
+        click_ser = False
     if click_ser:
         _correr_rastreo()
 
