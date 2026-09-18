@@ -19,6 +19,7 @@ import feed_poll  # noqa: E402
 import gdelt_fetch  # noqa: E402
 import gobpe_fetch  # noqa: E402
 import medios_fetch  # noqa: E402
+import noticias_actualizar  # noqa: E402
 import oficial_fetch  # noqa: E402
 import rss_fetch  # noqa: E402
 import yt_search  # noqa: E402
@@ -60,6 +61,12 @@ def correr(dia: str | None = None, solo: list[str] | None = None, on_paso=None) 
     meta = resultado["meta"]
     print(f"LIVE: {meta['n']} menciones en {len(meta.get('dias_tocados') or [])} días "
           f"-> {corpus.LIVE}")
+    try:
+        resultado["noticias"] = noticias_actualizar.correr(on_paso=on_paso)
+    except Exception as e:
+        print(f"[ERROR] noticias: {e}")
+        traceback.print_exc()
+        resultado["noticias"] = {"error": str(e)}
     return resultado
 
 

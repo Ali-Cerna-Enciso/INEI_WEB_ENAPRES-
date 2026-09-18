@@ -1,0 +1,40 @@
+nivel,categoria,termino
+ancla,agua,corte de agua
+ancla,agua,sin agua
+ancla,agua,desabastecimiento de agua
+ancla,agua,falta de agua
+ancla,agua,Sedapal
+ancla,agua,SEDAPAL
+ancla,agua,agua potable
+ancla,luz,corte de luz
+ancla,luz,corte eléctrico
+ancla,luz,apagón
+ancla,luz,sin luz
+ancla,luz,sin energía eléctrica
+ancla,desague,desagüe
+ancla,desague,desague
+ancla,desague,alcantarillado
+ancla,desague,aniego
+ancla,desague,colapso de desagüe
+tema,agua,corte de agua
+tema,agua,Sedapal
+tema,agua,EPS
+tema,agua,agua potable
+tema,agua,no hay agua
+tema,luz,corte de luz
+tema,luz,Enel
+tema,luz,Seal
+tema,luz,Electrocentro
+tema,luz,Hidrandina
+tema,luz,apagón
+tema,desague,desagüe
+tema,desague,alcantarillado
+tema,desague,aniego
+tema,desague,desborde
+exclusion,ruido,ENAPRES
+exclusion,ruido,Encuesta Nacional de Programas Presupuestales
+exclusion,ruido,luz verde
+exclusion,ruido,agua de coco
+exclusion,ruido,agua de mar
+exclusion,ruido,encuesta electoral
+exclusion,ruido,intención de voto

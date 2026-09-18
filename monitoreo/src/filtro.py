@@ -47,9 +47,9 @@ def clean_html(s):
     return re.sub(r"\s+", " ", s).strip()
 
 
-def load_taxonomy():
+def load_taxonomy(path=None):
     ancla, temas, excl = [], [], []
-    with open(TFILE, encoding="utf-8") as f:
+    with open(path or TFILE, encoding="utf-8") as f:
         for row in csv.DictReader(f):
             t = norm(row["termino"])
             if row["nivel"] == "ancla":

@@ -34,6 +34,13 @@ except ImportError:
 else:
     SIN_MONITOREO = False
 
+try:
+    import noticias_actualizar  # noqa: E402
+    import noticias_corpus  # noqa: E402
+    import exportar_noticias  # noqa: E402
+except ImportError:
+    noticias_actualizar = noticias_corpus = exportar_noticias = None  # noqa: E402
+
 MARCAS = ("<!--ACTUALIZADO-->", "<!--/ACTUALIZADO-->")
 MESES = "ene feb mar abr may jun jul ago set oct nov dic".split()
 NOMBRE_COLECTOR = {
@@ -48,6 +55,8 @@ NOMBRE_COLECTOR = {
     "legacy": "Corrida anterior",
     "monitoreo": "Google News",
     "yt": "YouTube",
+    "noticias-inseguridad": "Noticias inseguridad",
+    "noticias-servicios": "Noticias servicios",
 }
 
 
@@ -191,7 +200,7 @@ def _html_catalogo() -> str:
 
 
 st.set_page_config(
-    page_title="ENAPRES — catálogo y menciones",
+    page_title="ENAPRES — catálogo, menciones y noticias",
     layout="wide",
     initial_sidebar_state="collapsed",
 )
@@ -253,6 +262,216 @@ def _filtrar_snapshot(items, ventana):
             and (col is None or it.get("colector") == col)]
 
 
+def _cargar_noticias_snap(area: str) -> tuple[dict, list]:
+    try:
+        snap = json.loads(
+            (DIR / "datos_publicos" / f"noticias_{area}.json").read_text(encoding="utf-8")
+        )
+    except (OSError, ValueError):
+        return {}, []
+    items = snap.get("items") or []
+    items.sort(key=lambda r: (r.get("fecha_pub") or "", r.get("titulo") or ""), reverse=True)
+    return snap, items
+
+
+def _filtrar_noticias(items, ventana, mes=""):
+    hoy = date.today()
+    if mes:
+        return [it for it in items if (it.get("fecha_pub") or "")[:7] == mes]
+    if ventana == "Hoy":
+        corte = hoy.isoformat()
+    elif ventana == "Semana":
+        corte = (hoy - timedelta(days=6)).isoformat()
+    elif ventana == "Mes":
+        corte = (hoy - timedelta(days=29)).isoformat()
+    else:
+        corte = "2026-01-01"
+    return [it for it in items if (it.get("fecha_pub") or "")[:10] >= corte]
+
+
+def _items_noticias(area: str, ventana: str, mes: str = "") -> list:
+    if (not SIN_MONITOREO) and noticias_corpus is not None:
+        if mes:
+            return noticias_corpus.load_area(area, desde=f"{mes}-01",
+                                             hasta=f"{mes}-31")
+        if ventana == "Hoy":
+            return noticias_corpus.load_area(area, desde=date.today().isoformat())
+        if ventana == "Semana":
+            return noticias_corpus.load_area(
+                area, desde=(date.today() - timedelta(days=6)).isoformat())
+        if ventana == "Mes":
+            return noticias_corpus.load_area(
+                area, desde=(date.today() - timedelta(days=29)).isoformat())
+        return noticias_corpus.load_area(area, desde="2026-01-01")
+    _, items = _cargar_noticias_snap(area)
+    return _filtrar_noticias(items, ventana, mes)
+
+
+def _barra_actualizar(clave: str) -> bool:
+    """Botón de corrida. En la nube dispara GitHub Actions; en PC corre aquí."""
+    local_click = False
+    admin = _secreto("ADMIN_TOKEN")
+    if _en_nube() and admin and _secreto("GH_TOKEN"):
+        pin = st.text_input("Clave", type="password", key=f"pin_{clave}",
+                            label_visibility="collapsed", placeholder="Clave")
+        if st.button("Actualizar ahora", type="primary",
+                     use_container_width=True, key=f"btn_{clave}"):
+            if not pin or not hmac.compare_digest(pin, admin):
+                st.error("Clave incorrecta.")
+            else:
+                ok, msg = _lanzar_gha()
+                (st.success if ok else st.error)(msg)
+    elif _puede_rastrear_aqui():
+        local_click = st.button("Actualizar hoy", type="primary",
+                                use_container_width=True, key=f"btn_{clave}")
+    else:
+        st.caption("Auto: 07:17, 16:17 y 23:50 Lima")
+    st.caption(f"Última actualización: {fecha_catalogo_humana()} (hora Lima)")
+    return local_click
+
+
+def _correr_rastreo():
+    bitacora = []
+    caja = st.empty()
+
+    def on_paso(nombre, estado, **kw):
+        etiqueta = NOMBRE_COLECTOR.get(nombre, nombre)
+        if estado == "inicio":
+            bitacora.append(f"⏳ {etiqueta}…")
+        elif estado == "ok":
+            bitacora[-1] = f"✓ {etiqueta}: {kw.get('n', 0)} hallazgos"
+        else:
+            bitacora[-1] = f"⚠ {etiqueta}: {kw.get('error', 'error')}"
+        caja.markdown("\n\n".join(bitacora))
+
+    with st.spinner("Rastreando menciones y noticias 2026 (puede tardar)…"):
+        try:
+            actualizar.correr(on_paso=on_paso)
+        except Exception as e:
+            st.error(f"La actualización falló: {e}")
+            return
+        try:
+            if exportar_snapshot:
+                exportar_snapshot.main()
+            bitacora.append("✓ Instantánea de menciones")
+        except Exception as e:
+            bitacora.append(f"⚠ Instantánea menciones: {e}")
+        try:
+            if exportar_noticias:
+                exportar_noticias.main()
+            bitacora.append("✓ Instantánea de noticias")
+        except Exception as e:
+            bitacora.append(f"⚠ Instantánea noticias: {e}")
+        caja.markdown("\n\n".join(bitacora))
+        st.success("Corpus actualizado. Lo ya guardado no se borra; solo entra lo nuevo.")
+        st.rerun()
+
+
+def _tarjeta_noticia(it: dict, extra_meta: str = "") -> None:
+    badges = []
+    if it.get("fecha_pub"):
+        badges.append(f'<span class="en-badge b-fresco">{html.escape(it["fecha_pub"])}</span>')
+    for t in (it.get("temas") or [])[:3]:
+        badges.append(f'<span class="en-badge b-nuevo">{html.escape(str(t))}</span>')
+    ubi = ", ".join(it.get("ubigeo") or [])
+    temas = ", ".join(it.get("temas") or []) or "sin clasificar"
+    titulo = html.escape(it.get("titulo") or "")
+    snip = html.escape(it.get("snippet") or "")
+    fuente = html.escape(it.get("fuente") or "?")
+    url = html.escape(it.get("url") or "#", quote=True)
+    via = html.escape(NOMBRE_COLECTOR.get(it.get("colector") or "", it.get("colector") or ""))
+    meta = f"{''.join(badges)} {fuente} · {temas} · {via}"
+    if ubi:
+        meta += f" · {html.escape(ubi)}"
+    if extra_meta:
+        meta += f" · {html.escape(extra_meta)}"
+    st.markdown(
+        f"<div class='en-card'><h4>{titulo}</h4>"
+        f"<div class='en-meta'>{meta}</div>"
+        + (f"<p class='en-snip'>{snip}</p>" if snip else "")
+        + f"<a href='{url}' target='_blank' rel='noopener'>Abrir ↗</a></div>",
+        unsafe_allow_html=True,
+    )
+
+
+def _panel_noticias(area: str, titulo: str, caption: str, clave: str) -> bool:
+    top1, top2 = st.columns([3, 1])
+    with top1:
+        st.markdown(f"### {titulo}")
+        st.caption(caption)
+    with top2:
+        click = _barra_actualizar(clave)
+    meses = []
+    if (not SIN_MONITOREO) and noticias_corpus is not None:
+        meses = noticias_corpus.meses_guardados(area)
+    else:
+        _, crudos = _cargar_noticias_snap(area)
+        meses = sorted({(it.get("fecha_pub") or "")[:7] for it in crudos if it.get("fecha_pub")})
+    ventana = st.radio(
+        "Periodo",
+        ["Hoy", "Semana", "Mes", "Año 2026"],
+        index=3,
+        horizontal=True,
+        key=f"per_{clave}",
+        help="Hoy/semana/mes recortan por fecha de publicación. "
+             "Año 2026 lee el JSON acumulado. Un día sin botón no se pierde: "
+             "la corrida de las 23:50 o la siguiente mira al menos 7 días atrás.",
+    )
+    mes_sel = ""
+    if meses:
+        mes_sel = st.selectbox(
+            "Mes archivado",
+            ["Todos"] + meses,
+            format_func=lambda m: m if m == "Todos" else f"{m} ({MESES[int(m[5:7]) - 1]})",
+            key=f"mes_{clave}",
+        )
+        if mes_sel == "Todos":
+            mes_sel = ""
+    items = _items_noticias(area, ventana, mes_sel)
+    c1, c2, c3 = st.columns(3)
+    c1.metric("Noticias", len(items))
+    c2.metric("Días con hallazgo",
+              len({(i.get("fecha_pub") or "")[:10] for i in items if i.get("fecha_pub")}))
+    c3.metric("Sin clasificar",
+              sum(1 for i in items if not (i.get("temas") or [])))
+    q = st.text_input("Buscar", placeholder="extorsión, Sedapal, Comas…",
+                      key=f"q_{clave}").strip().lower()
+    fuentes = sorted({i.get("fuente") or "?" for i in items})
+    temas_disp = sorted({t for i in items for t in (i.get("temas") or [])})
+    f1, f2 = st.columns(2)
+    with f1:
+        f_sel = st.selectbox("Fuente", ["Todas"] + fuentes, key=f"fu_{clave}")
+    with f2:
+        t_sel = st.selectbox("Tema", ["Todos"] + temas_disp, key=f"te_{clave}")
+    n = mostrados = 0
+    tope = 250
+    for it in items:
+        if f_sel != "Todas" and (it.get("fuente") or "?") != f_sel:
+            continue
+        if t_sel != "Todos" and t_sel not in (it.get("temas") or []):
+            continue
+        blob = " ".join([
+            it.get("titulo") or "", it.get("snippet") or "",
+            it.get("fuente") or "", " ".join(it.get("temas") or []),
+            " ".join(it.get("ubigeo") or []),
+        ]).lower()
+        if q and q not in blob:
+            continue
+        n += 1
+        if mostrados >= tope:
+            continue
+        mostrados += 1
+        _tarjeta_noticia(it)
+    if not items:
+        st.info(f"Sin noticias en «{mes_sel or ventana}». "
+                "La primera corrida llena 2026; las siguientes solo agregan.")
+    elif n > tope:
+        st.warning(f"Mostrando {tope} de {n}. Afina la búsqueda.")
+    else:
+        st.caption(f"{n} mostradas ({mes_sel or ventana}).")
+    return click
+
+
 _SNAP_ITEMS: list = []
 if SIN_MONITOREO:
     _snap, _SNAP_ITEMS = _cargar_snapshot()
@@ -263,10 +482,14 @@ else:
     indice = corpus.load_indice()
 
 if SIN_MONITOREO or _en_nube():
-    tab_cat, tab_mon = st.tabs(["Catálogo", "Menciones"])
+    tab_cat, tab_mon, tab_ins, tab_ser = st.tabs(
+        ["Catálogo", "Menciones", "Noticias inseguridad", "Noticias servicios básicos"]
+    )
     tab_cargar = None
 else:
-    tab_cat, tab_mon, tab_cargar = st.tabs(["Catálogo", "Menciones", "Cargar"])
+    tab_cat, tab_mon, tab_ins, tab_ser, tab_cargar = st.tabs(
+        ["Catálogo", "Menciones", "Noticias inseguridad", "Noticias servicios básicos", "Cargar"]
+    )
 
 with tab_cat:
     if not CATALOGO.exists():
@@ -282,55 +505,10 @@ with tab_mon:
             "Notas de gob.pe/INEI, prensa y redes que nombran la encuesta."
         )
     with top2:
-        actualizar_click = False
-        admin = _secreto("ADMIN_TOKEN")
-        if _en_nube() and admin and _secreto("GH_TOKEN"):
-            pin = st.text_input("Clave", type="password",
-                                label_visibility="collapsed",
-                                placeholder="Clave")
-            if st.button("Actualizar ahora", type="primary",
-                         use_container_width=True):
-                if not pin or not hmac.compare_digest(pin, admin):
-                    st.error("Clave incorrecta.")
-                else:
-                    ok, msg = _lanzar_gha()
-                    (st.success if ok else st.error)(msg)
-        elif _puede_rastrear_aqui():
-            actualizar_click = st.button("Actualizar hoy", type="primary",
-                                         use_container_width=True)
-        else:
-            st.caption("Auto: 07:17 y 16:17 Lima")
-        st.caption(f"Última actualización: {fecha_catalogo_humana()} (hora Lima)")
+        actualizar_click = _barra_actualizar("menciones")
 
     if actualizar_click:
-        bitacora = []
-        caja = st.empty()
-
-        def on_paso(nombre, estado, **kw):
-            etiqueta = NOMBRE_COLECTOR.get(nombre, nombre)
-            if estado == "inicio":
-                bitacora.append(f"⏳ {etiqueta}…")
-            elif estado == "ok":
-                bitacora[-1] = f"✓ {etiqueta}: {kw.get('n', 0)} hallazgos"
-            else:
-                bitacora[-1] = f"⚠ {etiqueta}: {kw.get('error', 'error')}"
-            caja.markdown("\n\n".join(bitacora))
-
-        with st.spinner("Rastreando menciones de ENAPRES (puede tardar varios minutos)…"):
-            try:
-                actualizar.correr(on_paso=on_paso)
-            except Exception as e:
-                st.error(f"La actualización falló: {e}")
-            else:
-                try:
-                    if exportar_snapshot:
-                        exportar_snapshot.main()
-                    bitacora.append("✓ Instantánea de menciones")
-                except Exception as e:
-                    bitacora.append(f"⚠ Instantánea: {e}")
-                caja.markdown("\n\n".join(bitacora))
-                st.success("Corpus del día actualizado.")
-                st.rerun()
+        _correr_rastreo()
 
     st.caption(
         f"Última escritura: {fecha_catalogo_humana()} (hora Lima) · "
@@ -453,6 +631,29 @@ with tab_mon:
                         f"— {it.get('fuente','')} · {it.get('fecha_pub','')}"
                     )
                 st.caption(f"{hit} en archivo {a_sel} ({len(guardados)} en el gzip).")
+
+
+with tab_ins:
+    click_ins = _panel_noticias(
+        "inseguridad",
+        "Noticias de inseguridad",
+        "Prensa peruana 2026: delitos en general. Los temas (extorsión, estafa, "
+        "arma de fuego…) son una etiqueta previa; el archivo JSON solo crece.",
+        "inseguridad",
+    )
+    if click_ins:
+        _correr_rastreo()
+
+with tab_ser:
+    click_ser = _panel_noticias(
+        "servicios",
+        "Noticias de servicios básicos",
+        "Agua, luz y desagüe en medios peruanos, 2026. El ubigeo se sugiere "
+        "si el título nombra departamento o distrito.",
+        "servicios",
+    )
+    if click_ser:
+        _correr_rastreo()
 
 
 def _opciones_alta():
