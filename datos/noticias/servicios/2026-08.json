@@ -1,6 +1,6 @@
 {
   "mes": "2026-08",
-  "actualizado": "2026-09-18 13:09",
+  "actualizado": "2026-09-19 00:05",
   "items": [
     {
       "id": "bb9b57aa4ebf0c95",
@@ -2153,6 +2153,30 @@
       "descartar": false
     },
     {
+      "id": "3bbe4b3121d30a9b",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aae1805d2a14a63bc62472528ce0dec&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f08%2f17%2fsujeto-es-intervenido-por-nadar-en-aniego-de-villa-maria-del-triunfo-y-acercarse-a-un-bus-atrapado-durante-la-inundacion%2f&c=17668756769815667530&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aae1805d2a14a63bc62472528ce0dec&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F08%2F17%2Fsujeto-es-intervenido-por-nadar-en-aniego-de-villa-maria-del-triunfo-y-acercarse-a-un-bus-atrapado-durante-la-inundacion%2F&c=17668756769815667530&mkt=es-us",
+      "titulo": "Sujeto es intervenido por nadar en aniego de Villa María del Triunfo y acercarse a un bus atrapado durante la inundación",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-17",
+      "fecha_hecho": null,
+      "snippet": "El hombre recorrió varios metros por el agua acumulada en el bypass de Nueva Esperanza y llegó hasta un ómnibus inmovilizado por la inundación ...",
+      "temas": [
+        "Alcantarillado"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Villa María del Triunfo"
+      ],
+      "score": 3,
+      "query": "bing:aniego Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-19 00:05"
+    },
+    {
       "id": "e2d9d1518d4bc328",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcmprZ1JUaHYwZGxlQ25iamRxVHZ4ajNNdjdZMkx3Rm9hQ0o5MWM3M2tUdFBHZ1IzRHppMUNVeGlhY3g3dkNFV2NyaElTVGh3ZGlRWVVCc1ROYXpFbV9hVmQxVEdjVmgxZ0t4dkh5SE1VaHFJQ0RwZ2xxdS1MZGFISlZuMzBTZmg5dnBxTzZ3?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcmprZ1JUaHYwZGxlQ25iamRxVHZ4ajNNdjdZMkx3Rm9hQ0o5MWM3M2tUdFBHZ1IzRHppMUNVeGlhY3g3dkNFV2NyaElTVGh3ZGlRWVVCc1ROYXpFbV9hVmQxVEdjVmgxZ0t4dkh5SE1VaHFJQ0RwZ2xxdS1MZGFISlZuMzBTZmg5dnBxTzZ3",
@@ -3680,6 +3704,31 @@
       "descartar": false
     },
     {
+      "id": "01ac950ef9b3f93b",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aae1809e3dd411bb72e22dfc51c7ed0&url=https%3a%2f%2fdiariocorreo.pe%2fedicion%2fla-libertad%2fsedalib-restringe-servicio-de-agua-potable-en-trujillo-noticia%2f&c=11400459607465765455&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aae1809e3dd411bb72e22dfc51c7ed0&url=https%3A%2F%2Fdiariocorreo.pe%2Fedicion%2Fla-libertad%2Fsedalib-restringe-servicio-de-agua-potable-en-trujillo-noticia%2F&c=11400459607465765455&mkt=es-us",
+      "titulo": "Sedalib restringe servicio de agua potable en Trujillo",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-10",
+      "fecha_hecho": null,
+      "snippet": "Sedalib inició ayer una restricción del servicio de agua potable en ocho distritos de la provincia de Trujillo, capital de la región La Libertad. La medida, que se desarrollará en dos fases (del 10 al ...",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo",
+        "La Libertad"
+      ],
+      "score": 3,
+      "query": "bing:Sedalib",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-19 00:05"
+    },
+    {
       "id": "cafbf1a129505991",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNc1hRM2JPLV9tbTZ6blJKSXhHN2ItTGdFR25hMnp3cVJSM1NBS190blRGNjl1MmpJd1hmRHZsNTdCQVZPaVVEY0FhRU8weDFtZmxhdkFLbXQ4OGZJWHBnVk15MGRPTGdGTjh5eXNleWNPRS1LUG1nYnI5UEVWd1VyQk5kWFJzTDJ3dmZCQy1VR0xiNkM4TVZpbjc5dXhRbVQ5OFhtbVRxSDJGS3pMT01ZbzdHbk1CWUp5SnZkdlhGNFBaMEs5NHh2UHVrQzVGc1NfR0tUclExdzRNZzjSAfYBQVVfeXFMUGg2Z3R3eXNxcUF1Vi1XNUYzOVdIczE1c3VsUDdoeGp6QWtGVWJhWXZZWGEycDdSN2s2UjYxSGNFS0xlTWwzWHloSTR1RU5xUmFteVNWR0RmWEk0MVNsWEptanQtUVFiM0FRUVZ0QlZ0aXp1dEt5ZmIzR2JWMXlMc0RUeFEtTUppUEZmdGlHeGhHdlR3QVFCLUdhdEZKbEtKZXM0STExUU5reTgzV3hlamJWV0s1UnJPbjBzY0x3dzZKUXhFNEgxV3ZCV1ZqR09LOHo2WVpZMXJkS3lFcGdwSF9VMnhyLVhMVmRTT3ZmclZQa3Roak93?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNc1hRM2JPLV9tbTZ6blJKSXhHN2ItTGdFR25hMnp3cVJSM1NBS190blRGNjl1MmpJd1hmRHZsNTdCQVZPaVVEY0FhRU8weDFtZmxhdkFLbXQ4OGZJWHBnVk15MGRPTGdGTjh5eXNleWNPRS1LUG1nYnI5UEVWd1VyQk5kWFJzTDJ3dmZCQy1VR0xiNkM4TVZpbjc5dXhRbVQ5OFhtbVRxSDJGS3pMT01ZbzdHbk1CWUp5SnZkdlhGNFBaMEs5NHh2UHVrQzVGc1NfR0tUclExdzRNZzjSAfYBQVVfeXFMUGg2Z3R3eXNxcUF1Vi1XNUYzOVdIczE1c3VsUDdoeGp6QWtGVWJhWXZZWGEycDdSN2s2UjYxSGNFS0xlTWwzWHloSTR1RU5xUmFteVNWR0RmWEk0MVNsWEptanQtUVFiM0FRUVZ0QlZ0aXp1dEt5ZmIzR2JWMXlMc0RUeFEtTUppUEZmdGlHeGhHdlR3QVFCLUdhdEZKbEtKZXM0STExUU5reTgzV3hlamJWV0s1UnJPbjBzY0x3dzZKUXhFNEgxV3ZCV1ZqR09LOHo2WVpZMXJkS3lFcGdwSF9VMnhyLVhMVmRTT3ZmclZQa3Roak93",
@@ -4881,5 +4930,5 @@
       "descartar": false
     }
   ],
-  "n": 205
+  "n": 207
 }

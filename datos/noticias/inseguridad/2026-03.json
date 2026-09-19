@@ -1,6 +1,6 @@
 {
   "mes": "2026-03",
-  "actualizado": "2026-09-18 13:09",
+  "actualizado": "2026-09-19 00:03",
   "items": [
     {
       "id": "5976149ac746b5b8",
@@ -654,6 +654,28 @@
       "agregado": "2026-09-18 12:28",
       "tipo_fuente": "Noticias/reportes",
       "descartar": false
+    },
+    {
+      "id": "88a183639adcc87b",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aae1798533c46a69997c20bdbd4b2f0&url=https%3a%2f%2fwww.msn.com%2fes-cl%2fnoticias%2fother%2fdetienen-en-chile-a-hombre-buscado-por-homicidio-en-per%25C3%25BA-lo-vinculan-al-tren-de-aragua%2far-AA1ZBRQ3&c=4014645335106842763&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aae1798533c46a69997c20bdbd4b2f0&url=https%3A%2F%2Fwww.msn.com%2Fes-cl%2Fnoticias%2Fother%2Fdetienen-en-chile-a-hombre-buscado-por-homicidio-en-per%25C3%25BA-lo-vinculan-al-tren-de-aragua%2Far-AA1ZBRQ3&c=4014645335106842763&mkt=es-us",
+      "titulo": "Detienen en Chile a hombre buscado por homicidio en Perú: lo vinculan al Tren de Aragua",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-03-28",
+      "fecha_hecho": null,
+      "snippet": "Un ciudadano venezolano, requerido por la justicia peruana, fue detenido este viernes en la comuna de Maipú, en la Región Metropolitana, en un operativo desarrollado por la Brigada Investigadora del ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:homicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-19 00:03"
     },
     {
       "id": "e70724b84945e0df",
@@ -1407,6 +1429,30 @@
       "descartar": false
     },
     {
+      "id": "7ad141ed16966a85",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aae17968a6f479a9a3fbb094ca70ca3&url=https%3a%2f%2fwww.telesurtv.net%2fperu-asesinato-candidato-congresista-partido-fe%2f&c=6827531796652007799&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aae17968a6f479a9a3fbb094ca70ca3&url=https%3A%2F%2Fwww.telesurtv.net%2Fperu-asesinato-candidato-congresista-partido-fe%2F&c=6827531796652007799&mkt=es-us",
+      "titulo": "Perú: asesinan a candidato a congresista por el partido Fe",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-03-25",
+      "fecha_hecho": null,
+      "snippet": "Gilbert Infante, candidato al Congreso por el partido Fe en el Perú, fue asesinado la noche de este martes en el sur de Lima, tras un brutal ataque, que se vincula a previas amenazas por sus ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-19 00:03"
+    },
+    {
       "id": "8671868de486eef7",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdEpuVkhWdW1JRFFrajZVOFYwNzltLTItcEJWM0VjN3JnRzBtTTBMbDNzQXJycHZFUThzY1p4eHVyaWltLUlNY0JEeWF0cGxFb3h1LWJ3SnpSQzBKZ19WYWxpWkZiSnBYN3VwdEJOX25HdFUtRWZCZUpDZ0dHMWRnN2xOUHpuN1l3TnJ6d2l2RHdGSWpTak5Tc2cxVHhJSWZVcFhFSjhuZnZ0cE9lWDVWQUxiSGN3M3M4dEE?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdEpuVkhWdW1JRFFrajZVOFYwNzltLTItcEJWM0VjN3JnRzBtTTBMbDNzQXJycHZFUThzY1p4eHVyaWltLUlNY0JEeWF0cGxFb3h1LWJ3SnpSQzBKZ19WYWxpWkZiSnBYN3VwdEJOX25HdFUtRWZCZUpDZ0dHMWRnN2xOUHpuN1l3TnJ6d2l2RHdGSWpTak5Tc2cxVHhJSWZVcFhFSjhuZnZ0cE9lWDVWQUxiSGN3M3M4dEE",
@@ -2146,6 +2192,28 @@
       "agregado": "2026-09-18 12:28",
       "tipo_fuente": "Noticias/reportes",
       "descartar": false
+    },
+    {
+      "id": "ecf465cbd365bcfb",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aae178b23c54305a2067b6512c0ebec&url=https%3a%2f%2fperu21.pe%2feconomia%2fasbanc-el-populismo-financiero-abre-las-puertas-al-gota-gota%2f&c=3310820271252611702&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aae178b23c54305a2067b6512c0ebec&url=https%3A%2F%2Fperu21.pe%2Feconomia%2Fasbanc-el-populismo-financiero-abre-las-puertas-al-gota-gota%2F&c=3310820271252611702&mkt=es-us",
+      "titulo": "Asbanc: El populismo financiero abre las puertas al “gota a gota” y a la inseguridad",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-03-24",
+      "fecha_hecho": null,
+      "snippet": "El gremio precisó que las propuestas pasan por alto que debilitar el crédito formal tiene consecuencias directas contra la seguridad ciudadana y la inclusión financiera. Sostuvo que el Banco Central ...",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:\"gota a gota\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-19 00:03"
     },
     {
       "id": "4f1c6cdf578b560a",
@@ -5560,5 +5628,5 @@
       "descartar": false
     }
   ],
-  "n": 246
+  "n": 249
 }
