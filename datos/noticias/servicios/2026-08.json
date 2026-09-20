@@ -1,6 +1,6 @@
 {
   "mes": "2026-08",
-  "actualizado": "2026-09-19 00:05",
+  "actualizado": "2026-09-20 00:05",
   "items": [
     {
       "id": "bb9b57aa4ebf0c95",
@@ -1277,6 +1277,31 @@
       "descartar": false
     },
     {
+      "id": "c4bcc2252d318b4e",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaf698b29bd4848bef4d939a50af325&url=https%3a%2f%2flibero.pe%2ftiempoextra%2f2026%2f08%2f19%2fcorte-de-luz-en-distritos-de-lima-callao-hoy-jueves-20-de-agosto-zonas-tendran-servicio-electrico-pluz-peru-1056362&c=12246942659473122791&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaf698b29bd4848bef4d939a50af325&url=https%3A%2F%2Flibero.pe%2Ftiempoextra%2F2026%2F08%2F19%2Fcorte-de-luz-en-distritos-de-lima-callao-hoy-jueves-20-de-agosto-zonas-tendran-servicio-electrico-pluz-peru-1056362&c=12246942659473122791&mkt=es-us",
+      "titulo": "Corte de luz en distritos de Lima y Callao del 20 de agosto: qué zonas no tuvieron servicio eléctrico",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-20",
+      "fecha_hecho": null,
+      "snippet": "Este jueves 20 de agosto, distintos sectores de Lima y Callao tendrán una interrupción temporal del servicio eléctrico, de acuerdo con el cronograma de Pluz Energía. La medida contempla zonas ...",
+      "temas": [
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Callao",
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:\"corte de luz\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-20 00:05"
+    },
+    {
       "id": "26aa310890d9d894",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVHp4ZFhaWk9ZUEJuakNDVkxHdkU1MkQwazYxYUlNQWtTMjhpMU9IYjZfNkNvNTNZaEpwQTB5S2JBRWZ2Sm5ZLW9qaW5KQURUZGlvQnBCelpnNXdPWV9wNnFrWjJPbmRwUE9VWUVnb2dhc0lXNEY1Q3l3UklVOUJ6TjJWWnRMeXh1SE1IaDcxWjZqbGdjcERfbENGWVgyZ21hY3l2MFJDY25JMmFOYTdSb0JvM3hPWHhwdG9pLUIycXdUMjlBS2w4NURJZ3ZPTFdXYVdpT0YxQWoycnRlaVloWXN6OE1TZWVt0gGDAkFVX3lxTE9yRFRTZW5sN2NlQm5QdUhFSmhfMkcwSXE0Q0Z0czAxeWtEX2VjXzZ0OEJ5ZjA0OE9HNEFTWkNGR0hSdm5BMU5ZSFB5VnJ3Q201MWRtNjc5M29BSF9vQktFeTZ2RW5DeVFEZHJ5MzlIWHNIdFJWM0Rja1hOZDlfZmQzMmloWEswd2t6QXhNNW9aQ3duUFhxamhXMjJrTGQxRHRDZ1ItRUxINVl1bTI0VV83YTNfd0dKR1ZlNzVDZEdSeTg0SFZScjZJN3U3QzFEcmZ3Y1dmQVZXckE1Yk9jQWF3Z215dnZ1VzZiUnBvYWlnOTc5TXZ6ejBhSjR3V1g4TDJSeVk?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVHp4ZFhaWk9ZUEJuakNDVkxHdkU1MkQwazYxYUlNQWtTMjhpMU9IYjZfNkNvNTNZaEpwQTB5S2JBRWZ2Sm5ZLW9qaW5KQURUZGlvQnBCelpnNXdPWV9wNnFrWjJPbmRwUE9VWUVnb2dhc0lXNEY1Q3l3UklVOUJ6TjJWWnRMeXh1SE1IaDcxWjZqbGdjcERfbENGWVgyZ21hY3l2MFJDY25JMmFOYTdSb0JvM3hPWHhwdG9pLUIycXdUMjlBS2w4NURJZ3ZPTFdXYVdpT0YxQWoycnRlaVloWXN6OE1TZWVt0gGDAkFVX3lxTE9yRFRTZW5sN2NlQm5QdUhFSmhfMkcwSXE0Q0Z0czAxeWtEX2VjXzZ0OEJ5ZjA0OE9HNEFTWkNGR0hSdm5BMU5ZSFB5VnJ3Q201MWRtNjc5M29BSF9vQktFeTZ2RW5DeVFEZHJ5MzlIWHNIdFJWM0Rja1hOZDlfZmQzMmloWEswd2t6QXhNNW9aQ3duUFhxamhXMjJrTGQxRHRDZ1ItRUxINVl1bTI0VV83YTNfd0dKR1ZlNzVDZEdSeTg0SFZScjZJN3U3QzFEcmZ3Y1dmQVZXckE1Yk9jQWF3Z215dnZ1VzZiUnBvYWlnOTc5TXZ6ejBhSjR3V1g4TDJSeVk",
@@ -2175,6 +2200,30 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-09-19 00:05"
+    },
+    {
+      "id": "874b8d7293a7addd",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaf698fc612423ba797dcb8f0b3d60b&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f08%2f17%2fsujeto-es-intervenido-por-nadar-en-aniego-de-villa-maria-del-triunfo-y-acercarse-a-un-bus-atrapado-durante-la-inundacion%2f&c=17668756769815667530&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaf698fc612423ba797dcb8f0b3d60b&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F08%2F17%2Fsujeto-es-intervenido-por-nadar-en-aniego-de-villa-maria-del-triunfo-y-acercarse-a-un-bus-atrapado-durante-la-inundacion%2F&c=17668756769815667530&mkt=es-us",
+      "titulo": "Sujeto es intervenido por nadar en aniego de Villa María del Triunfo y acercarse a un bus atrapado durante la inundación",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-17",
+      "fecha_hecho": null,
+      "snippet": "El hombre recorrió varios metros por el agua acumulada en el bypass de Nueva Esperanza y llegó hasta un ómnibus inmovilizado por la inundación ...",
+      "temas": [
+        "Alcantarillado"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Villa María del Triunfo"
+      ],
+      "score": 3,
+      "query": "bing:aniego Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-20 00:05"
     },
     {
       "id": "e2d9d1518d4bc328",
@@ -3729,6 +3778,31 @@
       "agregado": "2026-09-19 00:05"
     },
     {
+      "id": "b75b4301c56a3dae",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaf699266f34cb2a8a2f704c751cedf&url=https%3a%2f%2fdiariocorreo.pe%2fedicion%2fla-libertad%2fsedalib-restringe-servicio-de-agua-potable-en-trujillo-noticia%2f&c=11400459607465765455&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaf699266f34cb2a8a2f704c751cedf&url=https%3A%2F%2Fdiariocorreo.pe%2Fedicion%2Fla-libertad%2Fsedalib-restringe-servicio-de-agua-potable-en-trujillo-noticia%2F&c=11400459607465765455&mkt=es-us",
+      "titulo": "Sedalib restringe servicio de agua potable en Trujillo",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-10",
+      "fecha_hecho": null,
+      "snippet": "Sedalib inició ayer una restricción del servicio de agua potable en ocho distritos de la provincia de Trujillo, capital de la región La Libertad. La medida, que se desarrollará en dos fases (del 10 al ...",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo",
+        "La Libertad"
+      ],
+      "score": 3,
+      "query": "bing:Sedalib",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-20 00:05"
+    },
+    {
       "id": "cafbf1a129505991",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNc1hRM2JPLV9tbTZ6blJKSXhHN2ItTGdFR25hMnp3cVJSM1NBS190blRGNjl1MmpJd1hmRHZsNTdCQVZPaVVEY0FhRU8weDFtZmxhdkFLbXQ4OGZJWHBnVk15MGRPTGdGTjh5eXNleWNPRS1LUG1nYnI5UEVWd1VyQk5kWFJzTDJ3dmZCQy1VR0xiNkM4TVZpbjc5dXhRbVQ5OFhtbVRxSDJGS3pMT01ZbzdHbk1CWUp5SnZkdlhGNFBaMEs5NHh2UHVrQzVGc1NfR0tUclExdzRNZzjSAfYBQVVfeXFMUGg2Z3R3eXNxcUF1Vi1XNUYzOVdIczE1c3VsUDdoeGp6QWtGVWJhWXZZWGEycDdSN2s2UjYxSGNFS0xlTWwzWHloSTR1RU5xUmFteVNWR0RmWEk0MVNsWEptanQtUVFiM0FRUVZ0QlZ0aXp1dEt5ZmIzR2JWMXlMc0RUeFEtTUppUEZmdGlHeGhHdlR3QVFCLUdhdEZKbEtKZXM0STExUU5reTgzV3hlamJWV0s1UnJPbjBzY0x3dzZKUXhFNEgxV3ZCV1ZqR09LOHo2WVpZMXJkS3lFcGdwSF9VMnhyLVhMVmRTT3ZmclZQa3Roak93?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNc1hRM2JPLV9tbTZ6blJKSXhHN2ItTGdFR25hMnp3cVJSM1NBS190blRGNjl1MmpJd1hmRHZsNTdCQVZPaVVEY0FhRU8weDFtZmxhdkFLbXQ4OGZJWHBnVk15MGRPTGdGTjh5eXNleWNPRS1LUG1nYnI5UEVWd1VyQk5kWFJzTDJ3dmZCQy1VR0xiNkM4TVZpbjc5dXhRbVQ5OFhtbVRxSDJGS3pMT01ZbzdHbk1CWUp5SnZkdlhGNFBaMEs5NHh2UHVrQzVGc1NfR0tUclExdzRNZzjSAfYBQVVfeXFMUGg2Z3R3eXNxcUF1Vi1XNUYzOVdIczE1c3VsUDdoeGp6QWtGVWJhWXZZWGEycDdSN2s2UjYxSGNFS0xlTWwzWHloSTR1RU5xUmFteVNWR0RmWEk0MVNsWEptanQtUVFiM0FRUVZ0QlZ0aXp1dEt5ZmIzR2JWMXlMc0RUeFEtTUppUEZmdGlHeGhHdlR3QVFCLUdhdEZKbEtKZXM0STExUU5reTgzV3hlamJWV0s1UnJPbjBzY0x3dzZKUXhFNEgxV3ZCV1ZqR09LOHo2WVpZMXJkS3lFcGdwSF9VMnhyLVhMVmRTT3ZmclZQa3Roak93",
@@ -4930,5 +5004,5 @@
       "descartar": false
     }
   ],
-  "n": 207
+  "n": 210
 }

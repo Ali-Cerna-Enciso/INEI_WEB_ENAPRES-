@@ -1,6 +1,6 @@
 {
   "mes": "2026-08",
-  "actualizado": "2026-09-19 00:03",
+  "actualizado": "2026-09-20 00:03",
   "items": [
     {
       "id": "d9d4232fbcb587d1",
@@ -968,6 +968,31 @@
       "agregado": "2026-09-18 12:29",
       "tipo_fuente": "Noticias/reportes",
       "descartar": false
+    },
+    {
+      "id": "ba2cfcd01c13fff9",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaf693475d648f3b6a6cfce18baea2e&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f08%2f31%2flos-pulpos-la-banda-detras-del-secuestro-y-asesinato-multiple-en-trujillo-que-simula-ser-la-policia-para-atacar-empresarios%2f&c=12617329908446726256&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaf693475d648f3b6a6cfce18baea2e&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F08%2F31%2Flos-pulpos-la-banda-detras-del-secuestro-y-asesinato-multiple-en-trujillo-que-simula-ser-la-policia-para-atacar-empresarios%2F&c=12617329908446726256&mkt=es-us",
+      "titulo": "Los Pulpos: la banda detrás del secuestro y asesinato múltiple en Trujillo que simula ser la Policía para atacar empresarios",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-31",
+      "fecha_hecho": null,
+      "snippet": "La hipótesis de la PNP vincula a esa red criminal con el reciente secuestro de Jens Marty Lara Tantaquilla y la ejecución de sus cuatro acompañantes mediante una falsa intervención con chalecos polici ...",
+      "temas": [
+        "Secuestro",
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 5,
+      "query": "bing:\"Los Pulpos\" Trujillo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-20 00:03"
     },
     {
       "id": "55f331e59447cb61",
@@ -3192,6 +3217,28 @@
       "agregado": "2026-09-18 12:29",
       "tipo_fuente": "Noticias/reportes",
       "descartar": false
+    },
+    {
+      "id": "93c741acc4d3c776",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaf692243cd4914a49f1e7b0c4c4d89&url=https%3a%2f%2fwww.aporrea.org%2finternacionales%2fn422639.html&c=6162688254886508994&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaf692243cd4914a49f1e7b0c4c4d89&url=https%3A%2F%2Fwww.aporrea.org%2Finternacionales%2Fn422639.html&c=6162688254886508994&mkt=es-us",
+      "titulo": "\"El 'Gabinete Paralelo' de Keiko Fujimori: Descubren a la Presidenta de Perú en un Spa junto a un empresario argentino acusado de estafa\"",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-25",
+      "fecha_hecho": null,
+      "snippet": "Un escándalo de proporciones mayores se viraliza con fuerza en el Perú tras el destape de la relación clandestina de la mandataria Keiko Fujimori Higuchi con el cuestionado empresario argentino ...",
+      "temas": [
+        "Estafa"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:estafa Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-20 00:03"
     },
     {
       "id": "08389b98e1ed0c1a",
@@ -6380,6 +6427,29 @@
       "descartar": false
     },
     {
+      "id": "0a08bd50c4d233c5",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaf691b582d4cdabed2bbb29e834518&url=https%3a%2f%2fdiariocorreo.pe%2fpolitica%2fmininter-anuncia-patrullaje-permanente-en-gamarra-para-combatir-extorsion-y-sicariato-noticia%2f&c=12912436118372207892&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaf691b582d4cdabed2bbb29e834518&url=https%3A%2F%2Fdiariocorreo.pe%2Fpolitica%2Fmininter-anuncia-patrullaje-permanente-en-gamarra-para-combatir-extorsion-y-sicariato-noticia%2F&c=12912436118372207892&mkt=es-us",
+      "titulo": "Mininter anuncia patrullaje permanente en Gamarra para combatir extorsión y sicariato",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-09",
+      "fecha_hecho": null,
+      "snippet": "El titular del Interior supervisó este domingo las acciones junto al jefe de la Policía y autoridades del distrito. El operativo busca recuperar espacios públicos y mejorar las condiciones para quiene ...",
+      "temas": [
+        "Extorsión",
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 5,
+      "query": "bing:sicariato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-20 00:03"
+    },
+    {
       "id": "be9b9bc10946d6e6",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQWEZqTHdBY0hqWUVqdFpsbHdodkVjRGxhZFRXSHpyYmJQcVFqZjFtMVdrZGdTdTdBNXZXMkZiZGd3ckVzWVpGMTBfYXB4X2I4WVZMQThNRmpJYVNXcGFnWDkxQ3RqWEtRdmZBUXgyOFNfRTZET01kX1czSG1iZlRkcjZ1Y0tBQWR2NGkxWDJVVkNpUXlpc09MelgyRGQ1WndZOHU1R0QxZktzOHpTcVVrdElyTEdRVTdteGZDc0xTQzRSMTdxalVqNFpVOEtTQU1XODBGdWNUb3ZDU01ZVzdUWFU5YUtwQnBlUnZNY3NR0gHzAUFVX3lxTE5BR3RlUksxU0RTTk93M3dzY0x3ZUc4ZkN2MU5LcDdVNktER1hIYVBwZ2NDdzZkNUFNWk1xOEd5VUhXa3NITUgzWTg0bHY4MnBwcWl4MXJUYXZuZUd2SW9YM0ZWd2RFR0k1OXpyNkplSmt5Vm1mOVc4Vjd5dWlHenZyNDdQSGRUOFowVDR6dlRGdTNxdElSLXpMQlFnV0twOEFISnBFOVFIbzNxMG1vc2l5RmxrYVFCM0dzVFVzMVB3WlpZZkZIOEEwSFRFR1NqNE41ZXJ0Y2hHSEVKT0FaNHNXY0RZUk82TkZoQ3o3ZmtMa0o2TQ?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQWEZqTHdBY0hqWUVqdFpsbHdodkVjRGxhZFRXSHpyYmJQcVFqZjFtMVdrZGdTdTdBNXZXMkZiZGd3ckVzWVpGMTBfYXB4X2I4WVZMQThNRmpJYVNXcGFnWDkxQ3RqWEtRdmZBUXgyOFNfRTZET01kX1czSG1iZlRkcjZ1Y0tBQWR2NGkxWDJVVkNpUXlpc09MelgyRGQ1WndZOHU1R0QxZktzOHpTcVVrdElyTEdRVTdteGZDc0xTQzRSMTdxalVqNFpVOEtTQU1XODBGdWNUb3ZDU01ZVzdUWFU5YUtwQnBlUnZNY3NR0gHzAUFVX3lxTE5BR3RlUksxU0RTTk93M3dzY0x3ZUc4ZkN2MU5LcDdVNktER1hIYVBwZ2NDdzZkNUFNWk1xOEd5VUhXa3NITUgzWTg0bHY4MnBwcWl4MXJUYXZuZUd2SW9YM0ZWd2RFR0k1OXpyNkplSmt5Vm1mOVc4Vjd5dWlHenZyNDdQSGRUOFowVDR6dlRGdTNxdElSLXpMQlFnV0twOEFISnBFOVFIbzNxMG1vc2l5RmxrYVFCM0dzVFVzMVB3WlpZZkZIOEEwSFRFR1NqNE41ZXJ0Y2hHSEVKT0FaNHNXY0RZUk82TkZoQ3o3ZmtMa0o2TQ",
@@ -7843,5 +7913,5 @@
       "descartar": true
     }
   ],
-  "n": 343
+  "n": 346
 }

@@ -1,6 +1,6 @@
 {
   "mes": "2026-06",
-  "actualizado": "2026-09-19 00:03",
+  "actualizado": "2026-09-20 00:03",
   "items": [
     {
       "id": "e5094510d514f14c",
@@ -1426,6 +1426,28 @@
       "agregado": "2026-09-18 12:28",
       "tipo_fuente": "Noticias/reportes",
       "descartar": true
+    },
+    {
+      "id": "61a7eae51dd32a74",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaf692243cd4914a49f1e7b0c4c4d89&url=https%3a%2f%2fcadenaser.com%2fcomunitat-valenciana%2f2026%2f06%2f24%2fdetenida-en-alicante-una-fugitiva-acusada-de-estafa-en-peru-radio-alicante%2f&c=16552710934103439200&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaf692243cd4914a49f1e7b0c4c4d89&url=https%3A%2F%2Fcadenaser.com%2Fcomunitat-valenciana%2F2026%2F06%2F24%2Fdetenida-en-alicante-una-fugitiva-acusada-de-estafa-en-peru-radio-alicante%2F&c=16552710934103439200&mkt=es-us",
+      "titulo": "Detenida en Alicante una fugitiva acusada de estafa en Perú",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-06-23",
+      "fecha_hecho": null,
+      "snippet": "La Policía Nacional ha detenido en Alicante a una fugitiva sobre la que pesaba una orden de detención peruana por estafa. Se trata de una mujer de 46 años, sobre la que figuraba vigente una orden ...",
+      "temas": [
+        "Estafa"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:estafa Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-20 00:03"
     },
     {
       "id": "dcbdeee79cbb5249",
@@ -5833,5 +5855,5 @@
       "descartar": false
     }
   ],
-  "n": 256
+  "n": 257
 }

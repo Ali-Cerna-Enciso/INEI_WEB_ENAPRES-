@@ -1,6 +1,6 @@
 {
   "mes": "2026-07",
-  "actualizado": "2026-09-19 00:00",
+  "actualizado": "2026-09-20 00:05",
   "items": [
     {
       "id": "bcbc1d8bcd603fca",
@@ -571,6 +571,28 @@
       "agregado": "2026-09-18 12:32",
       "tipo_fuente": "Noticias/reportes",
       "descartar": false
+    },
+    {
+      "id": "e36894067a1f0410",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaf698b29bd4848bef4d939a50af325&url=https%3a%2f%2felpopular.pe%2ftag%2fcorte-de-luz&c=6805440994668229238&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaf698b29bd4848bef4d939a50af325&url=https%3A%2F%2Felpopular.pe%2Ftag%2Fcorte-de-luz&c=6805440994668229238&mkt=es-us",
+      "titulo": "Noticias de Corte de luz",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-07-27",
+      "fecha_hecho": null,
+      "snippet": "¿Quieres leer todas las noticias sobre Corte de luz? Conoce todas las últimas noticias de Corte de luz en vivo hoy en el diario el Popular.",
+      "temas": [
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:\"corte de luz\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-20 00:05"
     },
     {
       "id": "fb3d0830ab6e5c23",
@@ -5543,5 +5565,5 @@
       "descartar": false
     }
   ],
-  "n": 233
+  "n": 234
 }
