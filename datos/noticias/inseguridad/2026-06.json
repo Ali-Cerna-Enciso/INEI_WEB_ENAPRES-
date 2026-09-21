@@ -1,6 +1,6 @@
 {
   "mes": "2026-06",
-  "actualizado": "2026-09-20 00:03",
+  "actualizado": "2026-09-21 00:05",
   "items": [
     {
       "id": "e5094510d514f14c",
@@ -3510,6 +3510,30 @@
       "descartar": false
     },
     {
+      "id": "ae882387f3fc82ae",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab0bb07c09548ee966061a182b9c5a8&url=https%3a%2f%2fwww.latercera.com%2fmundo%2fnoticia%2ffiscalia-de-peru-pide-35-anos-de-carcel-por-secuestro-y-extorsion-para-el-monstruo-lider-de-los-injertos-del-cono-norte%2f&c=2529653427697827045&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab0bb07c09548ee966061a182b9c5a8&url=https%3A%2F%2Fwww.latercera.com%2Fmundo%2Fnoticia%2Ffiscalia-de-peru-pide-35-anos-de-carcel-por-secuestro-y-extorsion-para-el-monstruo-lider-de-los-injertos-del-cono-norte%2F&c=2529653427697827045&mkt=es-us",
+      "titulo": "Fiscalía de Perú pide 35 años de cárcel por secuestro y extorsión para “El Monstruo”, líder de Los Injertos del Cono Norte",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-06-12",
+      "fecha_hecho": null,
+      "snippet": "La Fiscalía de Perú solicitó este viernes una pena de 35 años de cárcel para Erick Moreno Hernández, el líder del grupo de sicarios Los Injertos del Cono Norte, por los delitos de secuestro y ...",
+      "temas": [
+        "Extorsión",
+        "Secuestro",
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 6,
+      "query": "bing:secuestro Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-21 00:05"
+    },
+    {
       "id": "68c48781a061cf8d",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTmVvZ3BDWGZGa256YnQyMmZwR0t3eElZOVEzUGZ2eEx3OXFYaGQyUG5ZaDZJX0I0VFRNYUJMQl9rTFh4VzlrZ01wYUNUdUJqV0RJNmtGWkFhOFhPN2dFaVRwN2cyci0ycThVbjJXelVmLVZpM2pOSkthRGlmWWY3TkJiRDRNbFFfUkhyNXJXMlJ3d2VRUmc3MFF3dGtLNHN4UVZJVDhVazJuTFNuX1lleldNZ2tyMzV1aV9fRDZHbw?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTmVvZ3BDWGZGa256YnQyMmZwR0t3eElZOVEzUGZ2eEx3OXFYaGQyUG5ZaDZJX0I0VFRNYUJMQl9rTFh4VzlrZ01wYUNUdUJqV0RJNmtGWkFhOFhPN2dFaVRwN2cyci0ycThVbjJXelVmLVZpM2pOSkthRGlmWWY3TkJiRDRNbFFfUkhyNXJXMlJ3d2VRUmc3MFF3dGtLNHN4UVZJVDhVazJuTFNuX1lleldNZ2tyMzV1aV9fRDZHbw",
@@ -3958,6 +3982,30 @@
       "agregado": "2026-09-18 12:28",
       "tipo_fuente": "Noticias/reportes",
       "descartar": false
+    },
+    {
+      "id": "47dc0d8ccaa4ad64",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab0bb07c09548ee966061a182b9c5a8&url=https%3a%2f%2fwww.abc.com.py%2finternacionales%2f2026%2f06%2f10%2fpolicia-de-peru-respalda-a-agentes-que-la-fiscalia-denunciara-por-secuestro%2f&c=1838181451492336756&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab0bb07c09548ee966061a182b9c5a8&url=https%3A%2F%2Fwww.abc.com.py%2Finternacionales%2F2026%2F06%2F10%2Fpolicia-de-peru-respalda-a-agentes-que-la-fiscalia-denunciara-por-secuestro%2F&c=1838181451492336756&mkt=es-us",
+      "titulo": "Policía de Perú respalda a agentes que la Fiscalía denunciará por secuestro",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-06-10",
+      "fecha_hecho": null,
+      "snippet": "Lima, 10 jun (EFE).- La Policía Nacional del Perú (PNP) respaldó este miércoles la actuación de los agentes que serán denunciados por presunto secuestro, tras haber detenido el domingo pasado a dos ...",
+      "temas": [
+        "Secuestro"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:secuestro Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-21 00:05"
     },
     {
       "id": "bc30829a5b08fb19",
@@ -5855,5 +5903,5 @@
       "descartar": false
     }
   ],
-  "n": 257
+  "n": 259
 }
