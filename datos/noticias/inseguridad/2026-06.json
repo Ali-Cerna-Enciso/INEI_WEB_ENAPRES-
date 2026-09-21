@@ -1,6 +1,6 @@
 {
   "mes": "2026-06",
-  "actualizado": "2026-09-21 00:05",
+  "actualizado": "2026-09-21 10:39",
   "items": [
     {
       "id": "e5094510d514f14c",
@@ -4618,6 +4618,28 @@
       "agregado": "2026-09-19 00:03"
     },
     {
+      "id": "9d3cd919b260897e",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab14f8c8b02465e8ef3cb746a6bc984&url=https%3a%2f%2fes-us.noticias.yahoo.com%2fextorsi%25C3%25B3n-violencia-expanden-per%25C3%25BA-marcan-192840760.html&c=6549888520824724105&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab14f8c8b02465e8ef3cb746a6bc984&url=https%3A%2F%2Fes-us.noticias.yahoo.com%2Fextorsi%25C3%25B3n-violencia-expanden-per%25C3%25BA-marcan-192840760.html&c=6549888520824724105&mkt=es-us",
+      "titulo": "La extorsión y la violencia se expanden en Perú y marcan una elección atravesada por el pánico",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-06-06",
+      "fecha_hecho": null,
+      "snippet": "Agrega Yahoo como fuente de noticias preferida para ver más de nuestras historias en Google. Un policía custodia camiones cargados con material electoral en la Oficina Nacional de Procesos Electorales ...",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:extorsión Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-21 10:39"
+    },
+    {
       "id": "402d0dc81025228d",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYWFfWFVpT25iMVp3UmNkUEc5YnhFUURjQ0w2ZWZEUWpObTNuLWJxdHdUT0JrcGNlOElmdnc4Nng1bGpMdzBESDRVaEJZRVJoeUNzZGZ0UGZnT2I3d1BuTkxHeFV1bTBQUTZvRmJuWnY3ejd6Vk5Cb19FTE1yekE5MjRkdHllOFVqTTVLVTNQc1dIYmVKWVZOQVhqdGc5bnhINTQ5ZDE2WWJla3VoVmdz?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYWFfWFVpT25iMVp3UmNkUEc5YnhFUURjQ0w2ZWZEUWpObTNuLWJxdHdUT0JrcGNlOElmdnc4Nng1bGpMdzBESDRVaEJZRVJoeUNzZGZ0UGZnT2I3d1BuTkxHeFV1bTBQUTZvRmJuWnY3ejd6Vk5Cb19FTE1yekE5MjRkdHllOFVqTTVLVTNQc1dIYmVKWVZOQVhqdGc5bnhINTQ5ZDE2WWJla3VoVmdz",
@@ -5903,5 +5925,5 @@
       "descartar": false
     }
   ],
-  "n": 259
+  "n": 260
 }

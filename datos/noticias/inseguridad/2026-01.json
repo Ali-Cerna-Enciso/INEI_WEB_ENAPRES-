@@ -1,6 +1,6 @@
 {
   "mes": "2026-01",
-  "actualizado": "2026-09-21 00:02",
+  "actualizado": "2026-09-21 10:39",
   "items": [
     {
       "id": "8e0e04fef25e5005",
@@ -3077,6 +3077,29 @@
       "agregado": "2026-09-20 00:03"
     },
     {
+      "id": "550cae173d4533b5",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab14f9893c0479693b55bb99095bcb5&url=https%3a%2f%2fwww.telesurtv.net%2fperu-aprueba-ley-extorsion-sicariato%2f&c=11445771162653073536&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab14f9893c0479693b55bb99095bcb5&url=https%3A%2F%2Fwww.telesurtv.net%2Fperu-aprueba-ley-extorsion-sicariato%2F&c=11445771162653073536&mkt=es-us",
+      "titulo": "Perú aprueba ley para hacer frente a la extorsión y el sicariato",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-01-18",
+      "fecha_hecho": null,
+      "snippet": "Según el Ejecutivo, con esta medida el Estado cambiará «de la defensiva a la ofensiva contra la delincuencia y el crimen organizado» en Perú. La norma se hizo oficial por la publicación de un decreto ...",
+      "temas": [
+        "Extorsión",
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 5,
+      "query": "bing:sicariato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-21 10:39"
+    },
+    {
       "id": "393c773b64e303ac",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNaUhwZG9jY3Q2YWl3TXhIUEgxMUd1SWpqZEFxOEZWMTZVb2l5dGp4aWFKR3pZYkdTMHVadkV5MTZnSXI5RGhpYTJTWUlxVkxNUEVSRlpfbVc1TUt4OUItS0Fkc1VnalpiOURUNUpwYnE3ZTlIeW1DeFRpY0dtcElfSGVwaklDZS1NS0dwRk9mS0IwWW5GX05ZMjZJM0FUODlJQnhBOC1YUVdZaVliTVlBUFZfdW9NTWNvV2xkcUNpVHN6SHNOaVd6Y2JmY2NUNFJmMlE4Y3JCSmpOOElPMFHSAfgBQVVfeXFMUFFEdm1EM2dCd29ITWdTUTNmQkhoUE1GbV8tZmd4UHMzZXF5Z3dxUkltNlBVcFM2ZjhFbk8tOTJRbWxTcEpzNE5IMF9zMkJjTzBQd0hJTmVDeko5ekROU2NoRzlTMzUyc2x1endheTFMc2VCNFJfUkRRajhaZm5GaEtSLVZPdjYwckVocjhSbG14RU1zUVhsRnVnWXhGeUc4WHhDb1BldHZ1cThQNUdTbjVDTHpDTElsck5jMlU2bEpZTFdRNU1SZGp5SG1UVGhyNmpBdGNoRGkxTUZQZmFrQk1YZW04OTZDTFk3eTRpRloxaVRYUU9EdlA?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNaUhwZG9jY3Q2YWl3TXhIUEgxMUd1SWpqZEFxOEZWMTZVb2l5dGp4aWFKR3pZYkdTMHVadkV5MTZnSXI5RGhpYTJTWUlxVkxNUEVSRlpfbVc1TUt4OUItS0Fkc1VnalpiOURUNUpwYnE3ZTlIeW1DeFRpY0dtcElfSGVwaklDZS1NS0dwRk9mS0IwWW5GX05ZMjZJM0FUODlJQnhBOC1YUVdZaVliTVlBUFZfdW9NTWNvV2xkcUNpVHN6SHNOaVd6Y2JmY2NUNFJmMlE4Y3JCSmpOOElPMFHSAfgBQVVfeXFMUFFEdm1EM2dCd29ITWdTUTNmQkhoUE1GbV8tZmd4UHMzZXF5Z3dxUkltNlBVcFM2ZjhFbk8tOTJRbWxTcEpzNE5IMF9zMkJjTzBQd0hJTmVDeko5ekROU2NoRzlTMzUyc2x1endheTFMc2VCNFJfUkRRajhaZm5GaEtSLVZPdjYwckVocjhSbG14RU1zUVhsRnVnWXhGeUc4WHhDb1BldHZ1cThQNUdTbjVDTHpDTElsck5jMlU2bEpZTFdRNU1SZGp5SG1UVGhyNmpBdGNoRGkxTUZQZmFrQk1YZW04OTZDTFk3eTRpRloxaVRYUU9EdlA",
@@ -5705,5 +5728,5 @@
       "descartar": false
     }
   ],
-  "n": 253
+  "n": 254
 }

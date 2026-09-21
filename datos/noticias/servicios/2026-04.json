@@ -1,6 +1,6 @@
 {
   "mes": "2026-04",
-  "actualizado": "2026-09-21 00:07",
+  "actualizado": "2026-09-21 10:41",
   "items": [
     {
       "id": "e82b01a5eca5be1b",
@@ -738,6 +738,30 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-09-20 00:05"
+    },
+    {
+      "id": "2080a4c6ae528d6b",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab15026facc479ab4b72c030ff3b17b&url=https%3a%2f%2fgestion.pe%2fblog%2fjuegomaniaticos%2f2026%2f04%2fgeely-apuesta-por-la-electrificacion-en-el-peru-con-los-modelos-ex5-y-ex5-em-i.html&c=17145780875729136540&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab15026facc479ab4b72c030ff3b17b&url=https%3A%2F%2Fgestion.pe%2Fblog%2Fjuegomaniaticos%2F2026%2F04%2Fgeely-apuesta-por-la-electrificacion-en-el-peru-con-los-modelos-ex5-y-ex5-em-i.html&c=17145780875729136540&mkt=es-us",
+      "titulo": "Geely apuesta por la electrificación en el Perú con los modelos EX5 y EX5 EM-i",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-04-26",
+      "fecha_hecho": null,
+      "snippet": "Geely presentó en Lima sus nuevos modelos EX5 (100% eléctrico) y EX5 EM-i (híbrido enchufable), marcando su ingreso al segmento de vehículos de nueva energía en el mercado peruano. La estrategia busca ...",
+      "temas": [
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:electrificación Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-21 10:41"
     },
     {
       "id": "d6d9c5ffde42043e",
@@ -5050,5 +5074,5 @@
       "descartar": false
     }
   ],
-  "n": 212
+  "n": 213
 }

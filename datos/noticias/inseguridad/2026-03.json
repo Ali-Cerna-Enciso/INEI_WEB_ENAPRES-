@@ -1,6 +1,6 @@
 {
   "mes": "2026-03",
-  "actualizado": "2026-09-21 00:05",
+  "actualizado": "2026-09-21 10:39",
   "items": [
     {
       "id": "5976149ac746b5b8",
@@ -3793,6 +3793,29 @@
       "descartar": false
     },
     {
+      "id": "a528a948aa65ace8",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab14f8c8b02465e8ef3cb746a6bc984&url=https%3a%2f%2flarepublica.pe%2fverificador%2f2026%2f03%2f18%2fel-80-del-sicariato-y-la-extorsion-no-sale-de-las-carceles-como-dijo-george-forsyth-311112&c=11241401037420331643&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab14f8c8b02465e8ef3cb746a6bc984&url=https%3A%2F%2Flarepublica.pe%2Fverificador%2F2026%2F03%2F18%2Fel-80-del-sicariato-y-la-extorsion-no-sale-de-las-carceles-como-dijo-george-forsyth-311112&c=11241401037420331643&mkt=es-us",
+      "titulo": "El 80% del sicariato y la extorsión no sale de las cárceles, como dijo George Forsyth",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-03-17",
+      "fecha_hecho": null,
+      "snippet": "Durante una entrevista en Punto Final, el candidato presidencial de Somos Perú, George Forsyth, sostuvo que “el 80% de los casos de sicariato y extorsión son ordenados desde las cárceles”. Tras ...",
+      "temas": [
+        "Extorsión",
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 5,
+      "query": "bing:extorsión Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-21 10:39"
+    },
+    {
       "id": "c9ebfe9896e73498",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYk4tWjY0VzVWV0NOOWlLb0I2VDJCbjZ2cEN6THAyamN6YnV1MWUtdGdGS1VPaHhZN1lwTkR0ZnlyNksyeHpRV2dPYzR3Umdyajl4R0pFWTloX1ZHM0lRLUI5T3ZiSFFaQXBrU0VHWC1DSXV6WGFhSFFHTllOQjJES3ZPeHpSMHJaUTNReEJQN0l3MFhXTUE?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYk4tWjY0VzVWV0NOOWlLb0I2VDJCbjZ2cEN6THAyamN6YnV1MWUtdGdGS1VPaHhZN1lwTkR0ZnlyNksyeHpRV2dPYzR3Umdyajl4R0pFWTloX1ZHM0lRLUI5T3ZiSFFaQXBrU0VHWC1DSXV6WGFhSFFHTllOQjJES3ZPeHpSMHJaUTNReEJQN0l3MFhXTUE",
@@ -5716,5 +5739,5 @@
       "descartar": false
     }
   ],
-  "n": 253
+  "n": 254
 }

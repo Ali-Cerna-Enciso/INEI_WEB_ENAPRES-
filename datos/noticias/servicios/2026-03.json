@@ -1,6 +1,6 @@
 {
   "mes": "2026-03",
-  "actualizado": "2026-09-21 00:07",
+  "actualizado": "2026-09-21 10:41",
   "items": [
     {
       "id": "b0f580d9819204b4",
@@ -854,6 +854,31 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-09-21 00:07"
+    },
+    {
+      "id": "2833549d811d959b",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab1501f89cc4a3dbdc51ee49982e2f2&url=https%3a%2f%2fgestion.pe%2fperu%2fcontraloria-impulsa-control-preventivo-para-destrabar-obras-de-agua-en-lima-sur-noticia%2f&c=10822199448474756343&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab1501f89cc4a3dbdc51ee49982e2f2&url=https%3A%2F%2Fgestion.pe%2Fperu%2Fcontraloria-impulsa-control-preventivo-para-destrabar-obras-de-agua-en-lima-sur-noticia%2F&c=10822199448474756343&mkt=es-us",
+      "titulo": "Contraloría impulsa control preventivo para destrabar millonarias obras de agua en Lima Sur",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-03-27",
+      "fecha_hecho": null,
+      "snippet": "La Contraloría General de la República puso en marcha servicios de control preventivo en dos relevantes proyectos de agua potable y alcantarillado que permanecen paralizados en los distritos de ...",
+      "temas": [
+        "Agua por red pública",
+        "Alcantarillado"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:alcantarillado Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-21 10:41"
     },
     {
       "id": "e66b0c15a71ab712",
@@ -5627,5 +5652,5 @@
       "descartar": false
     }
   ],
-  "n": 240
+  "n": 241
 }
