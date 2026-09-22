@@ -1,6 +1,6 @@
 {
   "mes": "2026-02",
-  "actualizado": "2026-09-21 10:39",
+  "actualizado": "2026-09-22 00:02",
   "items": [
     {
       "id": "08be74dba74aeb1c",
@@ -1147,6 +1147,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-09-20 00:03"
+    },
+    {
+      "id": "957a24146db9be5c",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab20bc70e9d4d5487fff8bbd414c9d3&url=https%3a%2f%2fes-us.noticias.yahoo.com%2fpol%25C3%25A9micas-imputaciones-presidente-per%25C3%25BA-prevaricato-162703297.html&c=11296361226813998780&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab20bc70e9d4d5487fff8bbd414c9d3&url=https%3A%2F%2Fes-us.noticias.yahoo.com%2Fpol%25C3%25A9micas-imputaciones-presidente-per%25C3%25BA-prevaricato-162703297.html&c=11296361226813998780&mkt=es-us",
+      "titulo": "Las polémicas e imputaciones del nuevo presidente de Perú: prevaricato, fraude y estafa",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-02-19",
+      "fecha_hecho": null,
+      "snippet": "Lima, 19 feb (EFE).- El nuevo presidente interino de Perú, el izquierdista José María Balcázar, acumula una serie de polémicas e imputaciones por hasta trece delitos distintos como prevaricato, fraude ...",
+      "temas": [
+        "Estafa"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:estafa Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-22 00:02"
     },
     {
       "id": "d24d2021146632e7",
@@ -3564,6 +3588,30 @@
       "agregado": "2026-09-21 10:39"
     },
     {
+      "id": "18c5853132cd74b6",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab20bb754bd4ab9976d140cc43ef886&url=https%3a%2f%2fperu21.pe%2fpoliciales%2fgolpe-al-gota-gota-caen-11-presuntos-extorsionadores%2f&c=2679889977763589055&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab20bb754bd4ab9976d140cc43ef886&url=https%3A%2F%2Fperu21.pe%2Fpoliciales%2Fgolpe-al-gota-gota-caen-11-presuntos-extorsionadores%2F&c=2679889977763589055&mkt=es-us",
+      "titulo": "Golpe al “gota a gota” en Lambayeque: Caen 11 presuntos extorsionadores tras megaoperativo",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-02-04",
+      "fecha_hecho": null,
+      "snippet": "La final de la NFL vuelve a convertirse en la gran intersección entre deporte y espectáculo. Este año, la actuación de Bad Bunny en el show de medio tiempo ha disparado la fiebre de las apuestas, que ...",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lambayeque"
+      ],
+      "score": 3,
+      "query": "bing:\"gota a gota\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-22 00:02"
+    },
+    {
       "id": "145570b07ad45333",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOOVEwWVFjakxhd1V5aWlENEhBZmU1VGVBWkRkRXlXS3ZvdmxwTUh3NlNLU3F6UWlCaTVtd21Bbmc1N3FteGZqRXlRRmVUX2JkbjhhQ2g2M1paN0l2ZHRxb3d6MFc5NXMwRHhjSnduQ3ZuVDhjV2xvb1NRcjEza1dpN2xCT2lXWU5CTm9mREJMQ2VLdFozNW1yYVE3eFF1bGQ0RW5aTkM3ODBEQXMxaUlTZUtzaUxzV2ZhZFRKQ2xubUpwcjdrMXE3dkxISXFWVTdCaW82RzBzTGthMlBQTW9UUnZJcURDSnpsSmNMVU54aW_SAYsCQVVfeXFMUGd4bFZic1FydTFSSVcwa1c5Ny0taDVFWWJ3SnNJa3ZqUmJMZk1LVEVyNmtJOGZ1eUVyYmhsUHJ2SnRqcmhtNlk4OWJlb0hSUG55NjdZaThGOUlWVGhsa0ZCTUlBd3lZOExxMFhFc01yM29yZzRSaXRkdEJEQ0VBWUpYMkRUVVhUWW43MGc2RXkybHlYQXR6SG0tQ0FxRVZRWWRmSzlpMjRqMnpBT3VJZVo5al9WeUdNeGFScUJ2UDFNd2J3V21XNW5UT0hBRUh0a3kxMUZIUmU3clJnYTh3aGRfYk15RmxCYmRESGNPVzZ0UkVCOWZwUTh5M0FNQVhOaDdOTlQ5QVBibnRr?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOOVEwWVFjakxhd1V5aWlENEhBZmU1VGVBWkRkRXlXS3ZvdmxwTUh3NlNLU3F6UWlCaTVtd21Bbmc1N3FteGZqRXlRRmVUX2JkbjhhQ2g2M1paN0l2ZHRxb3d6MFc5NXMwRHhjSnduQ3ZuVDhjV2xvb1NRcjEza1dpN2xCT2lXWU5CTm9mREJMQ2VLdFozNW1yYVE3eFF1bGQ0RW5aTkM3ODBEQXMxaUlTZUtzaUxzV2ZhZFRKQ2xubUpwcjdrMXE3dkxISXFWVTdCaW82RzBzTGthMlBQTW9UUnZJcURDSnpsSmNMVU54aW_SAYsCQVVfeXFMUGd4bFZic1FydTFSSVcwa1c5Ny0taDVFWWJ3SnNJa3ZqUmJMZk1LVEVyNmtJOGZ1eUVyYmhsUHJ2SnRqcmhtNlk4OWJlb0hSUG55NjdZaThGOUlWVGhsa0ZCTUlBd3lZOExxMFhFc01yM29yZzRSaXRkdEJEQ0VBWUpYMkRUVVhUWW43MGc2RXkybHlYQXR6SG0tQ0FxRVZRWWRmSzlpMjRqMnpBT3VJZVo5al9WeUdNeGFScUJ2UDFNd2J3V21XNW5UT0hBRUh0a3kxMUZIUmU3clJnYTh3aGRfYk15RmxCYmRESGNPVzZ0UkVCOWZwUTh5M0FNQVhOaDdOTlQ5QVBibnRr",
@@ -4220,5 +4268,5 @@
       "descartar": false
     }
   ],
-  "n": 187
+  "n": 189
 }

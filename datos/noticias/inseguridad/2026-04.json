@@ -1,6 +1,6 @@
 {
   "mes": "2026-04",
-  "actualizado": "2026-09-21 10:39",
+  "actualizado": "2026-09-22 00:02",
   "items": [
     {
       "id": "0cac60cdfebbc9e7",
@@ -4368,6 +4368,28 @@
       "agregado": "2026-09-21 10:39"
     },
     {
+      "id": "5fb19ab171f3686f",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab20bb51e2743c3aa5905e67c887f9f&url=https%3a%2f%2fwww.msn.com%2fes-es%2fnoticias%2fother%2felecciones-per%25C3%25BA-2026-aumento-de-extorsiones-avivan-pedido-de-pena-de-muerte%2far-AA20kTr6&c=14336195703473285550&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab20bb51e2743c3aa5905e67c887f9f&url=https%3A%2F%2Fwww.msn.com%2Fes-es%2Fnoticias%2Fother%2Felecciones-per%25C3%25BA-2026-aumento-de-extorsiones-avivan-pedido-de-pena-de-muerte%2Far-AA20kTr6&c=14336195703473285550&mkt=es-us",
+      "titulo": "Elecciones Perú 2026: Aumento de extorsiones avivan pedido de pena de muerte",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-04-06",
+      "fecha_hecho": null,
+      "snippet": "A solo cinco días de las elecciones presidenciales en Perú, las últimas encuestas muestran que las propuestas radicales para combatir el crimen organizado, van capitalizando votos. La pena de muerte ...",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:extorsión Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-22 00:02"
+    },
+    {
       "id": "0981d87cd751d278",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVWhtMkE0bGZrZUwzOFFNRkRySnZWWWREMnpGcE45MGhkdlV6Yk0tTHd6a1dyb091bEE5TG52MVVfT0ZfdnJRQXBVMmRpWXY5WUF5TE5ueDB0UkxIbDh2NXBGYWV0YzhfMGhNaWFQeTl4dzFLc1BKMWVndVNxNlpDcDVaeHkwRVZ5bHVEOFN3d2pLWkdvVFd5QXpUemFRVE9uZWEzNUwtaF9jR1F1T2JwRXI1NkFtZEVWMHgwbEZhdndKcGNTcUtF0gHUAUFVX3lxTFAtaXZrbGtFSHBmQ0IyYkhxYjhDQWxzRko4WHBJVlRSc0p4VS02bFhpQTFzUVQyekZ3NHA0bnczOUowMGpIdGEyLVFQckhPYWZXd3BDeWROODVDcUhBcE1qczVza3Fwa1dfcEllUUFxSGotZUJjeVR2TGlfci1ZUEZFYlhpUzlQWlA3eDZxY2JNLTdwMWw2VWRSVm44M0RkczZSRXNlUjE2eHA3VzdYR0gyUTNrMklJUC1PZ1NrdHRCM3c3WmdxNkktRUptNE02bUNpLUFl?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVWhtMkE0bGZrZUwzOFFNRkRySnZWWWREMnpGcE45MGhkdlV6Yk0tTHd6a1dyb091bEE5TG52MVVfT0ZfdnJRQXBVMmRpWXY5WUF5TE5ueDB0UkxIbDh2NXBGYWV0YzhfMGhNaWFQeTl4dzFLc1BKMWVndVNxNlpDcDVaeHkwRVZ5bHVEOFN3d2pLWkdvVFd5QXpUemFRVE9uZWEzNUwtaF9jR1F1T2JwRXI1NkFtZEVWMHgwbEZhdndKcGNTcUtF0gHUAUFVX3lxTFAtaXZrbGtFSHBmQ0IyYkhxYjhDQWxzRko4WHBJVlRSc0p4VS02bFhpQTFzUVQyekZ3NHA0bnczOUowMGpIdGEyLVFQckhPYWZXd3BDeWROODVDcUhBcE1qczVza3Fwa1dfcEllUUFxSGotZUJjeVR2TGlfci1ZUEZFYlhpUzlQWlA3eDZxY2JNLTdwMWw2VWRSVm44M0RkczZSRXNlUjE2eHA3VzdYR0gyUTNrMklJUC1PZ1NrdHRCM3c3WmdxNkktRUptNE02bUNpLUFl",
@@ -5107,5 +5129,5 @@
       "descartar": false
     }
   ],
-  "n": 224
+  "n": 225
 }
