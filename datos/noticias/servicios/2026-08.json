@@ -1,6 +1,6 @@
 {
   "mes": "2026-08",
-  "actualizado": "2026-09-22 00:03",
+  "actualizado": "2026-09-23 00:05",
   "items": [
     {
       "id": "bb9b57aa4ebf0c95",
@@ -1035,6 +1035,32 @@
       "agregado": "2026-09-22 00:03"
     },
     {
+      "id": "8a276883c3eadef6",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab35e0a74764652b66a8d35be7fed9b&url=https%3a%2f%2flarepublica.pe%2fsociedad%2f2026%2f08%2f23%2fcorte-de-luz-programado-para-este-24-de-agosto-revisa-los-horarios-y-que-distritos-de-lima-callao-y-regiones-no-tendran-servicio-2185299&c=15678457603232136508&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab35e0a74764652b66a8d35be7fed9b&url=https%3A%2F%2Flarepublica.pe%2Fsociedad%2F2026%2F08%2F23%2Fcorte-de-luz-programado-para-este-24-de-agosto-revisa-los-horarios-y-que-distritos-de-lima-callao-y-regiones-no-tendran-servicio-2185299&c=15678457603232136508&mkt=es-us",
+      "titulo": "Corte de luz programado para este 24 de agosto: revisa los horarios y qué distritos de Lima, Callao y regiones no tendrán servicio",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-23",
+      "fecha_hecho": null,
+      "snippet": "Las interrupciones del servicio eléctrico en Lima incluyen sectores de San Juan de Lurigancho, Ventanilla y Hualmay. Los usuarios deben revisar los horarios específicos y posibles cambios en los crono ...",
+      "temas": [
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "San Juan de Lurigancho",
+        "Callao",
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:\"corte de luz\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-23 00:05"
+    },
+    {
       "id": "9016763727a2af67",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdmFuQzIxVG9GNnZrWm1UYk84TjYwTGRTenhOeXlfd2dKVnoyVldkMDZobHdIV3VKZ25VRkRrMFprZEc5cGNBcVBDS1lucXRIYkNLRmh6SDNFYVhseTM0WkVyNVBDVWZCc3pDV1ZhckctT0o5NVc3eWhSdE0tZVpESXAyTkJGUDdrQXUwWHdRLVlRNzc3cllSMWpmTm4yUm9RMGF4dVd5YlAwdFV1WThjag?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdmFuQzIxVG9GNnZrWm1UYk84TjYwTGRTenhOeXlfd2dKVnoyVldkMDZobHdIV3VKZ25VRkRrMFprZEc5cGNBcVBDS1lucXRIYkNLRmh6SDNFYVhseTM0WkVyNVBDVWZCc3pDV1ZhckctT0o5NVc3eWhSdE0tZVpESXAyTkJGUDdrQXUwWHdRLVlRNzc3cllSMWpmTm4yUm9RMGF4dVd5YlAwdFV1WThjag",
@@ -1489,6 +1515,31 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-09-22 00:03"
+    },
+    {
+      "id": "fa65aeb354fe5780",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab35e0a74764652b66a8d35be7fed9b&url=https%3a%2f%2flibero.pe%2ftiempoextra%2f2026%2f08%2f19%2fcorte-de-luz-en-distritos-de-lima-callao-hoy-jueves-20-de-agosto-zonas-tendran-servicio-electrico-pluz-peru-1056362&c=12246942659473122791&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab35e0a74764652b66a8d35be7fed9b&url=https%3A%2F%2Flibero.pe%2Ftiempoextra%2F2026%2F08%2F19%2Fcorte-de-luz-en-distritos-de-lima-callao-hoy-jueves-20-de-agosto-zonas-tendran-servicio-electrico-pluz-peru-1056362&c=12246942659473122791&mkt=es-us",
+      "titulo": "Corte de luz en distritos de Lima y Callao del 20 de agosto: qué zonas no tuvieron servicio eléctrico",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-20",
+      "fecha_hecho": null,
+      "snippet": "Este jueves 20 de agosto, distintos sectores de Lima y Callao tendrán una interrupción temporal del servicio eléctrico, de acuerdo con el cronograma de Pluz Energía. La medida contempla zonas ...",
+      "temas": [
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Callao",
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:\"corte de luz\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-23 00:05"
     },
     {
       "id": "26aa310890d9d894",
@@ -2510,6 +2561,30 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-09-22 00:03"
+    },
+    {
+      "id": "58de3877c28eff19",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab35e0d4e4a4dd6bdf68f7a8d368a92&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f08%2f17%2fsujeto-es-intervenido-por-nadar-en-aniego-de-villa-maria-del-triunfo-y-acercarse-a-un-bus-atrapado-durante-la-inundacion%2f&c=17668756769815667530&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab35e0d4e4a4dd6bdf68f7a8d368a92&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F08%2F17%2Fsujeto-es-intervenido-por-nadar-en-aniego-de-villa-maria-del-triunfo-y-acercarse-a-un-bus-atrapado-durante-la-inundacion%2F&c=17668756769815667530&mkt=es-us",
+      "titulo": "Sujeto es intervenido por nadar en aniego de Villa María del Triunfo y acercarse a un bus atrapado durante la inundación",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-17",
+      "fecha_hecho": null,
+      "snippet": "El hombre recorrió varios metros por el agua acumulada en el bypass de Nueva Esperanza y llegó hasta un ómnibus inmovilizado por la inundación ...",
+      "temas": [
+        "Alcantarillado"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Villa María del Triunfo"
+      ],
+      "score": 3,
+      "query": "bing:aniego Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-23 00:05"
     },
     {
       "id": "e2d9d1518d4bc328",
@@ -5406,5 +5481,5 @@
       "descartar": false
     }
   ],
-  "n": 227
+  "n": 230
 }

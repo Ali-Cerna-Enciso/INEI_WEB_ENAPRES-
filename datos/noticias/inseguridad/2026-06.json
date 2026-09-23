@@ -1,6 +1,6 @@
 {
   "mes": "2026-06",
-  "actualizado": "2026-09-22 00:02",
+  "actualizado": "2026-09-23 00:04",
   "items": [
     {
       "id": "e5094510d514f14c",
@@ -4662,6 +4662,28 @@
       "agregado": "2026-09-22 00:02"
     },
     {
+      "id": "cd0d6f8f0fa90515",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab35da1603d444885fa30fefdda6f9a&url=https%3a%2f%2fes-us.noticias.yahoo.com%2fextorsi%25C3%25B3n-violencia-expanden-per%25C3%25BA-marcan-192840760.html&c=6549888520824724105&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab35da1603d444885fa30fefdda6f9a&url=https%3A%2F%2Fes-us.noticias.yahoo.com%2Fextorsi%25C3%25B3n-violencia-expanden-per%25C3%25BA-marcan-192840760.html&c=6549888520824724105&mkt=es-us",
+      "titulo": "La extorsión y la violencia se expanden en Perú y marcan una elección atravesada por el pánico",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-06-06",
+      "fecha_hecho": null,
+      "snippet": "Agrega Yahoo como fuente de noticias preferida para ver más de nuestras historias en Google. Un policía custodia camiones cargados con material electoral en la Oficina Nacional de Procesos Electorales ...",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:extorsión Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-23 00:04"
+    },
+    {
       "id": "402d0dc81025228d",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYWFfWFVpT25iMVp3UmNkUEc5YnhFUURjQ0w2ZWZEUWpObTNuLWJxdHdUT0JrcGNlOElmdnc4Nng1bGpMdzBESDRVaEJZRVJoeUNzZGZ0UGZnT2I3d1BuTkxHeFV1bTBQUTZvRmJuWnY3ejd6Vk5Cb19FTE1yekE5MjRkdHllOFVqTTVLVTNQc1dIYmVKWVZOQVhqdGc5bnhINTQ5ZDE2WWJla3VoVmdz?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYWFfWFVpT25iMVp3UmNkUEc5YnhFUURjQ0w2ZWZEUWpObTNuLWJxdHdUT0JrcGNlOElmdnc4Nng1bGpMdzBESDRVaEJZRVJoeUNzZGZ0UGZnT2I3d1BuTkxHeFV1bTBQUTZvRmJuWnY3ejd6Vk5Cb19FTE1yekE5MjRkdHllOFVqTTVLVTNQc1dIYmVKWVZOQVhqdGc5bnhINTQ5ZDE2WWJla3VoVmdz",
@@ -5288,6 +5310,30 @@
       "descartar": false
     },
     {
+      "id": "ea055e2fce62fa14",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab35da31b7340a0a22433d600d6454b&url=https%3a%2f%2fwww.infobae.com%2fvideo%2fperu%2fladron-que-roba-a-ladron-asaltan-a-prestamistas-gota-a-gota-en-piura%2f2V3mvUUb%2f&c=11177458349230180452&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab35da31b7340a0a22433d600d6454b&url=https%3A%2F%2Fwww.infobae.com%2Fvideo%2Fperu%2Fladron-que-roba-a-ladron-asaltan-a-prestamistas-gota-a-gota-en-piura%2F2V3mvUUb%2F&c=11177458349230180452&mkt=es-us",
+      "titulo": "Ladrón que roba a ladrón: Asaltan a prestamistas 'gota a gota' en Piura",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-06-03",
+      "fecha_hecho": null,
+      "snippet": "En un insólito caso de 'ladrón que roba a ladrón', una pareja de prestamistas extranjeros que se dedicaba al cobro 'gota a gota' fue violentamente asaltada por otros delincuentes en Piura. Una cámara ...",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Piura"
+      ],
+      "score": 3,
+      "query": "bing:\"gota a gota\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-23 00:04"
+    },
+    {
       "id": "f1752696f2ac3b3b",
       "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOWnNaOFlWbkpXUGhRZnVMMWZocW56NmJhVGFob3YwdEI3SGlSNG5MSXZhOVVKbHdqUkZNZWJjM2dJM1V5bVVLMVdpcDJEVU1CQXhEVk9ScVNZb2lvSzhzbERjN2pSTlFiMzdfaU5XdXp4MEE0VnBKTjZjcU9GWk5MOFU2VnpVdS1lRWZOYjZ4bzZGa2YzaWIwbVBmaTY4WHNGd2NPZDlwYzZQbk44bV83R1Zyb0dkMHc1TGJEcjVYUTlIbzJoN3F5SXhvaGxxLUI3OFdNNmpkSXBnNGJBUUt0YzBPcFEtX05NTWEwWmE4OTQ2RmFTTDVDalhkaG5kd3FnRXZvT3MzZFltT0NwbUxr0gGUAkFVX3lxTE9xVTBWNU9mMjZxbmxjV1JadnJ2VDVFQTRLVUkzSUR3TXUwNk56eE5OWmN4M3NjdXJyemtWTFZhU0hWSUZVeXV5MUNNcHFRc29scTBRdDEyMDNVdkRMd0tmMjk0d0tGLWU4UG5iN1pMRzlxY2JNVjZnMDA4NjJpeGxLclBTRmN4TnVFZWtQN3A0LXBHbmxuemhLbVJyeFBDVlh4Y1Fydzh4TEJ2QnNXTVR6cFR0a2czQ25SRmhnaDFQanhQd2FPdnFqdS1naGZCRlFMT05sREdHQlBWbFI0OFVUUDVTZng2dzRmSGVjcnhkVXNGdUt6b2VTZmpCWGNQYXpXQXJHbVo5ZkQta25OdC0zRmxSRg?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOWnNaOFlWbkpXUGhRZnVMMWZocW56NmJhVGFob3YwdEI3SGlSNG5MSXZhOVVKbHdqUkZNZWJjM2dJM1V5bVVLMVdpcDJEVU1CQXhEVk9ScVNZb2lvSzhzbERjN2pSTlFiMzdfaU5XdXp4MEE0VnBKTjZjcU9GWk5MOFU2VnpVdS1lRWZOYjZ4bzZGa2YzaWIwbVBmaTY4WHNGd2NPZDlwYzZQbk44bV83R1Zyb0dkMHc1TGJEcjVYUTlIbzJoN3F5SXhvaGxxLUI3OFdNNmpkSXBnNGJBUUt0YzBPcFEtX05NTWEwWmE4OTQ2RmFTTDVDalhkaG5kd3FnRXZvT3MzZFltT0NwbUxr0gGUAkFVX3lxTE9xVTBWNU9mMjZxbmxjV1JadnJ2VDVFQTRLVUkzSUR3TXUwNk56eE5OWmN4M3NjdXJyemtWTFZhU0hWSUZVeXV5MUNNcHFRc29scTBRdDEyMDNVdkRMd0tmMjk0d0tGLWU4UG5iN1pMRzlxY2JNVjZnMDA4NjJpeGxLclBTRmN4TnVFZWtQN3A0LXBHbmxuemhLbVJyeFBDVlh4Y1Fydzh4TEJ2QnNXTVR6cFR0a2czQ25SRmhnaDFQanhQd2FPdnFqdS1naGZCRlFMT05sREdHQlBWbFI0OFVUUDVTZng2dzRmSGVjcnhkVXNGdUt6b2VTZmpCWGNQYXpXQXJHbVo5ZkQta25OdC0zRmxSRg",
@@ -5837,6 +5883,30 @@
       "agregado": "2026-09-22 00:02"
     },
     {
+      "id": "dc2574e0d9a5c583",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab35da1603d444885fa30fefdda6f9a&url=https%3a%2f%2fwww.msn.com%2fes-us%2fnoticias%2fotras%2flas-v%25C3%25ADctimas-de-la-extorsi%25C3%25B3n-en-per%25C3%25BA-se-cuentan-por-miles%2far-AA24CFpZ&c=3428690479657807304&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab35da1603d444885fa30fefdda6f9a&url=https%3A%2F%2Fwww.msn.com%2Fes-us%2Fnoticias%2Fotras%2Flas-v%25C3%25ADctimas-de-la-extorsi%25C3%25B3n-en-per%25C3%25BA-se-cuentan-por-miles%2Far-AA24CFpZ&c=3428690479657807304&mkt=es-us",
+      "titulo": "Las víctimas de la extorsión en Perú se cuentan por miles",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-06-01",
+      "fecha_hecho": null,
+      "snippet": "En una zona desértica de la provincia peruana de Trujillo, sobre el Pacífico, Gladys Saavedra mira con recelo a los desconocidos que llegan al pequeño mercado donde trabaja junto a un grupo de mujeres ...",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 3,
+      "query": "bing:extorsión Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-23 00:04"
+    },
+    {
       "id": "da3db479041a5f02",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONTgzTGJyVndnaXQ2cGxNalZZV3AyZlVWeGdSSVJnZWtweGFpQkdOMDh5aUhmUmlWY1Z0Q0ktdnNmM0VWT1pKZU5aQTU5ME16dHRRTmV2Z25hV3BKdkprTFBPYmkzeXJPbTdwUDZ3UENiQVBWeUhCNUNJZENZaHRubFhSMlFJOUdwbFlJa0dRV1ZuUnZfVkxBbDMtYVVEQ2IyeVMtUENCQlFEczBucXdBV3RfcGpvS0FWM1JjTkFTR3RZTk9xaUg0MkVyZENwc0V6S2JNaWZHeXdCWHFrVFZyQzJKVHlNcU5wY2c?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONTgzTGJyVndnaXQ2cGxNalZZV3AyZlVWeGdSSVJnZWtweGFpQkdOMDh5aUhmUmlWY1Z0Q0ktdnNmM0VWT1pKZU5aQTU5ME16dHRRTmV2Z25hV3BKdkprTFBPYmkzeXJPbTdwUDZ3UENiQVBWeUhCNUNJZENZaHRubFhSMlFJOUdwbFlJa0dRV1ZuUnZfVkxBbDMtYVVEQ2IyeVMtUENCQlFEczBucXdBV3RfcGpvS0FWM1JjTkFTR3RZTk9xaUg0MkVyZENwc0V6S2JNaWZHeXdCWHFrVFZyQzJKVHlNcU5wY2c",
@@ -5971,5 +6041,5 @@
       "descartar": false
     }
   ],
-  "n": 262
+  "n": 265
 }
