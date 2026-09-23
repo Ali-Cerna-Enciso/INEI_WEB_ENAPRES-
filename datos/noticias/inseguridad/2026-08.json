@@ -1,6 +1,6 @@
 {
   "mes": "2026-08",
-  "actualizado": "2026-09-23 00:04",
+  "actualizado": "2026-09-23 10:30",
   "items": [
     {
       "id": "d9d4232fbcb587d1",
@@ -1259,6 +1259,31 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-09-23 00:04"
+    },
+    {
+      "id": "2ddf0e4ab2dc8425",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab3f080019e4b37b31c52568991f2f4&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f08%2f31%2flos-pulpos-la-banda-detras-del-secuestro-y-asesinato-multiple-en-trujillo-que-simula-ser-la-policia-para-atacar-empresarios%2f&c=12617329908446726256&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab3f080019e4b37b31c52568991f2f4&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F08%2F31%2Flos-pulpos-la-banda-detras-del-secuestro-y-asesinato-multiple-en-trujillo-que-simula-ser-la-policia-para-atacar-empresarios%2F&c=12617329908446726256&mkt=es-us",
+      "titulo": "Los Pulpos: la banda detrás del secuestro y asesinato múltiple en Trujillo que simula ser la Policía para atacar empresarios",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-31",
+      "fecha_hecho": null,
+      "snippet": "La hipótesis de la PNP vincula a esa red criminal con el reciente secuestro de Jens Marty Lara Tantaquilla y la ejecución de sus cuatro acompañantes mediante una falsa intervención con chalecos polici ...",
+      "temas": [
+        "Secuestro",
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 5,
+      "query": "bing:\"Los Pulpos\" Trujillo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-23 10:30"
     },
     {
       "id": "55f331e59447cb61",
@@ -5117,6 +5142,31 @@
       "agregado": "2026-09-23 00:04"
     },
     {
+      "id": "c4762db0f8a06975",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab3f07e262b4147823c54fd81db807e&url=https%3a%2f%2fwww.chron.com%2fnews%2fworld%2farticle%2fholandes-condenado-en-eeuu-y-per-pide-cambio-22397440.php&c=16862343142063732061&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab3f07e262b4147823c54fd81db807e&url=https%3A%2F%2Fwww.chron.com%2Fnews%2Fworld%2Farticle%2Fholandes-condenado-en-eeuu-y-per-pide-cambio-22397440.php&c=16862343142063732061&mkt=es-us",
+      "titulo": "Holandés condenado en EEUU y Perú pide cambio de cárcel por supuestas amenazas de muerte",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-19",
+      "fecha_hecho": null,
+      "snippet": "LIMA (AP) — Un holandés condenado en 2023 en Estados Unidos por extorsionar a la familia de una estadounidense a la que mató en 2005 y sentenciado en Perú por asesinar a una peruana en ...",
+      "temas": [
+        "Extorsión",
+        "Amenazas e intimidaciones"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 5,
+      "query": "bing:\"amenazas de muerte\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-23 10:30"
+    },
+    {
       "id": "3da568e2b125b2d3",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQaEFDLTk0TS1nOTA0MGQzUkdiZTNTN3VGd196enJ5N0hyNkIwZDZ2Sm54NWZMbC1XZDI1Yk9LSWN2Y2l3OXBaLUNjLThRMUtqdDVDUTY1MXEySDdNQm1sSGN3ZlVxRE9Xcl82d3VzUV85Q3R0WUlrdkhXcG8ySER6N25nYkZpTkZnY0lzaDVMWnFIcDg4djdVSVptMFBsaXo3eUpsYzJrTWhkTy1vWVIzaWRsZWgzY1ljVGVuZ1Y2NVBWUkROTGNJcW91cmJxRmNhSVNDU2VmYmxJQ0R5LVd0T0d4LXEtcy1VRzlr0gGGAkFVX3lxTFBOMm9hdzVkR0R3WVREcHZyRGNlN0doM1BwY0dpOVIwbzY5dERTTXN3dzRVeGZKOHVTUkgxSWV0bGZOMzVDSjh5dEFBRFA5Z0hVdDVGUWd0cXh5WG1SNjZheW8xbHhzNVNIcG1TS1NEZE5qTEdKYl9XdUoyZ1R2dW5Vd3FIY05lMmw5ajN4Q05WY194Nkl3dzJzZ2xKN19KeGxVVTJYT1J3R1d0SHVsVWpMWlhYUm9IckNzS0NzM1FxRnpFZXc5bThVemVNSC10MVc5bkx1RTNmVkx0YlFLcWlJQU42bkkzS1Vta3dTNkg1U2J2alFocTZSbFJHdFBfNVVsM19yTHc?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQaEFDLTk0TS1nOTA0MGQzUkdiZTNTN3VGd196enJ5N0hyNkIwZDZ2Sm54NWZMbC1XZDI1Yk9LSWN2Y2l3OXBaLUNjLThRMUtqdDVDUTY1MXEySDdNQm1sSGN3ZlVxRE9Xcl82d3VzUV85Q3R0WUlrdkhXcG8ySER6N25nYkZpTkZnY0lzaDVMWnFIcDg4djdVSVptMFBsaXo3eUpsYzJrTWhkTy1vWVIzaWRsZWgzY1ljVGVuZ1Y2NVBWUkROTGNJcW91cmJxRmNhSVNDU2VmYmxJQ0R5LVd0T0d4LXEtcy1VRzlr0gGGAkFVX3lxTFBOMm9hdzVkR0R3WVREcHZyRGNlN0doM1BwY0dpOVIwbzY5dERTTXN3dzRVeGZKOHVTUkgxSWV0bGZOMzVDSjh5dEFBRFA5Z0hVdDVGUWd0cXh5WG1SNjZheW8xbHhzNVNIcG1TS1NEZE5qTEdKYl9XdUoyZ1R2dW5Vd3FIY05lMmw5ajN4Q05WY194Nkl3dzJzZ2xKN19KeGxVVTJYT1J3R1d0SHVsVWpMWlhYUm9IckNzS0NzM1FxRnpFZXc5bThVemVNSC10MVc5bkx1RTNmVkx0YlFLcWlJQU42bkkzS1Vta3dTNkg1U2J2alFocTZSbFJHdFBfNVVsM19yTHc",
@@ -6979,6 +7029,28 @@
       "agregado": "2026-09-23 00:04"
     },
     {
+      "id": "de75a404b98775be",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab3f06d88954bf2839775b1f544aff5&url=https%3a%2f%2frpp.pe%2fperu%2factualidad%2fel-numero-de-presos-por-feminicidio-en-el-peru-se-multiplico-por-seis-en-la-ultima-decada-informe-noticia-1700934&c=16529491939722550603&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab3f06d88954bf2839775b1f544aff5&url=https%3A%2F%2Frpp.pe%2Fperu%2Factualidad%2Fel-numero-de-presos-por-feminicidio-en-el-peru-se-multiplico-por-seis-en-la-ultima-decada-informe-noticia-1700934&c=16529491939722550603&mkt=es-us",
+      "titulo": "El número de presos por feminicidio en el Perú se multiplicó por seis en la última década [Informe]",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-10",
+      "fecha_hecho": null,
+      "snippet": "Cifras obtenidas por RPP revelan que, en los últimos diez años, el número de personas presas por feminicidio o por tentativa de feminicidio se multiplicó por seis. Los números también evidencian que ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:feminicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-23 10:30"
+    },
+    {
       "id": "0b6c0c5a8f0a8d14",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOekNGekctTzhMM2ExZUg4RGMxakpMSmdJekxFdzN1X240WEtoYkhpLTBfNk5keU9EWWlhdTRJcmx2UDBzMHRjOGJqNmpNTVhzdlloMEp5d0p1eE9xemw4bTVRQi1iclVwT2RmcFRhTUJmNFJ2MGd0Y1M1b2lmZEZGODdnRDVJeHF3WXNsZVNpVWt2MXpxQVhiN0o2QTZJQi1KZGJVcDJZUmZlWFI1ZTZPM1RDQklyUDk4ZDUtNUI4UkU3MnVGRVFHQ3FWUEhoSVU?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOekNGekctTzhMM2ExZUg4RGMxakpMSmdJekxFdzN1X240WEtoYkhpLTBfNk5keU9EWWlhdTRJcmx2UDBzMHRjOGJqNmpNTVhzdlloMEp5d0p1eE9xemw4bTVRQi1iclVwT2RmcFRhTUJmNFJ2MGd0Y1M1b2lmZEZGODdnRDVJeHF3WXNsZVNpVWt2MXpxQVhiN0o2QTZJQi1KZGJVcDJZUmZlWFI1ZTZPM1RDQklyUDk4ZDUtNUI4UkU3MnVGRVFHQ3FWUEhoSVU",
@@ -8599,5 +8671,5 @@
       "descartar": true
     }
   ],
-  "n": 375
+  "n": 378
 }

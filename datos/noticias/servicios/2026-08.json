@@ -1,6 +1,6 @@
 {
   "mes": "2026-08",
-  "actualizado": "2026-09-23 00:05",
+  "actualizado": "2026-09-23 10:32",
   "items": [
     {
       "id": "bb9b57aa4ebf0c95",
@@ -179,6 +179,28 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-09-22 00:03"
+    },
+    {
+      "id": "bd53a3ffb9a5bafe",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab3f0f40a6d4f70bac0923bedf98e5a&url=https%3a%2f%2frpp.pe%2fpolitica%2fgobierno%2fsedapal-entra-en-reestructuracion-cuando-se-realizaran-los-cambios-del-directorio-noticia-1704749&c=16762080106188387549&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab3f0f40a6d4f70bac0923bedf98e5a&url=https%3A%2F%2Frpp.pe%2Fpolitica%2Fgobierno%2Fsedapal-entra-en-reestructuracion-cuando-se-realizaran-los-cambios-del-directorio-noticia-1704749&c=16762080106188387549&mkt=es-us",
+      "titulo": "Reestructuración de Sedapal iniciará con nuevo directorio a partir del 4 de septiembre, asegura ministro de Vivienda",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-31",
+      "fecha_hecho": null,
+      "snippet": "El ministro de Vivienda, Mauricio Arnillas, también consideró que sería una irresponsabilidad si el Congreso le niega al Ejecutivo las facultades legislativas.",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:Sedapal",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-23 10:32"
     },
     {
       "id": "8b29e2d63381b7f4",
@@ -1061,6 +1083,32 @@
       "agregado": "2026-09-23 00:05"
     },
     {
+      "id": "44ed574a92434aa0",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab3f0efaec14720b666bf624a8f163c&url=https%3a%2f%2flarepublica.pe%2fsociedad%2f2026%2f08%2f23%2fcorte-de-luz-programado-para-este-24-de-agosto-revisa-los-horarios-y-que-distritos-de-lima-callao-y-regiones-no-tendran-servicio-2185299&c=15678457603232136508&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab3f0efaec14720b666bf624a8f163c&url=https%3A%2F%2Flarepublica.pe%2Fsociedad%2F2026%2F08%2F23%2Fcorte-de-luz-programado-para-este-24-de-agosto-revisa-los-horarios-y-que-distritos-de-lima-callao-y-regiones-no-tendran-servicio-2185299&c=15678457603232136508&mkt=es-us",
+      "titulo": "Corte de luz programado para este 24 de agosto: revisa los horarios y qué distritos de Lima, Callao y regiones no tendrán servicio",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-23",
+      "fecha_hecho": null,
+      "snippet": "Las interrupciones del servicio eléctrico en Lima incluyen sectores de San Juan de Lurigancho, Ventanilla y Hualmay. Los usuarios deben revisar los horarios específicos y posibles cambios en los crono ...",
+      "temas": [
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "San Juan de Lurigancho",
+        "Callao",
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:\"corte de luz\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-23 10:32"
+    },
+    {
       "id": "9016763727a2af67",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdmFuQzIxVG9GNnZrWm1UYk84TjYwTGRTenhOeXlfd2dKVnoyVldkMDZobHdIV3VKZ25VRkRrMFprZEc5cGNBcVBDS1lucXRIYkNLRmh6SDNFYVhseTM0WkVyNVBDVWZCc3pDV1ZhckctT0o5NVc3eWhSdE0tZVpESXAyTkJGUDdrQXUwWHdRLVlRNzc3cllSMWpmTm4yUm9RMGF4dVd5YlAwdFV1WThjag?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdmFuQzIxVG9GNnZrWm1UYk84TjYwTGRTenhOeXlfd2dKVnoyVldkMDZobHdIV3VKZ25VRkRrMFprZEc5cGNBcVBDS1lucXRIYkNLRmh6SDNFYVhseTM0WkVyNVBDVWZCc3pDV1ZhckctT0o5NVc3eWhSdE0tZVpESXAyTkJGUDdrQXUwWHdRLVlRNzc3cllSMWpmTm4yUm9RMGF4dVd5YlAwdFV1WThjag",
@@ -1540,6 +1588,31 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-09-23 00:05"
+    },
+    {
+      "id": "5082881ed09182fb",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab3f0efaec14720b666bf624a8f163c&url=https%3a%2f%2flibero.pe%2ftiempoextra%2f2026%2f08%2f19%2fcorte-de-luz-en-distritos-de-lima-callao-hoy-jueves-20-de-agosto-zonas-tendran-servicio-electrico-pluz-peru-1056362&c=12246942659473122791&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab3f0efaec14720b666bf624a8f163c&url=https%3A%2F%2Flibero.pe%2Ftiempoextra%2F2026%2F08%2F19%2Fcorte-de-luz-en-distritos-de-lima-callao-hoy-jueves-20-de-agosto-zonas-tendran-servicio-electrico-pluz-peru-1056362&c=12246942659473122791&mkt=es-us",
+      "titulo": "Corte de luz en distritos de Lima y Callao del 20 de agosto: qué zonas no tuvieron servicio eléctrico",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-20",
+      "fecha_hecho": null,
+      "snippet": "Este jueves 20 de agosto, distintos sectores de Lima y Callao tendrán una interrupción temporal del servicio eléctrico, de acuerdo con el cronograma de Pluz Energía. La medida contempla zonas ...",
+      "temas": [
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Callao",
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:\"corte de luz\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-23 10:32"
     },
     {
       "id": "26aa310890d9d894",
@@ -5481,5 +5554,5 @@
       "descartar": false
     }
   ],
-  "n": 230
+  "n": 233
 }
