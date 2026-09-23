@@ -12,12 +12,14 @@ import urllib.error
 import urllib.request
 from datetime import date, datetime, timedelta
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 import streamlit as st
 import streamlit.components.v1 as components
 
 DIR = Path(__file__).resolve().parent
 ROOT = DIR.parent if (DIR.parent / "monitoreo").exists() else DIR
+LIMA = ZoneInfo("America/Lima")
 CATALOGO = DIR / "catalogo" / "index.html"
 SRC = ROOT / "monitoreo" / "src"
 if SRC.is_dir() and str(SRC) not in sys.path:
@@ -94,7 +96,10 @@ def _lanzar_gha() -> tuple[bool, str]:
     try:
         with urllib.request.urlopen(req, timeout=20) as r:
             if r.status in (204, 200):
-                return True, "Pedido enviado. En 1–3 minutos GitHub Actions actualiza y Streamlit redespliega."
+                return True, (
+                    "Pedido enviado. GitHub busca ahora; en 2–3 min recarga esta página "
+                    "(Streamlit redespliega el JSON nuevo). Hasta entonces ves la corrida anterior."
+                )
             return False, f"GitHub respondió {r.status}"
     except urllib.error.HTTPError as e:
         detalle = e.read().decode("utf-8", "replace")[:240]
@@ -157,6 +162,21 @@ def fecha_catalogo_humana(mt_men: float = 0.0, mt_ind: float = 0.0, mt_cat: floa
         return f"{dt.day} {MESES[dt.month - 1]} {dt.year} · {dt.strftime('%H:%M')}"
     except (ValueError, IndexError):
         return raw
+
+
+def _hoy_lima() -> date:
+    return datetime.now(LIMA).date()
+
+
+@st.cache_data(ttl=600, show_spinner=False)
+def _hora_json(path: str, mt: float = 0.0) -> str:
+    try:
+        cabeza = Path(path).read_text(encoding="utf-8")[:240]
+        m = re.search(r'"actualizado"\s*:\s*"([^"]+)"', cabeza)
+        dt = datetime.strptime((m.group(1) if m else "")[:16], "%Y-%m-%d %H:%M")
+        return f"{dt.day} {MESES[dt.month - 1]} {dt.year} · {dt.strftime('%H:%M')}"
+    except (OSError, ValueError, TypeError, IndexError, AttributeError):
+        return fecha_catalogo_humana(mt)
 
 
 def _cargar_libros() -> dict:
@@ -293,7 +313,7 @@ def _cargar_snapshot(mt: float = 0.0):
 
 
 def _filtrar_snapshot(items, ventana):
-    hoy = date.today()
+    hoy = _hoy_lima()
     if ventana == "Hoy":
         corte, col = hoy.isoformat(), None
     elif ventana == "Semana":
@@ -323,7 +343,7 @@ def _cargar_noticias_snap(area: str, mt: float = 0.0) -> tuple[dict, list]:
 
 
 def _filtrar_noticias(items, ventana, mes=""):
-    hoy = date.today()
+    hoy = _hoy_lima()
     out = []
     for it in items:
         if it.get("descartar"):
@@ -363,12 +383,12 @@ def _corpus_noticias(area: str, ventana: str, mes: str, hoy: str) -> list:
 
 def _items_noticias(area: str, ventana: str, mes: str = "") -> list:
     if (not SIN_MONITOREO) and noticias_corpus is not None:
-        return _corpus_noticias(area, ventana, mes, date.today().isoformat())
+        return _corpus_noticias(area, ventana, mes, _hoy_lima().isoformat())
     _, items = _cargar_noticias_snap(area, _mtime(DIR / "datos_publicos" / f"noticias_{area}.json"))
     return _filtrar_noticias(items, ventana, mes)
 
 
-def _barra_actualizar(clave: str) -> bool:
+def _barra_actualizar(clave: str, snap: Path | None = None) -> bool:
     """Botón de corrida. En la nube dispara GitHub Actions; en PC corre aquí."""
     local_click = False
     admin = _secreto("ADMIN_TOKEN")
@@ -385,9 +405,11 @@ def _barra_actualizar(clave: str) -> bool:
     elif _puede_rastrear_aqui():
         local_click = st.button("Actualizar hoy", type="primary",
                                 use_container_width=True, key=f"btn_{clave}")
-    else:
-        st.caption("Auto: 07:17, 16:17 y 23:50 Lima")
-    st.caption(f"Última actualización: {fecha_catalogo_humana(_mtime(DIR / 'datos_publicos' / 'menciones.json'), _mtime(ROOT / 'datos' / 'indice.json'), _mtime(DIR / 'datos' / 'indice.json'))} (hora Lima)")
+    st.caption("Auto: 07:17 menciones · 10:17 y 16:17 noticias · 23:50 Lima")
+    ruta = snap or (DIR / "datos_publicos" / "menciones.json")
+    st.caption(
+        f"Última actualización: {_hora_json(str(ruta), _mtime(ruta))} (hora Lima)"
+    )
     return local_click
 
 
@@ -471,7 +493,8 @@ def _panel_noticias(area: str, titulo: str, caption: str, clave: str) -> bool:
         st.markdown(f"### {titulo}")
         st.caption(caption)
     with top2:
-        click = _barra_actualizar(clave)
+        click = _barra_actualizar(
+            clave, DIR / "datos_publicos" / f"noticias_{area}.json")
     meses = []
     if (not SIN_MONITOREO) and noticias_corpus is not None:
         meses = noticias_corpus.meses_guardados(area)
@@ -484,9 +507,9 @@ def _panel_noticias(area: str, titulo: str, caption: str, clave: str) -> bool:
         index=3,
         horizontal=True,
         key=f"per_{clave}",
-        help="Hoy/semana/mes recortan por fecha de publicación. "
+        help="Hoy/semana/mes recortan por fecha de publicación (día Lima). "
              "Año 2026 lee el JSON acumulado. Un día sin botón no se pierde: "
-             "la corrida de las 23:50 o la siguiente mira al menos 7 días atrás. "
+             "las corridas de 10:17, 16:17 y 23:50 miran al menos 7 días atrás. "
              "Si eliges un mes archivado, ese mes manda sobre el periodo.",
     )
     mes_sel = ""
@@ -564,8 +587,15 @@ def _panel_noticias(area: str, titulo: str, caption: str, clave: str) -> bool:
         filtradas.append(it)
     n = len(filtradas)
     if not items:
-        st.info(f"Sin noticias en «{mes_sel or ventana}». "
-                "La primera corrida llena 2026; las siguientes solo agregan.")
+        if ventana == "Hoy" and not mes_sel:
+            st.info(
+                "Sin noticias con fecha de hoy (Lima). A media mañana suele haber pocas; "
+                "esta vista se llena con las corridas de las 10:17 y 16:17. "
+                "Lo de ayer está en Semana."
+            )
+        else:
+            st.info(f"Sin noticias en «{mes_sel or ventana}». "
+                    "La primera corrida llena 2026; las siguientes solo agregan.")
         return click
     paginas = max(1, (n + _POR_PAGINA - 1) // _POR_PAGINA)
     pag = st.session_state.get(f"pag_{clave}", 1)
@@ -653,7 +683,7 @@ with tab_mon:
         ["Hoy", "Semana", "Mes", "Año 2026", "Difusión OTD 2026"],
         index=3,
         horizontal=True,
-        help="Hoy, semana y mes recortan por fecha de publicación. "
+        help="Hoy, semana y mes recortan por fecha de publicación (día Lima). "
              "Año 2026 cubre el año calendario. "
              "OTD 2026 corresponde a la difusión en Facebook institucional.",
     )

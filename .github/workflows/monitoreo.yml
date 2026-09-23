@@ -2,9 +2,10 @@ name: monitoreo
 
 on:
   schedule:
-    - cron: "17 12 * * *"
-    - cron: "17 21 * * *"
-    - cron: "50 4 * * *"
+    - cron: "17 12 * * *"   # 07:17 Lima — solo menciones
+    - cron: "17 15 * * *"   # 10:17 Lima — solo noticias (llena «Hoy»)
+    - cron: "17 21 * * *"   # 16:17 Lima — menciones + noticias
+    - cron: "50 4 * * *"    # 23:50 Lima — cierre del día
   workflow_dispatch:
 
 permissions:
@@ -17,9 +18,10 @@ concurrency:
 jobs:
   rastrear:
     runs-on: ubuntu-latest
-    timeout-minutes: 25
+    timeout-minutes: 40
     env:
-      CORRER_NOTICIAS: ${{ (github.event_name == 'workflow_dispatch' || github.event.schedule == '50 4 * * *') && '1' || '0' }}
+      CORRER_NOTICIAS: ${{ (github.event_name != 'schedule' || contains(fromJSON('["17 15 * * *","17 21 * * *","50 4 * * *"]'), github.event.schedule)) && '1' || '0' }}
+      SOLO_NOTICIAS: ${{ github.event.schedule == '17 15 * * *' && '1' || '0' }}
       NOTICIAS_SIN_GDELT: "1"
     steps:
       - uses: actions/checkout@v5
@@ -27,7 +29,9 @@ jobs:
         with:
           python-version: "3.12"
       - run: python monitoreo/src/actualizar.py
-      - run: python monitoreo/src/exportar_snapshot.py
+      - name: Snapshot menciones
+        if: env.SOLO_NOTICIAS != '1'
+        run: python monitoreo/src/exportar_snapshot.py
       - name: Snapshot noticias
         if: env.CORRER_NOTICIAS == '1'
         run: python monitoreo/src/exportar_noticias.py

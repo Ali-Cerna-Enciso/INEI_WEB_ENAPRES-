@@ -40,32 +40,41 @@ COLECTORES = (
 def correr(dia: str | None = None, solo: list[str] | None = None, on_paso=None,
            sin_noticias: bool | None = None) -> dict:
     dia_iso = dia or datetime.now(ZoneInfo("America/Lima")).strftime("%Y-%m-%d")
-    elegidos = {s.strip().lower() for s in (solo or []) if s.strip()}
-    por_colector = {}
-    for nombre, fn in COLECTORES:
-        if elegidos and nombre not in elegidos:
-            continue
-        if on_paso:
-            on_paso(nombre, "inicio")
-        try:
-            rows = fn() or []
-            por_colector[nombre] = {"rows": rows, "error": ""}
-            print(f"OK {nombre}: {len(rows)} filas")
+    solo_noticias = os.environ.get("SOLO_NOTICIAS", "").strip().lower() in (
+        "1", "true", "yes", "si")
+    if solo_noticias:
+        print("MENCIONES: omitidas (corrida solo de noticias)")
+        resultado = {"meta": {"n": 0, "dias_tocados": [], "solo_noticias": True}}
+    else:
+        elegidos = {s.strip().lower() for s in (solo or []) if s.strip()}
+        por_colector = {}
+        for nombre, fn in COLECTORES:
+            if elegidos and nombre not in elegidos:
+                continue
             if on_paso:
-                on_paso(nombre, "ok", n=len(rows))
-        except Exception as e:
-            por_colector[nombre] = {"rows": [], "error": str(e)}
-            print(f"[ERROR] {nombre}: {e}")
-            traceback.print_exc()
-            if on_paso:
-                on_paso(nombre, "error", error=str(e))
-    resultado = corpus.incorporar(por_colector, corrida_iso=dia_iso)
-    meta = resultado["meta"]
-    print(f"LIVE: {meta['n']} menciones en {len(meta.get('dias_tocados') or [])} días "
-          f"-> {corpus.LIVE}")
+                on_paso(nombre, "inicio")
+            try:
+                rows = fn() or []
+                por_colector[nombre] = {"rows": rows, "error": ""}
+                print(f"OK {nombre}: {len(rows)} filas")
+                if on_paso:
+                    on_paso(nombre, "ok", n=len(rows))
+            except Exception as e:
+                por_colector[nombre] = {"rows": [], "error": str(e)}
+                print(f"[ERROR] {nombre}: {e}")
+                traceback.print_exc()
+                if on_paso:
+                    on_paso(nombre, "error", error=str(e))
+        resultado = corpus.incorporar(por_colector, corrida_iso=dia_iso)
+        meta = resultado["meta"]
+        print(f"LIVE: {meta['n']} menciones en {len(meta.get('dias_tocados') or [])} días "
+              f"-> {corpus.LIVE}")
     if sin_noticias is None:
-        sin_noticias = os.environ.get("CORRER_NOTICIAS", "1").strip().lower() in (
-            "0", "false", "no")
+        if solo_noticias:
+            sin_noticias = False
+        else:
+            sin_noticias = os.environ.get("CORRER_NOTICIAS", "1").strip().lower() in (
+                "0", "false", "no")
     if sin_noticias:
         print("NOTICIAS: omitidas (corrida solo de menciones)")
         return resultado

@@ -17,7 +17,7 @@ Solo enlaces y textos ya públicos. Sin microdatos ni credenciales.
 | `datos/web_extra.json` | Aportes manuales de menciones |
 | `monitoreo/` | Colectores (GitHub Actions) |
 | `datos/live/` | Corpus por día |
-| `.github/workflows/monitoreo.yml` | 07:17 y 16:17 hora Lima + botón en Actions |
+| `.github/workflows/monitoreo.yml` | 07:17 menciones; 10:17 y 16:17 noticias; 23:50 cierre + botón en Actions |
 
 ## Nota
 
