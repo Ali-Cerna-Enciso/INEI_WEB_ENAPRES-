@@ -1,6 +1,6 @@
 {
   "mes": "2026-07",
-  "actualizado": "2026-09-24 00:00",
+  "actualizado": "2026-09-24 10:30",
   "items": [
     {
       "id": "bcbc1d8bcd603fca",
@@ -1685,6 +1685,28 @@
       "agregado": "2026-09-18 12:31",
       "tipo_fuente": "Noticias/reportes",
       "descartar": false
+    },
+    {
+      "id": "13a01d9a3229856e",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab5422591b94e03a06c2bfdf7dc74d7&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f07%2f20%2fsunass-desvio-de-fondos-para-agua-y-alcantarillado-sera-castigado-con-mas-de-275-millones-de-soles%2f&c=11918309926335494003&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab5422591b94e03a06c2bfdf7dc74d7&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F07%2F20%2Fsunass-desvio-de-fondos-para-agua-y-alcantarillado-sera-castigado-con-mas-de-275-millones-de-soles%2F&c=11918309926335494003&mkt=es-us",
+      "titulo": "Sunass: desvío de fondos para agua y alcantarillado será castigado con más de 2,75 millones de soles",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-07-20",
+      "fecha_hecho": null,
+      "snippet": "El regulador peruano ha dispuesto también el endurecimiento de sanciones contra la designación irregular en directorios de empresas de agua Por Esteban Salazar Herrada La Superintendencia Nacional de ...",
+      "temas": [
+        "Alcantarillado"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:alcantarillado Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-24 10:30"
     },
     {
       "id": "f09ab2abfe866c53",
@@ -5609,5 +5631,5 @@
       "descartar": false
     }
   ],
-  "n": 236
+  "n": 237
 }
