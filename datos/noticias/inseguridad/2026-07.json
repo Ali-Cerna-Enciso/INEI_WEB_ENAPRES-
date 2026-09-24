@@ -1,6 +1,6 @@
 {
   "mes": "2026-07",
-  "actualizado": "2026-09-24 10:27",
+  "actualizado": "2026-09-24 16:33",
   "items": [
     {
       "id": "1afe8ca6c5860d94",
@@ -2468,6 +2468,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-09-23 16:35"
+    },
+    {
+      "id": "ade8040dfb18f7d8",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab59730a9e440969c455f5eb572910f&url=https%3a%2f%2fwww.infobae.com%2fvideo%2factualidad%2flatina-noticias-estafa-con-falso-bono-afecta-a-madres-solteras-en-peru%2fhbHiBWt8%2f&c=17357761945487786764&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab59730a9e440969c455f5eb572910f&url=https%3A%2F%2Fwww.infobae.com%2Fvideo%2Factualidad%2Flatina-noticias-estafa-con-falso-bono-afecta-a-madres-solteras-en-peru%2FhbHiBWt8%2F&c=17357761945487786764&mkt=es-us",
+      "titulo": "Latina Noticias: Estafa con falso bono afecta a madres solteras en Perú",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-07-21",
+      "fecha_hecho": null,
+      "snippet": "Este video presenta un segmento de noticias en vivo de Latina Noticias. Dos presentadoras discuten sobre una estafa. En pantalla se observan gráficos que anuncian un 'Bono Madre Soltera' y 'Bonos de ...",
+      "temas": [
+        "Estafa"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:estafa Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-24 16:33"
     },
     {
       "id": "49277486de5b35ec",
@@ -6964,5 +6986,5 @@
       "descartar": false
     }
   ],
-  "n": 312
+  "n": 313
 }
