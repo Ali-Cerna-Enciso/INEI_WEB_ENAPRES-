@@ -1,6 +1,6 @@
 {
   "mes": "2026-01",
-  "actualizado": "2026-09-25 00:02",
+  "actualizado": "2026-09-25 10:30",
   "items": [
     {
       "id": "8e0e04fef25e5005",
@@ -2461,6 +2461,28 @@
       "agregado": "2026-09-23 16:35"
     },
     {
+      "id": "5ed608fb3743a9f7",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab69378576e483a99c6afdb15f202f9&url=https%3a%2f%2fwww.infobae.com%2fcolombia%2f2026%2f01%2f20%2fhomicidio-de-colombiano-en-peru-dejo-tres-capturados-abandonaron-el-cuerpo-en-via-publica%2f&c=7896637594865265644&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab69378576e483a99c6afdb15f202f9&url=https%3A%2F%2Fwww.infobae.com%2Fcolombia%2F2026%2F01%2F20%2Fhomicidio-de-colombiano-en-peru-dejo-tres-capturados-abandonaron-el-cuerpo-en-via-publica%2F&c=7896637594865265644&mkt=es-us",
+      "titulo": "Homicidio de colombiano en Perú dejó tres capturados: abandonaron el cuerpo en vía pública",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-01-20",
+      "fecha_hecho": null,
+      "snippet": "La víctima fue identificada como Andrés Camilo Soto Huérfano, luego de las pesquisas que dejaron las detenciones de dos hombres y una mujer Por Sebastián Vargas Rueda La Policía Nacional del Perú (PNP ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:homicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-25 10:30"
+    },
+    {
       "id": "da1c83da7bbadf9b",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNHRET2ZQbllhMjJieGFHRWJ5cmJSWlVMdVBjaTZpRzBzQVUwT1p5RHdUeFZvdEpNWFl1VE10ZTlHZjd6X3h5eVVmQTY5Rm1OOTZVNGZidjBJRkdFMjdaTUgtb0szdFk1UExVb1E3R2VkbVY5UHRuRlZKRDRtMjVycm45WEl1eVd2bU9nWk5iSWtHRjh4LU1YMm1tOGdSTlR0S0pYTTUtUU5Ib2FMNWZKX3A3YUlSMjVXeDhDWmxNY3R4RnFEOWo0?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNHRET2ZQbllhMjJieGFHRWJ5cmJSWlVMdVBjaTZpRzBzQVUwT1p5RHdUeFZvdEpNWFl1VE10ZTlHZjd6X3h5eVVmQTY5Rm1OOTZVNGZidjBJRkdFMjdaTUgtb0szdFk1UExVb1E3R2VkbVY5UHRuRlZKRDRtMjVycm45WEl1eVd2bU9nWk5iSWtHRjh4LU1YMm1tOGdSTlR0S0pYTTUtUU5Ib2FMNWZKX3A3YUlSMjVXeDhDWmxNY3R4RnFEOWo0",
@@ -3233,6 +3255,29 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-09-25 00:02"
+    },
+    {
+      "id": "0ebc0177d09c1209",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab69374a0564390a1b12b65cbe62774&url=https%3a%2f%2fwww.telesurtv.net%2fperu-aprueba-ley-extorsion-sicariato%2f&c=11445771162653073536&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab69374a0564390a1b12b65cbe62774&url=https%3A%2F%2Fwww.telesurtv.net%2Fperu-aprueba-ley-extorsion-sicariato%2F&c=11445771162653073536&mkt=es-us",
+      "titulo": "Perú aprueba ley para hacer frente a la extorsión y el sicariato",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-01-18",
+      "fecha_hecho": null,
+      "snippet": "Según el Ejecutivo, con esta medida el Estado cambiará «de la defensiva a la ofensiva contra la delincuencia y el crimen organizado» en Perú. La norma se hizo oficial por la publicación de un decreto ...",
+      "temas": [
+        "Extorsión",
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 5,
+      "query": "bing:sicariato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-25 10:30"
     },
     {
       "id": "393c773b64e303ac",
@@ -5863,5 +5908,5 @@
       "descartar": false
     }
   ],
-  "n": 260
+  "n": 262
 }

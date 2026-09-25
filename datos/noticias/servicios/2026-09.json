@@ -1,7 +1,396 @@
 {
   "mes": "2026-09",
-  "actualizado": "2026-09-25 00:04",
+  "actualizado": "2026-09-25 10:32",
   "items": [
+    {
+      "id": "a5e9253eab23be07",
+      "url": "https://andina.pe/agencia/noticia-ancash-primeras-lluvias-temporada-anegan-calles-de-ciudad-huaraz-1093344.aspx",
+      "url_canon": "https://andina.pe/agencia/noticia-ancash-primeras-lluvias-temporada-anegan-calles-de-ciudad-huaraz-1093344.aspx",
+      "titulo": "Áncash: primeras lluvias de temporada anegan calles de la ciudad de Huaraz",
+      "fuente": "Andina",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "feeds",
+      "fecha_pub": "2026-09-25",
+      "fecha_hecho": null,
+      "snippet": "La noche del jueves 24 de septiembre se registraron lluvias y granizadas en la ciudad de Huaraz, en la sierra de la región Áncash, que provocaron el aniego de varias calles y afectaron temporalmente el tránsito vehicular",
+      "temas": [
+        "Alcantarillado"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Áncash",
+        "Ancash"
+      ],
+      "score": 2,
+      "query": "feed:Andina",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-25 10:32"
+    },
+    {
+      "id": "74e1f96da7a335c8",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNanBDZHkwYTNOanM1d2tjM2FkUjU2WmZsSDNuemM5alhHM0Rmc3BZblU2TzZxc1pzejJrTkVSLUg1anhjMHpUblZ0Ujd6Ynk4VTZORjl4Z0xUbmotUXJVbEVtczRuQzNza1BJVmhKbDlBaTFlR0w1RjlSMVplNk9JeXVsU1NfU0lqMlhJMjhKZ185SlNTVTBGYWkza3poTzhIRGQzSXg2c0pESkdNMU0tZjZVNGE5YnhoQ0ViTDdLMm4tNnhuMUt4bnVR?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNanBDZHkwYTNOanM1d2tjM2FkUjU2WmZsSDNuemM5alhHM0Rmc3BZblU2TzZxc1pzejJrTkVSLUg1anhjMHpUblZ0Ujd6Ynk4VTZORjl4Z0xUbmotUXJVbEVtczRuQzNza1BJVmhKbDlBaTFlR0w1RjlSMVplNk9JeXVsU1NfU0lqMlhJMjhKZ185SlNTVTBGYWkza3poTzhIRGQzSXg2c0pESkdNMU0tZjZVNGE5YnhoQ0ViTDdLMm4tNnhuMUt4bnVR",
+      "titulo": "Tumbes soportó este jueves 24 lluvias de ligera a moderada intensidad que causaron aniegos - andina.pe",
+      "fuente": "andina.pe",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-09-25",
+      "fecha_hecho": null,
+      "snippet": "Tumbes soportó este jueves 24 lluvias de ligera a moderada intensidad que causaron aniegos andina.pe",
+      "temas": [
+        "Alcantarillado"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Tumbes"
+      ],
+      "score": 3,
+      "query": "aniego Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-25 10:31"
+    },
+    {
+      "id": "070e1676814aae9c",
+      "url": "https://andina.pe/agencia/noticia-tumbes-soporto-este-jueves-24-lluvias-ligera-a-moderada-intensidad-causaron-aniegos-1093338.aspx",
+      "url_canon": "https://andina.pe/agencia/noticia-tumbes-soporto-este-jueves-24-lluvias-ligera-a-moderada-intensidad-causaron-aniegos-1093338.aspx",
+      "titulo": "Tumbes soportó este jueves 24 lluvias de ligera a moderada intensidad que causaron aniegos",
+      "fuente": "Andina",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "feeds",
+      "fecha_pub": "2026-09-25",
+      "fecha_hecho": null,
+      "snippet": "Lluvias de ligera a moderada intensidad se registraron entre el jueves 24 y viernes 25 de septiembre en distintos sectores de la región Tumbes, principalmente en los distritos de Tumbes y Papayal, de acuerdo con el monit",
+      "temas": [
+        "Alcantarillado"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Tumbes"
+      ],
+      "score": 3,
+      "query": "feed:Andina",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-25 10:32"
+    },
+    {
+      "id": "a4498e853dcd0810",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQU0hFaVU4cHhmdmFlWDNSUzh1dGg1RzVhTUE1SUxKN1NyZlBOWV84eWY0MFFJT09oWlVkdTlNZHp3RkpnVlZkTnJJZlBKNXJRQm13RUc2U1ktTlplNUZiYkJBLXJOOUREa1dTQ0ExX1F1VzR3MDlNbjBXcm0wbkhQTlAxUmpuc25UOHlQbC16UDVUVms1dFlCMkJBekFxTWpuRDNsWVpaRHB3WFZpRkd6TGxBdlhZZlVPeTFwMF9PWE9rcU12bFItYW1Wb0VrY0lJSE01MlNMVdIB1wFBVV95cUxQU0hFaVU4cHhmdmFlWDNSUzh1dGg1RzVhTUE1SUxKN1NyZlBOWV84eWY0MFFJT09oWlVkdTlNZHp3RkpnVlZkTnJJZlBKNXJRQm13RUc2U1ktTlplNUZiYkJBLXJOOUREa1dTQ0ExX1F1VzR3MDlNbjBXcm0wbkhQTlAxUmpuc25UOHlQbC16UDVUVms1dFlCMkJBekFxTWpuRDNsWVpaRHB3WFZpRkd6TGxBdlhZZlVPeTFwMF9PWE9rcU12bFItYW1Wb0VrY0lJSE01MlNMVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQU0hFaVU4cHhmdmFlWDNSUzh1dGg1RzVhTUE1SUxKN1NyZlBOWV84eWY0MFFJT09oWlVkdTlNZHp3RkpnVlZkTnJJZlBKNXJRQm13RUc2U1ktTlplNUZiYkJBLXJOOUREa1dTQ0ExX1F1VzR3MDlNbjBXcm0wbkhQTlAxUmpuc25UOHlQbC16UDVUVms1dFlCMkJBekFxTWpuRDNsWVpaRHB3WFZpRkd6TGxBdlhZZlVPeTFwMF9PWE9rcU12bFItYW1Wb0VrY0lJSE01MlNMVdIB1wFBVV95cUxQU0hFaVU4cHhmdmFlWDNSUzh1dGg1RzVhTUE1SUxKN1NyZlBOWV84eWY0MFFJT09oWlVkdTlNZHp3RkpnVlZkTnJJZlBKNXJRQm13RUc2U1ktTlplNUZiYkJBLXJOOUREa1dTQ0ExX1F1VzR3MDlNbjBXcm0wbkhQTlAxUmpuc25UOHlQbC16UDVUVms1dFlCMkJBekFxTWpuRDNsWVpaRHB3WFZpRkd6TGxBdlhZZlVPeTFwMF9PWE9rcU12bFItYW1Wb0VrY0lJSE01MlNMVQ",
+      "titulo": "Trujillo: Observan contrato de Sedalib por S/ 4,4 millones - Diario Correo",
+      "fuente": "Diario Correo",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-09-25",
+      "fecha_hecho": null,
+      "snippet": "Trujillo: Observan contrato de Sedalib por S/ 4,4 millones Diario Correo",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 3,
+      "query": "Sedalib",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-25 10:31"
+    },
+    {
+      "id": "18a783613a7640b4",
+      "url": "https://diariocorreo.pe/edicion/la-libertad/observan-contrato-de-sedalib-por-s-44-millones-trujillo-la-libertad-peru-noticia/",
+      "url_canon": "https://diariocorreo.pe/edicion/la-libertad/observan-contrato-de-sedalib-por-s-44-millones-trujillo-la-libertad-peru-noticia",
+      "titulo": "Trujillo: Observan contrato de Sedalib por S/ 4,4 millones",
+      "fuente": "DiarioCorreo",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "feeds",
+      "fecha_pub": "2026-09-25",
+      "fecha_hecho": null,
+      "snippet": "La Empresa de Servicios de Agua Potable y Alcantarillado de La Libertad (Sedalib S.A.) está bajo la lupa de la Contraloría General de la República (CGR), pues se evidenció que presuntamente contrató el servicio de alquil",
+      "temas": [
+        "Agua por red pública",
+        "Alcantarillado"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo",
+        "La Libertad"
+      ],
+      "score": 5,
+      "query": "feed:DiarioCorreo",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-25 10:32"
+    },
+    {
+      "id": "306310922963f03f",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObnloSUlXTWM5ODJiNU83azM2YWN0MndobURpQ0NyQ3doRnBXNG9jNm9LeXlwcHJOZVZJZnc1NlhzTnFZZzE0UkVnYmd5cE8xSkhsWmw3aE80RHh2OFZWMFlmaU1KZHQzbWNQOTg4VHJJSVRjUWk0SnlYOFNYSl9YT3lJcXBWX1lNMFE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObnloSUlXTWM5ODJiNU83azM2YWN0MndobURpQ0NyQ3doRnBXNG9jNm9LeXlwcHJOZVZJZnc1NlhzTnFZZzE0UkVnYmd5cE8xSkhsWmw3aE80RHh2OFZWMFlmaU1KZHQzbWNQOTg4VHJJSVRjUWk0SnlYOFNYSl9YT3lJcXBWX1lNMFE",
+      "titulo": "Sedapal hará simulacro en octubre por El Niño para asegurar agua en Lima - Diario Ahora",
+      "fuente": "Diario Ahora",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-09-25",
+      "fecha_hecho": null,
+      "snippet": "Sedapal hará simulacro en octubre por El Niño para asegurar agua en Lima Diario Ahora",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "Sedapal",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-25 10:31"
+    },
+    {
+      "id": "ecf9ae875b64a834",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOOHRVc1R2eGpPM1h2MW5XTnZ2OGx4NXg4RjNaME9jWXRYc1FPLWxPV2FEMGRlck0xNVlSSkl6SVpjY1FmN2p0dHR6SU9FaXhoZ0dGMFJ6V0ZrOWxGMjhLN2VUbnpNUV9wcy0zcl9wMUdhUDRaZEpfQS1KU3N0RWx6VjBtVGF1Nk9iRmo5WnVPR0VfMXQ3MkVuUkJqYWFtdUQ0UExHREZJcmFvODZRNHJiTXNBdjBPVEFKQ01VdFJDbGxYU2RsOUhtTzUyNF9YVUtIU09lUWVsZm5XZU8yZ0hJMnUwVjJkWW5MekVVeWhib9IBgwJBVV95cUxOZVliLTB2YWFGX1NsZGVxNlBCOGlvdTFheE1wVlJHZFJHV2Q2MEx4YmZrbU0xb0dBYWhUS1YycXQ3V2c0RTZlLW1ISUZfODBwUXlFZWJiSXdMOVNicC1aNVFCang0d2RtTUlkM1Z3MnphZllMY0E5Q0gzcnFUNDJjOHBoX2dVZ2FVQXF4RWlsclctNlVtZzF2bHlZTzBPRmwyTmtMVlRlT1JzQUtCbTU2MGRhSW8tQjM2aGdERU45c0x4eTY2TUNCMExzQUdwUEc4cmJ3Y2NnQzlaOXgzM1dFRXV0bm1Gb20xMU1MWXVvRG51UzFDYkVKb3pJV0tyNlFiRDdR?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOOHRVc1R2eGpPM1h2MW5XTnZ2OGx4NXg4RjNaME9jWXRYc1FPLWxPV2FEMGRlck0xNVlSSkl6SVpjY1FmN2p0dHR6SU9FaXhoZ0dGMFJ6V0ZrOWxGMjhLN2VUbnpNUV9wcy0zcl9wMUdhUDRaZEpfQS1KU3N0RWx6VjBtVGF1Nk9iRmo5WnVPR0VfMXQ3MkVuUkJqYWFtdUQ0UExHREZJcmFvODZRNHJiTXNBdjBPVEFKQ01VdFJDbGxYU2RsOUhtTzUyNF9YVUtIU09lUWVsZm5XZU8yZ0hJMnUwVjJkWW5MekVVeWhib9IBgwJBVV95cUxOZVliLTB2YWFGX1NsZGVxNlBCOGlvdTFheE1wVlJHZFJHV2Q2MEx4YmZrbU0xb0dBYWhUS1YycXQ3V2c0RTZlLW1ISUZfODBwUXlFZWJiSXdMOVNicC1aNVFCang0d2RtTUlkM1Z3MnphZllMY0E5Q0gzcnFUNDJjOHBoX2dVZ2FVQXF4RWlsclctNlVtZzF2bHlZTzBPRmwyTmtMVlRlT1JzQUtCbTU2MGRhSW8tQjM2aGdERU45c0x4eTY2TUNCMExzQUdwUEc4cmJ3Y2NnQzlaOXgzM1dFRXV0bm1Gb20xMU1MWXVvRG51UzFDYkVKb3pJV0tyNlFiRDdR",
+      "titulo": "La Libertad: Hidrandina detecta y erradica 509 conexiones clandestinas que ponen en riesgo a familias - Diario Correo",
+      "fuente": "Diario Correo",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-09-25",
+      "fecha_hecho": null,
+      "snippet": "La Libertad: Hidrandina detecta y erradica 509 conexiones clandestinas que ponen en riesgo a familias Diario Correo",
+      "temas": [
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "La Libertad"
+      ],
+      "score": 3,
+      "query": "Hidrandina",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-25 10:31"
+    },
+    {
+      "id": "0f2d5fdf429a96af",
+      "url": "https://diariocorreo.pe/edicion/la-libertad/hidrandina-detecta-y-erradica-509-conexiones-clandestinas-que-ponen-en-riesgo-a-familias-la-libertad-peru-noticia/",
+      "url_canon": "https://diariocorreo.pe/edicion/la-libertad/hidrandina-detecta-y-erradica-509-conexiones-clandestinas-que-ponen-en-riesgo-a-familias-la-libertad-peru-noticia",
+      "titulo": "La Libertad: Hidrandina detecta y erradica 509 conexiones clandestinas que ponen en riesgo a familias",
+      "fuente": "DiarioCorreo",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "feeds",
+      "fecha_pub": "2026-09-25",
+      "fecha_hecho": null,
+      "snippet": "Hidrandina mantiene una estrategia permanente de fiscalización para combatir el hurto de energía eléctrica. Entre enero y agosto de 2026, la empresa realizó 66 operativos en Trujillo y Chimbote, donde detectó y erradicó ",
+      "temas": [
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo",
+        "Chimbote",
+        "La Libertad"
+      ],
+      "score": 3,
+      "query": "feed:DiarioCorreo",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-25 10:32"
+    },
+    {
+      "id": "07245c81b904d70c",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc2J0Q0dWTmhuRmRic3FMQjBWV3oxUUFaTGJYWC04c2VTQVc5M05fNUhTUTRLdnNCUGNTaC1KZTlZYlVkb1hXOWVCWWZ0MHNzNUJPeDd4UzRNdmctRWg4QkdlRkhfenQtUzBERmhDRVhGMVpJcVFtUmRITmtIWHBZNUhXVWtPTnJVdTVaRV9DelU4M2JZX3l4ZnpCQzhrZ3RFWDZBQTl3aWs?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc2J0Q0dWTmhuRmRic3FMQjBWV3oxUUFaTGJYWC04c2VTQVc5M05fNUhTUTRLdnNCUGNTaC1KZTlZYlVkb1hXOWVCWWZ0MHNzNUJPeDd4UzRNdmctRWg4QkdlRkhfenQtUzBERmhDRVhGMVpJcVFtUmRITmtIWHBZNUhXVWtPTnJVdTVaRV9DelU4M2JZX3l4ZnpCQzhrZ3RFWDZBQTl3aWs",
+      "titulo": "Kia se posiciona a la vanguardia de la electrificación en América Latina - Automundo Perú",
+      "fuente": "Automundo Perú",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-09-25",
+      "fecha_hecho": null,
+      "snippet": "Kia se posiciona a la vanguardia de la electrificación en América Latina Automundo Perú",
+      "temas": [
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "electrificación Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-25 10:31"
+    },
+    {
+      "id": "ce8178f798a64612",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT1k5Vk05bUxvQjlDeHYxaEpqR2xmRTdhbUhzcms5T0VuZk5jN3pxV3BaYWxmNTlGc3BTTzBPcGNaVEZoSm1zejAtU3VBYVhjeGdIaVZ0TmxuUWFhUjlFODhiSGtzcnp1amdDd3d0X1FfbDhva0FtdGNCc1pybmR1XzduUUNKOW1MY2VXak5rMWFFN1BBZnpYeEYwLVk3RE9fOVBTS0N2UHpXVTlXUzFPZG5JVGlwUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT1k5Vk05bUxvQjlDeHYxaEpqR2xmRTdhbUhzcms5T0VuZk5jN3pxV3BaYWxmNTlGc3BTTzBPcGNaVEZoSm1zejAtU3VBYVhjeGdIaVZ0TmxuUWFhUjlFODhiSGtzcnp1amdDd3d0X1FfbDhva0FtdGNCc1pybmR1XzduUUNKOW1MY2VXak5rMWFFN1BBZnpYeEYwLVk3RE9fOVBTS0N2UHpXVTlXUzFPZG5JVGlwUQ",
+      "titulo": "Corte de agua en Lima hoy 25 de septiembre: Distritos y horarios afectados - RPP Noticias",
+      "fuente": "RPP Noticias",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-09-25",
+      "fecha_hecho": null,
+      "snippet": "Corte de agua en Lima hoy 25 de septiembre: Distritos y horarios afectados RPP Noticias",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "\"corte de agua\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-25 10:31"
+    },
+    {
+      "id": "2eb728405d5a377c",
+      "url": "https://rpp.pe/lima/obras/corte-de-agua-en-lima-hoy-25-de-septiembre-distritos-y-horarios-afectados-noticia-1709283",
+      "url_canon": "https://rpp.pe/lima/obras/corte-de-agua-en-lima-hoy-25-de-septiembre-distritos-y-horarios-afectados-noticia-1709283",
+      "titulo": "Corte de agua en Lima hoy 25 de septiembre: Distritos y horarios afectados",
+      "fuente": "RPP",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "feeds",
+      "fecha_pub": "2026-09-25",
+      "fecha_hecho": null,
+      "snippet": "EN VIVO Consulta aquí los distritos de Lima y horarios afectados por el corte de agua programado por el Servicio de Agua Potable y Alcantarillado de Lima (Sedapal) para hoy.",
+      "temas": [
+        "Agua por red pública",
+        "Alcantarillado"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 4,
+      "query": "feed:RPP",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-25 10:32"
+    },
+    {
+      "id": "97e1a7fedc7371d1",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZkN1a09ydmpzWFVtc3IyWTNpSm1oY0oyLTV1YUZwdXBJNWhSWi1zWVpfTTlOUjRRQTVHRndyNWFDZy0xR2JNYmljNklCelE5UENYNEJsbUMtVkNXeDN5QmNueVd1VGtISVBUS3hrcHlpVDM4SjdMNVJDNE5PZ0RRMUFwd094anJ1ekNxZW9FZ2hOeGZXMFM5Y2tPRlB6YkRwTU9NT3FlQjUtZmxLYTZ2c1FwdU9CWXFUaXJteFNSX3VkX1lOTElRQVN5UUIzOWhwUjZJQms2OWhIVFk?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZkN1a09ydmpzWFVtc3IyWTNpSm1oY0oyLTV1YUZwdXBJNWhSWi1zWVpfTTlOUjRRQTVHRndyNWFDZy0xR2JNYmljNklCelE5UENYNEJsbUMtVkNXeDN5QmNueVd1VGtISVBUS3hrcHlpVDM4SjdMNVJDNE5PZ0RRMUFwd094anJ1ekNxZW9FZ2hOeGZXMFM5Y2tPRlB6YkRwTU9NT3FlQjUtZmxLYTZ2c1FwdU9CWXFUaXJteFNSX3VkX1lOTElRQVN5UUIzOWhwUjZJQms2OWhIVFk",
+      "titulo": "Corte de LUZ este sábado, 26 de septiembre, en Puente Piedra: verifica qué zonas del distrito se verán afectadas y a qué hora - Exitosa Noticias",
+      "fuente": "Exitosa Noticias",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-09-25",
+      "fecha_hecho": null,
+      "snippet": "Corte de LUZ este sábado, 26 de septiembre, en Puente Piedra: verifica qué zonas del distrito se verán afectadas y a qué hora Exitosa Noticias",
+      "temas": [
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Puente Piedra"
+      ],
+      "score": 3,
+      "query": "\"corte de luz\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-25 10:31"
+    },
+    {
+      "id": "de7f266df9c02b85",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQU3VvdXR0TGNBQnJXTUQ2Y1lhVEdoQ2ItQWdDRDZBTE1nbWQyZDQ5SkZTdVVreFN2M0ZNdGNuT3FyY25rcW51ejFVTTUwNlRLU29qc2poanlDQk5WM1huTFdKeWhjc0VEMU1Wak1qcG5fSUd4VEN3SUZ4aE5BTU5ral95UHNFdC00ZHRKeExwWlZiMXVGcW4xVjJzWi1YOVgzS0RhMEowVjJwWG5OdGNuajdYS1VCOEtabFlWVGhaRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQU3VvdXR0TGNBQnJXTUQ2Y1lhVEdoQ2ItQWdDRDZBTE1nbWQyZDQ5SkZTdVVreFN2M0ZNdGNuT3FyY25rcW51ejFVTTUwNlRLU29qc2poanlDQk5WM1huTFdKeWhjc0VEMU1Wak1qcG5fSUd4VEN3SUZ4aE5BTU5ral95UHNFdC00ZHRKeExwWlZiMXVGcW4xVjJzWi1YOVgzS0RhMEowVjJwWG5OdGNuajdYS1VCOEtabFlWVGhaRQ",
+      "titulo": "Corte de AGUA el 26 de septiembre: verifica qué distritos de Lima se verán afectados, según Sedapal - Exitosa Noticias",
+      "fuente": "Exitosa Noticias",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-09-25",
+      "fecha_hecho": null,
+      "snippet": "Corte de AGUA el 26 de septiembre: verifica qué distritos de Lima se verán afectados, según Sedapal Exitosa Noticias",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "\"corte de agua\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-25 10:31"
+    },
+    {
+      "id": "31498f43d4de3729",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab693f4b9684e7fb01db4dda4455707&url=https%3a%2f%2fwww.exitosanoticias.pe%2factualidad%2fcorte-agua-26-septiembre-verifica-distritos-lima-veran-afectados-sedapal-n184534&c=5254145148859660752&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab693f4b9684e7fb01db4dda4455707&url=https%3A%2F%2Fwww.exitosanoticias.pe%2Factualidad%2Fcorte-agua-26-septiembre-verifica-distritos-lima-veran-afectados-sedapal-n184534&c=5254145148859660752&mkt=es-us",
+      "titulo": "Corte de AGUA el 26 de septiembre: verifica qué distritos de Lima se verán afectados, según Sedapal",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-25",
+      "fecha_hecho": null,
+      "snippet": "Sedapal revela qué distritos de Lima se verán afectados con el corte de luz programado para el sábado 25 de septiembre y en qué horarios se ejecutará la medida.",
+      "temas": [
+        "Agua por red pública",
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 5,
+      "query": "bing:Sedapal",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-25 10:32"
+    },
+    {
+      "id": "265a0fe3c4d066ee",
+      "url": "https://diariocorreo.pe/edicion/arequipa/cinco-distritos-de-arequipa-piden-agua-potable-para-dejar-de-consumir-agua-de-subsuelo-noticia/",
+      "url_canon": "https://diariocorreo.pe/edicion/arequipa/cinco-distritos-de-arequipa-piden-agua-potable-para-dejar-de-consumir-agua-de-subsuelo-noticia",
+      "titulo": "Cinco distritos de Arequipa piden agua potable para dejar de consumir agua de subsuelo",
+      "fuente": "DiarioCorreo",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "feeds",
+      "fecha_pub": "2026-09-25",
+      "fecha_hecho": null,
+      "snippet": "Alcaldes del sur de Arequipa se reunirán con el ministro de Vivienda y Saneamiento Mauricio Arnilla",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Arequipa"
+      ],
+      "score": 3,
+      "query": "feed:DiarioCorreo",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-25 10:32"
+    },
+    {
+      "id": "2bec95f007ec4844",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY1g0dHJpX1E2Zl9BUVBVS05JbXFKTmE5dHYtc2tkZTlyS2ZZZGlYN0lHd3djWWlBSk1fYzdpM2N0Mkd3Y0RpaUVsQTdQc19iRGFRM1licmVMeTlvYjRSV1Yzbk14aFJQb1NFbldSeUg0cnVDSGFGa0dVaDd5Q2d2LVRlN0RJNXhzbnVKLXRpSGZCNUZDbTZXQ0Q1NVVvT2pGOFA5OG0zX29BQ0dud2c?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY1g0dHJpX1E2Zl9BUVBVS05JbXFKTmE5dHYtc2tkZTlyS2ZZZGlYN0lHd3djWWlBSk1fYzdpM2N0Mkd3Y0RpaUVsQTdQc19iRGFRM1licmVMeTlvYjRSV1Yzbk14aFJQb1NFbldSeUg0cnVDSGFGa0dVaDd5Q2d2LVRlN0RJNXhzbnVKLXRpSGZCNUZDbTZXQ0Q1NVVvT2pGOFA5OG0zX29BQ0dud2c",
+      "titulo": "Arequipa: Rotura de tubería genera corte de agua y daños en vía principal - Gaceta Perú TV",
+      "fuente": "Gaceta Perú TV",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-09-25",
+      "fecha_hecho": null,
+      "snippet": "Arequipa: Rotura de tubería genera corte de agua y daños en vía principal Gaceta Perú TV",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Arequipa"
+      ],
+      "score": 3,
+      "query": "\"corte de agua\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-25 10:31"
+    },
     {
       "id": "4e8c07d54fd408c1",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOckZTT0l5Vi11ODBoRnBRZy0xcW4tWmhTUlB4ZUtwa2RwZ1p3T2YteldEbUptdF83N0o1ZEtYalhUUHFrNWlKdXIyWmlJSFIzWGZFdXFGUno4dzJJdFloUGczVDZYOVRWRjZFRW81QjRVLXBCaDhxcUNhQzRyUGtJNDAtdlQyNFlySDFHT3B1aTBRQlBTWW9zYlp6dGxTNlpHWV9mTGJuMDQwdGViZk45Mm9fd2xBV3VXbmtwa0hyUzkzQjR5dTBSSXV4ajNVQk5wS2pyT1M1eU1XMGVsMl8tOE9QOWxXT2FDN1d6REM3Yw?oc=5&hl=en-US&gl=US&ceid=US:en",
@@ -186,6 +575,30 @@
       "agregado": "2026-09-24 16:35"
     },
     {
+      "id": "43d4abb9a5b62dac",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab693f653904c5e9e9ab306cdb37fb1&url=https%3a%2f%2fdiariocorreo.pe%2fedicion%2fla-libertad%2fobservan-contrato-de-sedalib-por-s-44-millones-trujillo-la-libertad-peru-noticia%2f&c=6026510915805380040&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab693f653904c5e9e9ab306cdb37fb1&url=https%3A%2F%2Fdiariocorreo.pe%2Fedicion%2Fla-libertad%2Fobservan-contrato-de-sedalib-por-s-44-millones-trujillo-la-libertad-peru-noticia%2F&c=6026510915805380040&mkt=es-us",
+      "titulo": "Trujillo: Observan contrato de Sedalib por S/ 4,4 millones",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-24",
+      "fecha_hecho": null,
+      "snippet": "Contraloría advierte que se alquilaron equipos informáticos y soporte técnico bajo la causal de desabastecimiento inminente, a pesar de que no hubo justificación para ello ...",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 3,
+      "query": "bing:Sedalib",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-25 10:32"
+    },
+    {
       "id": "42e33823153266b8",
       "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOdV9zTHFEWVByVjd1UE85ODhSOTdVblhFb0NVRTBOTWxJVWF5WDl2bmNKN1VJajZHdllsSmpfOHFaSS1RZFh4VlhySURTYXhHSEhIVmhCclVDS2l3Zm5tR1ptU3BodXNWU0xISGVEZTFoZTF4ZExRLXFHQmtpN05SQTFzR21SaEkwa2pvQUpfNXdWMDBPOVlwM2VTYk5jNWJHQl9OYkVqRUZwQ25NcndDbXR2NnphTzl4SzdNbEdzY0JWSlNrc3p4NlZPaXdCaW5oZmVXemtncmM3ZkZEeG55WThMdE8xTjlNS2tkOWJvWkM0RGNJOW9QaGxmb1Vhdno4R0twbHdtcVVFM3Qyak5VbdIBkAJBVV95cUxOdV9zTHFEWVByVjd1UE85ODhSOTdVblhFb0NVRTBOTWxJVWF5WDl2bmNKN1VJajZHdllsSmpfOHFaSS1RZFh4VlhySURTYXhHSEhIVmhCclVDS2l3Zm5tR1ptU3BodXNWU0xISGVEZTFoZTF4ZExRLXFHQmtpN05SQTFzR21SaEkwa2pvQUpfNXdWMDBPOVlwM2VTYk5jNWJHQl9OYkVqRUZwQ25NcndDbXR2NnphTzl4SzdNbEdzY0JWSlNrc3p4NlZPaXdCaW5oZmVXemtncmM3ZkZEeG55WThMdE8xTjlNS2tkOWJvWkM0RGNJOW9QaGxmb1Vhdno4R0twbHdtcVVFM3Qyak5VbQ?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOdV9zTHFEWVByVjd1UE85ODhSOTdVblhFb0NVRTBOTWxJVWF5WDl2bmNKN1VJajZHdllsSmpfOHFaSS1RZFh4VlhySURTYXhHSEhIVmhCclVDS2l3Zm5tR1ptU3BodXNWU0xISGVEZTFoZTF4ZExRLXFHQmtpN05SQTFzR21SaEkwa2pvQUpfNXdWMDBPOVlwM2VTYk5jNWJHQl9OYkVqRUZwQ25NcndDbXR2NnphTzl4SzdNbEdzY0JWSlNrc3p4NlZPaXdCaW5oZmVXemtncmM3ZkZEeG55WThMdE8xTjlNS2tkOWJvWkM0RGNJOW9QaGxmb1Vhdno4R0twbHdtcVVFM3Qyak5VbdIBkAJBVV95cUxOdV9zTHFEWVByVjd1UE85ODhSOTdVblhFb0NVRTBOTWxJVWF5WDl2bmNKN1VJajZHdllsSmpfOHFaSS1RZFh4VlhySURTYXhHSEhIVmhCclVDS2l3Zm5tR1ptU3BodXNWU0xISGVEZTFoZTF4ZExRLXFHQmtpN05SQTFzR21SaEkwa2pvQUpfNXdWMDBPOVlwM2VTYk5jNWJHQl9OYkVqRUZwQ25NcndDbXR2NnphTzl4SzdNbEdzY0JWSlNrc3p4NlZPaXdCaW5oZmVXemtncmM3ZkZEeG55WThMdE8xTjlNS2tkOWJvWkM0RGNJOW9QaGxmb1Vhdno4R0twbHdtcVVFM3Qyak5VbQ",
@@ -349,6 +762,30 @@
       "agregado": "2026-09-24 10:30"
     },
     {
+      "id": "912aa9ff2c0e63d3",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab693fd703e4d458c90c11f80db8993&url=https%3a%2f%2fdiariocorreo.pe%2fedicion%2fla-libertad%2fhidrandina-detecta-y-erradica-509-conexiones-clandestinas-que-ponen-en-riesgo-a-familias-la-libertad-peru-noticia%2f&c=11633541843318035626&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab693fd703e4d458c90c11f80db8993&url=https%3A%2F%2Fdiariocorreo.pe%2Fedicion%2Fla-libertad%2Fhidrandina-detecta-y-erradica-509-conexiones-clandestinas-que-ponen-en-riesgo-a-familias-la-libertad-peru-noticia%2F&c=11633541843318035626&mkt=es-us",
+      "titulo": "La Libertad: Hidrandina detecta y erradica 509 conexiones clandestinas que ponen en riesgo a familias",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-24",
+      "fecha_hecho": null,
+      "snippet": "Empresa realiza operativos de control todos los meses y acumuló 66 intervenciones entre enero y agosto de 2026 ...",
+      "temas": [
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "La Libertad"
+      ],
+      "score": 3,
+      "query": "bing:Hidrandina",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-25 10:32"
+    },
+    {
       "id": "6cb7964d147ca67c",
       "url": "https://inforegion.pe/huanuco-electrocentro-detecto-unos-400-casos-de-hurto-de-energia-y-estima-perdidas-de-s-120-mil/",
       "url_canon": "https://inforegion.pe/huanuco-electrocentro-detecto-unos-400-casos-de-hurto-de-energia-y-estima-perdidas-de-s-120-mil",
@@ -396,6 +833,30 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-09-24 16:35"
+    },
+    {
+      "id": "827ad38e15d50d24",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNEZwZ3F3M1VWcm9UajlrLTNoU290eW1mdU96d2xQMmxPcVUwY0syelFRbjZVVzFhRnRvZGpCRWFEbWpWd2U4MW55RmVUZU04QnZ3ZUpPY2ZfVmw3MVlsR1FnVEpfd0M4UHpvRXRSNzRyeXFxUHlLY2pWZTVPWXFKOHhqYmRtQWEwaHd2MkZ3S2lwdkhhcTU3STZ5ZmE2Skd0UDltYUt1eWFleUxBU05rUE1rYmIzVGlaYkdJ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNEZwZ3F3M1VWcm9UajlrLTNoU290eW1mdU96d2xQMmxPcVUwY0syelFRbjZVVzFhRnRvZGpCRWFEbWpWd2U4MW55RmVUZU04QnZ3ZUpPY2ZfVmw3MVlsR1FnVEpfd0M4UHpvRXRSNzRyeXFxUHlLY2pWZTVPWXFKOHhqYmRtQWEwaHd2MkZ3S2lwdkhhcTU3STZ5ZmE2Skd0UDltYUt1eWFleUxBU05rUE1rYmIzVGlaYkdJ",
+      "titulo": "Hidrandina anuncia cortes de energía este viernes en algunos pueblos de Chimbote - Radio RSD",
+      "fuente": "Radio RSD",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-09-24",
+      "fecha_hecho": null,
+      "snippet": "Hidrandina anuncia cortes de energía este viernes en algunos pueblos de Chimbote Radio RSD",
+      "temas": [
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Chimbote"
+      ],
+      "score": 3,
+      "query": "Hidrandina",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-25 10:31"
     },
     {
       "id": "81dba67338104286",
@@ -595,6 +1056,30 @@
       "agregado": "2026-09-25 00:03"
     },
     {
+      "id": "7ab06eb864806431",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab693f4b9684e7fb01db4dda4455707&url=https%3a%2f%2fwww.expreso.com.pe%2factualidad%2fcorte-de-agua-hoy-viernes-25-de-septiembre-en-distritos-de-lima-zonas-y-horarios-segun-reporte-de-sedapal-recibo-medidor-tuberias-servicio-potable-alcantarillado-noticia%2f1318085%2f&c=11089987552962607155&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab693f4b9684e7fb01db4dda4455707&url=https%3A%2F%2Fwww.expreso.com.pe%2Factualidad%2Fcorte-de-agua-hoy-viernes-25-de-septiembre-en-distritos-de-lima-zonas-y-horarios-segun-reporte-de-sedapal-recibo-medidor-tuberias-servicio-potable-alcantarillado-noticia%2F1318085%2F&c=11089987552962607155&mkt=es-us",
+      "titulo": "Corte de agua hoy, viernes 25 de septiembre, en distritos de Lima: zonas y horarios, según reporte de Sedapal.",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-24",
+      "fecha_hecho": null,
+      "snippet": "Sedapal comunicó que hoy, 25 de septiembre, se ejecutará el corte de agua en varios distritos de Lima Metropolitana.",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:Sedapal",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-25 10:32"
+    },
+    {
       "id": "e4fb7dbdde94d423",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNVRnZUZTbl9BekYzTVFpTWpESXYtYzFrR0hNRlhiYXB0R0l0MTlWRHFyLWJqa0w0cGRVX0VPTHdJZnQ4Rjl6X2drWUZYMU10MzhOLTZnVU53Y0hUUG1tNlpDTjVSSkRHaVZmcFpvaFo2NWo1VmhaWXdtODlSbFpDd01CN3JGdzNuTkpwdmpmdjl6Zkd2b0Q1OUdmNzdpY1ZVUW1BY3FwTV96YjV4NGRWN2tNSTU4bFpqWFJLYTlWOVpiaTdwWUxMdVhiWS1TdzY5STNr?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNVRnZUZTbl9BekYzTVFpTWpESXYtYzFrR0hNRlhiYXB0R0l0MTlWRHFyLWJqa0w0cGRVX0VPTHdJZnQ4Rjl6X2drWUZYMU10MzhOLTZnVU53Y0hUUG1tNlpDTjVSSkRHaVZmcFpvaFo2NWo1VmhaWXdtODlSbFpDd01CN3JGdzNuTkpwdmpmdjl6Zkd2b0Q1OUdmNzdpY1ZVUW1BY3FwTV96YjV4NGRWN2tNSTU4bFpqWFJLYTlWOVpiaTdwWUxMdVhiWS1TdzY5STNr",
@@ -736,6 +1221,30 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-09-25 00:04"
+    },
+    {
+      "id": "dbe57d31d8f7556b",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab693f4b9684e7fb01db4dda4455707&url=https%3a%2f%2flibero.pe%2ftiempoextra%2f2026%2f09%2f24%2fcorte-de-agua-en-lima-hoy-viernes-25-de-septiembre-revisa-zonas-afectadas-horarios-segun-sedapal-385704&c=5319034354096155036&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab693f4b9684e7fb01db4dda4455707&url=https%3A%2F%2Flibero.pe%2Ftiempoextra%2F2026%2F09%2F24%2Fcorte-de-agua-en-lima-hoy-viernes-25-de-septiembre-revisa-zonas-afectadas-horarios-segun-sedapal-385704&c=5319034354096155036&mkt=es-us",
+      "titulo": "Corte de agua en Lima este 25 de septiembre: revisa las zonas afectadas y horarios, según Sedapal",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-24",
+      "fecha_hecho": null,
+      "snippet": "Sedapal anunció un corte de agua programado para este 25 de septiembre en varios distritos de Lima. ¿Qué zonas serán afectadas?",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:Sedapal",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-25 10:32"
     },
     {
       "id": "3d39818846b59874",
@@ -1173,6 +1682,28 @@
       "agregado": "2026-09-25 00:04"
     },
     {
+      "id": "c21ff97c7e01c33d",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab69402c9264f50a5e8d85a375a2e21&url=https%3a%2f%2felcomercio.pe%2fruedas-tuercas%2fautomotriz%2flexus-trae-dos-modelos-electrificados-y-con-estilo-deportivo-como-son-y-en-que-consiste-su-cambio-de-filosofia-noticia%2f&c=7116597756499333412&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab69402c9264f50a5e8d85a375a2e21&url=https%3A%2F%2Felcomercio.pe%2Fruedas-tuercas%2Fautomotriz%2Flexus-trae-dos-modelos-electrificados-y-con-estilo-deportivo-como-son-y-en-que-consiste-su-cambio-de-filosofia-noticia%2F&c=7116597756499333412&mkt=es-us",
+      "titulo": "Lexus trae dos modelos electrificados y con estilo deportivo: ¿cómo son y en qué consiste su cambio de filosofía?",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-23",
+      "fecha_hecho": null,
+      "snippet": "La marca presentó Discover Lexus, una experiencia inspirada en la filosofía japonesa omotenashi, junto con los nuevos Lexus RZ y ES, ampliando su propuesta de electrificación ...",
+      "temas": [
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 2,
+      "query": "bing:electrificación Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-25 10:32"
+    },
+    {
       "id": "091af7eb9f9a7a12",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZUR2ekFJMFkxRGdGX3VmdndaUEg5LWRFVFBteG1sQS0tVWN1VU5nMnpSRkNUSHZfREc5d1V2U1BVNG1zdk9fekF2SmkwQUNkaWJkalNZb3hwMzhZbTdMa2ZEWjg2M1FTQnItbkg1V0NmNTVxRWNkaERjZ1R5MlBrTUJMMkhmcENPbVFpWlZySmcxZ04tdWVKVnRBakE4bTMwWVhhQl93?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZUR2ekFJMFkxRGdGX3VmdndaUEg5LWRFVFBteG1sQS0tVWN1VU5nMnpSRkNUSHZfREc5d1V2U1BVNG1zdk9fekF2SmkwQUNkaWJkalNZb3hwMzhZbTdMa2ZEWjg2M1FTQnItbkg1V0NmNTVxRWNkaERjZ1R5MlBrTUJMMkhmcENPbVFpWlZySmcxZ04tdWVKVnRBakE4bTMwWVhhQl93",
@@ -1349,6 +1880,28 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-09-25 00:04"
+    },
+    {
+      "id": "a0879d0dd411e465",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab693f0c42942708b80874bbc3e0c44&url=https%3a%2f%2fwww.msn.com%2fes-ar%2fnoticias%2fmundo%2fel-norte-de-per%25C3%25BA-teme-por-el-agua-que-amenaza-traer-el-ni%25C3%25B1o%2far-AA2cQ1km&c=10952920933649996823&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab693f0c42942708b80874bbc3e0c44&url=https%3A%2F%2Fwww.msn.com%2Fes-ar%2Fnoticias%2Fmundo%2Fel-norte-de-per%25C3%25BA-teme-por-el-agua-que-amenaza-traer-el-ni%25C3%25B1o%2Far-AA2cQ1km&c=10952920933649996823&mkt=es-us",
+      "titulo": "El norte de Perú teme por el agua que amenaza traer El Niño",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-23",
+      "fecha_hecho": null,
+      "snippet": "En el norte de Perú, el sol todavía abrasa las calles pero sus habitantes temen por el agua que amenaza traer El Niño. Pero la falta de mantenimiento de los desagües, saturados de desechos y con aguas ...",
+      "temas": [
+        "Alcantarillado"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 2,
+      "query": "bing:desagüe Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-25 10:32"
     },
     {
       "id": "78d0d61591038cda",
@@ -2201,6 +2754,30 @@
       "agregado": "2026-09-25 00:04"
     },
     {
+      "id": "794885fe597c855f",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab693f4b9684e7fb01db4dda4455707&url=https%3a%2f%2felpopular.pe%2factualidad%2f2026%2f09%2f22%2fsuspension-de-agua-potable-confirmada-en-lima-durante-el-23-de-septiembre-conoce-los-distritos-afectados-por-sedapal-672628&c=13187591354041640443&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab693f4b9684e7fb01db4dda4455707&url=https%3A%2F%2Felpopular.pe%2Factualidad%2F2026%2F09%2F22%2Fsuspension-de-agua-potable-confirmada-en-lima-durante-el-23-de-septiembre-conoce-los-distritos-afectados-por-sedapal-672628&c=13187591354041640443&mkt=es-us",
+      "titulo": "Suspensión de agua potable CONFIRMADA en Lima durante el 23 de septiembre: conoce los distritos afectados por Sedapal",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-22",
+      "fecha_hecho": null,
+      "snippet": "Sedapal anuncia corte de agua en Lima para el 23 de septiembre. Diversos distritos se verán afectados debido a mantenimiento preventivo del sistema de abastecimiento.",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:Sedapal",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-25 10:32"
+    },
+    {
       "id": "5ce02dabc313d0f6",
       "url": "https://andina.pe/agencia/noticia-sunass-ofrece-90-becas-y-bolsa-trabajo-para-alumnos-economia-derecho-e-ingenieria-1092946.aspx",
       "url_canon": "https://andina.pe/agencia/noticia-sunass-ofrece-90-becas-y-bolsa-trabajo-para-alumnos-economia-derecho-e-ingenieria-1092946.aspx",
@@ -2389,6 +2966,30 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-09-25 00:04"
+    },
+    {
+      "id": "15005998f6010aac",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab693f4b9684e7fb01db4dda4455707&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f09%2f22%2fsedapal-programa-cortes-temporales-de-agua-para-el-23-de-septiembre-en-varios-distritos-de-lima%2f&c=16750243215551204038&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab693f4b9684e7fb01db4dda4455707&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F09%2F22%2Fsedapal-programa-cortes-temporales-de-agua-para-el-23-de-septiembre-en-varios-distritos-de-lima%2F&c=16750243215551204038&mkt=es-us",
+      "titulo": "Sedapal programa cortes temporales de agua para hoy, 23 de septiembre, en varios distritos de Lima",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-22",
+      "fecha_hecho": null,
+      "snippet": "La suspensión del abastecimiento se aplicará por labores de mantenimiento en reservorios y empalmes, con horarios de inicio entre las 8:00 a. m. y la 1:00 p. m., según cada zona afectada ...",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:Sedapal",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-25 10:32"
     },
     {
       "id": "c0fe764960371eda",
@@ -2918,6 +3519,31 @@
       "agregado": "2026-09-25 00:04"
     },
     {
+      "id": "4c142b4da147a101",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab693ef3dc54eeab6039c0540ab2b41&url=https%3a%2f%2fwww.exitosanoticias.pe%2factualidad%2fcorte-luz-lima-callao-23-septiembre-cuales-son-distritos-afectados-horarios-n184263&c=6172895626411267761&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab693ef3dc54eeab6039c0540ab2b41&url=https%3A%2F%2Fwww.exitosanoticias.pe%2Factualidad%2Fcorte-luz-lima-callao-23-septiembre-cuales-son-distritos-afectados-horarios-n184263&c=6172895626411267761&mkt=es-us",
+      "titulo": "Corte de LUZ en Lima y Callao el 23 de septiembre: ¿cuáles son los distritos afectados y horarios?",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-22",
+      "fecha_hecho": null,
+      "snippet": "¿Te quedarás sin electricidad? Anuncian nuevo corte de luz en distintos distritos de Lima y el Callao para el 23 de septiembre. Conoce cuáles serán las zonas afectadas, según Pluz Perú.",
+      "temas": [
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Callao",
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:\"corte de luz\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-25 10:32"
+    },
+    {
       "id": "f8bdd8a3417a02e7",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOXzUwS0ZfdVhJTldLdE9zbnVvcDNodlJVM2dCLVNQeklqUnJhQkhHMm5DS185QTdKNl9jX1lQX0JETEJ5eWtJWlBsZkJDOXdzV0JNVkFKRWJPTkZVdjBHRjlfM0RtdThRcnBHX3c2bzB3UnNoc3NqaWNpUi1JemxkclZaUWVDcFZGa3pSTURjX2l2bHlvWUpNbmtDMGtXcjlqam1NQy00akxzRXFvdU10aExoNWR5dlRMbEk0UVhhdmliUURw?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOXzUwS0ZfdVhJTldLdE9zbnVvcDNodlJVM2dCLVNQeklqUnJhQkhHMm5DS185QTdKNl9jX1lQX0JETEJ5eWtJWlBsZkJDOXdzV0JNVkFKRWJPTkZVdjBHRjlfM0RtdThRcnBHX3c2bzB3UnNoc3NqaWNpUi1JemxkclZaUWVDcFZGa3pSTURjX2l2bHlvWUpNbmtDMGtXcjlqam1NQy00akxzRXFvdU10aExoNWR5dlRMbEk0UVhhdmliUURw",
@@ -3356,6 +3982,30 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-09-25 00:04"
+    },
+    {
+      "id": "3ad6fbe860f00c56",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab693f4b9684e7fb01db4dda4455707&url=https%3a%2f%2fgestion.pe%2fperu%2ffenomeno-el-nino-sedapal-hara-simulacro-para-asegurar-servicio-de-agua-en-lima-cuando-noticia%2f&c=4533694879009380879&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab693f4b9684e7fb01db4dda4455707&url=https%3A%2F%2Fgestion.pe%2Fperu%2Ffenomeno-el-nino-sedapal-hara-simulacro-para-asegurar-servicio-de-agua-en-lima-cuando-noticia%2F&c=4533694879009380879&mkt=es-us",
+      "titulo": "El Niño: Sedapal hará simulacro para asegurar servicio de agua en Lima, ¿cuándo?",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-21",
+      "fecha_hecho": null,
+      "snippet": "Así lo anunció el ministro de Vivienda, Construcción y Saneamiento, Mauricio Arnillas. Objetivo es evitar repetir fatídicos episodios vividos en 2017 por el mismo evento climático.",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:Sedapal",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-25 10:32"
     },
     {
       "id": "d18bf66b9b715744",
@@ -3915,6 +4565,31 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-09-23 10:32"
+    },
+    {
+      "id": "6ade66f82d7eb080",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab693ef3dc54eeab6039c0540ab2b41&url=https%3a%2f%2fwww.exitosanoticias.pe%2factualidad%2fcorte-luz-22-septiembre-en-distritos-lima-callao-sera-interrupcion-servicio-n184207&c=13627728275231944004&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab693ef3dc54eeab6039c0540ab2b41&url=https%3A%2F%2Fwww.exitosanoticias.pe%2Factualidad%2Fcorte-luz-22-septiembre-en-distritos-lima-callao-sera-interrupcion-servicio-n184207&c=13627728275231944004&mkt=es-us",
+      "titulo": "Corte de LUZ el 22 de septiembre: ¿en qué distritos de Lima y Callao será la interrupción del servicio?",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-21",
+      "fecha_hecho": null,
+      "snippet": "Pluz Perú anuncia que habrá corte de luz programado para el martes 22 de septiembre en diversos distritos de Lima y el Callao. Conoce qué zonas se verán afectadas.",
+      "temas": [
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Callao",
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:\"corte de luz\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-25 10:32"
     },
     {
       "id": "b2dab1d2906e283a",
@@ -4906,6 +5581,31 @@
       "agregado": "2026-09-25 00:04"
     },
     {
+      "id": "57ec32a308471d02",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab693f4b9684e7fb01db4dda4455707&url=https%3a%2f%2flarepublica.pe%2fservicios%2f2026%2f09%2f21%2fcorte-de-agua-hoy-21-de-septiembre-sedapal-suspende-el-servicio-en-ate-sjl-y-pueblo-libre-por-varias-horas-1448979&c=8506962417044161861&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab693f4b9684e7fb01db4dda4455707&url=https%3A%2F%2Flarepublica.pe%2Fservicios%2F2026%2F09%2F21%2Fcorte-de-agua-hoy-21-de-septiembre-sedapal-suspende-el-servicio-en-ate-sjl-y-pueblo-libre-por-varias-horas-1448979&c=8506962417044161861&mkt=es-us",
+      "titulo": "Corte de agua hoy, 21 de septiembre: Sedapal suspende el servicio en Ate, SJL y Pueblo Libre por varias horas",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-20",
+      "fecha_hecho": null,
+      "snippet": "Sedapal programó cortes de agua para hoy, 21 de septiembre, en sectores de Ate, San Juan de Lurigancho y Pueblo Libre. Revisa las zonas afectadas y horarios de reposición del servicio.",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "San Juan de Lurigancho",
+        "Ate"
+      ],
+      "score": 3,
+      "query": "bing:Sedapal",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-25 10:32"
+    },
+    {
       "id": "c53e3b8444e8d403",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTUI0eG5IREg1OHBmY2I0M0lqYVRrQlR5R1VWSG5hMWJXU1NHczU2c0pHXzhRYk9qdkxRaTVmV05VYlJBM2xoMkJtWkRmZW5wbnNXU3ZBakNTQ0FVSU1FZHduZG1zMU9PbWlaZHpqWVpMemgwaTNfLTBmWFM4eUE2ZUhCaWZwWjg2dHlhV0t6a0VmaUVyYmxRcHU1MkwyTF9ZYUN3a2pRV240MnFZNm9zYTFCUUtUYmlRMmFKeHlMWUpuOWZ5YTBzN0NUU2d5NHdyVEh3?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTUI0eG5IREg1OHBmY2I0M0lqYVRrQlR5R1VWSG5hMWJXU1NHczU2c0pHXzhRYk9qdkxRaTVmV05VYlJBM2xoMkJtWkRmZW5wbnNXU3ZBakNTQ0FVSU1FZHduZG1zMU9PbWlaZHpqWVpMemgwaTNfLTBmWFM4eUE2ZUhCaWZwWjg2dHlhV0t6a0VmaUVyYmxRcHU1MkwyTF9ZYUN3a2pRV240MnFZNm9zYTFCUUtUYmlRMmFKeHlMWUpuOWZ5YTBzN0NUU2d5NHdyVEh3",
@@ -5097,6 +5797,30 @@
       "agregado": "2026-09-25 00:04"
     },
     {
+      "id": "ad87fda5a19af353",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab693edad4343d4b7061d3cc49b72cc&url=https%3a%2f%2fwww.exitosanoticias.pe%2factualidad%2fcorte-agua-21-22-septiembre-distritos-afectados-horarios-sedapal-n184165&c=85694921647807977&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab693edad4343d4b7061d3cc49b72cc&url=https%3A%2F%2Fwww.exitosanoticias.pe%2Factualidad%2Fcorte-agua-21-22-septiembre-distritos-afectados-horarios-sedapal-n184165&c=85694921647807977&mkt=es-us",
+      "titulo": "Corte de agua el 21 y 22 de septiembre: distritos afectados y horarios, según Sedapal",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-20",
+      "fecha_hecho": null,
+      "snippet": "Sedapal anuncia que habrá corte temporal del servicio de agua potable en algunos distritos de Lima el 21 y 22 de septiembre. Descubre qué zonas se verán afectadas y en qué horarios.",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:\"corte de agua\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-25 10:32"
+    },
+    {
       "id": "87c93ca340f6b6a9",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab20c2f66504436919d017c2da9e94f&url=https%3a%2f%2fdiariocorreo.pe%2fedicion%2farequipa%2fbomberos-trabajaron-14-horas-por-falta-de-agua-para-controlar-incendio-en-majes-noticia%2f&c=1449356630176793438&mkt=es-us",
       "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab20c2f66504436919d017c2da9e94f&url=https%3A%2F%2Fdiariocorreo.pe%2Fedicion%2Farequipa%2Fbomberos-trabajaron-14-horas-por-falta-de-agua-para-controlar-incendio-en-majes-noticia%2F&c=1449356630176793438&mkt=es-us",
@@ -5227,6 +5951,28 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-09-25 00:04"
+    },
+    {
+      "id": "5c40a7c286a4d133",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab6940013054711b3eb323e46e398e7&url=https%3a%2f%2fdiariocorreo.pe%2fedicion%2farequipa%2fbomberos-trabajaron-14-horas-por-falta-de-agua-para-controlar-incendio-en-majes-noticia%2f&c=1449356630176793438&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab6940013054711b3eb323e46e398e7&url=https%3A%2F%2Fdiariocorreo.pe%2Fedicion%2Farequipa%2Fbomberos-trabajaron-14-horas-por-falta-de-agua-para-controlar-incendio-en-majes-noticia%2F&c=1449356630176793438&mkt=es-us",
+      "titulo": "Bomberos trabajaron 14 horas por falta de agua para controlar incendio en Majes",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-20",
+      "fecha_hecho": null,
+      "snippet": "Seis compañías y 50 efectivos intervinieron para contener el siniestro registrado en un área de 6 mil metros cuadrados ...",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:\"relleno sanitario\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-25 10:32"
     },
     {
       "id": "1d63604016cfd93e",
@@ -5611,6 +6357,31 @@
       "agregado": "2026-09-25 00:04"
     },
     {
+      "id": "e375a36fb1a1c101",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab693f4b9684e7fb01db4dda4455707&url=https%3a%2f%2felcomercio.pe%2frespuestas%2fa-que-hora%2fsedapal-anuncia-corte-de-agua-hoy-horarios-y-distritos-afectados-tdpe-noticia%2f&c=8941584100536810560&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab693f4b9684e7fb01db4dda4455707&url=https%3A%2F%2Felcomercio.pe%2Frespuestas%2Fa-que-hora%2Fsedapal-anuncia-corte-de-agua-hoy-horarios-y-distritos-afectados-tdpe-noticia%2F&c=8941584100536810560&mkt=es-us",
+      "titulo": "Sedapal anuncia corte de agua HOY: horarios y distritos afectados este 19 de septiembre",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-19",
+      "fecha_hecho": null,
+      "snippet": "Sedapal reportó un nuevo corte de agua programado para Lima y Callao. Revisa las zonas afectadas y los horarios.",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Callao",
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:Sedapal",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-25 10:32"
+    },
+    {
       "id": "d5bf9ffd97efef44",
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNdXJQbUl6UHE1UnBwc0dGSGdxTVgyTm5sYTVGbmdla0lyY2ZBeW5BTmNDcFhxaUptWUZub2k1cDFLN1M1SHo2cWdpTTVmRE9WUzBQYll6MkR0elZWUVZ6OWRXZFhiaG5GRnVXRlVDM0ZBV211QVJQSkF4YWlwY2V0NWc3ckE1UFRVTDRqOTNFZ1NHZXlnYm9pTmxoVUg0c2hDR3A0dFFWc21fWVE0dnd6RWZ1M0hEOHNkQnlIXzlNa3hpaUJVRC1tTWZFNHBPeDRQMjRYUjh6ck8zaTJURWZZNGYwR0tZdm1mVEFtV0Qza3QtcTZKMmhNRVdJaTRFTGg2SGtBbWozNi1wZ9IBigJBVV95cUxNdXJQbUl6UHE1UnBwc0dGSGdxTVgyTm5sYTVGbmdla0lyY2ZBeW5BTmNDcFhxaUptWUZub2k1cDFLN1M1SHo2cWdpTTVmRE9WUzBQYll6MkR0elZWUVZ6OWRXZFhiaG5GRnVXRlVDM0ZBV211QVJQSkF4YWlwY2V0NWc3ckE1UFRVTDRqOTNFZ1NHZXlnYm9pTmxoVUg0c2hDR3A0dFFWc21fWVE0dnd6RWZ1M0hEOHNkQnlIXzlNa3hpaUJVRC1tTWZFNHBPeDRQMjRYUjh6ck8zaTJURWZZNGYwR0tZdm1mVEFtV0Qza3QtcTZKMmhNRVdJaTRFTGg2SGtBbWozNi1wZw?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNdXJQbUl6UHE1UnBwc0dGSGdxTVgyTm5sYTVGbmdla0lyY2ZBeW5BTmNDcFhxaUptWUZub2k1cDFLN1M1SHo2cWdpTTVmRE9WUzBQYll6MkR0elZWUVZ6OWRXZFhiaG5GRnVXRlVDM0ZBV211QVJQSkF4YWlwY2V0NWc3ckE1UFRVTDRqOTNFZ1NHZXlnYm9pTmxoVUg0c2hDR3A0dFFWc21fWVE0dnd6RWZ1M0hEOHNkQnlIXzlNa3hpaUJVRC1tTWZFNHBPeDRQMjRYUjh6ck8zaTJURWZZNGYwR0tZdm1mVEFtV0Qza3QtcTZKMmhNRVdJaTRFTGg2SGtBbWozNi1wZ9IBigJBVV95cUxNdXJQbUl6UHE1UnBwc0dGSGdxTVgyTm5sYTVGbmdla0lyY2ZBeW5BTmNDcFhxaUptWUZub2k1cDFLN1M1SHo2cWdpTTVmRE9WUzBQYll6MkR0elZWUVZ6OWRXZFhiaG5GRnVXRlVDM0ZBV211QVJQSkF4YWlwY2V0NWc3ckE1UFRVTDRqOTNFZ1NHZXlnYm9pTmxoVUg0c2hDR3A0dFFWc21fWVE0dnd6RWZ1M0hEOHNkQnlIXzlNa3hpaUJVRC1tTWZFNHBPeDRQMjRYUjh6ck8zaTJURWZZNGYwR0tZdm1mVEFtV0Qza3QtcTZKMmhNRVdJaTRFTGg2SGtBbWozNi1wZw",
@@ -5957,6 +6728,28 @@
       "agregado": "2026-09-24 16:35"
     },
     {
+      "id": "1cf5e31fe6986015",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab693fd703e4d458c90c11f80db8993&url=https%3a%2f%2fwww.ad-hoc-news.de%2fboerse%2fnews%2fnebenwerte%2fdie-hidrandina-aktie-bleibt-ein-verborgenes-infrastruktur-wertpapier%2f70131267&c=17711466281035423978&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab693fd703e4d458c90c11f80db8993&url=https%3A%2F%2Fwww.ad-hoc-news.de%2Fboerse%2Fnews%2Fnebenwerte%2Fdie-hidrandina-aktie-bleibt-ein-verborgenes-infrastruktur-wertpapier%2F70131267&c=17711466281035423978&mkt=es-us",
+      "titulo": "Die Hidrandina-Aktie bleibt ein verborgenes Infrastruktur-Wertpapier",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-19",
+      "fecha_hecho": null,
+      "snippet": "Die Hidrandina-Aktie des peruanischen Stromversorgers Hidrandina S.A. (ISIN PEP779401002) repräsentiert ein regionales Infrastruktur-Unternehmen im Energiesektor, dessen Anteile nur sehr begrenzt im ...",
+      "temas": [
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:Hidrandina",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-25 10:32"
+    },
+    {
       "id": "b2ea53eea743a046",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUnMzUnJOdWNqSGRXRm43NkFKbjhyZmU1S2VNb05nRXRKOHdFeFV3Qi1HREN5YnpPUGhsVjh2QlgxZV94bldXc21ESW1jcl9pMVloY1lmY1dldEZZN2gxVWZZOXFXZmNkUXhpbGNLbXdEVnF6OTVNMDBVV0VJSV8zdGdoUVBJaTZ1clJEUGVSRjJCN2VZeE85SUtEYV92RjRhVkVYOGxlQURPc1NlNXdSMWFETVZLcGlfN1VTdGtnNERxckQ3T3c?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUnMzUnJOdWNqSGRXRm43NkFKbjhyZmU1S2VNb05nRXRKOHdFeFV3Qi1HREN5YnpPUGhsVjh2QlgxZV94bldXc21ESW1jcl9pMVloY1lmY1dldEZZN2gxVWZZOXFXZmNkUXhpbGNLbXdEVnF6OTVNMDBVV0VJSV8zdGdoUVBJaTZ1clJEUGVSRjJCN2VZeE85SUtEYV92RjRhVkVYOGxlQURPc1NlNXdSMWFETVZLcGlfN1VTdGtnNERxckQ3T3c",
@@ -6065,6 +6858,28 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-09-25 00:04"
+    },
+    {
+      "id": "60c64d2b431ddd80",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab693ef3dc54eeab6039c0540ab2b41&url=https%3a%2f%2felcomercio.pe%2fnoticias%2fcorte-de-luz%2f&c=8799504699618381161&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab693ef3dc54eeab6039c0540ab2b41&url=https%3A%2F%2Felcomercio.pe%2Fnoticias%2Fcorte-de-luz%2F&c=8799504699618381161&mkt=es-us",
+      "titulo": "Corte de luz",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-19",
+      "fecha_hecho": null,
+      "snippet": "Pluz Energía anunció un nuevo corte de luz programado. Revisa si tu zona se verá afectada por la falta del servicio de alumbrado y electricidad. Pluz Energía anunció un nuevo corte de luz programado.",
+      "temas": [
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:\"corte de luz\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-25 10:32"
     },
     {
       "id": "742bb40e3476e9a2",
@@ -7356,6 +8171,31 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-09-25 00:04"
+    },
+    {
+      "id": "48b2ea2f8a86eae5",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab693ef3dc54eeab6039c0540ab2b41&url=https%3a%2f%2frpp.pe%2fperu%2factualidad%2fcorte-de-luz-en-lima-y-callao-del-sabado-19-al-20-de-septiembre-distritos-afectados-y-horarios-noticia-1708215&c=18337992567152061685&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab693ef3dc54eeab6039c0540ab2b41&url=https%3A%2F%2Frpp.pe%2Fperu%2Factualidad%2Fcorte-de-luz-en-lima-y-callao-del-sabado-19-al-20-de-septiembre-distritos-afectados-y-horarios-noticia-1708215&c=18337992567152061685&mkt=es-us",
+      "titulo": "Anuncian corte de luz en Lima y Callao del 19 al 20 de septiembre: distritos afectados y horarios",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-18",
+      "fecha_hecho": null,
+      "snippet": "Revisa los horarios y las zonas afectadas por los cortes de luz programados en diferentes distritos de Lima y Callao durante este fin de semana.",
+      "temas": [
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Callao",
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:\"corte de luz\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-25 10:32"
     },
     {
       "id": "93e5c6f047a45265",
@@ -9432,6 +10272,31 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-09-24 16:35"
+    },
+    {
+      "id": "fb74b2b03d658b12",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab693fbeba84152a24d834c00134925&url=https%3a%2f%2fwww.msn.com%2fes-es%2fnoticias%2fotras%2fel-gobierno-peruano-niega-que-vaya-a-privatizar-el-servicio-de-agua-potable-y-alcantarillado-de-lima-sedapal%2far-AA2cgL0Y&c=9784387486893853239&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab693fbeba84152a24d834c00134925&url=https%3A%2F%2Fwww.msn.com%2Fes-es%2Fnoticias%2Fotras%2Fel-gobierno-peruano-niega-que-vaya-a-privatizar-el-servicio-de-agua-potable-y-alcantarillado-de-lima-sedapal%2Far-AA2cgL0Y&c=9784387486893853239&mkt=es-us",
+      "titulo": "El Gobierno peruano niega que vaya a privatizar el Servicio de Agua Potable y Alcantarillado de Lima (Sedapal)",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-15",
+      "fecha_hecho": null,
+      "snippet": "La firma estatal ha invertido 92,6 millones de euros en construir canales y limpiar cauces para anticiparse a los efectos de 'El Niño' MADRID, 15 (EUROPA PRESS) El ministro de Vivienda, Construcción y ...",
+      "temas": [
+        "Agua por red pública",
+        "Alcantarillado"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 5,
+      "query": "bing:alcantarillado Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-25 10:32"
     },
     {
       "id": "d5d1d1248c28875b",
@@ -12453,6 +13318,30 @@
       "agregado": "2026-09-25 00:04"
     },
     {
+      "id": "736efd705ff7e9c2",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab693f29b524a3fba2fafbbc8d8d678&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f09%2f10%2fllovizna-inunda-bypass-de-villa-maria-del-triunfo-y-restringen-el-transito-en-la-avenida-pachacutec%2f&c=14885752106282139944&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab693f29b524a3fba2fafbbc8d8d678&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F09%2F10%2Fllovizna-inunda-bypass-de-villa-maria-del-triunfo-y-restringen-el-transito-en-la-avenida-pachacutec%2F&c=14885752106282139944&mkt=es-us",
+      "titulo": "Llovizna inunda bypass de Villa María del Triunfo y restringen el tránsito en la avenida Pachacútec",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-10",
+      "fecha_hecho": null,
+      "snippet": "El aniego obligó a restringir temporalmente el paso vehicular en la avenida Pachacútec. El nivel del agua llegó a superar la mitad de las llantas de algunos vehículos ...",
+      "temas": [
+        "Alcantarillado"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Villa María del Triunfo"
+      ],
+      "score": 3,
+      "query": "bing:aniego Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-25 10:32"
+    },
+    {
       "id": "9fd9ed79c5a13dd2",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOR0F3cDcwT0lEbWJGcXNvMGxTODZlLU96MnpnQUxPME5aX1RyYVV3aWtTRmdsOFdWWkc0NER6RldnMm1GNEtfeHlQdGdhQThuS0F2enlBQVZZNDM2aDB4S3F4eXVMTlY3NnN2U2duZXdENmxMZTBLTkZ3bWNRbWcwSkdLdE0xMEllR29EdFhrQmdXOG5OYUJmT3NfVG5IbWxVSVR1eE56WWlOanNfeDRaQm9iX1JfbWtxRHExWjBCMVBSeUdnRjNFZXRVZUFMMkxwZmUzcw?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOR0F3cDcwT0lEbWJGcXNvMGxTODZlLU96MnpnQUxPME5aX1RyYVV3aWtTRmdsOFdWWkc0NER6RldnMm1GNEtfeHlQdGdhQThuS0F2enlBQVZZNDM2aDB4S3F4eXVMTlY3NnN2U2duZXdENmxMZTBLTkZ3bWNRbWcwSkdLdE0xMEllR29EdFhrQmdXOG5OYUJmT3NfVG5IbWxVSVR1eE56WWlOanNfeDRaQm9iX1JfbWtxRHExWjBCMVBSeUdnRjNFZXRVZUFMMkxwZmUzcw",
@@ -13980,6 +14869,30 @@
       "agregado": "2026-09-25 00:04"
     },
     {
+      "id": "fc8443d1759ff581",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab693f4b9684e7fb01db4dda4455707&url=https%3a%2f%2fwapa.pe%2focio%2f2026%2f09%2f07%2fsedapal-anuncia-cortes-agua-9-septiembre-revisa-zonas-horarios-450772&c=7878198995881092284&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab693f4b9684e7fb01db4dda4455707&url=https%3A%2F%2Fwapa.pe%2Focio%2F2026%2F09%2F07%2Fsedapal-anuncia-cortes-agua-9-septiembre-revisa-zonas-horarios-450772&c=7878198995881092284&mkt=es-us",
+      "titulo": "Sedapal anuncia cortes de agua hasta el 9 de septiembre: revisa las zonas y horarios",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-06",
+      "fecha_hecho": null,
+      "snippet": "Sedapal anunció cortes programados de agua en distintos distritos de Lima por trabajos de mantenimiento. Conoce las recomendaciones para afrontar la suspensión.",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:Sedapal",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-25 10:32"
+    },
+    {
       "id": "bb875a883dfeb923",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aad75ff63524fe4aab7e71ced72d098&url=https%3a%2f%2fwww.msn.com%2fes-pe%2fpol%25C3%25ADtica%2fgobierno%2fgobierno-designa-a-fernando-laca-como-presidente-de-sedapal%2fvi-AA2bFMvb&c=11622889371856522139&mkt=es-xl",
       "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aad75ff63524fe4aab7e71ced72d098&url=https%3A%2F%2Fwww.msn.com%2Fes-pe%2Fpol%25C3%25ADtica%2Fgobierno%2Fgobierno-designa-a-fernando-laca-como-presidente-de-sedapal%2Fvi-AA2bFMvb&c=11622889371856522139&mkt=es-xl",
@@ -14334,6 +15247,28 @@
       "agregado": "2026-09-25 00:04"
     },
     {
+      "id": "6e35b8461f11ab0d",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab693f4b9684e7fb01db4dda4455707&url=https%3a%2f%2fgestion.pe%2fperu%2fpolitica%2fsedapal-designan-nuevo-presidente-del-directorio-tras-anuncio-de-reestructuracion-noticia%2f&c=8301890042631091685&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab693f4b9684e7fb01db4dda4455707&url=https%3A%2F%2Fgestion.pe%2Fperu%2Fpolitica%2Fsedapal-designan-nuevo-presidente-del-directorio-tras-anuncio-de-reestructuracion-noticia%2F&c=8301890042631091685&mkt=es-us",
+      "titulo": "Sedapal: designan nuevo presidente del directorio tras anuncio de reestructuración",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-05",
+      "fecha_hecho": null,
+      "snippet": "La designación se produce mientras Sedapal inicia una nueva etapa enfocada en mejorar la eficiencia de su gestión y la calidad del servicio.",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:Sedapal",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-25 10:32"
+    },
+    {
       "id": "742e7e4b13c79fe6",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTU9BczA0Z3pLWEt2TVhjVzl0aDJNVW1OSUQ4dUhLR0VIbDN5SHo1c3o0S3NXcTRwLXFscFBlXzZIUno0Z0QzMHFyaHBWNmg2Uzh3ckRoaVd0eEVOTFluOHgwbG1sZC1IQlVsWXMzcnk1ZnpUUV9NZm5RUGJkVm9uMlNrWXI5dklkSmhLcEZlRlQ5a28zd2dQeGFtellabGFRYVlUMkdFbTdLTC1YZmVpbWRYNm5sNkNMZm5JcjNISnlPa0hvQU1vb9IB4wFBVV95cUxNd3ozcXRoZVVObnU4YjJOR2gxS1NlZm9wZ0J3MW9CV0tFQ3RBbWpUSWlVWmJma3pZdXlENl9ob0lLNEQwWjFEbXRIOURQZXk2cVlpcC1qX0hyaFdJUTcwdllPdElzUV9tMzhHSG1yQnprNzdBeWZLNkxqM2hWLV83aGJ5bVFGdElGVE9sSWxFR1paXzkybGMxZENtVWl0d2hxZ21fd0dxdzBlVm9UWF8yTzZGVjFmb1MtTjNkM0FVcXlrMFhDOW1RQTBzVFNRU2k4WVEtdE9mOFpTZk5jOUVMWXFEdw?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTU9BczA0Z3pLWEt2TVhjVzl0aDJNVW1OSUQ4dUhLR0VIbDN5SHo1c3o0S3NXcTRwLXFscFBlXzZIUno0Z0QzMHFyaHBWNmg2Uzh3ckRoaVd0eEVOTFluOHgwbG1sZC1IQlVsWXMzcnk1ZnpUUV9NZm5RUGJkVm9uMlNrWXI5dklkSmhLcEZlRlQ5a28zd2dQeGFtellabGFRYVlUMkdFbTdLTC1YZmVpbWRYNm5sNkNMZm5JcjNISnlPa0hvQU1vb9IB4wFBVV95cUxNd3ozcXRoZVVObnU4YjJOR2gxS1NlZm9wZ0J3MW9CV0tFQ3RBbWpUSWlVWmJma3pZdXlENl9ob0lLNEQwWjFEbXRIOURQZXk2cVlpcC1qX0hyaFdJUTcwdllPdElzUV9tMzhHSG1yQnprNzdBeWZLNkxqM2hWLV83aGJ5bVFGdElGVE9sSWxFR1paXzkybGMxZENtVWl0d2hxZ21fd0dxdzBlVm9UWF8yTzZGVjFmb1MtTjNkM0FVcXlrMFhDOW1RQTBzVFNRU2k4WVEtdE9mOFpTZk5jOUVMWXFEdw",
@@ -14464,6 +15399,28 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-09-24 16:35"
+    },
+    {
+      "id": "e52e75a69bef08f2",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab693f4b9684e7fb01db4dda4455707&url=https%3a%2f%2felcomercio.pe%2feconomia%2fperu%2fsedapal-inicia-reestructuracion-con-fernando-laca-barrera-como-nuevo-presidente-del-directorio-nombramientos-noticia%2f&c=11390295899153915495&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab693f4b9684e7fb01db4dda4455707&url=https%3A%2F%2Felcomercio.pe%2Feconomia%2Fperu%2Fsedapal-inicia-reestructuracion-con-fernando-laca-barrera-como-nuevo-presidente-del-directorio-nombramientos-noticia%2F&c=11390295899153915495&mkt=es-us",
+      "titulo": "Sedapal inicia reestructuración con Fernando Laca Barrera como nuevo presidente del directorio",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-05",
+      "fecha_hecho": null,
+      "snippet": "El Gobierno designó al exviceministro de Construcción y Saneamiento para liderar el directorio de la empresa. El Ejecutivo asegura que el proceso busca mejorar la gestión y la calidad del servicio y d ...",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:Sedapal",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-25 10:32"
     },
     {
       "id": "73c21af41a6f0eae",
@@ -14812,6 +15769,31 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-09-25 00:04"
+    },
+    {
+      "id": "c7dbf5665ff206ca",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab693ef3dc54eeab6039c0540ab2b41&url=https%3a%2f%2felcomercio.pe%2frespuestas%2fa-que-hora%2fcorte-de-luz-en-lima-y-callao-hoy-5-de-setiembre-zonas-afectadas-en-cada-distrito-y-horarios-tdpe-noticia%2f&c=12275460625291201903&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab693ef3dc54eeab6039c0540ab2b41&url=https%3A%2F%2Felcomercio.pe%2Frespuestas%2Fa-que-hora%2Fcorte-de-luz-en-lima-y-callao-hoy-5-de-setiembre-zonas-afectadas-en-cada-distrito-y-horarios-tdpe-noticia%2F&c=12275460625291201903&mkt=es-us",
+      "titulo": "Corte de luz hoy, sábado 5 de setiembre: horarios y distritos afectados en Lima",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-05",
+      "fecha_hecho": null,
+      "snippet": "Corte de luz HOY: Conoce qué zonas de Lima y Callao se verán afectadas por la interrupción del servicio y en qué horarios se dará el corte. Revisa los reportes de Pluz Energía en la siguiente nota.",
+      "temas": [
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Callao",
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:\"corte de luz\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-25 10:32"
     },
     {
       "id": "d88baaa765c6445b",
@@ -15876,5 +16858,5 @@
       "descartar": false
     }
   ],
-  "n": 675
+  "n": 716
 }
