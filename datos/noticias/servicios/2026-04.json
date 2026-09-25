@@ -1,6 +1,6 @@
 {
   "mes": "2026-04",
-  "actualizado": "2026-09-25 10:27",
+  "actualizado": "2026-09-25 16:35",
   "items": [
     {
       "id": "e82b01a5eca5be1b",
@@ -2014,6 +2014,28 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-09-25 00:04"
+    },
+    {
+      "id": "0fe4467734e7a98a",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab6e90d855e41f6945462fa385f4538&url=https%3a%2f%2fwww.ad-hoc-news.de%2fboerse%2fnews%2fueberblick%2fhidrandina-s-a-accion-pep779401002-por-que-su-rol-en-el-agua%2f69206413&c=3856690280353045159&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab6e90d855e41f6945462fa385f4538&url=https%3A%2F%2Fwww.ad-hoc-news.de%2Fboerse%2Fnews%2Fueberblick%2Fhidrandina-s-a-accion-pep779401002-por-que-su-rol-en-el-agua%2F69206413&c=3856690280353045159&mkt=es-us",
+      "titulo": "Hidrandina S.A. acción (PEP779401002): ¿Por qué su rol en el agua peruana importa más ahora?",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-04-19",
+      "fecha_hecho": null,
+      "snippet": "¿Es el control regional del agua en Perú la clave para oportunidades estables en utilities? Descubre por qué esta acción interesa a inversionistas en España, América Latina y el mundo hispanohablante.",
+      "temas": [
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:Hidrandina",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-25 16:35"
     },
     {
       "id": "ed2cbf01963b23a2",
@@ -5230,5 +5252,5 @@
       "descartar": false
     }
   ],
-  "n": 220
+  "n": 221
 }

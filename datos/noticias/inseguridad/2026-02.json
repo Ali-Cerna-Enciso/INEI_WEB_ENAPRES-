@@ -1,6 +1,6 @@
 {
   "mes": "2026-02",
-  "actualizado": "2026-09-25 10:30",
+  "actualizado": "2026-09-25 16:33",
   "items": [
     {
       "id": "08be74dba74aeb1c",
@@ -1317,6 +1317,30 @@
       "agregado": "2026-09-25 10:30"
     },
     {
+      "id": "5d2181b6d733fb21",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab6e8a8896546fc88edb85b1f33f826&url=https%3a%2f%2fes-us.noticias.yahoo.com%2fpol%25C3%25A9micas-imputaciones-presidente-per%25C3%25BA-prevaricato-162703297.html&c=11296361226813998780&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab6e8a8896546fc88edb85b1f33f826&url=https%3A%2F%2Fes-us.noticias.yahoo.com%2Fpol%25C3%25A9micas-imputaciones-presidente-per%25C3%25BA-prevaricato-162703297.html&c=11296361226813998780&mkt=es-us",
+      "titulo": "Las polémicas e imputaciones del nuevo presidente de Perú: prevaricato, fraude y estafa",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-02-19",
+      "fecha_hecho": null,
+      "snippet": "Lima, 19 feb (EFE).- El nuevo presidente interino de Perú, el izquierdista José María Balcázar, acumula una serie de polémicas e imputaciones por hasta trece delitos distintos como prevaricato, fraude ...",
+      "temas": [
+        "Estafa"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:estafa Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-25 16:33"
+    },
+    {
       "id": "d24d2021146632e7",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZGxvdUk3R0hIeXFVSTZ2YkRaWXFObkl1LXFXTEpMcmJrOTFnT1NHd0h6V2JJczB5WHQ3WDhxc2d1d1ZJMnFwMkxLTXdQNHVQYmFrdWpQNkZJVkRaNG5LQkhTeTdKSHJTWWZrVVdlNW11VlVpN3lIQl9rUFA1WXVHNU42emVGRVpKdUNaVTlsLTdjUUgt?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZGxvdUk3R0hIeXFVSTZ2YkRaWXFObkl1LXFXTEpMcmJrOTFnT1NHd0h6V2JJczB5WHQ3WDhxc2d1d1ZJMnFwMkxLTXdQNHVQYmFrdWpQNkZJVkRaNG5LQkhTeTdKSHJTWWZrVVdlNW11VlVpN3lIQl9rUFA1WXVHNU42emVGRVpKdUNaVTlsLTdjUUgt",
@@ -2314,6 +2338,30 @@
       "agregado": "2026-09-18 12:27",
       "tipo_fuente": "Redes sociales",
       "descartar": false
+    },
+    {
+      "id": "d251c0be13550e0e",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab6e8b9d4744f81b47065789e465873&url=https%3a%2f%2fdiariocorreo.pe%2fedicion%2fla-libertad%2fpolicia-ejecuta-operativo-en-cerro-de-los-pulpos-trujillo-la-libertad-peru-noticia%2f&c=5837782903159888607&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab6e8b9d4744f81b47065789e465873&url=https%3A%2F%2Fdiariocorreo.pe%2Fedicion%2Fla-libertad%2Fpolicia-ejecuta-operativo-en-cerro-de-los-pulpos-trujillo-la-libertad-peru-noticia%2F&c=5837782903159888607&mkt=es-us",
+      "titulo": "Trujillo: Policía ejecuta operativo en cerro de “Los Pulpos”",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-02-13",
+      "fecha_hecho": null,
+      "snippet": "Este operativo estuvo al mando del coronel PNP Johnny Huamán Mariano, jefe de la División de Orden Público y Seguridad (Divopus) Trujillo, y se inició en el ingreso al distrito zapatero hasta llegar a ...",
+      "temas": [
+        "Asalto a mano armada"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 2,
+      "query": "bing:\"Los Pulpos\" Trujillo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-25 16:33"
     },
     {
       "id": "fb2ade822577b481",
@@ -4484,5 +4532,5 @@
       "descartar": false
     }
   ],
-  "n": 198
+  "n": 200
 }
