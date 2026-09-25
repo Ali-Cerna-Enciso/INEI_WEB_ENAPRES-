@@ -1,6 +1,6 @@
 {
   "mes": "2026-08",
-  "actualizado": "2026-09-24 16:35",
+  "actualizado": "2026-09-25 00:04",
   "items": [
     {
       "id": "bb9b57aa4ebf0c95",
@@ -223,6 +223,28 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-09-24 10:30"
+    },
+    {
+      "id": "59984bd56bb485dc",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab600c2db5f4186a0d590b23aafc6db&url=https%3a%2f%2frpp.pe%2fpolitica%2fgobierno%2fsedapal-entra-en-reestructuracion-cuando-se-realizaran-los-cambios-del-directorio-noticia-1704749&c=16762080106188387549&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab600c2db5f4186a0d590b23aafc6db&url=https%3A%2F%2Frpp.pe%2Fpolitica%2Fgobierno%2Fsedapal-entra-en-reestructuracion-cuando-se-realizaran-los-cambios-del-directorio-noticia-1704749&c=16762080106188387549&mkt=es-us",
+      "titulo": "Reestructuración de Sedapal iniciará con nuevo directorio a partir del 4 de septiembre, asegura ministro de Vivienda",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-31",
+      "fecha_hecho": null,
+      "snippet": "El ministro de Vivienda, Mauricio Arnillas, también consideró que sería una irresponsabilidad si el Congreso le niega al Ejecutivo las facultades legislativas.",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:Sedapal",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-25 00:04"
     },
     {
       "id": "8b29e2d63381b7f4",
@@ -884,6 +906,30 @@
       "descartar": false
     },
     {
+      "id": "394046fefa646b5f",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab600c2db5f4186a0d590b23aafc6db&url=https%3a%2f%2flarepublica.pe%2fsociedad%2f2026%2f08%2f22%2fsedapal-anuncia-corte-de-agua-de-hasta-10-horas-para-este-lunes-24-de-agosto-lista-de-distritos-afectados-1756238&c=6314359192540981325&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab600c2db5f4186a0d590b23aafc6db&url=https%3A%2F%2Flarepublica.pe%2Fsociedad%2F2026%2F08%2F22%2Fsedapal-anuncia-corte-de-agua-de-hasta-10-horas-para-este-lunes-24-de-agosto-lista-de-distritos-afectados-1756238&c=6314359192540981325&mkt=es-us",
+      "titulo": "Sedapal anuncia corte de agua de hasta 10 horas para este lunes 24 de agosto: LISTA de distritos afectados",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-24",
+      "fecha_hecho": null,
+      "snippet": "Sedapal anuncia interrupciones programadas en el servicio de agua potable en Lima el 24 de agosto. Los cortes serán por trabajos de mantenimiento y afectarán zonas específicas.",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:Sedapal",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-25 00:04"
+    },
+    {
       "id": "2ab2372a82d458f1",
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOaFZlcVpxN0JyQU02Zk5GOXU2YVpCQ0h4TWoxNjhyYS1JZmdBY29BUk1nNlR3WXBEemNzYVVjaEtlS2NfLV91ZXVmbjZyN0tfWjNZS3N2SFdrNnpEZGJBQVBfOGhYY1RfdUtRNnEtRHYxdHFFY280SUJxb2ZvVVNPV3g2MmZsSVhsYktjdXRMZG04VHV0dUhMeEhucFVoNWYySFM1cmdKQlVIWVdoSHIta1dGai1NU3JIUVNlZ1ROOVpmZk1MV0VSWjQxZ1JuTm9FWXBuT25Vb0NTdTFvYVlMNHc3aEJ0WFZUQkhFMEZjSDk0OW56NUQyNnhYUG5nV2tNbU1Ob2VvX1dRUlnSAZACQVVfeXFMTk9IVGlOUDJFdktxU1ZOLS0tUEl2V0NiVF9RcTJfQjdtMGpYV3AzMDZGc1RJYVQyelVvLW5uVkc1WW1qc2lmTHN5TFNuc0c3NDZTWFhCS3lvTDU3UXZITjNMUzR3OTNGX3J2d0VnTEtZeURIVEo3VG1jVFNwODBWMXBLTzZHT2RnaHZBMF83RjFfOEZjNWhTQTB4UXV1MUZveG1IUjhlVFVEd0txVWRtQWFNdWFDRXhrdF9US1FnNnNwN2UyamROWmhUM0tnanZOTmtBQ1ZHNWhPb0pDVkNHeEdMRkNXaVR4cHFPbTZucVRGNTQ3YV9DaldMUS13Z3pyNTRORV9zbmttZmZLOFphWXk?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOaFZlcVpxN0JyQU02Zk5GOXU2YVpCQ0h4TWoxNjhyYS1JZmdBY29BUk1nNlR3WXBEemNzYVVjaEtlS2NfLV91ZXVmbjZyN0tfWjNZS3N2SFdrNnpEZGJBQVBfOGhYY1RfdUtRNnEtRHYxdHFFY280SUJxb2ZvVVNPV3g2MmZsSVhsYktjdXRMZG04VHV0dUhMeEhucFVoNWYySFM1cmdKQlVIWVdoSHIta1dGai1NU3JIUVNlZ1ROOVpmZk1MV0VSWjQxZ1JuTm9FWXBuT25Vb0NTdTFvYVlMNHc3aEJ0WFZUQkhFMEZjSDk0OW56NUQyNnhYUG5nV2tNbU1Ob2VvX1dRUlnSAZACQVVfeXFMTk9IVGlOUDJFdktxU1ZOLS0tUEl2V0NiVF9RcTJfQjdtMGpYV3AzMDZGc1RJYVQyelVvLW5uVkc1WW1qc2lmTHN5TFNuc0c3NDZTWFhCS3lvTDU3UXZITjNMUzR3OTNGX3J2d0VnTEtZeURIVEo3VG1jVFNwODBWMXBLTzZHT2RnaHZBMF83RjFfOEZjNWhTQTB4UXV1MUZveG1IUjhlVFVEd0txVWRtQWFNdWFDRXhrdF9US1FnNnNwN2UyamROWmhUM0tnanZOTmtBQ1ZHNWhPb0pDVkNHeEdMRkNXaVR4cHFPbTZucVRGNTQ3YV9DaldMUS13Z3pyNTRORV9zbmttZmZLOFphWXk",
@@ -1207,6 +1253,32 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-09-24 16:35"
+    },
+    {
+      "id": "f9c9c9205f5e8815",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab600bdb2dc44cd9fa04ce1c92c129d&url=https%3a%2f%2flarepublica.pe%2fsociedad%2f2026%2f08%2f23%2fcorte-de-luz-programado-para-este-24-de-agosto-revisa-los-horarios-y-que-distritos-de-lima-callao-y-regiones-no-tendran-servicio-2185299&c=15678457603232136508&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab600bdb2dc44cd9fa04ce1c92c129d&url=https%3A%2F%2Flarepublica.pe%2Fsociedad%2F2026%2F08%2F23%2Fcorte-de-luz-programado-para-este-24-de-agosto-revisa-los-horarios-y-que-distritos-de-lima-callao-y-regiones-no-tendran-servicio-2185299&c=15678457603232136508&mkt=es-us",
+      "titulo": "Corte de luz programado para este 24 de agosto: revisa los horarios y qué distritos de Lima, Callao y regiones no tendrán servicio",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-23",
+      "fecha_hecho": null,
+      "snippet": "Las interrupciones del servicio eléctrico en Lima incluyen sectores de San Juan de Lurigancho, Ventanilla y Hualmay. Los usuarios deben revisar los horarios específicos y posibles cambios en los crono ...",
+      "temas": [
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "San Juan de Lurigancho",
+        "Callao",
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:\"corte de luz\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-25 00:04"
     },
     {
       "id": "9016763727a2af67",
@@ -1788,6 +1860,31 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-09-24 16:35"
+    },
+    {
+      "id": "65ba8739dff53ddc",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab600bdb2dc44cd9fa04ce1c92c129d&url=https%3a%2f%2flibero.pe%2ftiempoextra%2f2026%2f08%2f19%2fcorte-de-luz-en-distritos-de-lima-callao-hoy-jueves-20-de-agosto-zonas-tendran-servicio-electrico-pluz-peru-1056362&c=12246942659473122791&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab600bdb2dc44cd9fa04ce1c92c129d&url=https%3A%2F%2Flibero.pe%2Ftiempoextra%2F2026%2F08%2F19%2Fcorte-de-luz-en-distritos-de-lima-callao-hoy-jueves-20-de-agosto-zonas-tendran-servicio-electrico-pluz-peru-1056362&c=12246942659473122791&mkt=es-us",
+      "titulo": "Corte de luz en distritos de Lima y Callao del 20 de agosto: qué zonas no tuvieron servicio eléctrico",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-20",
+      "fecha_hecho": null,
+      "snippet": "Este jueves 20 de agosto, distintos sectores de Lima y Callao tendrán una interrupción temporal del servicio eléctrico, de acuerdo con el cronograma de Pluz Energía. La medida contempla zonas ...",
+      "temas": [
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Callao",
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:\"corte de luz\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-25 00:04"
     },
     {
       "id": "26aa310890d9d894",
@@ -2546,6 +2643,29 @@
       "agregado": "2026-09-23 16:36"
     },
     {
+      "id": "d727d1f0d2216607",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab600c00361445ab0276a163fb7a379&url=https%3a%2f%2fgestion.pe%2fperu%2fpolitica%2falcalde-de-ves-responsabilizo-a-sedapal-por-colapso-del-desague-que-provoco-aniego-en-el-distrito-noticia%2f&c=16660487994077038954&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab600c00361445ab0276a163fb7a379&url=https%3A%2F%2Fgestion.pe%2Fperu%2Fpolitica%2Falcalde-de-ves-responsabilizo-a-sedapal-por-colapso-del-desague-que-provoco-aniego-en-el-distrito-noticia%2F&c=16660487994077038954&mkt=es-us",
+      "titulo": "Alcalde de VES responsabilizó a Sedapal por colapso del desagüe que provocó aniego en el distrito",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-18",
+      "fecha_hecho": null,
+      "snippet": "Guido Iñigo señaló que es la tercera vez que se registra un aniego en la zona y afirmó que la comuna alertó de esta problemática a Sedapal durante los últimos años.",
+      "temas": [
+        "Agua por red pública",
+        "Alcantarillado"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 5,
+      "query": "bing:aniego Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-25 00:04"
+    },
+    {
       "id": "8cf0ff5d1440ded1",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWjVyaUpWdmRQbVg5aUh4NF9DdGRWajNveDhQeU1EV3h6LU5CTnpac2xoQ1RPNUpyeHdDNkhJa2JoYjYxa1pvR2tCdGpMMWtPemE1M09UajBVYWt4bURsaGY0S1RCLXVpbldpa3JZeHhwUEwtUVpNN1hDYWc5ekxGZlRid3JwQXhNOEc3eGF6VTJTYy0yRTcwMFQ1T00xYzg5QVV2QUhaNVUzeTNxRTVTY0JWa2MzS3FTZm1oNTIxcEdTcUxSdS1BeVQ2c2VONG5YdVRTa0VYNGs2SEVraDNOUkVlcw?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWjVyaUpWdmRQbVg5aUh4NF9DdGRWajNveDhQeU1EV3h6LU5CTnpac2xoQ1RPNUpyeHdDNkhJa2JoYjYxa1pvR2tCdGpMMWtPemE1M09UajBVYWt4bURsaGY0S1RCLXVpbldpa3JZeHhwUEwtUVpNN1hDYWc5ekxGZlRid3JwQXhNOEc3eGF6VTJTYy0yRTcwMFQ1T00xYzg5QVV2QUhaNVUzeTNxRTVTY0JWa2MzS3FTZm1oNTIxcEdTcUxSdS1BeVQ2c2VONG5YdVRTa0VYNGs2SEVraDNOUkVlcw",
@@ -2928,6 +3048,30 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-09-24 16:35"
+    },
+    {
+      "id": "da4ff66159c7424b",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab600c00361445ab0276a163fb7a379&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f08%2f17%2fsujeto-es-intervenido-por-nadar-en-aniego-de-villa-maria-del-triunfo-y-acercarse-a-un-bus-atrapado-durante-la-inundacion%2f&c=17668756769815667530&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab600c00361445ab0276a163fb7a379&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F08%2F17%2Fsujeto-es-intervenido-por-nadar-en-aniego-de-villa-maria-del-triunfo-y-acercarse-a-un-bus-atrapado-durante-la-inundacion%2F&c=17668756769815667530&mkt=es-us",
+      "titulo": "Sujeto es intervenido por nadar en aniego de Villa María del Triunfo y acercarse a un bus atrapado durante la inundación",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-17",
+      "fecha_hecho": null,
+      "snippet": "El hombre recorrió varios metros por el agua acumulada en el bypass de Nueva Esperanza y llegó hasta un ómnibus inmovilizado por la inundación ...",
+      "temas": [
+        "Alcantarillado"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Villa María del Triunfo"
+      ],
+      "score": 3,
+      "query": "bing:aniego Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-25 00:04"
     },
     {
       "id": "e2d9d1518d4bc328",
@@ -4421,6 +4565,28 @@
       "agregado": "2026-09-24 16:35"
     },
     {
+      "id": "fc7ce9d8636692b6",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab600c5baff4f5ab61c4441856cde7e&url=https%3a%2f%2fwww.infobae.com%2fvideo%2factualidad%2fasi-se-vivio-el-apagon-en-la-rambla-san-borja%2fa9eveaVn%2f&c=18107217371874696151&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab600c5baff4f5ab61c4441856cde7e&url=https%3A%2F%2Fwww.infobae.com%2Fvideo%2Factualidad%2Fasi-se-vivio-el-apagon-en-la-rambla-san-borja%2Fa9eveaVn%2F&c=18107217371874696151&mkt=es-us",
+      "titulo": "Así se vivió el apagón en La Rambla San Borja",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-12",
+      "fecha_hecho": null,
+      "snippet": "Según constató Infobae Perú, el corte de energía se produjo de forma inesperada mientras se proyectaba la película Spiderman: A Brand New Day. (Crédito: Infobae Perú) Actualidad 2:54 Min Actualidad ...",
+      "temas": [
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:apagón Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-25 00:04"
+    },
+    {
       "id": "d339a850e4333ad2",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOaEUwODRBMDEteEJXZXlSSm0xNGlWRUpjcVdhRVZtSGRXVWM5aHBNdGEzV3NvWmFyRkt2amt0ZGdYU1BQZ0hEbElfWW83S3l4QlNyTjJSMXZ5S2pKTFRKMzhPbXBJd3VORldaVGM2a3pwTnVPZmlEMzJ0X1pnNW8wZUtxY21BT1p6cTRXMkhEdVdaVGQybGllTHpjazVHSzBFMjU0STNscnN0R0F2c1QzQUpMQnk0dkZzNElHYTJxd0hneHFMMGtIRmFQYmZYV3RqcmhqdU1Cd1BPOE81NGdSdWlIWHMtOVE0Mm5DVGFuNFhJdW9vbXFTMXB4WHA?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOaEUwODRBMDEteEJXZXlSSm0xNGlWRUpjcVdhRVZtSGRXVWM5aHBNdGEzV3NvWmFyRkt2amt0ZGdYU1BQZ0hEbElfWW83S3l4QlNyTjJSMXZ5S2pKTFRKMzhPbXBJd3VORldaVGM2a3pwTnVPZmlEMzJ0X1pnNW8wZUtxY21BT1p6cTRXMkhEdVdaVGQybGllTHpjazVHSzBFMjU0STNscnN0R0F2c1QzQUpMQnk0dkZzNElHYTJxd0hneHFMMGtIRmFQYmZYV3RqcmhqdU1Cd1BPOE81NGdSdWlIWHMtOVE0Mm5DVGFuNFhJdW9vbXFTMXB4WHA",
@@ -4764,6 +4930,31 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-09-24 16:35"
+    },
+    {
+      "id": "fb698b52c7ca46f6",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab600c4ca5241fa99546353a634db3d&url=https%3a%2f%2fdiariocorreo.pe%2fedicion%2fla-libertad%2fsedalib-restringe-servicio-de-agua-potable-en-trujillo-noticia%2f&c=11400459607465765455&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab600c4ca5241fa99546353a634db3d&url=https%3A%2F%2Fdiariocorreo.pe%2Fedicion%2Fla-libertad%2Fsedalib-restringe-servicio-de-agua-potable-en-trujillo-noticia%2F&c=11400459607465765455&mkt=es-us",
+      "titulo": "Sedalib restringe servicio de agua potable en Trujillo",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-10",
+      "fecha_hecho": null,
+      "snippet": "Sedalib inició ayer una restricción del servicio de agua potable en ocho distritos de la provincia de Trujillo, capital de la región La Libertad. La medida, que se desarrollará en dos fases (del 10 al ...",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo",
+        "La Libertad"
+      ],
+      "score": 3,
+      "query": "bing:Sedalib",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-25 00:04"
     },
     {
       "id": "cafbf1a129505991",
@@ -5967,5 +6158,5 @@
       "descartar": false
     }
   ],
-  "n": 250
+  "n": 258
 }

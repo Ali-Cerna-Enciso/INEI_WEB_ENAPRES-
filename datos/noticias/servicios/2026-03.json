@@ -1,6 +1,6 @@
 {
   "mes": "2026-03",
-  "actualizado": "2026-09-24 16:35",
+  "actualizado": "2026-09-25 00:04",
   "items": [
     {
       "id": "b0f580d9819204b4",
@@ -1029,6 +1029,31 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-09-24 16:35"
+    },
+    {
+      "id": "81ede1e79b3c66ee",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab600c9734c4b29ad61709a85ae384f&url=https%3a%2f%2fgestion.pe%2fperu%2fcontraloria-impulsa-control-preventivo-para-destrabar-obras-de-agua-en-lima-sur-noticia%2f&c=10822199448474756343&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab600c9734c4b29ad61709a85ae384f&url=https%3A%2F%2Fgestion.pe%2Fperu%2Fcontraloria-impulsa-control-preventivo-para-destrabar-obras-de-agua-en-lima-sur-noticia%2F&c=10822199448474756343&mkt=es-us",
+      "titulo": "Contraloría impulsa control preventivo para destrabar millonarias obras de agua en Lima Sur",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-03-27",
+      "fecha_hecho": null,
+      "snippet": "La Contraloría General de la República puso en marcha servicios de control preventivo en dos relevantes proyectos de agua potable y alcantarillado que permanecen paralizados en los distritos de ...",
+      "temas": [
+        "Agua por red pública",
+        "Alcantarillado"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:alcantarillado Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-25 00:04"
     },
     {
       "id": "e66b0c15a71ab712",
@@ -4666,6 +4691,28 @@
       "agregado": "2026-09-24 16:35"
     },
     {
+      "id": "9690811e7104c771",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab600cb4481498f81bb2f0a3879c071&url=https%3a%2f%2flibero.pe%2ftiempoextra%2f2026%2f03%2f08%2fcorte-de-luz-9-de-marzo-13-horas-verifica-aqui-tu-zona-se-vera-afectada-hidrandina-405528&c=8893599650069999883&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab600cb4481498f81bb2f0a3879c071&url=https%3A%2F%2Flibero.pe%2Ftiempoextra%2F2026%2F03%2F08%2Fcorte-de-luz-9-de-marzo-13-horas-verifica-aqui-tu-zona-se-vera-afectada-hidrandina-405528&c=8893599650069999883&mkt=es-us",
+      "titulo": "Corte de luz este 9 de marzo hasta por 13 horas: verifica AQUÍ si tu zona se verá afectada",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-03-09",
+      "fecha_hecho": null,
+      "snippet": "Al inicio de esta semana se llevará a cabo un nuevo corte de energía eléctrica en algunos distritos del país, según informó Hidrandina, empresa responsable de la distribución y comercialización del ...",
+      "temas": [
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:Hidrandina",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-25 00:04"
+    },
+    {
       "id": "27ab4d81c4ac6488",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTUtBSFUwejAzUFNYQXVxdnBtcTc4T2lDR2JUWGFkSGhyOTRmbWxLdXVGOU9xaUlqQzBQQ3YzdHVaS2E2Q3JuRTEyRy1SUVZYUk44d3RSVkMtZDNUcDBIWUpBY1FqcE5jOFUyMGU0RHp2MWstZXhVVlVHdWdyQmIyNE5FRm5VQmhIODN2akloQ2dqc2NMZWh2RTM5OGVfUVpyWmNWd3lNY0szOHBOMldv?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTUtBSFUwejAzUFNYQXVxdnBtcTc4T2lDR2JUWGFkSGhyOTRmbWxLdXVGOU9xaUlqQzBQQ3YzdHVaS2E2Q3JuRTEyRy1SUVZYUk44d3RSVkMtZDNUcDBIWUpBY1FqcE5jOFUyMGU0RHp2MWstZXhVVlVHdWdyQmIyNE5FRm5VQmhIODN2akloQ2dqc2NMZWh2RTM5OGVfUVpyWmNWd3lNY0szOHBOMldv",
@@ -5912,5 +5959,5 @@
       "descartar": false
     }
   ],
-  "n": 252
+  "n": 254
 }
