@@ -1,6 +1,6 @@
 {
   "mes": "2026-08",
-  "actualizado": "2026-09-26 10:27",
+  "actualizado": "2026-09-26 16:34",
   "items": [
     {
       "id": "d9d4232fbcb587d1",
@@ -919,6 +919,30 @@
       "agregado": "2026-09-26 10:27"
     },
     {
+      "id": "966eeac73273973e",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab83a5eb6654b3c9c8c440c62097c6e&url=https%3a%2f%2fwww.msn.com%2fes-us%2fnews%2fother%2fsecuestran-en-per%c3%ba-a-un-empresario-minero-y-matan-a-sus-cuatro-acompa%c3%b1antes-seg%c3%ban-la-polic%c3%ada%2far-AA2bikxA&c=2424355882027936367&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab83a5eb6654b3c9c8c440c62097c6e&url=https%3A%2F%2Fwww.msn.com%2Fes-us%2Fnews%2Fother%2Fsecuestran-en-per%C3%BA-a-un-empresario-minero-y-matan-a-sus-cuatro-acompa%C3%B1antes-seg%C3%BAn-la-polic%C3%ADa%2Far-AA2bikxA&c=2424355882027936367&mkt=es-us",
+      "titulo": "Secuestran en Perú a un empresario minero y matan a sus cuatro acompañantes, según la Policía",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-31",
+      "fecha_hecho": null,
+      "snippet": "Un empresario minero fue secuestrado en Perú en plena vía pública de la ciudad de Trujillo durante la madrugada de este domingo, al ser interceptado por atacantes con uniformes policiales que asesinar ...",
+      "temas": [
+        "Secuestro"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 3,
+      "query": "bing:secuestro Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-26 16:34"
+    },
+    {
       "id": "afaa0ea8a9d387d7",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWG5xNlp3bWdEb2prVVM5UGtSVnZ6RkJZdlhxRUxGV3dGRVYyemdjLTdEU0xkTk03SVU5ZWQ5bnVCN2NIQ3V0aVY1WHhLalNqZDNBenB1WFlvU1JuSTFBcnZDX2pUN19CVXVOUFcta1Jla0hZM3FVbVIwSVFoU1ZjQ01uX3dIRi1WY1dkMVpNMmtZMjhrR2thQnlScE41QmpGRjZhMTE0UVRSY2pNb3RremdtNXdDZDF3WTRHLUVsZE1IN0NranJCQy1ib3hjazg2ZDhqOXJBMVY?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWG5xNlp3bWdEb2prVVM5UGtSVnZ6RkJZdlhxRUxGV3dGRVYyemdjLTdEU0xkTk03SVU5ZWQ5bnVCN2NIQ3V0aVY1WHhLalNqZDNBenB1WFlvU1JuSTFBcnZDX2pUN19CVXVOUFcta1Jla0hZM3FVbVIwSVFoU1ZjQ01uX3dIRi1WY1dkMVpNMmtZMjhrR2thQnlScE41QmpGRjZhMTE0UVRSY2pNb3RremdtNXdDZDF3WTRHLUVsZE1IN0NranJCQy1ib3hjazg2ZDhqOXJBMVY",
@@ -1274,6 +1298,29 @@
       "agregado": "2026-09-25 00:02"
     },
     {
+      "id": "4c3aaa57283bf1db",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab83a5eb6654b3c9c8c440c62097c6e&url=https%3a%2f%2fwww.cooperativa.cl%2fnoticias%2fmundo%2fperu%2fperu-liberan-a-empresario-victima-de-sangriento-secuestro-cometido-por%2f2026-08-31%2f191512.html&c=6371970334043109865&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab83a5eb6654b3c9c8c440c62097c6e&url=https%3A%2F%2Fwww.cooperativa.cl%2Fnoticias%2Fmundo%2Fperu%2Fperu-liberan-a-empresario-victima-de-sangriento-secuestro-cometido-por%2F2026-08-31%2F191512.html&c=6371970334043109865&mkt=es-us",
+      "titulo": "Perú: Liberan a empresario víctima de sangriento secuestro cometido por Los Pulpos",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-31",
+      "fecha_hecho": null,
+      "snippet": "Jenss Lara fue raptado el domingo en un falso operativo policial en el que sus cuatro acompañantes fueron asesinados. El Ministerio de Defensa comunicó esta tarde la captura de los responsables, y la ...",
+      "temas": [
+        "Secuestro",
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 4,
+      "query": "bing:secuestro Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-26 16:34"
+    },
+    {
       "id": "0677c6152dc2c6fc",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZkZNZExRZ0pOZlVXU2FMLUtzNEhoM0FndWhscEF4aGh5dm5OaEZBeW51SWV1NXdnYzVDOUhQU1p6M2xzcFhlV0VBQm9rdE1PaTI1eGNCN29WRTlsbXVaREh1TGZkYjBhQXBiRUxZZE9UNUFQdVlDR1BpM1BQcFdQTWh6Zmd2TmZDb0FFYlFrZXhiQTdZX0RUdHFWUTRETVpjdDFPX3BDaVdEazRGQWNhVUVqYVhlWE1ZeGZtdl9ZaEMxTGNvMTlJT2VUNkxTRjhLUTZWSlhiZ9IB8gFBVV95cUxPQ2hrbEZSOER4eTRIaEo0enk1bXZoY0dzWXVJd09vOHF5Q2xFWkVhTTc2QkdxQU44NlBXb1VBa3psQ3NYUV9udEVSTGRpbndra2dXaHJlMVNjUHBvYTVFX296MWFSWlhGX3BELXVzNXI0dUwyTGk1NXY2MnNGakl1WThRXzI5MkVmVW1OUlRWRmVleDhBZk4zc1A1dmhPOENXamxGVmRkbzBpMi1WMEh2RTdQRmVYblp2Y0ctYmtCbS1jb2J6a0hwVkdOdVBMcEsySm52OTR6WXJlMjREMWlvX2Z4Z1lqWDZIdnFKVmZVSDhaQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZkZNZExRZ0pOZlVXU2FMLUtzNEhoM0FndWhscEF4aGh5dm5OaEZBeW51SWV1NXdnYzVDOUhQU1p6M2xzcFhlV0VBQm9rdE1PaTI1eGNCN29WRTlsbXVaREh1TGZkYjBhQXBiRUxZZE9UNUFQdVlDR1BpM1BQcFdQTWh6Zmd2TmZDb0FFYlFrZXhiQTdZX0RUdHFWUTRETVpjdDFPX3BDaVdEazRGQWNhVUVqYVhlWE1ZeGZtdl9ZaEMxTGNvMTlJT2VUNkxTRjhLUTZWSlhiZ9IB8gFBVV95cUxPQ2hrbEZSOER4eTRIaEo0enk1bXZoY0dzWXVJd09vOHF5Q2xFWkVhTTc2QkdxQU44NlBXb1VBa3psQ3NYUV9udEVSTGRpbndra2dXaHJlMVNjUHBvYTVFX296MWFSWlhGX3BELXVzNXI0dUwyTGk1NXY2MnNGakl1WThRXzI5MkVmVW1OUlRWRmVleDhBZk4zc1A1dmhPOENXamxGVmRkbzBpMi1WMEh2RTdQRmVYblp2Y0ctYmtCbS1jb2J6a0hwVkdOdVBMcEsySm52OTR6WXJlMjREMWlvX2Z4Z1lqWDZIdnFKVmZVSDhaQQ",
@@ -1583,6 +1630,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-09-26 10:27"
+    },
+    {
+      "id": "1a12a523d7c22cf3",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab83a7db24646798e188140855afcae&url=https%3a%2f%2flarepublica.pe%2fsociedad%2f2026%2f08%2f30%2fasesinan-a-cuatro-personas-dentro-de-una-camioneta-en-trujillo-atacantes-habrian-fingido-ser-policias-819720&c=12196464039284528728&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab83a7db24646798e188140855afcae&url=https%3A%2F%2Flarepublica.pe%2Fsociedad%2F2026%2F08%2F30%2Fasesinan-a-cuatro-personas-dentro-de-una-camioneta-en-trujillo-atacantes-habrian-fingido-ser-policias-819720&c=12196464039284528728&mkt=es-us",
+      "titulo": "PNP apunta a \"Los Pulpos\" tras matanza de cuatro personas y el secuestro de empresario minero en Trujillo",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-31",
+      "fecha_hecho": null,
+      "snippet": "Testigos indican que los agresores vestían uniformes similares a los del Grupo Especial Contra el Crimen Organizado (GRECCO) de la Policía Nacional del Perú.",
+      "temas": [
+        "Secuestro"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 3,
+      "query": "bing:\"Los Pulpos\" Trujillo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-26 16:34"
     },
     {
       "id": "1420372a05d450c1",
@@ -3567,6 +3638,31 @@
       "agregado": "2026-09-26 10:27"
     },
     {
+      "id": "d9c499572f4d3455",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab83a5eb6654b3c9c8c440c62097c6e&url=https%3a%2f%2fwww.msn.com%2fes-es%2fnoticias%2fother%2finvestigan-el-secuestro-de-un-empresario-minero-y-el-asesinato-de-sus-cuatro-acompa%25C3%25B1antes-en-trujillo-per%25C3%25BA%2far-AA2bfreF&c=5460582113156239359&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab83a5eb6654b3c9c8c440c62097c6e&url=https%3A%2F%2Fwww.msn.com%2Fes-es%2Fnoticias%2Fother%2Finvestigan-el-secuestro-de-un-empresario-minero-y-el-asesinato-de-sus-cuatro-acompa%25C3%25B1antes-en-trujillo-per%25C3%25BA%2Far-AA2bfreF&c=5460582113156239359&mkt=es-us",
+      "titulo": "Investigan el secuestro de un empresario minero y el asesinato de sus cuatro acompañantes en Trujillo (Perú)",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-30",
+      "fecha_hecho": null,
+      "snippet": "Juntos por el Perú impulsa un proyecto de ley para habilitar a Keiko Fujimori a poder cesar al comandante general de la Policía Nacional Las autoridades de Perú investigan el secuestro de un ...",
+      "temas": [
+        "Secuestro",
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 5,
+      "query": "bing:secuestro Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-26 16:34"
+    },
+    {
       "id": "e3b81e436403b5c3",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZF8tTDBDbkZuQ19STkk1eXVyT1Zja2lLNHJvZzJMZFNkclpqWmFWSEtoQTdWc3JPcFplS2FXU3pnWXVBR085ZFM1SnpnMExZaHlnWDJ3d0ZrQWZtb1VyZWljbXBNb1FyTWxNVktjdXdnUHdmbG9oSjJhaXlHRG9FUGVFSERSdW5VdGp0ekJ4QS1lMlh2RFAzSVlQbVNkSlFpbzJ4dUR5WjdrVFk4eDNSeVo5eGRob3JmM2lnUGRDc25SM1NMUUxueTRUZWdkRzlHZm9IeElWMmg?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZF8tTDBDbkZuQ19STkk1eXVyT1Zja2lLNHJvZzJMZFNkclpqWmFWSEtoQTdWc3JPcFplS2FXU3pnWXVBR085ZFM1SnpnMExZaHlnWDJ3d0ZrQWZtb1VyZWljbXBNb1FyTWxNVktjdXdnUHdmbG9oSjJhaXlHRG9FUGVFSERSdW5VdGp0ekJ4QS1lMlh2RFAzSVlQbVNkSlFpbzJ4dUR5WjdrVFk4eDNSeVo5eGRob3JmM2lnUGRDc25SM1NMUUxueTRUZWdkRzlHZm9IeElWMmg",
@@ -4015,6 +4111,31 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-09-26 00:03"
+    },
+    {
+      "id": "4b9dc4a89f101bc0",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab83a7f1f97471db92740c09c8c6dfa&url=https%3a%2f%2fpanamericana.pe%2fpanorama%2fnacionales%2f473564-masacre-secuestro-trujillo-pulpos-asesinan-4-personas-llevan-empresario-minero&c=5806862103672479515&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab83a7f1f97471db92740c09c8c6dfa&url=https%3A%2F%2Fpanamericana.pe%2Fpanorama%2Fnacionales%2F473564-masacre-secuestro-trujillo-pulpos-asesinan-4-personas-llevan-empresario-minero&c=5806862103672479515&mkt=es-us",
+      "titulo": "Masacre y secuestro en Trujillo: “Los Pulpos” asesinan a 4 personas y se llevan a empresario minero",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-29",
+      "fecha_hecho": null,
+      "snippet": "Las imágenes de las cámaras de seguridad muestran el momento exacto en que el empresario minero fue secuestrado por delincuentes que se hicieron pasar como policías.",
+      "temas": [
+        "Secuestro",
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 4,
+      "query": "bing:\"masacre\" Trujillo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-26 16:34"
     },
     {
       "id": "a3101b4d1fe22b34",
@@ -5009,6 +5130,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-09-26 00:03"
+    },
+    {
+      "id": "0995f991cf08f9ba",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab83a6e9d9f48b6900773138650b606&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f08%2f26%2fidentidades-sinteticas-y-tecnicas-de-fatiga-contrasenas-ya-no-frenan-el-fraude-digital-y-bancos-en-peru-encienden-las-alertas%2f&c=10172187503192527293&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab83a6e9d9f48b6900773138650b606&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F08%2F26%2Fidentidades-sinteticas-y-tecnicas-de-fatiga-contrasenas-ya-no-frenan-el-fraude-digital-y-bancos-en-peru-encienden-las-alertas%2F&c=10172187503192527293&mkt=es-us",
+      "titulo": "Identidades sintéticas y técnicas de fatiga: contraseñas ya no frenan el fraude digital y bancos en Perú encienden las alertas",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-26",
+      "fecha_hecho": null,
+      "snippet": "El crecimiento de las operaciones digitales amplió la exposición al fraude bancario, que ahora apunta a suplantar identidades digitales y tomar control de cuentas legítimas ...",
+      "temas": [
+        "Fraude bancario"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 2,
+      "query": "bing:\"fraude bancario\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-26 16:34"
     },
     {
       "id": "2c07c7b4a2a841ad",
@@ -6920,6 +7063,31 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-09-26 10:27"
+    },
+    {
+      "id": "8b11174677bf15b7",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab83a7a67024129b88d56af36a36090&url=https%3a%2f%2fwww.chron.com%2fnews%2fworld%2farticle%2fholandes-condenado-en-eeuu-y-per-pide-cambio-22397440.php&c=16862343142063732061&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab83a7a67024129b88d56af36a36090&url=https%3A%2F%2Fwww.chron.com%2Fnews%2Fworld%2Farticle%2Fholandes-condenado-en-eeuu-y-per-pide-cambio-22397440.php&c=16862343142063732061&mkt=es-us",
+      "titulo": "Holandés condenado en EEUU y Perú pide cambio de cárcel por supuestas amenazas de muerte",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-19",
+      "fecha_hecho": null,
+      "snippet": "LIMA (AP) — Un holandés condenado en 2023 en Estados Unidos por extorsionar a la familia de una estadounidense a la que mató en 2005 y sentenciado en Perú por asesinar a una peruana en ...",
+      "temas": [
+        "Extorsión",
+        "Amenazas e intimidaciones"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 5,
+      "query": "bing:\"amenazas de muerte\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-26 16:34"
     },
     {
       "id": "3da568e2b125b2d3",
@@ -9004,6 +9172,28 @@
       "agregado": "2026-09-26 00:03"
     },
     {
+      "id": "69695ffa88d6c102",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab83a69105344569ab3e563d8d9af46&url=https%3a%2f%2frpp.pe%2fperu%2factualidad%2fel-numero-de-presos-por-feminicidio-en-el-peru-se-multiplico-por-seis-en-la-ultima-decada-informe-noticia-1700934&c=16529491939722550603&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab83a69105344569ab3e563d8d9af46&url=https%3A%2F%2Frpp.pe%2Fperu%2Factualidad%2Fel-numero-de-presos-por-feminicidio-en-el-peru-se-multiplico-por-seis-en-la-ultima-decada-informe-noticia-1700934&c=16529491939722550603&mkt=es-us",
+      "titulo": "El número de presos por feminicidio en el Perú se multiplicó por seis en la última década [Informe]",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-10",
+      "fecha_hecho": null,
+      "snippet": "Cifras obtenidas por RPP revelan que, en los últimos diez años, el número de personas presas por feminicidio o por tentativa de feminicidio se multiplicó por seis. Los números también evidencian que ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:feminicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-26 16:34"
+    },
+    {
       "id": "0b6c0c5a8f0a8d14",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOekNGekctTzhMM2ExZUg4RGMxakpMSmdJekxFdzN1X240WEtoYkhpLTBfNk5keU9EWWlhdTRJcmx2UDBzMHRjOGJqNmpNTVhzdlloMEp5d0p1eE9xemw4bTVRQi1iclVwT2RmcFRhTUJmNFJ2MGd0Y1M1b2lmZEZGODdnRDVJeHF3WXNsZVNpVWt2MXpxQVhiN0o2QTZJQi1KZGJVcDJZUmZlWFI1ZTZPM1RDQklyUDk4ZDUtNUI4UkU3MnVGRVFHQ3FWUEhoSVU?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOekNGekctTzhMM2ExZUg4RGMxakpMSmdJekxFdzN1X240WEtoYkhpLTBfNk5keU9EWWlhdTRJcmx2UDBzMHRjOGJqNmpNTVhzdlloMEp5d0p1eE9xemw4bTVRQi1iclVwT2RmcFRhTUJmNFJ2MGd0Y1M1b2lmZEZGODdnRDVJeHF3WXNsZVNpVWt2MXpxQVhiN0o2QTZJQi1KZGJVcDJZUmZlWFI1ZTZPM1RDQklyUDk4ZDUtNUI4UkU3MnVGRVFHQ3FWUEhoSVU",
@@ -10624,5 +10814,5 @@
       "descartar": true
     }
   ],
-  "n": 460
+  "n": 468
 }

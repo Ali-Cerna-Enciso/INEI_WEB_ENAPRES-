@@ -1,6 +1,6 @@
 {
   "mes": "2026-08",
-  "actualizado": "2026-09-26 10:29",
+  "actualizado": "2026-09-26 16:36",
   "items": [
     {
       "id": "bb9b57aa4ebf0c95",
@@ -289,6 +289,28 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-09-26 10:29"
+    },
+    {
+      "id": "0d63bc28f3c5431e",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab83ac4ab4a4ce3a874439840000029&url=https%3a%2f%2frpp.pe%2fpolitica%2fgobierno%2fsedapal-entra-en-reestructuracion-cuando-se-realizaran-los-cambios-del-directorio-noticia-1704749&c=16762080106188387549&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab83ac4ab4a4ce3a874439840000029&url=https%3A%2F%2Frpp.pe%2Fpolitica%2Fgobierno%2Fsedapal-entra-en-reestructuracion-cuando-se-realizaran-los-cambios-del-directorio-noticia-1704749&c=16762080106188387549&mkt=es-us",
+      "titulo": "Reestructuración de Sedapal iniciará con nuevo directorio a partir del 4 de septiembre, asegura ministro de Vivienda",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-31",
+      "fecha_hecho": null,
+      "snippet": "El ministro de Vivienda, Mauricio Arnillas, también consideró que sería una irresponsabilidad si el Congreso le niega al Ejecutivo las facultades legislativas.",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:Sedapal",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-26 16:36"
     },
     {
       "id": "8b29e2d63381b7f4",
@@ -1429,6 +1451,32 @@
       "agregado": "2026-09-26 10:29"
     },
     {
+      "id": "46804b54030db6ea",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab83abede96445399911b55d5f5bfaf&url=https%3a%2f%2flarepublica.pe%2fsociedad%2f2026%2f08%2f23%2fcorte-de-luz-programado-para-este-24-de-agosto-revisa-los-horarios-y-que-distritos-de-lima-callao-y-regiones-no-tendran-servicio-2185299&c=15678457603232136508&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab83abede96445399911b55d5f5bfaf&url=https%3A%2F%2Flarepublica.pe%2Fsociedad%2F2026%2F08%2F23%2Fcorte-de-luz-programado-para-este-24-de-agosto-revisa-los-horarios-y-que-distritos-de-lima-callao-y-regiones-no-tendran-servicio-2185299&c=15678457603232136508&mkt=es-us",
+      "titulo": "Corte de luz programado para este 24 de agosto: revisa los horarios y qué distritos de Lima, Callao y regiones no tendrán servicio",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-23",
+      "fecha_hecho": null,
+      "snippet": "Las interrupciones del servicio eléctrico en Lima incluyen sectores de San Juan de Lurigancho, Ventanilla y Hualmay. Los usuarios deben revisar los horarios específicos y posibles cambios en los crono ...",
+      "temas": [
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "San Juan de Lurigancho",
+        "Callao",
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:\"corte de luz\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-26 16:36"
+    },
+    {
       "id": "9016763727a2af67",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdmFuQzIxVG9GNnZrWm1UYk84TjYwTGRTenhOeXlfd2dKVnoyVldkMDZobHdIV3VKZ25VRkRrMFprZEc5cGNBcVBDS1lucXRIYkNLRmh6SDNFYVhseTM0WkVyNVBDVWZCc3pDV1ZhckctT0o5NVc3eWhSdE0tZVpESXAyTkJGUDdrQXUwWHdRLVlRNzc3cllSMWpmTm4yUm9RMGF4dVd5YlAwdFV1WThjag?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdmFuQzIxVG9GNnZrWm1UYk84TjYwTGRTenhOeXlfd2dKVnoyVldkMDZobHdIV3VKZ25VRkRrMFprZEc5cGNBcVBDS1lucXRIYkNLRmh6SDNFYVhseTM0WkVyNVBDVWZCc3pDV1ZhckctT0o5NVc3eWhSdE0tZVpESXAyTkJGUDdrQXUwWHdRLVlRNzc3cllSMWpmTm4yUm9RMGF4dVd5YlAwdFV1WThjag",
@@ -2133,6 +2181,31 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-09-26 10:29"
+    },
+    {
+      "id": "1484867b6c4d51aa",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab83abede96445399911b55d5f5bfaf&url=https%3a%2f%2flibero.pe%2ftiempoextra%2f2026%2f08%2f19%2fcorte-de-luz-en-distritos-de-lima-callao-hoy-jueves-20-de-agosto-zonas-tendran-servicio-electrico-pluz-peru-1056362&c=12246942659473122791&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab83abede96445399911b55d5f5bfaf&url=https%3A%2F%2Flibero.pe%2Ftiempoextra%2F2026%2F08%2F19%2Fcorte-de-luz-en-distritos-de-lima-callao-hoy-jueves-20-de-agosto-zonas-tendran-servicio-electrico-pluz-peru-1056362&c=12246942659473122791&mkt=es-us",
+      "titulo": "Corte de luz en distritos de Lima y Callao del 20 de agosto: qué zonas no tuvieron servicio eléctrico",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-20",
+      "fecha_hecho": null,
+      "snippet": "Este jueves 20 de agosto, distintos sectores de Lima y Callao tendrán una interrupción temporal del servicio eléctrico, de acuerdo con el cronograma de Pluz Energía. La medida contempla zonas ...",
+      "temas": [
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Callao",
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:\"corte de luz\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-26 16:36"
     },
     {
       "id": "26aa310890d9d894",
@@ -3006,6 +3079,29 @@
       "agregado": "2026-09-26 10:29"
     },
     {
+      "id": "057fb30138e78291",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab83ac2053e42c5b6d2e32058a23f9c&url=https%3a%2f%2fgestion.pe%2fperu%2fpolitica%2falcalde-de-ves-responsabilizo-a-sedapal-por-colapso-del-desague-que-provoco-aniego-en-el-distrito-noticia%2f&c=16660487994077038954&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab83ac2053e42c5b6d2e32058a23f9c&url=https%3A%2F%2Fgestion.pe%2Fperu%2Fpolitica%2Falcalde-de-ves-responsabilizo-a-sedapal-por-colapso-del-desague-que-provoco-aniego-en-el-distrito-noticia%2F&c=16660487994077038954&mkt=es-us",
+      "titulo": "Alcalde de VES responsabilizó a Sedapal por colapso del desagüe que provocó aniego en el distrito",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-18",
+      "fecha_hecho": null,
+      "snippet": "Guido Iñigo señaló que es la tercera vez que se registra un aniego en la zona y afirmó que la comuna alertó de esta problemática a Sedapal durante los últimos años.",
+      "temas": [
+        "Agua por red pública",
+        "Alcantarillado"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 5,
+      "query": "bing:aniego Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-26 16:36"
+    },
+    {
       "id": "8cf0ff5d1440ded1",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWjVyaUpWdmRQbVg5aUh4NF9DdGRWajNveDhQeU1EV3h6LU5CTnpac2xoQ1RPNUpyeHdDNkhJa2JoYjYxa1pvR2tCdGpMMWtPemE1M09UajBVYWt4bURsaGY0S1RCLXVpbldpa3JZeHhwUEwtUVpNN1hDYWc5ekxGZlRid3JwQXhNOEc3eGF6VTJTYy0yRTcwMFQ1T00xYzg5QVV2QUhaNVUzeTNxRTVTY0JWa2MzS3FTZm1oNTIxcEdTcUxSdS1BeVQ2c2VONG5YdVRTa0VYNGs2SEVraDNOUkVlcw?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWjVyaUpWdmRQbVg5aUh4NF9DdGRWajNveDhQeU1EV3h6LU5CTnpac2xoQ1RPNUpyeHdDNkhJa2JoYjYxa1pvR2tCdGpMMWtPemE1M09UajBVYWt4bURsaGY0S1RCLXVpbldpa3JZeHhwUEwtUVpNN1hDYWc5ekxGZlRid3JwQXhNOEc3eGF6VTJTYy0yRTcwMFQ1T00xYzg5QVV2QUhaNVUzeTNxRTVTY0JWa2MzS3FTZm1oNTIxcEdTcUxSdS1BeVQ2c2VONG5YdVRTa0VYNGs2SEVraDNOUkVlcw",
@@ -3508,6 +3604,30 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-09-26 10:29"
+    },
+    {
+      "id": "1be5a2b377b55213",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab83ac2053e42c5b6d2e32058a23f9c&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f08%2f17%2fsujeto-es-intervenido-por-nadar-en-aniego-de-villa-maria-del-triunfo-y-acercarse-a-un-bus-atrapado-durante-la-inundacion%2f&c=17668756769815667530&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab83ac2053e42c5b6d2e32058a23f9c&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F08%2F17%2Fsujeto-es-intervenido-por-nadar-en-aniego-de-villa-maria-del-triunfo-y-acercarse-a-un-bus-atrapado-durante-la-inundacion%2F&c=17668756769815667530&mkt=es-us",
+      "titulo": "Sujeto es intervenido por nadar en aniego de Villa María del Triunfo y acercarse a un bus atrapado durante la inundación",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-17",
+      "fecha_hecho": null,
+      "snippet": "El hombre recorrió varios metros por el agua acumulada en el bypass de Nueva Esperanza y llegó hasta un ómnibus inmovilizado por la inundación ...",
+      "temas": [
+        "Alcantarillado"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Villa María del Triunfo"
+      ],
+      "score": 3,
+      "query": "bing:aniego Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-26 16:36"
     },
     {
       "id": "e2d9d1518d4bc328",
@@ -5490,6 +5610,31 @@
       "agregado": "2026-09-26 00:05"
     },
     {
+      "id": "a54af4ac0707fd06",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab83ac5e1124916b4164f6ca5e6bd03&url=https%3a%2f%2fdiariocorreo.pe%2fedicion%2fla-libertad%2fsedalib-restringe-servicio-de-agua-potable-en-trujillo-noticia%2f&c=11400459607465765455&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab83ac5e1124916b4164f6ca5e6bd03&url=https%3A%2F%2Fdiariocorreo.pe%2Fedicion%2Fla-libertad%2Fsedalib-restringe-servicio-de-agua-potable-en-trujillo-noticia%2F&c=11400459607465765455&mkt=es-us",
+      "titulo": "Sedalib restringe servicio de agua potable en Trujillo",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-10",
+      "fecha_hecho": null,
+      "snippet": "Sedalib inició ayer una restricción del servicio de agua potable en ocho distritos de la provincia de Trujillo, capital de la región La Libertad. La medida, que se desarrollará en dos fases (del 10 al ...",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo",
+        "La Libertad"
+      ],
+      "score": 3,
+      "query": "bing:Sedalib",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-26 16:36"
+    },
+    {
       "id": "cafbf1a129505991",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNc1hRM2JPLV9tbTZ6blJKSXhHN2ItTGdFR25hMnp3cVJSM1NBS190blRGNjl1MmpJd1hmRHZsNTdCQVZPaVVEY0FhRU8weDFtZmxhdkFLbXQ4OGZJWHBnVk15MGRPTGdGTjh5eXNleWNPRS1LUG1nYnI5UEVWd1VyQk5kWFJzTDJ3dmZCQy1VR0xiNkM4TVZpbjc5dXhRbVQ5OFhtbVRxSDJGS3pMT01ZbzdHbk1CWUp5SnZkdlhGNFBaMEs5NHh2UHVrQzVGc1NfR0tUclExdzRNZzjSAfYBQVVfeXFMUGg2Z3R3eXNxcUF1Vi1XNUYzOVdIczE1c3VsUDdoeGp6QWtGVWJhWXZZWGEycDdSN2s2UjYxSGNFS0xlTWwzWHloSTR1RU5xUmFteVNWR0RmWEk0MVNsWEptanQtUVFiM0FRUVZ0QlZ0aXp1dEt5ZmIzR2JWMXlMc0RUeFEtTUppUEZmdGlHeGhHdlR3QVFCLUdhdEZKbEtKZXM0STExUU5reTgzV3hlamJWV0s1UnJPbjBzY0x3dzZKUXhFNEgxV3ZCV1ZqR09LOHo2WVpZMXJkS3lFcGdwSF9VMnhyLVhMVmRTT3ZmclZQa3Roak93?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNc1hRM2JPLV9tbTZ6blJKSXhHN2ItTGdFR25hMnp3cVJSM1NBS190blRGNjl1MmpJd1hmRHZsNTdCQVZPaVVEY0FhRU8weDFtZmxhdkFLbXQ4OGZJWHBnVk15MGRPTGdGTjh5eXNleWNPRS1LUG1nYnI5UEVWd1VyQk5kWFJzTDJ3dmZCQy1VR0xiNkM4TVZpbjc5dXhRbVQ5OFhtbVRxSDJGS3pMT01ZbzdHbk1CWUp5SnZkdlhGNFBaMEs5NHh2UHVrQzVGc1NfR0tUclExdzRNZzjSAfYBQVVfeXFMUGg2Z3R3eXNxcUF1Vi1XNUYzOVdIczE1c3VsUDdoeGp6QWtGVWJhWXZZWGEycDdSN2s2UjYxSGNFS0xlTWwzWHloSTR1RU5xUmFteVNWR0RmWEk0MVNsWEptanQtUVFiM0FRUVZ0QlZ0aXp1dEt5ZmIzR2JWMXlMc0RUeFEtTUppUEZmdGlHeGhHdlR3QVFCLUdhdEZKbEtKZXM0STExUU5reTgzV3hlamJWV0s1UnJPbjBzY0x3dzZKUXhFNEgxV3ZCV1ZqR09LOHo2WVpZMXJkS3lFcGdwSF9VMnhyLVhMVmRTT3ZmclZQa3Roak93",
@@ -6691,5 +6836,5 @@
       "descartar": false
     }
   ],
-  "n": 280
+  "n": 286
 }

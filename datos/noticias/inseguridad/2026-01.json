@@ -1,6 +1,6 @@
 {
   "mes": "2026-01",
-  "actualizado": "2026-09-26 10:27",
+  "actualizado": "2026-09-26 16:34",
   "items": [
     {
       "id": "8e0e04fef25e5005",
@@ -1102,6 +1102,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-09-26 10:27"
+    },
+    {
+      "id": "3d27a07e24aa08c3",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab83a6c806b46629082dbd4fed152f0&url=https%3a%2f%2fwww.msn.com%2fes-mx%2fnoticias%2fother%2festafa-telef%25C3%25B3nica-frases-que-debes-escuchar-para-colgar-de-inmediato%2far-AA1V1q9h&c=1921912367042198052&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab83a6c806b46629082dbd4fed152f0&url=https%3A%2F%2Fwww.msn.com%2Fes-mx%2Fnoticias%2Fother%2Festafa-telef%25C3%25B3nica-frases-que-debes-escuchar-para-colgar-de-inmediato%2Far-AA1V1q9h&c=1921912367042198052&mkt=es-us",
+      "titulo": "Estafa telefónica: frases que debes escuchar para colgar de inmediato",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-01-26",
+      "fecha_hecho": null,
+      "snippet": "La estafa telefónica ya no es un fraude burdo ni fácil de detectar. Hoy, las llamadas engañosas están cuidadosamente diseñadas para parecer legítimas, utilizar lenguaje profesional y provocar una ...",
+      "temas": [
+        "Estafa"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:\"estafa telefónica\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-26 16:34"
     },
     {
       "id": "4fb7c8e4633b75c6",
@@ -3389,6 +3411,29 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-09-25 16:33"
+    },
+    {
+      "id": "92aa4bf0173be0d4",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab83a63ae2f498ba324640e2e30ac7e&url=https%3a%2f%2fwww.telesurtv.net%2fperu-aprueba-ley-extorsion-sicariato%2f&c=11445771162653073536&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab83a63ae2f498ba324640e2e30ac7e&url=https%3A%2F%2Fwww.telesurtv.net%2Fperu-aprueba-ley-extorsion-sicariato%2F&c=11445771162653073536&mkt=es-us",
+      "titulo": "Perú aprueba ley para hacer frente a la extorsión y el sicariato",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-01-18",
+      "fecha_hecho": null,
+      "snippet": "Según el Ejecutivo, con esta medida el Estado cambiará «de la defensiva a la ofensiva contra la delincuencia y el crimen organizado» en Perú. La norma se hizo oficial por la publicación de un decreto ...",
+      "temas": [
+        "Extorsión",
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 5,
+      "query": "bing:sicariato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-26 16:34"
     },
     {
       "id": "393c773b64e303ac",
@@ -6019,5 +6064,5 @@
       "descartar": false
     }
   ],
-  "n": 267
+  "n": 269
 }
