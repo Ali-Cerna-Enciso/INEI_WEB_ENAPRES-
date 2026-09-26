@@ -1,6 +1,6 @@
 {
   "mes": "2026-01",
-  "actualizado": "2026-09-25 16:33",
+  "actualizado": "2026-09-26 00:03",
   "items": [
     {
       "id": "8e0e04fef25e5005",
@@ -1058,6 +1058,28 @@
       "agregado": "2026-09-18 12:27",
       "tipo_fuente": "Noticias/reportes",
       "descartar": false
+    },
+    {
+      "id": "9e7e9137ef1a2c95",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab7521046e442e5acd4e78b2e32bae2&url=https%3a%2f%2fwww.msn.com%2fes-mx%2fnoticias%2fother%2festafa-telef%25C3%25B3nica-frases-que-debes-escuchar-para-colgar-de-inmediato%2far-AA1V1q9h&c=1921912367042198052&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab7521046e442e5acd4e78b2e32bae2&url=https%3A%2F%2Fwww.msn.com%2Fes-mx%2Fnoticias%2Fother%2Festafa-telef%25C3%25B3nica-frases-que-debes-escuchar-para-colgar-de-inmediato%2Far-AA1V1q9h&c=1921912367042198052&mkt=es-us",
+      "titulo": "Estafa telefónica: frases que debes escuchar para colgar de inmediato",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-01-26",
+      "fecha_hecho": null,
+      "snippet": "La estafa telefónica ya no es un fraude burdo ni fácil de detectar. Hoy, las llamadas engañosas están cuidadosamente diseñadas para parecer legítimas, utilizar lenguaje profesional y provocar una ...",
+      "temas": [
+        "Estafa"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:\"estafa telefónica\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-26 00:03"
     },
     {
       "id": "4fb7c8e4633b75c6",
@@ -2503,6 +2525,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-09-25 16:33"
+    },
+    {
+      "id": "67a8f87d8f27fa41",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab7520bded340be801fd23595d192e7&url=https%3a%2f%2fwww.infobae.com%2fcolombia%2f2026%2f01%2f20%2fhomicidio-de-colombiano-en-peru-dejo-tres-capturados-abandonaron-el-cuerpo-en-via-publica%2f&c=7896637594865265644&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab7520bded340be801fd23595d192e7&url=https%3A%2F%2Fwww.infobae.com%2Fcolombia%2F2026%2F01%2F20%2Fhomicidio-de-colombiano-en-peru-dejo-tres-capturados-abandonaron-el-cuerpo-en-via-publica%2F&c=7896637594865265644&mkt=es-us",
+      "titulo": "Homicidio de colombiano en Perú dejó tres capturados: abandonaron el cuerpo en vía pública",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-01-20",
+      "fecha_hecho": null,
+      "snippet": "La víctima fue identificada como Andrés Camilo Soto Huérfano, luego de las pesquisas que dejaron las detenciones de dos hombres y una mujer Por Sebastián Vargas Rueda La Policía Nacional del Perú (PNP ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:homicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-26 00:03"
     },
     {
       "id": "da1c83da7bbadf9b",
@@ -5953,5 +5997,5 @@
       "descartar": false
     }
   ],
-  "n": 264
+  "n": 266
 }
