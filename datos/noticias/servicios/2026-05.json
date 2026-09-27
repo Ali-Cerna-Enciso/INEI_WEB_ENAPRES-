@@ -1,6 +1,6 @@
 {
   "mes": "2026-05",
-  "actualizado": "2026-09-27 00:01",
+  "actualizado": "2026-09-27 10:27",
   "items": [
     {
       "id": "5fe29bfac629cb2e",
@@ -4378,6 +4378,31 @@
       "descartar": false
     },
     {
+      "id": "fdeec5af85764c50",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab935e9dd3d4384b14986610f44caf1&url=https%3a%2f%2flibero.pe%2ftiempoextra%2f2026%2f05%2f06%2fcorte-de-luz-en-lima-7-8-de-mayo-distritos-afectados-horarios-segun-pluz-energia-peru-111744&c=14020089225298951647&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab935e9dd3d4384b14986610f44caf1&url=https%3A%2F%2Flibero.pe%2Ftiempoextra%2F2026%2F05%2F06%2Fcorte-de-luz-en-lima-7-8-de-mayo-distritos-afectados-horarios-segun-pluz-energia-peru-111744&c=14020089225298951647&mkt=es-us",
+      "titulo": "Corte de LUZ en Lima HOY, viernes 8 de mayo de 2026: distritos afectados y horarios según Pluz Energía Perú",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-05-08",
+      "fecha_hecho": null,
+      "snippet": "Pluz Energía Perú anunció cortes programados del servicio eléctrico en Lima y Callao para los días 7 y 8 de mayo, los cuales afectarán a diversos distritos de la capital debido a trabajos de ...",
+      "temas": [
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Callao",
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:\"corte de luz\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-27 10:27"
+    },
+    {
       "id": "7eb73576324a8269",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQWllRWmp0UnE3VXNpVmZ6MmdsalhaSXZmeUVGSEdjS01HNmtFZmI5dm5qS01uT1Z5UUcwNTFUcElVcGpaOTV0WTczTDFwNEZMWXJEcE13M2E5OG1WLV9RNHlOX2NNYmFoMmI2R244S05MbmFKb0kzZGJ6a252akQ4V1l2TnhlM2hzSjk0bWdEWnYwbWpPd3RVUXRCMkg0bGJmOFNZeTFhTDZfWm9QYzh4c2I2TEp0WTZxNzhHWTJ1T2pDak9iQ2FlT0w0UDNQdllhd3pjeGdhTVQxTk9hNWtLM1VmWmFFVXVKSWlESlVOMA?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQWllRWmp0UnE3VXNpVmZ6MmdsalhaSXZmeUVGSEdjS01HNmtFZmI5dm5qS01uT1Z5UUcwNTFUcElVcGpaOTV0WTczTDFwNEZMWXJEcE13M2E5OG1WLV9RNHlOX2NNYmFoMmI2R244S05MbmFKb0kzZGJ6a252akQ4V1l2TnhlM2hzSjk0bWdEWnYwbWpPd3RVUXRCMkg0bGJmOFNZeTFhTDZfWm9QYzh4c2I2TEp0WTZxNzhHWTJ1T2pDak9iQ2FlT0w0UDNQdllhd3pjeGdhTVQxTk9hNWtLM1VmWmFFVXVKSWlESlVOMA",
@@ -5424,5 +5449,5 @@
       "descartar": false
     }
   ],
-  "n": 229
+  "n": 230
 }
