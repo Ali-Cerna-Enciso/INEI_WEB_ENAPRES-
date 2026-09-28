@@ -1,6 +1,6 @@
 {
   "mes": "2026-03",
-  "actualizado": "2026-09-27 16:33",
+  "actualizado": "2026-09-28 00:09",
   "items": [
     {
       "id": "5976149ac746b5b8",
@@ -1050,6 +1050,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-09-27 16:33"
+    },
+    {
+      "id": "d3501c336a34c9a2",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab9f655f5b0483fb38809944747afaf&url=https%3a%2f%2fwww.latercera.com%2fnacional%2fnoticia%2fdetienen-en-chile-a-hombre-buscado-por-homicidio-en-peru-lo-vinculan-al-tren-de-aragua%2f&c=17161718325389582042&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab9f655f5b0483fb38809944747afaf&url=https%3A%2F%2Fwww.latercera.com%2Fnacional%2Fnoticia%2Fdetienen-en-chile-a-hombre-buscado-por-homicidio-en-peru-lo-vinculan-al-tren-de-aragua%2F&c=17161718325389582042&mkt=es-us",
+      "titulo": "Detienen en Chile a hombre buscado por homicidio en Perú: lo vinculan al Tren de Aragua",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-03-28",
+      "fecha_hecho": null,
+      "snippet": "Un ciudadano venezolano, requerido por la justicia peruana, fue detenido este viernes en la comuna de Maipú, en la Región Metropolitana, en un operativo desarrollado por la Brigada Investigadora del ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:homicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-28 00:09"
     },
     {
       "id": "e70724b84945e0df",
@@ -6361,5 +6383,5 @@
       "descartar": false
     }
   ],
-  "n": 282
+  "n": 283
 }

@@ -1,6 +1,6 @@
 {
   "mes": "2026-05",
-  "actualizado": "2026-09-27 16:33",
+  "actualizado": "2026-09-28 00:09",
   "items": [
     {
       "id": "afe3597b96dcb38e",
@@ -3923,6 +3923,30 @@
       "descartar": false
     },
     {
+      "id": "ca8249d8ec896519",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab9f64763124c7c9e1ee69cdba158f8&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f05%2f14%2fola-de-extorsiones-en-tumbes-dos-atentados-con-explosivos-en-menos-de-24-horas%2f&c=7054869964767552436&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab9f64763124c7c9e1ee69cdba158f8&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F05%2F14%2Fola-de-extorsiones-en-tumbes-dos-atentados-con-explosivos-en-menos-de-24-horas%2F&c=7054869964767552436&mkt=es-us",
+      "titulo": "Ola de extorsiones en Tumbes: dos atentados con explosivos en menos de 24 horas",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-05-13",
+      "fecha_hecho": null,
+      "snippet": "Uno de los artefactos detonó cerca de un jardín de niños, generando pánico en la zona. El segundo caso fue frustrado por residentes que enfrentaron al sospechoso Por Tomás Ezerskii En menos de 24 ...",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Tumbes"
+      ],
+      "score": 3,
+      "query": "bing:extorsión Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-28 00:09"
+    },
+    {
       "id": "dd1e5e6bee6035f3",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQWWF4Q192X2FfNmFsYjVZM05TWUxyZUlHWDJqM1lUSy1KdTVnT0VVcVg2dklLRUdUZHlXZ1habG4zSmEzUVNyZjJyZ2pEMWNlZXBZQ2RoRmU1SXVxcGlGTlpDelVZUFVzQXV3OVFHcUk5YWlTZGpsZGRJeTNZWVRzZmREVGQ4NnFaWmhUMFBOV2I0NGFSWi0zaXRhM29CUTNOZnNtMXJvWTJoMERfYS1weElwd180WmJYTDcxbmVqRFNLdXB5ZnBBenNFWG1kOS1xTWphWXJaMXVKYzEzQVFFcVJnNE1EekU1ZlRvYjh30gGIAkFVX3lxTE9lOXBITHBxaWxtaGlrcHBxYXY0THdNMGdwaUxTaVE5aWJvdmFWbXo3c3MwWTBrMWo0MlZjZEZZZnFvTDJKWUZ3YTdwMkdhdkZraHR4QmMtRzNwcENac3NDOGxMTjZVUHNXZXFpWjZOZUg4RXJBbHdfNnFJa0Z4dW9zeEtBc2JQQUVHb0xzUF9SbWl2NHFYOTc2NkFDQWtkaGFNSXpSTF9wbmZYTXZJYm1XWmh3TmNlb016Z3NGYkRJXzNiTklqOE5CQUJpTkpmLXM4bTVpWGRPTFBMYWJPUjVOOHJFTC00TXMwZkdtV1ppbWVtWTRvT1hPNzRjNnRUcXhkQkx5eEZ4Zw?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQWWF4Q192X2FfNmFsYjVZM05TWUxyZUlHWDJqM1lUSy1KdTVnT0VVcVg2dklLRUdUZHlXZ1habG4zSmEzUVNyZjJyZ2pEMWNlZXBZQ2RoRmU1SXVxcGlGTlpDelVZUFVzQXV3OVFHcUk5YWlTZGpsZGRJeTNZWVRzZmREVGQ4NnFaWmhUMFBOV2I0NGFSWi0zaXRhM29CUTNOZnNtMXJvWTJoMERfYS1weElwd180WmJYTDcxbmVqRFNLdXB5ZnBBenNFWG1kOS1xTWphWXJaMXVKYzEzQVFFcVJnNE1EekU1ZlRvYjh30gGIAkFVX3lxTE9lOXBITHBxaWxtaGlrcHBxYXY0THdNMGdwaUxTaVE5aWJvdmFWbXo3c3MwWTBrMWo0MlZjZEZZZnFvTDJKWUZ3YTdwMkdhdkZraHR4QmMtRzNwcENac3NDOGxMTjZVUHNXZXFpWjZOZUg4RXJBbHdfNnFJa0Z4dW9zeEtBc2JQQUVHb0xzUF9SbWl2NHFYOTc2NkFDQWtkaGFNSXpSTF9wbmZYTXZJYm1XWmh3TmNlb016Z3NGYkRJXzNiTklqOE5CQUJpTkpmLXM4bTVpWGRPTFBMYWJPUjVOOHJFTC00TXMwZkdtV1ppbWVtWTRvT1hPNzRjNnRUcXhkQkx5eEZ4Zw",
@@ -5661,6 +5685,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-09-27 16:33"
+    },
+    {
+      "id": "f59d3df07b49c6b1",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab9f6570b894018828262e3f3050c79&url=https%3a%2f%2fefe.com%2fmundo%2f2026-05-08%2forganizaciones-rechazan-proyecto-eliminacion-delito-feminicidio-peru%2f&c=13239562359694979301&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab9f6570b894018828262e3f3050c79&url=https%3A%2F%2Fefe.com%2Fmundo%2F2026-05-08%2Forganizaciones-rechazan-proyecto-eliminacion-delito-feminicidio-peru%2F&c=13239562359694979301&mkt=es-us",
+      "titulo": "Diversas organizaciones rechazan un proyecto de ley que elimina el delito de feminicidio en Perú",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-05-07",
+      "fecha_hecho": null,
+      "snippet": "Lima (EFE).- Diversas organizaciones de derechos humanos y feministas de Perú, así como familiares de víctimas de violencia machista rechazaron este jueves el proyecto de ley de la congresista y ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:feminicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-28 00:09"
     },
     {
       "id": "decb527f280ebf81",
@@ -7557,6 +7605,28 @@
       "agregado": "2026-09-27 16:33"
     },
     {
+      "id": "9e3e27d24f7cba14",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab9f655f5b0483fb38809944747afaf&url=https%3a%2f%2fdiariocorreo.pe%2fmundo%2fecuador-extradita-a-peru-a-un-hombre-requerido-por-presunto-homicidio-interpol-noticia%2f&c=894570939631287793&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab9f655f5b0483fb38809944747afaf&url=https%3A%2F%2Fdiariocorreo.pe%2Fmundo%2Fecuador-extradita-a-peru-a-un-hombre-requerido-por-presunto-homicidio-interpol-noticia%2F&c=894570939631287793&mkt=es-us",
+      "titulo": "Ecuador extradita a Perú a un hombre requerido por presunto homicidio",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-05-01",
+      "fecha_hecho": null,
+      "snippet": "La Policía ecuatoriana, en coordinación con la Interpol, extraditó a un hombre de nacionalidad peruana que es requerido por la Justicia de su país por el delito de homicidio, informó este viernes la ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:homicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-28 00:09"
+    },
+    {
       "id": "d5fa21287157bfa8",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQ0JKRVJ3UDBQNmswTTE3M3dxMzdUcGhydTJBN3Y1OXNFVmQ2V3dTU2dsOV9yazlBWG1qR0VKRjJ1Q2ROOWdyNUVfam5QVm9lQ2tZUXAwemxQTzEwcVQ5bHFsVTdKZm1rSXJuR0JOWnV4eFdQalFGbEFIeldZZU9ySnNETDF3bjRFbWx2bXlKU245U05SMTZFa3FpX0JsOEtoS3ZOT1lYeWFyT3RHQW5tbEQzUlo1RTM3bWV3YmFFUDdCNFFtdzhqTHB0Y24zZGJvTDZFeEhqNEZwTGZFQ3hPOWdlc28zMFg4YU5XZNIBgAJBVV95cUxOYl9Sc2JyZWVJVVZoenlGUkxVMVdMX2Z5QW5sXzlvNmIxMkI0UWhoYkx5OXAyQmVRdmlyZjdrNTBnbWxIVzB5R2JESV9UTXoxYzJZckpJN3pnV3dmdHZzQU1RWVVOZGFpcU5BY2FoZ0kxUXVrRUdOVjZ4Tk5TNy11dzhYekMwU014d0lsVldyby1IQjZicHJyc19hOFhFa005V0FkLUZOeU9oaVJjZGJVYzNrclNPTm1FQjBQSFpqWnBnN2QwT2dGbGhRQlFwYmZNcHdJMzZpLWt2WmFyYkVoWXZJQ3h5T0QwTURGUnZSdkRNczczci1qd1VZVFRnb3Fx?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQ0JKRVJ3UDBQNmswTTE3M3dxMzdUcGhydTJBN3Y1OXNFVmQ2V3dTU2dsOV9yazlBWG1qR0VKRjJ1Q2ROOWdyNUVfam5QVm9lQ2tZUXAwemxQTzEwcVQ5bHFsVTdKZm1rSXJuR0JOWnV4eFdQalFGbEFIeldZZU9ySnNETDF3bjRFbWx2bXlKU245U05SMTZFa3FpX0JsOEtoS3ZOT1lYeWFyT3RHQW5tbEQzUlo1RTM3bWV3YmFFUDdCNFFtdzhqTHB0Y24zZGJvTDZFeEhqNEZwTGZFQ3hPOWdlc28zMFg4YU5XZNIBgAJBVV95cUxOYl9Sc2JyZWVJVVZoenlGUkxVMVdMX2Z5QW5sXzlvNmIxMkI0UWhoYkx5OXAyQmVRdmlyZjdrNTBnbWxIVzB5R2JESV9UTXoxYzJZckpJN3pnV3dmdHZzQU1RWVVOZGFpcU5BY2FoZ0kxUXVrRUdOVjZ4Tk5TNy11dzhYekMwU014d0lsVldyby1IQjZicHJyc19hOFhFa005V0FkLUZOeU9oaVJjZGJVYzNrclNPTm1FQjBQSFpqWnBnN2QwT2dGbGhRQlFwYmZNcHdJMzZpLWt2WmFyYkVoWXZJQ3h5T0QwTURGUnZSdkRNczczci1qd1VZVFRnb3Fx",
@@ -7581,5 +7651,5 @@
       "descartar": false
     }
   ],
-  "n": 335
+  "n": 338
 }
