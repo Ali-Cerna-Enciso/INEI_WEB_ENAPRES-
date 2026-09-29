@@ -1,6 +1,6 @@
 {
   "mes": "2026-06",
-  "actualizado": "2026-09-29 00:05",
+  "actualizado": "2026-09-29 10:32",
   "items": [
     {
       "id": "26d94905d70f5f18",
@@ -111,6 +111,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-09-28 16:34"
+    },
+    {
+      "id": "375eea6bb29bb10f",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abbd9fbe326444e9b30dfb992b829c8&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f06%2f30%2fno-no-es-julio-velarde-recomendando-inversiones-es-una-estafa-bcrp-alerta-de-fraudes%2f&c=10026340856556706820&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abbd9fbe326444e9b30dfb992b829c8&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F06%2F30%2Fno-no-es-julio-velarde-recomendando-inversiones-es-una-estafa-bcrp-alerta-de-fraudes%2F&c=10026340856556706820&mkt=es-us",
+      "titulo": "No, no es Julio Velarde recomendando ‘inversiones’, es una estafa: BCRP alerta de fraudes",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-06-30",
+      "fecha_hecho": null,
+      "snippet": "El BCRP recuerda a los usuarios que no ofrece inversiones ni solicita pago algunos a los ciudadanos. La inteligencia artificial fue usada para Por Edwin Montesinos Nolasco Atención, usuarios. El Banco ...",
+      "temas": [
+        "Estafa"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:estafa Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-29 10:32"
     },
     {
       "id": "e5094510d514f14c",
@@ -3406,6 +3428,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-09-29 00:05"
+    },
+    {
+      "id": "ce8c6e0a76811a1b",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abbd9fbe326444e9b30dfb992b829c8&url=https%3a%2f%2felcomercio.pe%2fmag%2fusa%2flocal-us%2fatencion-como-denunciar-una-estafa-en-estados-unidos-la-guia-oficial-para-consumidores-y-que-hacer-para-protegerte-nnda-nnrt-noticia%2f&c=6407648501732176918&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abbd9fbe326444e9b30dfb992b829c8&url=https%3A%2F%2Felcomercio.pe%2Fmag%2Fusa%2Flocal-us%2Fatencion-como-denunciar-una-estafa-en-estados-unidos-la-guia-oficial-para-consumidores-y-que-hacer-para-protegerte-nnda-nnrt-noticia%2F&c=6407648501732176918&mkt=es-us",
+      "titulo": "Atención, cómo denunciar una estafa en Estados Unidos: la guía oficial para consumidores y qué hacer para protegerte",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-06-15",
+      "fecha_hecho": null,
+      "snippet": "Convertirse en víctima de un engaño puede generar una gran frustración, especialmente cuando se desconoce a dónde acudir para buscar justicia. En caso residas en los Estados Unidos, existen canales ...",
+      "temas": [
+        "Estafa"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:estafa Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-29 10:32"
     },
     {
       "id": "7281a70b0edc177e",
@@ -6933,5 +6977,5 @@
       "descartar": false
     }
   ],
-  "n": 304
+  "n": 306
 }

@@ -1,6 +1,6 @@
 {
   "mes": "2026-07",
-  "actualizado": "2026-09-29 00:02",
+  "actualizado": "2026-09-29 10:32",
   "items": [
     {
       "id": "1afe8ca6c5860d94",
@@ -2245,6 +2245,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-09-28 16:34"
+    },
+    {
+      "id": "7a4aa3954579904a",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abbd9f58e494b87b59604ebdfd0a61e&url=https%3a%2f%2fwww.atv.pe%2fnoticia%2fataque-chofer-combi-callao%2f&c=15879686636479097455&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abbd9f58e494b87b59604ebdfd0a61e&url=https%3A%2F%2Fwww.atv.pe%2Fnoticia%2Fataque-chofer-combi-callao%2F&c=15879686636479097455&mkt=es-us",
+      "titulo": "Nuevo ataque extorsivo: asesinan a chofer de combi en la avenida Argentina",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-07-22",
+      "fecha_hecho": null,
+      "snippet": "Un nuevo ataque contra el transporte público volvió a teñir de sangre las calles del Callao. Un chofer de combi fue asesinado a balazos en la avenida Argentina, luego de que sicarios a bordo de una ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Callao"
+      ],
+      "score": 2,
+      "query": "bing:asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-29 10:32"
     },
     {
       "id": "b7ae13a6cbfafbe2",
@@ -7082,5 +7106,5 @@
       "descartar": false
     }
   ],
-  "n": 317
+  "n": 318
 }

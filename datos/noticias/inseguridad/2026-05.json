@@ -1,6 +1,6 @@
 {
   "mes": "2026-05",
-  "actualizado": "2026-09-29 00:05",
+  "actualizado": "2026-09-29 10:32",
   "items": [
     {
       "id": "afe3597b96dcb38e",
@@ -5807,6 +5807,30 @@
       "agregado": "2026-09-29 00:05"
     },
     {
+      "id": "94e8316e329baba8",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abbd9f9d14a46ff83798ba80efae5bb&url=https%3a%2f%2fefe.com%2fmundo%2f2026-05-08%2forganizaciones-rechazan-proyecto-eliminacion-delito-feminicidio-peru%2f&c=13239562359694979301&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abbd9f9d14a46ff83798ba80efae5bb&url=https%3A%2F%2Fefe.com%2Fmundo%2F2026-05-08%2Forganizaciones-rechazan-proyecto-eliminacion-delito-feminicidio-peru%2F&c=13239562359694979301&mkt=es-us",
+      "titulo": "Diversas organizaciones rechazan un proyecto de ley que elimina el delito de feminicidio en Perú",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-05-07",
+      "fecha_hecho": null,
+      "snippet": "Lima (EFE).- Diversas organizaciones de derechos humanos y feministas de Perú, así como familiares de víctimas de violencia machista rechazaron este jueves el proyecto de ley de la congresista y ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:feminicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-29 10:32"
+    },
+    {
       "id": "decb527f280ebf81",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTDA2MjdqekdnVlV5X0xGUXJtR19PeG5Qd2RnREUtekkwRjVQR0M5MVRKNUJOMVFGMGd0bnYwNXhBV3FHWV9zYm9RTkFZUGV1MU5YYW5UYlVSSjJtVlhwQ1o4OHhhM3IyOV8xbEFUMDFzaUNJemhwREFMZ19UUUs0c0dFZUNtTnNOZzk0Nm9oMnNvUkQ4WUNFYWk2dWQxVGlhZFkzSW50U1NIR2F3WmYtTEVHbGhZQjFEMERjT2tvNG5XTi1lbFg4Zk5VYUFZTk3SAeoBQVVfeXFMUFd3bDVkODNfR0xXUERKd3FkYzgxX2pxV1RmRjhpVG5pSXBSMzZ3VG43TXFSRTltak10bzFiMmdTR2tiY0FZNEdGVkwwb2MwZUo3dlhNMTZpS1lTQ2hSUWRmbTBVQmlyT252WWNWUk9wbFVYVFk2bUM2bFVFaFdCTkF0SjQwOFFEZ2FMWHBCdFlRd1JwZmFkM2JJc1lrNWdkazYzNkk3bmZlQkhfNWVySkFmbHJkTVZTSjVQUVZmSWg3U3hSZFFjRUU3MVFyVUd4ZDRSVnd5SFhZNDN4UFhBYXhlOTU1b1pEbXBn?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTDA2MjdqekdnVlV5X0xGUXJtR19PeG5Qd2RnREUtekkwRjVQR0M5MVRKNUJOMVFGMGd0bnYwNXhBV3FHWV9zYm9RTkFZUGV1MU5YYW5UYlVSSjJtVlhwQ1o4OHhhM3IyOV8xbEFUMDFzaUNJemhwREFMZ19UUUs0c0dFZUNtTnNOZzk0Nm9oMnNvUkQ4WUNFYWk2dWQxVGlhZFkzSW50U1NIR2F3WmYtTEVHbGhZQjFEMERjT2tvNG5XTi1lbFg4Zk5VYUFZTk3SAeoBQVVfeXFMUFd3bDVkODNfR0xXUERKd3FkYzgxX2pxV1RmRjhpVG5pSXBSMzZ3VG43TXFSRTltak10bzFiMmdTR2tiY0FZNEdGVkwwb2MwZUo3dlhNMTZpS1lTQ2hSUWRmbTBVQmlyT252WWNWUk9wbFVYVFk2bUM2bFVFaFdCTkF0SjQwOFFEZ2FMWHBCdFlRd1JwZmFkM2JJc1lrNWdkazYzNkk3bmZlQkhfNWVySkFmbHJkTVZTSjVQUVZmSWg3U3hSZFFjRUU3MVFyVUd4ZDRSVnd5SFhZNDN4UFhBYXhlOTU1b1pEbXBn",
@@ -7837,5 +7861,5 @@
       "descartar": false
     }
   ],
-  "n": 346
+  "n": 347
 }
