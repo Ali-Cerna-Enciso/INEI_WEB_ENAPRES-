@@ -1,6 +1,6 @@
 {
   "mes": "2026-08",
-  "actualizado": "2026-09-28 16:35",
+  "actualizado": "2026-09-29 00:07",
   "items": [
     {
       "id": "bb9b57aa4ebf0c95",
@@ -3562,6 +3562,29 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-09-27 16:34"
+    },
+    {
+      "id": "300eacd2c8c13ae3",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abb477285834541a1f502ad0f2788a0&url=https%3a%2f%2fgestion.pe%2fperu%2fpolitica%2falcalde-de-ves-responsabilizo-a-sedapal-por-colapso-del-desague-que-provoco-aniego-en-el-distrito-noticia%2f&c=16660487994077038954&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abb477285834541a1f502ad0f2788a0&url=https%3A%2F%2Fgestion.pe%2Fperu%2Fpolitica%2Falcalde-de-ves-responsabilizo-a-sedapal-por-colapso-del-desague-que-provoco-aniego-en-el-distrito-noticia%2F&c=16660487994077038954&mkt=es-us",
+      "titulo": "Alcalde de VES responsabilizó a Sedapal por colapso del desagüe que provocó aniego en el distrito",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-18",
+      "fecha_hecho": null,
+      "snippet": "Guido Iñigo señaló que es la tercera vez que se registra un aniego en la zona y afirmó que la comuna alertó de esta problemática a Sedapal durante los últimos años.",
+      "temas": [
+        "Agua por red pública",
+        "Alcantarillado"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 5,
+      "query": "bing:aniego Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-29 00:07"
     },
     {
       "id": "8cf0ff5d1440ded1",
@@ -7444,5 +7467,5 @@
       "descartar": false
     }
   ],
-  "n": 311
+  "n": 312
 }

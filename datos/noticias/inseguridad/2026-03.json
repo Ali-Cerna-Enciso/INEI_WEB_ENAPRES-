@@ -1,6 +1,6 @@
 {
   "mes": "2026-03",
-  "actualizado": "2026-09-28 16:34",
+  "actualizado": "2026-09-29 00:05",
   "items": [
     {
       "id": "5976149ac746b5b8",
@@ -1118,6 +1118,28 @@
       "agregado": "2026-09-28 16:34"
     },
     {
+      "id": "188ff1fc1f846d07",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abb47041ddf418b94983f7bd8afae4d&url=https%3a%2f%2fwww.latercera.com%2fnacional%2fnoticia%2fdetienen-en-chile-a-hombre-buscado-por-homicidio-en-peru-lo-vinculan-al-tren-de-aragua%2f&c=17161718325389582042&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abb47041ddf418b94983f7bd8afae4d&url=https%3A%2F%2Fwww.latercera.com%2Fnacional%2Fnoticia%2Fdetienen-en-chile-a-hombre-buscado-por-homicidio-en-peru-lo-vinculan-al-tren-de-aragua%2F&c=17161718325389582042&mkt=es-us",
+      "titulo": "Detienen en Chile a hombre buscado por homicidio en Perú: lo vinculan al Tren de Aragua",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-03-28",
+      "fecha_hecho": null,
+      "snippet": "Un ciudadano venezolano, requerido por la justicia peruana, fue detenido este viernes en la comuna de Maipú, en la Región Metropolitana, en un operativo desarrollado por la Brigada Investigadora del ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:homicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-29 00:05"
+    },
+    {
       "id": "e70724b84945e0df",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPaDFiQlRkdFBBaUtHZHg0cENYTk5rcVRZYmpkaUZrUU52Y2ZSdEdKcUxIVkFmdjdOanRTaW82RWhfZjlYRjNEVmk1QmNtdThERGRpR3pPcmdOSnBjWHJFMmpnV1ZYajJWM2xsT0JLZ1lkbXJJeWNSZVp6WVJjazVkaVRvOXJsMkxfajZuOTU1ZmtzbzBSb0JuUVg4QXA1S0VsUHFuaTJYazFLZzdFRjNZQ3cxN3BvZXJQallMU0lSNTM5TDVRdm1BdU1vMlpKNnNSNklVRG9ITEwtMmVIbXVoZTNCbnFLeGNscExRQndtYnN1UTlOczlOMjlLcVFPZzBDX0lvM3FR0gGgAkFVX3lxTFBUT1FGZVR4cFlTRWhHNTFZOFJFS3dRb2wtQjBfZUxzcGVzX19CdklhcmJwRXUzSjJGVEItd2VmQndZVHRoa2V5LW5JLWlqMFItQm13dlFaeVlwbGhJNUpvT0Rkal9ZMTNUV0dPN0NIS1VOMkVYbDVsczZnbUR6YVk1QnRsZ09KX3FLX1Qzd2lXc0NsZ0lobmtadUl0UXBRVnVoZFNTUGpPa08xa0lNT04tYlQzUHJJVWNlYm9jUzJucGo3SFMtclVNY092dUhhdGxtTDdiQ09qUS1VeDR5WGJpWmpoUE1FRUpybUJUeUtCaF9ZeU5qcXJuR1B2blRHM05iSkR6d0Q0YnRGdlQwd0tpVEM3R2RFcEFLeVZMdXdfSQ?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPaDFiQlRkdFBBaUtHZHg0cENYTk5rcVRZYmpkaUZrUU52Y2ZSdEdKcUxIVkFmdjdOanRTaW82RWhfZjlYRjNEVmk1QmNtdThERGRpR3pPcmdOSnBjWHJFMmpnV1ZYajJWM2xsT0JLZ1lkbXJJeWNSZVp6WVJjazVkaVRvOXJsMkxfajZuOTU1ZmtzbzBSb0JuUVg4QXA1S0VsUHFuaTJYazFLZzdFRjNZQ3cxN3BvZXJQallMU0lSNTM5TDVRdm1BdU1vMlpKNnNSNklVRG9ITEwtMmVIbXVoZTNCbnFLeGNscExRQndtYnN1UTlOczlOMjlLcVFPZzBDX0lvM3FR0gGgAkFVX3lxTFBUT1FGZVR4cFlTRWhHNTFZOFJFS3dRb2wtQjBfZUxzcGVzX19CdklhcmJwRXUzSjJGVEItd2VmQndZVHRoa2V5LW5JLWlqMFItQm13dlFaeVlwbGhJNUpvT0Rkal9ZMTNUV0dPN0NIS1VOMkVYbDVsczZnbUR6YVk1QnRsZ09KX3FLX1Qzd2lXc0NsZ0lobmtadUl0UXBRVnVoZFNTUGpPa08xa0lNT04tYlQzUHJJVWNlYm9jUzJucGo3SFMtclVNY092dUhhdGxtTDdiQ09qUS1VeDR5WGJpWmpoUE1FRUpybUJUeUtCaF9ZeU5qcXJuR1B2blRHM05iSkR6d0Q0YnRGdlQwd0tpVEM3R2RFcEFLeVZMdXdfSQ",
@@ -2212,6 +2234,28 @@
       "descartar": false
     },
     {
+      "id": "d522c2782a4448f5",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abb4703f03a47c2a5f1f16da76fbd47&url=https%3a%2f%2fwww.telemundo51.com%2fnoticias%2flocal%2fcasi-30-anos-despues-extraditan-desde-peru-a-acusado-de-asesinato-a-miami-dade%2f2764803%2f&c=5752434553719132555&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abb4703f03a47c2a5f1f16da76fbd47&url=https%3A%2F%2Fwww.telemundo51.com%2Fnoticias%2Flocal%2Fcasi-30-anos-despues-extraditan-desde-peru-a-acusado-de-asesinato-a-miami-dade%2F2764803%2F&c=5752434553719132555&mkt=es-us",
+      "titulo": "Casi 30 años después: extraditan desde Perú a acusado de asesinato en Miami-Dade",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-03-25",
+      "fecha_hecho": null,
+      "snippet": "Un hombre acusado de asesinato hace casi tres décadas fue extraditado finalmente a Miami-Dade este martes, meses después de su detención en Perú tras años de permanecer bajo el radar, trabajando como ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-29 00:05"
+    },
+    {
       "id": "09cac9ea013cea1f",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdk85dGxNalI1SEhYQkMzM2RSVlB2R0MtT0c0Y2JHUDNNU1p2S1JVSDZGLVR2V1lJNFRvZ3JJMERvbDNfeThlaE01cmJKRm11ekVqSDRoSUlJektuaWotRDNiTmxnUDdYaVY4Umk0dDJoMU9iS1F2QVc1LURVYnBncG9aOVVtdkVqZHJLcXdyVHoyWlhiWnY4bGNpdlJJa3hjQ0dmZmp1WWJtcGdMbDJVbERIRTJuU1ZBZUFHMXNORnJpeDV6TndNV3o4SkU5bU1NTzJBbG92bUFVOE1oNTNTY0xB0gGDAkFVX3lxTE1rYklRM3dyZ2dVaGpMSjRTa3ZjZTFMdU05Wjg4UElGdUVyZTlqV294bk9zMEY5dWV5SkFtY3l5dXl1RGI0eXNnZmlQQjRzdWRTOHdXR1hVQWZzSmRYaUxhekhaT2pwU0xIbnNmOGJKNVZCckJHMTdjZ3hUOWhPNzR1QkFLVDl0WjNyVzJsaEMzZkwyZTJoS0hRdmVrTzBZdGE1aWdrX1ZyODNhMzRBdy1kQjBQRHphckRjSzVHZXc4YzA4WndGWjRkbjBIVWhxMnQtbUp5TGtJamFELWUycDhMQ2JBSXZkeFlaY3lQRElhcEtCbk5lQTVON253NXJLR0ZOZTQ?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdk85dGxNalI1SEhYQkMzM2RSVlB2R0MtT0c0Y2JHUDNNU1p2S1JVSDZGLVR2V1lJNFRvZ3JJMERvbDNfeThlaE01cmJKRm11ekVqSDRoSUlJektuaWotRDNiTmxnUDdYaVY4Umk0dDJoMU9iS1F2QVc1LURVYnBncG9aOVVtdkVqZHJLcXdyVHoyWlhiWnY4bGNpdlJJa3hjQ0dmZmp1WWJtcGdMbDJVbERIRTJuU1ZBZUFHMXNORnJpeDV6TndNV3o4SkU5bU1NTzJBbG92bUFVOE1oNTNTY0xB0gGDAkFVX3lxTE1rYklRM3dyZ2dVaGpMSjRTa3ZjZTFMdU05Wjg4UElGdUVyZTlqV294bk9zMEY5dWV5SkFtY3l5dXl1RGI0eXNnZmlQQjRzdWRTOHdXR1hVQWZzSmRYaUxhekhaT2pwU0xIbnNmOGJKNVZCckJHMTdjZ3hUOWhPNzR1QkFLVDl0WjNyVzJsaEMzZkwyZTJoS0hRdmVrTzBZdGE1aWdrX1ZyODNhMzRBdy1kQjBQRHphckRjSzVHZXc4YzA4WndGWjRkbjBIVWhxMnQtbUp5TGtJamFELWUycDhMQ2JBSXZkeFlaY3lQRElhcEtCbk5lQTVON253NXJLR0ZOZTQ",
@@ -2522,6 +2566,28 @@
       "agregado": "2026-09-28 16:34"
     },
     {
+      "id": "3a76c8a3274f736d",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abb4703f03a47c2a5f1f16da76fbd47&url=https%3a%2f%2fwww.local10.com%2fespanol%2f2026%2f03%2f25%2fextraditan-desde-peru-a-fugitivo-buscado-por-asesinato-en-miami-dade-tras-casi-30-anos%2f&c=14256005446317427063&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abb4703f03a47c2a5f1f16da76fbd47&url=https%3A%2F%2Fwww.local10.com%2Fespanol%2F2026%2F03%2F25%2Fextraditan-desde-peru-a-fugitivo-buscado-por-asesinato-en-miami-dade-tras-casi-30-anos%2F&c=14256005446317427063&mkt=es-us",
+      "titulo": "Extraditan desde Perú a fugitivo buscado por asesinato en Miami-Dade tras casi 30 años",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-03-24",
+      "fecha_hecho": null,
+      "snippet": "MIAMI-DADE COUNTY, Fla. — Un fugitivo buscado por la balacera fatal de un hombre en el condado Miami-Dade hace casi 30 años ha sido extraditado de regreso al sur de Florida desde Perú, informaron las ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-29 00:05"
+    },
+    {
       "id": "a927e645a6c14b87",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWEFsVWlhZ0ViYXo4LUN2V3hfRGRnMWZkLUY0cFZXY1JZZzVWWFVnXzdpMHN5WXB1cWRNa0pPR2l0RHcxcC1NOFZHZG9MSWtwd00wTFpkdDdMcnlqQzRsZnBhTEw3Mm1faktMZVRWa0JjYjdubUxSM2wtM1U2RUs1OElTRV85XzZnWXQzRkswVkFyT0xEazl6OTM3U2FNQU8yV1RzNkVEb2dNQzEzaEJVcFExcW4xWnFFVTJoM3psQlotTkRRZld5ZHRfaWlxNWtOOG0yeXpITExCNkNQUmfSAfgBQVVfeXFMTldtVWwzVWJFRFZLMzUxZDNTbUFoaFBaekplZzZJUlRiczZtSjJSS00xel9wR19FY00zVF9sdTlMZDVfYW92NFJ6YmY5OWNwWHRqY2JHUGhfVWRLRUxYMU04OFJGNWZha2t6Qnp5SERqZG40SlZrNjVLVW5HYlVkdW5CZjNCenhmZnlzOXdpM3JtbmZJYkgzeXo5NmhWYXhsX0U3TkI5cnJ0WHlKSV9FQmxtTm1VZW5rdENQenNkRmF3WWxVU0UyVlMzMzlvb3dDQl9vQzU1VHgyc0hFa1BOY0p6QkFEZ2VYdWRLam1aazBnd3B2VW1WVWE?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWEFsVWlhZ0ViYXo4LUN2V3hfRGRnMWZkLUY0cFZXY1JZZzVWWFVnXzdpMHN5WXB1cWRNa0pPR2l0RHcxcC1NOFZHZG9MSWtwd00wTFpkdDdMcnlqQzRsZnBhTEw3Mm1faktMZVRWa0JjYjdubUxSM2wtM1U2RUs1OElTRV85XzZnWXQzRkswVkFyT0xEazl6OTM3U2FNQU8yV1RzNkVEb2dNQzEzaEJVcFExcW4xWnFFVTJoM3psQlotTkRRZld5ZHRfaWlxNWtOOG0yeXpITExCNkNQUmfSAfgBQVVfeXFMTldtVWwzVWJFRFZLMzUxZDNTbUFoaFBaekplZzZJUlRiczZtSjJSS00xel9wR19FY00zVF9sdTlMZDVfYW92NFJ6YmY5OWNwWHRqY2JHUGhfVWRLRUxYMU04OFJGNWZha2t6Qnp5SERqZG40SlZrNjVLVW5HYlVkdW5CZjNCenhmZnlzOXdpM3JtbmZJYkgzeXo5NmhWYXhsX0U3TkI5cnJ0WHlKSV9FQmxtTm1VZW5rdENQenNkRmF3WWxVU0UyVlMzMzlvb3dDQl9vQzU1VHgyc0hFa1BOY0p6QkFEZ2VYdWRLam1aazBnd3B2VW1WVWE",
@@ -2810,6 +2876,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-09-27 10:26"
+    },
+    {
+      "id": "70c72a2ca603f427",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abb46f81e494d19a5a9b128626bf716&url=https%3a%2f%2fperu21.pe%2feconomia%2fasbanc-el-populismo-financiero-abre-las-puertas-al-gota-gota%2f&c=3310820271252611702&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abb46f81e494d19a5a9b128626bf716&url=https%3A%2F%2Fperu21.pe%2Feconomia%2Fasbanc-el-populismo-financiero-abre-las-puertas-al-gota-gota%2F&c=3310820271252611702&mkt=es-us",
+      "titulo": "Asbanc: El populismo financiero abre las puertas al “gota a gota” y a la inseguridad",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-03-24",
+      "fecha_hecho": null,
+      "snippet": "El gremio precisó que las propuestas pasan por alto que debilitar el crédito formal tiene consecuencias directas contra la seguridad ciudadana y la inclusión financiera. Sostuvo que el Banco Central ...",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:\"gota a gota\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-29 00:05"
     },
     {
       "id": "4f1c6cdf578b560a",
@@ -6449,5 +6537,5 @@
       "descartar": false
     }
   ],
-  "n": 286
+  "n": 290
 }
