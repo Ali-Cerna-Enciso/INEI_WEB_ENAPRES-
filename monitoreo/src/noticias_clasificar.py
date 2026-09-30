@@ -8,7 +8,9 @@ victimización / seguridad ciudadana: solo hechos CONSUMADOS. Fuera:
 intentos/tentativas y percepción de inseguridad.
 
 Servicios sigue «Acceso a los servicios básicos en el Perú»: agua por red,
-alcantarillado, electricidad, residuos sólidos.
+alcantarillado, electricidad, residuos sólidos, y menciones de indicadores
+(cobertura, acceso, Índice de Progreso Social) que ENAPRES suele tener que
+explicar aunque la nota no nombre la encuesta.
 """
 from __future__ import annotations
 
@@ -146,25 +148,52 @@ SERVICIOS = (
         "desabastecimiento de agua", "falta de agua", "racionamiento de agua",
         "no hay agua", "agua potable", "sedapal", "sedalib", "sedacusco",
         "sedapar", "sedalib", "eps ", "cisternas de agua", "red de agua",
-        "servicio de agua",
+        "servicio de agua", "acceso al agua", "acceso a agua",
+        "agua y saneamiento", "cobertura de agua", "indicador de agua",
+        "indicadores de agua",
     )),
     ("Alcantarillado", (
         "colapso de desague", "desborde de desague", "red de desague",
         "alcantarillado", "aniego", "desague", "desagues",
-        "disposicion sanitaria",
+        "disposicion sanitaria", "saneamiento basico", "saneamiento rural",
+        "saneamiento urbano", "cobertura de saneamiento",
+        "indicador de saneamiento",
     )),
     ("Energía eléctrica", (
         "corte de luz", "cortes de luz", "corte electrico", "sin energia electrica",
         "sin luz", "apagon", "apagones", "hidrandina", "electrocentro",
         "electro oriente", "electro sur", "electroperu", "enel", "seal",
         "luz del sur", "electrificacion", "alumbrado electrico",
-        "servicio electrico",
+        "servicio electrico", "acceso a electricidad", "cobertura electrica",
+        "indicador de electricidad",
     )),
     ("Residuos sólidos", (
         "recoleccion de basura", "recoleccion domiciliaria", "no recogen la basura",
         "relleno sanitario", "residuos solidos", "camion de basura",
-        "botadero", "basura en las calles",
+        "botadero", "basura en las calles", "cobertura de residuos",
+        "indicador de residuos",
     )),
+    ("Indicadores de servicios", (
+        "indicadores de servicios basicos", "indicador de servicios basicos",
+        "acceso a los servicios basicos", "acceso a servicios basicos",
+        "cobertura de servicios basicos", "indicadores de acceso",
+        "indicador de acceso",
+    )),
+)
+
+# Marca de medición + servicio: captura "77.4/100 en agua" o "indicador … agua"
+# aunque no use la frase exacta de la taxonomía.
+_MARCA_INDICADOR = (
+    "indicador", "indicadores", "indice de progreso social",
+    "indice de progreso", "progreso social", "puntaje",
+)
+_SERVICIO_EN_INDICADOR = (
+    ("Agua por red pública", ("agua", "saneamiento", "sedapal", "sedalib")),
+    ("Alcantarillado", ("alcantarillado", "desague", "saneamiento")),
+    ("Energía eléctrica", (
+        "electricidad", "electrico", "energia electrica", "alumbrado",
+    )),
+    ("Residuos sólidos", ("residuos", "basura", "relleno sanitario")),
 )
 
 EXCLUSION_INSEG = (
@@ -175,6 +204,8 @@ EXCLUSION_SERV = (
     "luz verde", "agua de coco", "agua de mar", "luz de esperanza",
     "encuesta electoral", "intencion de voto", "enapres",
     "encuesta nacional de programas presupuestales",
+    "saneamiento fisico legal", "saneamiento fisico-legal",
+    "saneamiento predial", "saneamiento de titulos",
 )
 
 
@@ -277,6 +308,10 @@ def _clasificar_inseguridad(blob: str):
     return score, ordered
 
 
+def _tiene_marca_indicador(blob: str) -> bool:
+    return any(_posiciones(blob, m) for m in _MARCA_INDICADOR)
+
+
 def _clasificar_servicios(blob: str):
     if any(e in blob for e in EXCLUSION_SERV):
         return None
@@ -287,9 +322,27 @@ def _clasificar_servicios(blob: str):
         if hits:
             cats.append(etiqueta)
             score += 2 if hits[0][1] < 180 else 1
+    if _tiene_marca_indicador(blob):
+        extra = []
+        for etiqueta, terminos in _SERVICIO_EN_INDICADOR:
+            if any(_posiciones(blob, t) for t in terminos):
+                extra.append(etiqueta)
+        if extra:
+            for etiqueta in extra:
+                if etiqueta not in cats:
+                    cats.append(etiqueta)
+                    score += 1
+            if "Indicadores de servicios" not in cats:
+                cats.append("Indicadores de servicios")
+                score += 1
     if not cats:
         return None
-    return score, cats
+    seen, ordered = set(), []
+    for c in cats:
+        if c not in seen:
+            seen.add(c)
+            ordered.append(c)
+    return score, ordered
 
 
 def temas_catalogo(area: str) -> list[str]:

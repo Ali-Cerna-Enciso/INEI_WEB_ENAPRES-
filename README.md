@@ -12,7 +12,7 @@ veces al día desde GitHub Actions y deja todo listo para consulta.
 | Catálogo | Boletines, publicaciones, microdatos y difusión, agrupados por libro, con portadas y enlaces al INEI. |
 | Menciones | Notas que nombran la encuesta, con filtro por periodo, fuente y tema. |
 | Noticias inseguridad | Delitos consumados de la ENAPRES (P424): extorsión, secuestro, estafa, robos, homicidio. |
-| Noticias servicios básicos | Agua, alcantarillado, electricidad y residuos sólidos en medios peruanos, con ubigeo sugerido por el título. |
+| Noticias servicios básicos | Agua, alcantarillado, electricidad, residuos sólidos e indicadores de acceso/cobertura en medios peruanos, con ubigeo sugerido por el título. |
 | Cargar | Alta de productos al catálogo desde la propia aplicación, disponible en la instalación local. |
 
 ## Cómo funciona
@@ -41,7 +41,7 @@ mismo botón de la pestaña Menciones.
 
 | Cron (UTC) | Lima | Corrida |
 |---|---|---|
-| `17 12 * * *` | 07:17 | menciones |
+| `17 12 * * *` | 07:17 | menciones y noticias |
 | `17 15 * * *` | 10:17 | noticias |
 | `17 21 * * *` | 16:17 | menciones y noticias |
 | `50 4 * * *` | 23:50 | cierre del día |

@@ -39,6 +39,8 @@ GDELT_Q = {
         '("corte de luz" OR apagon OR Hidrandina OR "corte electrico") sourcecountry:PE sourcelang:spanish',
         '(desague OR alcantarillado OR aniego) sourcecountry:PE sourcelang:spanish',
         '("agua potable" OR "recoleccion de basura" OR "relleno sanitario") sourcecountry:PE sourcelang:spanish',
+        '("acceso al agua" OR "agua y saneamiento" OR "servicios basicos") sourcecountry:PE sourcelang:spanish',
+        '("Indice de Progreso Social" OR "indicadores de servicios") sourcecountry:PE sourcelang:spanish',
     ),
 }
 

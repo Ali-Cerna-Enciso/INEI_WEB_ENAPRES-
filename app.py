@@ -405,7 +405,7 @@ def _barra_actualizar(clave: str, snap: Path | None = None) -> bool:
     elif _puede_rastrear_aqui():
         local_click = st.button("Actualizar hoy", type="primary",
                                 use_container_width=True, key=f"btn_{clave}")
-    st.caption("Auto: 07:17 menciones · 10:17 y 16:17 noticias · 23:50 Lima")
+    st.caption("Auto: 07:17 menciones y noticias · 10:17 noticias · 16:17 ambos · 23:50 Lima")
     ruta = snap or (DIR / "datos_publicos" / "menciones.json")
     st.caption(
         f"Última actualización: {_hora_json(str(ruta), _mtime(ruta))} (hora Lima)"
@@ -509,7 +509,7 @@ def _panel_noticias(area: str, titulo: str, caption: str, clave: str) -> bool:
         key=f"per_{clave}",
         help="Hoy/semana/mes recortan por fecha de publicación (día Lima). "
              "Año 2026 lee el JSON acumulado. Un día sin botón no se pierde: "
-             "las corridas de 10:17, 16:17 y 23:50 miran al menos 7 días atrás. "
+             "las corridas de 07:17, 10:17, 16:17 y 23:50 miran al menos 7 días atrás. "
              "Si eliges un mes archivado, ese mes manda sobre el periodo.",
     )
     mes_sel = ""
@@ -590,7 +590,7 @@ def _panel_noticias(area: str, titulo: str, caption: str, clave: str) -> bool:
         if ventana == "Hoy" and not mes_sel:
             st.info(
                 "Sin noticias con fecha de hoy (Lima). A media mañana suele haber pocas; "
-                "esta vista se llena con las corridas de las 10:17 y 16:17. "
+                "esta vista se llena con las corridas de las 07:17, 10:17 y 16:17. "
                 "Lo de ayer está en Semana."
             )
         else:
@@ -818,9 +818,9 @@ with tab_ser:
         click_ser = _panel_noticias(
             "servicios",
             "Noticias de servicios básicos",
-            "Agua, alcantarillado, electricidad y residuos sólidos en medios "
-            "peruanos, 2026. El ubigeo se sugiere si el título nombra departamento "
-            "o distrito.",
+            "Agua, alcantarillado, electricidad, residuos sólidos e indicadores "
+            "(acceso, cobertura, Índice de Progreso Social) en medios peruanos, "
+            "2026. El ubigeo se sugiere si el título nombra departamento o distrito.",
             "servicios",
         )
     except Exception as e:
