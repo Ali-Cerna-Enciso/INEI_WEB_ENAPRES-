@@ -1,6 +1,6 @@
 {
   "mes": "2026-08",
-  "actualizado": "2026-09-30 10:17",
+  "actualizado": "2026-09-30 10:33",
   "items": [
     {
       "id": "d9d4232fbcb587d1",
@@ -1816,6 +1816,29 @@
       "agregado": "2026-09-30 00:05"
     },
     {
+      "id": "5bca4c2b4412df84",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abd2b91e9f548279517b4e8772d57a4&url=https%3a%2f%2fwww.cooperativa.cl%2fnoticias%2fmundo%2fperu%2fperu-liberan-a-empresario-victima-de-sangriento-secuestro-cometido-por%2f2026-08-31%2f191512.html&c=6371970334043109865&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abd2b91e9f548279517b4e8772d57a4&url=https%3A%2F%2Fwww.cooperativa.cl%2Fnoticias%2Fmundo%2Fperu%2Fperu-liberan-a-empresario-victima-de-sangriento-secuestro-cometido-por%2F2026-08-31%2F191512.html&c=6371970334043109865&mkt=es-us",
+      "titulo": "Perú: Liberan a empresario víctima de sangriento secuestro cometido por Los Pulpos",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-31",
+      "fecha_hecho": null,
+      "snippet": "Jenss Lara fue raptado el domingo en un falso operativo policial en el que sus cuatro acompañantes fueron asesinados. El Ministerio de Defensa comunicó esta tarde la captura de los responsables, y la ...",
+      "temas": [
+        "Secuestro",
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 4,
+      "query": "bing:secuestro Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-30 10:33"
+    },
+    {
       "id": "0677c6152dc2c6fc",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZkZNZExRZ0pOZlVXU2FMLUtzNEhoM0FndWhscEF4aGh5dm5OaEZBeW51SWV1NXdnYzVDOUhQU1p6M2xzcFhlV0VBQm9rdE1PaTI1eGNCN29WRTlsbXVaREh1TGZkYjBhQXBiRUxZZE9UNUFQdVlDR1BpM1BQcFdQTWh6Zmd2TmZDb0FFYlFrZXhiQTdZX0RUdHFWUTRETVpjdDFPX3BDaVdEazRGQWNhVUVqYVhlWE1ZeGZtdl9ZaEMxTGNvMTlJT2VUNkxTRjhLUTZWSlhiZ9IB8gFBVV95cUxPQ2hrbEZSOER4eTRIaEo0enk1bXZoY0dzWXVJd09vOHF5Q2xFWkVhTTc2QkdxQU44NlBXb1VBa3psQ3NYUV9udEVSTGRpbndra2dXaHJlMVNjUHBvYTVFX296MWFSWlhGX3BELXVzNXI0dUwyTGk1NXY2MnNGakl1WThRXzI5MkVmVW1OUlRWRmVleDhBZk4zc1A1dmhPOENXamxGVmRkbzBpMi1WMEh2RTdQRmVYblp2Y0ctYmtCbS1jb2J6a0hwVkdOdVBMcEsySm52OTR6WXJlMjREMWlvX2Z4Z1lqWDZIdnFKVmZVSDhaQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZkZNZExRZ0pOZlVXU2FMLUtzNEhoM0FndWhscEF4aGh5dm5OaEZBeW51SWV1NXdnYzVDOUhQU1p6M2xzcFhlV0VBQm9rdE1PaTI1eGNCN29WRTlsbXVaREh1TGZkYjBhQXBiRUxZZE9UNUFQdVlDR1BpM1BQcFdQTWh6Zmd2TmZDb0FFYlFrZXhiQTdZX0RUdHFWUTRETVpjdDFPX3BDaVdEazRGQWNhVUVqYVhlWE1ZeGZtdl9ZaEMxTGNvMTlJT2VUNkxTRjhLUTZWSlhiZ9IB8gFBVV95cUxPQ2hrbEZSOER4eTRIaEo0enk1bXZoY0dzWXVJd09vOHF5Q2xFWkVhTTc2QkdxQU44NlBXb1VBa3psQ3NYUV9udEVSTGRpbndra2dXaHJlMVNjUHBvYTVFX296MWFSWlhGX3BELXVzNXI0dUwyTGk1NXY2MnNGakl1WThRXzI5MkVmVW1OUlRWRmVleDhBZk4zc1A1dmhPOENXamxGVmRkbzBpMi1WMEh2RTdQRmVYblp2Y0ctYmtCbS1jb2J6a0hwVkdOdVBMcEsySm52OTR6WXJlMjREMWlvX2Z4Z1lqWDZIdnFKVmZVSDhaQQ",
@@ -2609,6 +2632,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-09-30 10:17"
+    },
+    {
+      "id": "724aa074c751b9a4",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abd2bb1be594792b7e2ceef9d29abc6&url=https%3a%2f%2fdiariocorreo.pe%2fpolitica%2fmasacre-en-trujillo-renzo-reggiardo-pide-al-congreso-aprobar-facultades-legislativas-para-enfrentar-delincuencia-noticia%2f&c=9134434544173010546&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abd2bb1be594792b7e2ceef9d29abc6&url=https%3A%2F%2Fdiariocorreo.pe%2Fpolitica%2Fmasacre-en-trujillo-renzo-reggiardo-pide-al-congreso-aprobar-facultades-legislativas-para-enfrentar-delincuencia-noticia%2F&c=9134434544173010546&mkt=es-us",
+      "titulo": "Masacre en Trujillo: Renzo Reggiardo pide al Congreso aprobar facultades legislativas para enfrentar delincuencia",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-31",
+      "fecha_hecho": null,
+      "snippet": "Reggiardo señaló que los congresistas deben asumir responsabilidad ante la ciudadanía si continúan postergando la decisión sobre las facultades solicitadas por el Gobierno. El alcalde sostuvo que ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 3,
+      "query": "bing:\"masacre\" Trujillo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-30 10:33"
     },
     {
       "id": "f6b6d1e545edb4f0",
@@ -4647,6 +4694,31 @@
       "agregado": "2026-09-30 10:17"
     },
     {
+      "id": "4938fbc64ee5d367",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abd2b91e9f548279517b4e8772d57a4&url=https%3a%2f%2fwww.msn.com%2fes-es%2fnoticias%2fother%2finvestigan-el-secuestro-de-un-empresario-minero-y-el-asesinato-de-sus-cuatro-acompa%25C3%25B1antes-en-trujillo-per%25C3%25BA%2far-AA2bfreF&c=5460582113156239359&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abd2b91e9f548279517b4e8772d57a4&url=https%3A%2F%2Fwww.msn.com%2Fes-es%2Fnoticias%2Fother%2Finvestigan-el-secuestro-de-un-empresario-minero-y-el-asesinato-de-sus-cuatro-acompa%25C3%25B1antes-en-trujillo-per%25C3%25BA%2Far-AA2bfreF&c=5460582113156239359&mkt=es-us",
+      "titulo": "Investigan el secuestro de un empresario minero y el asesinato de sus cuatro acompañantes en Trujillo (Perú)",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-30",
+      "fecha_hecho": null,
+      "snippet": "Juntos por el Perú impulsa un proyecto de ley para habilitar a Keiko Fujimori a poder cesar al comandante general de la Policía Nacional Las autoridades de Perú investigan el secuestro de un ...",
+      "temas": [
+        "Secuestro",
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 5,
+      "query": "bing:secuestro Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-30 10:33"
+    },
+    {
       "id": "e3b81e436403b5c3",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZF8tTDBDbkZuQ19STkk1eXVyT1Zja2lLNHJvZzJMZFNkclpqWmFWSEtoQTdWc3JPcFplS2FXU3pnWXVBR085ZFM1SnpnMExZaHlnWDJ3d0ZrQWZtb1VyZWljbXBNb1FyTWxNVktjdXdnUHdmbG9oSjJhaXlHRG9FUGVFSERSdW5VdGp0ekJ4QS1lMlh2RFAzSVlQbVNkSlFpbzJ4dUR5WjdrVFk4eDNSeVo5eGRob3JmM2lnUGRDc25SM1NMUUxueTRUZWdkRzlHZm9IeElWMmg?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZF8tTDBDbkZuQ19STkk1eXVyT1Zja2lLNHJvZzJMZFNkclpqWmFWSEtoQTdWc3JPcFplS2FXU3pnWXVBR085ZFM1SnpnMExZaHlnWDJ3d0ZrQWZtb1VyZWljbXBNb1FyTWxNVktjdXdnUHdmbG9oSjJhaXlHRG9FUGVFSERSdW5VdGp0ekJ4QS1lMlh2RFAzSVlQbVNkSlFpbzJ4dUR5WjdrVFk4eDNSeVo5eGRob3JmM2lnUGRDc25SM1NMUUxueTRUZWdkRzlHZm9IeElWMmg",
@@ -6367,6 +6439,28 @@
       "agregado": "2026-09-29 00:05"
     },
     {
+      "id": "79efab1f895f55d3",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abd2ba1230e4ae68407161791011034&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f08%2f26%2fidentidades-sinteticas-y-tecnicas-de-fatiga-contrasenas-ya-no-frenan-el-fraude-digital-y-bancos-en-peru-encienden-las-alertas%2f&c=10172187503192527293&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abd2ba1230e4ae68407161791011034&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F08%2F26%2Fidentidades-sinteticas-y-tecnicas-de-fatiga-contrasenas-ya-no-frenan-el-fraude-digital-y-bancos-en-peru-encienden-las-alertas%2F&c=10172187503192527293&mkt=es-us",
+      "titulo": "Identidades sintéticas y técnicas de fatiga: contraseñas ya no frenan el fraude digital y bancos en Perú encienden las alertas",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-26",
+      "fecha_hecho": null,
+      "snippet": "El crecimiento de las operaciones digitales amplió la exposición al fraude bancario, que ahora apunta a suplantar identidades digitales y tomar control de cuentas legítimas ...",
+      "temas": [
+        "Fraude bancario"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 2,
+      "query": "bing:\"fraude bancario\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-30 10:33"
+    },
+    {
       "id": "2c07c7b4a2a841ad",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNzJQQzYyZUFGdUhtVTZnRDNMUWsyYm4yX0dTNVR1M3MwSU1IRVNodk1iZFVZOTVmN1h6ZGtrdzdGQ0I5S05wUHU0VENydU02a1YwSWNxcTkxbVpqNkZ6ZmFxdThTTE5VZ3BBMlhKM1haek83ZEZEdHN6UW5uaFpsVGZkRlNVdFVvYzFtSXJRQjc0ZWhyOFl6UFAwSGhuWTF2Y1N6c2lQdTZiN2VTbGlQV0l4Qm9VdXJPaldxQ2xWQTVQZ1VYZFdBalVKUWpnTWxmLVJwWjdGalAwQ0ZJQmFRTUwzWjnSAf8BQVVfeXFMTm1JUmdPV3RFbHVYTldCcTdJOTFCQzQycHRlOUFxS01aUWEwczhpZU1uQVYxLUtNbEZYelJ6YVFYOTdIWTNtMzRvOWJGR1otbXluYUktVHlONWZJcHowWnRjci12d1pBcVMxMW95REt3RzlnbXAwVjJQWTdSZDhuUERZUXg5LVY4LTJ6VFhDWU9JbVNPZzlnaHk3X0U5M1BVSURqY25MaG9rMl9sb055elFjYjhmenhwNTl2TklkWFpueTlBczBoUU9rWEJ2TkJxQ002WGtNZXYyTWFBRktxcll0V0sxRnRudlNGN3Fob2hFeWtldWhBdUlkeDVhNkxR?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNzJQQzYyZUFGdUhtVTZnRDNMUWsyYm4yX0dTNVR1M3MwSU1IRVNodk1iZFVZOTVmN1h6ZGtrdzdGQ0I5S05wUHU0VENydU02a1YwSWNxcTkxbVpqNkZ6ZmFxdThTTE5VZ3BBMlhKM1haek83ZEZEdHN6UW5uaFpsVGZkRlNVdFVvYzFtSXJRQjc0ZWhyOFl6UFAwSGhuWTF2Y1N6c2lQdTZiN2VTbGlQV0l4Qm9VdXJPaldxQ2xWQTVQZ1VYZFdBalVKUWpnTWxmLVJwWjdGalAwQ0ZJQmFRTUwzWjnSAf8BQVVfeXFMTm1JUmdPV3RFbHVYTldCcTdJOTFCQzQycHRlOUFxS01aUWEwczhpZU1uQVYxLUtNbEZYelJ6YVFYOTdIWTNtMzRvOWJGR1otbXluYUktVHlONWZJcHowWnRjci12d1pBcVMxMW95REt3RzlnbXAwVjJQWTdSZDhuUERZUXg5LVY4LTJ6VFhDWU9JbVNPZzlnaHk3X0U5M1BVSURqY25MaG9rMl9sb055elFjYjhmenhwNTl2TklkWFpueTlBczBoUU9rWEJ2TkJxQ002WGtNZXYyTWFBRktxcll0V0sxRnRudlNGN3Fob2hFeWtldWhBdUlkeDVhNkxR",
@@ -6877,6 +6971,30 @@
       "agregado": "2026-09-18 12:29",
       "tipo_fuente": "Noticias/reportes",
       "descartar": false
+    },
+    {
+      "id": "4dcfafefeac4246c",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abd2b9abf8b476cbd90c8abb006fe71&url=https%3a%2f%2fwww.swissinfo.ch%2fspa%2fjusticia-de-per%25c3%25ba-condena-a-cuatro-hombres-por-el-homicidio-de-l%25c3%25adder-ind%25c3%25adgena-en-2023%2f91948763&c=8869166249240707959&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abd2b9abf8b476cbd90c8abb006fe71&url=https%3A%2F%2Fwww.swissinfo.ch%2Fspa%2Fjusticia-de-per%25c3%25ba-condena-a-cuatro-hombres-por-el-homicidio-de-l%25c3%25adder-ind%25c3%25adgena-en-2023%2F91948763&c=8869166249240707959&mkt=es-us",
+      "titulo": "Justicia de Perú condena a cuatro hombres por el homicidio de líder indígena en 2023",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-24",
+      "fecha_hecho": null,
+      "snippet": "Lima, 24 ago (EFE).- Un juzgado de la Corte Superior Nacional de Perú condenó este lunes a cuatro hombres a penas entre 15 y 35 años de cárcel, por el homicidio del líder indígena Quinto Inuma ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:homicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-30 10:33"
     },
     {
       "id": "e53690b5eee6d2b9",
@@ -10796,6 +10914,28 @@
       "agregado": "2026-09-30 10:17"
     },
     {
+      "id": "6c22d6646df60a9a",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abd2b9cd39648b28c72955c89f09dc6&url=https%3a%2f%2frpp.pe%2fperu%2factualidad%2fel-numero-de-presos-por-feminicidio-en-el-peru-se-multiplico-por-seis-en-la-ultima-decada-informe-noticia-1700934&c=16529491939722550603&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abd2b9cd39648b28c72955c89f09dc6&url=https%3A%2F%2Frpp.pe%2Fperu%2Factualidad%2Fel-numero-de-presos-por-feminicidio-en-el-peru-se-multiplico-por-seis-en-la-ultima-decada-informe-noticia-1700934&c=16529491939722550603&mkt=es-us",
+      "titulo": "El número de presos por feminicidio en el Perú se multiplicó por seis en la última década [Informe]",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-10",
+      "fecha_hecho": null,
+      "snippet": "Cifras obtenidas por RPP revelan que, en los últimos diez años, el número de personas presas por feminicidio o por tentativa de feminicidio se multiplicó por seis. Los números también evidencian que ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:feminicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-30 10:33"
+    },
+    {
       "id": "0b6c0c5a8f0a8d14",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOekNGekctTzhMM2ExZUg4RGMxakpMSmdJekxFdzN1X240WEtoYkhpLTBfNk5keU9EWWlhdTRJcmx2UDBzMHRjOGJqNmpNTVhzdlloMEp5d0p1eE9xemw4bTVRQi1iclVwT2RmcFRhTUJmNFJ2MGd0Y1M1b2lmZEZGODdnRDVJeHF3WXNsZVNpVWt2MXpxQVhiN0o2QTZJQi1KZGJVcDJZUmZlWFI1ZTZPM1RDQklyUDk4ZDUtNUI4UkU3MnVGRVFHQ3FWUEhoSVU?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOekNGekctTzhMM2ExZUg4RGMxakpMSmdJekxFdzN1X240WEtoYkhpLTBfNk5keU9EWWlhdTRJcmx2UDBzMHRjOGJqNmpNTVhzdlloMEp5d0p1eE9xemw4bTVRQi1iclVwT2RmcFRhTUJmNFJ2MGd0Y1M1b2lmZEZGODdnRDVJeHF3WXNsZVNpVWt2MXpxQVhiN0o2QTZJQi1KZGJVcDJZUmZlWFI1ZTZPM1RDQklyUDk4ZDUtNUI4UkU3MnVGRVFHQ3FWUEhoSVU",
@@ -12482,5 +12622,5 @@
       "descartar": true
     }
   ],
-  "n": 539
+  "n": 545
 }

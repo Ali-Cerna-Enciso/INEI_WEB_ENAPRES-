@@ -1,6 +1,6 @@
 {
   "mes": "2026-06",
-  "actualizado": "2026-09-30 10:17",
+  "actualizado": "2026-09-30 10:33",
   "items": [
     {
       "id": "26d94905d70f5f18",
@@ -133,6 +133,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-09-29 10:32"
+    },
+    {
+      "id": "4d9165b998985fa3",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abd2b9e5c684c58822a198247e1ed9d&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f06%2f30%2fno-no-es-julio-velarde-recomendando-inversiones-es-una-estafa-bcrp-alerta-de-fraudes%2f&c=10026340856556706820&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abd2b9e5c684c58822a198247e1ed9d&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F06%2F30%2Fno-no-es-julio-velarde-recomendando-inversiones-es-una-estafa-bcrp-alerta-de-fraudes%2F&c=10026340856556706820&mkt=es-us",
+      "titulo": "No, no es Julio Velarde recomendando ‘inversiones’, es una estafa: BCRP alerta de fraudes",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-06-30",
+      "fecha_hecho": null,
+      "snippet": "El BCRP recuerda a los usuarios que no ofrece inversiones ni solicita pago algunos a los ciudadanos. La inteligencia artificial fue usada para Por Edwin Montesinos Nolasco Atención, usuarios. El Banco ...",
+      "temas": [
+        "Estafa"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:estafa Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-30 10:33"
     },
     {
       "id": "e5094510d514f14c",
@@ -5956,6 +5978,30 @@
       "agregado": "2026-09-23 00:04"
     },
     {
+      "id": "095c0bda59a4d3ac",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abd2b8e63d14bf5906f79a2620855c6&url=https%3a%2f%2fwww.infobae.com%2fvideo%2fperu%2fladron-que-roba-a-ladron-asaltan-a-prestamistas-gota-a-gota-en-piura%2f2V3mvUUb%2f&c=11177458349230180452&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abd2b8e63d14bf5906f79a2620855c6&url=https%3A%2F%2Fwww.infobae.com%2Fvideo%2Fperu%2Fladron-que-roba-a-ladron-asaltan-a-prestamistas-gota-a-gota-en-piura%2F2V3mvUUb%2F&c=11177458349230180452&mkt=es-us",
+      "titulo": "Ladrón que roba a ladrón: Asaltan a prestamistas 'gota a gota' en Piura",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-06-03",
+      "fecha_hecho": null,
+      "snippet": "En un insólito caso de 'ladrón que roba a ladrón', una pareja de prestamistas extranjeros que se dedicaba al cobro 'gota a gota' fue violentamente asaltada por otros delincuentes en Piura. Una cámara ...",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Piura"
+      ],
+      "score": 3,
+      "query": "bing:\"gota a gota\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-30 10:33"
+    },
+    {
       "id": "f1752696f2ac3b3b",
       "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOWnNaOFlWbkpXUGhRZnVMMWZocW56NmJhVGFob3YwdEI3SGlSNG5MSXZhOVVKbHdqUkZNZWJjM2dJM1V5bVVLMVdpcDJEVU1CQXhEVk9ScVNZb2lvSzhzbERjN2pSTlFiMzdfaU5XdXp4MEE0VnBKTjZjcU9GWk5MOFU2VnpVdS1lRWZOYjZ4bzZGa2YzaWIwbVBmaTY4WHNGd2NPZDlwYzZQbk44bV83R1Zyb0dkMHc1TGJEcjVYUTlIbzJoN3F5SXhvaGxxLUI3OFdNNmpkSXBnNGJBUUt0YzBPcFEtX05NTWEwWmE4OTQ2RmFTTDVDalhkaG5kd3FnRXZvT3MzZFltT0NwbUxr0gGUAkFVX3lxTE9xVTBWNU9mMjZxbmxjV1JadnJ2VDVFQTRLVUkzSUR3TXUwNk56eE5OWmN4M3NjdXJyemtWTFZhU0hWSUZVeXV5MUNNcHFRc29scTBRdDEyMDNVdkRMd0tmMjk0d0tGLWU4UG5iN1pMRzlxY2JNVjZnMDA4NjJpeGxLclBTRmN4TnVFZWtQN3A0LXBHbmxuemhLbVJyeFBDVlh4Y1Fydzh4TEJ2QnNXTVR6cFR0a2czQ25SRmhnaDFQanhQd2FPdnFqdS1naGZCRlFMT05sREdHQlBWbFI0OFVUUDVTZng2dzRmSGVjcnhkVXNGdUt6b2VTZmpCWGNQYXpXQXJHbVo5ZkQta25OdC0zRmxSRg?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOWnNaOFlWbkpXUGhRZnVMMWZocW56NmJhVGFob3YwdEI3SGlSNG5MSXZhOVVKbHdqUkZNZWJjM2dJM1V5bVVLMVdpcDJEVU1CQXhEVk9ScVNZb2lvSzhzbERjN2pSTlFiMzdfaU5XdXp4MEE0VnBKTjZjcU9GWk5MOFU2VnpVdS1lRWZOYjZ4bzZGa2YzaWIwbVBmaTY4WHNGd2NPZDlwYzZQbk44bV83R1Zyb0dkMHc1TGJEcjVYUTlIbzJoN3F5SXhvaGxxLUI3OFdNNmpkSXBnNGJBUUt0YzBPcFEtX05NTWEwWmE4OTQ2RmFTTDVDalhkaG5kd3FnRXZvT3MzZFltT0NwbUxr0gGUAkFVX3lxTE9xVTBWNU9mMjZxbmxjV1JadnJ2VDVFQTRLVUkzSUR3TXUwNk56eE5OWmN4M3NjdXJyemtWTFZhU0hWSUZVeXV5MUNNcHFRc29scTBRdDEyMDNVdkRMd0tmMjk0d0tGLWU4UG5iN1pMRzlxY2JNVjZnMDA4NjJpeGxLclBTRmN4TnVFZWtQN3A0LXBHbmxuemhLbVJyeFBDVlh4Y1Fydzh4TEJ2QnNXTVR6cFR0a2czQ25SRmhnaDFQanhQd2FPdnFqdS1naGZCRlFMT05sREdHQlBWbFI0OFVUUDVTZng2dzRmSGVjcnhkVXNGdUt6b2VTZmpCWGNQYXpXQXJHbVo5ZkQta25OdC0zRmxSRg",
@@ -6937,6 +6983,30 @@
       "agregado": "2026-09-30 10:17"
     },
     {
+      "id": "784756cf565b3264",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abd2b8c701d477cba27c86af5793a53&url=https%3a%2f%2fwww.msn.com%2fes-ar%2fnoticias%2fother%2flas-v%25C3%25ADctimas-de-la-extorsi%25C3%25B3n-en-per%25C3%25BA-se-cuentan-por-miles%2far-AA24CxLC&c=10597583154222005913&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abd2b8c701d477cba27c86af5793a53&url=https%3A%2F%2Fwww.msn.com%2Fes-ar%2Fnoticias%2Fother%2Flas-v%25C3%25ADctimas-de-la-extorsi%25C3%25B3n-en-per%25C3%25BA-se-cuentan-por-miles%2Far-AA24CxLC&c=10597583154222005913&mkt=es-us",
+      "titulo": "Las víctimas de la extorsión en Perú se cuentan por miles",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-06-01",
+      "fecha_hecho": null,
+      "snippet": "En una zona desértica de la provincia peruana de Trujillo, sobre el Pacífico, Gladys Saavedra mira con recelo a los desconocidos que llegan al pequeño mercado donde trabaja junto a un grupo de mujeres ...",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 3,
+      "query": "bing:extorsión Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-30 10:33"
+    },
+    {
       "id": "da3db479041a5f02",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONTgzTGJyVndnaXQ2cGxNalZZV3AyZlVWeGdSSVJnZWtweGFpQkdOMDh5aUhmUmlWY1Z0Q0ktdnNmM0VWT1pKZU5aQTU5ME16dHRRTmV2Z25hV3BKdkprTFBPYmkzeXJPbTdwUDZ3UENiQVBWeUhCNUNJZENZaHRubFhSMlFJOUdwbFlJa0dRV1ZuUnZfVkxBbDMtYVVEQ2IyeVMtUENCQlFEczBucXdBV3RfcGpvS0FWM1JjTkFTR3RZTk9xaUg0MkVyZENwc0V6S2JNaWZHeXdCWHFrVFZyQzJKVHlNcU5wY2c?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONTgzTGJyVndnaXQ2cGxNalZZV3AyZlVWeGdSSVJnZWtweGFpQkdOMDh5aUhmUmlWY1Z0Q0ktdnNmM0VWT1pKZU5aQTU5ME16dHRRTmV2Z25hV3BKdkprTFBPYmkzeXJPbTdwUDZ3UENiQVBWeUhCNUNJZENZaHRubFhSMlFJOUdwbFlJa0dRV1ZuUnZfVkxBbDMtYVVEQ2IyeVMtUENCQlFEczBucXdBV3RfcGpvS0FWM1JjTkFTR3RZTk9xaUg0MkVyZENwc0V6S2JNaWZHeXdCWHFrVFZyQzJKVHlNcU5wY2c",
@@ -7071,5 +7141,5 @@
       "descartar": false
     }
   ],
-  "n": 310
+  "n": 313
 }

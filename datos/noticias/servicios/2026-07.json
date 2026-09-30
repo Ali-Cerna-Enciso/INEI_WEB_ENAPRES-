@@ -1,6 +1,6 @@
 {
   "mes": "2026-07",
-  "actualizado": "2026-09-30 10:20",
+  "actualizado": "2026-09-30 10:35",
   "items": [
     {
       "id": "bcbc1d8bcd603fca",
@@ -242,6 +242,28 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-09-30 10:20"
+    },
+    {
+      "id": "bfe0164e6baa7fd1",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abd2c37862e47138c2d9428688b7456&url=https%3a%2f%2felcomercio.pe%2fdeporte-total%2frunning%2fcorro-por-el-agua-2026-la-carrera-solidaria-que-busca-llevar-agua-potable-a-mas-comunidades-del-peru-noticia%2f&c=5278492120792229391&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abd2c37862e47138c2d9428688b7456&url=https%3A%2F%2Felcomercio.pe%2Fdeporte-total%2Frunning%2Fcorro-por-el-agua-2026-la-carrera-solidaria-que-busca-llevar-agua-potable-a-mas-comunidades-del-peru-noticia%2F&c=5278492120792229391&mkt=es-us",
+      "titulo": "Corro por el Agua 2026: la carrera solidaria que busca llevar agua potable a más comunidades del Perú",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-07-31",
+      "fecha_hecho": null,
+      "snippet": "Por Redacción EC 31/07/2026, 04:21 p.m. Cada día, millones de peruanos abren un caño y tienen acceso inmediato a agua potable. Sin embargo, esa realidad todavía está lejos de ser universal. En el Perú ...",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:\"acceso al agua\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-30 10:35"
     },
     {
       "id": "deb4ac7e0519087a",
@@ -1795,6 +1817,28 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-09-28 16:35"
+    },
+    {
+      "id": "9777ec8466622645",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abd2c2f98934a7b961f8100b70567e3&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f07%2f20%2fsunass-desvio-de-fondos-para-agua-y-alcantarillado-sera-castigado-con-mas-de-275-millones-de-soles%2f&c=11918309926335494003&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abd2c2f98934a7b961f8100b70567e3&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F07%2F20%2Fsunass-desvio-de-fondos-para-agua-y-alcantarillado-sera-castigado-con-mas-de-275-millones-de-soles%2F&c=11918309926335494003&mkt=es-us",
+      "titulo": "Sunass: desvío de fondos para agua y alcantarillado será castigado con más de 2,75 millones de soles",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-07-20",
+      "fecha_hecho": null,
+      "snippet": "El regulador peruano ha dispuesto también el endurecimiento de sanciones contra la designación irregular en directorios de empresas de agua Por Esteban Salazar Herrada La Superintendencia Nacional de ...",
+      "temas": [
+        "Alcantarillado"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:alcantarillado Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-09-30 10:35"
     },
     {
       "id": "f09ab2abfe866c53",
@@ -5719,5 +5763,5 @@
       "descartar": false
     }
   ],
-  "n": 241
+  "n": 243
 }
