@@ -1,6 +1,6 @@
 {
   "mes": "2026-05",
-  "actualizado": "2026-09-30 00:05",
+  "actualizado": "2026-09-30 10:17",
   "items": [
     {
       "id": "afe3597b96dcb38e",
@@ -2386,6 +2386,30 @@
       "agregado": "2026-09-29 00:05"
     },
     {
+      "id": "8abd1122cd3c42cc",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abd282614ea4779bfd4055f3467c7f1&url=https%3a%2f%2fwww.laprensa.hn%2fpremium%2fhipotesis-masacre-trujillo-pleito-bandas-amenazas-MB30757380&c=7320002656868494535&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abd282614ea4779bfd4055f3467c7f1&url=https%3A%2F%2Fwww.laprensa.hn%2Fpremium%2Fhipotesis-masacre-trujillo-pleito-bandas-amenazas-MB30757380&c=7320002656868494535&mkt=es-us",
+      "titulo": "Hipótesis de masacre en Trujillo apuntan a pleito de bandas y amenazas",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-05-21",
+      "fecha_hecho": null,
+      "snippet": "Las víctimas fueron sometidas y luego les dispararon en la cabeza. Pobladores dijeron a LA PRENSA que \"quisieron huir y fueron alcanzados por las balas”. Contaron dos versiones sobre las posibles ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 3,
+      "query": "bing:\"masacre\" Trujillo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-30 10:17"
+    },
+    {
       "id": "875a8eef4c1780da",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOV2NwOENyZ1hleGx4b3NBQXkxalBtVUptU01KaGpsSVVfSUNzTDJsNkV6d0Q1b1RNTWpfVVJ2b1pBUGxsRTFvM0hXeFFpVVB1V3VyeGd6ZUtiU2h1ajNyU05OaWpJUThaN24xQjctTTZiRGZZc0NuUkYxMUsyT1JzSGRhMWk1al90bGNpeGZlUUprOWt0cC1CWF9BWi1QVUFMQkl2LXJNWU50ZmtJMlczLW1CTnVyaGhSMnFGdUsxbUVsWFJhQS1IYmVMd2YwU3BoUm0wT2cxRDZWU3VNbnc4cFZjMUFlU0dLNGNZVi1TWmtUT0NE0gGPAkFVX3lxTE5YeXpyTU9neEQzdzBENmVMTm5adzYyWDB3YlFMcHZWcXh4M1dHa2RJX3R0Ykx6TDlEdGRvYU4wTktOMEZxOVZJY1hXZHBSVTdpc1BoQU5CS0ktQ1NrOUx4ZHh0MmJOaWI3YXpWa1ZubnZyVEJJLWo5allHVk44UlRoODlSUkhCQWYyaml0eHBERFRRYk9pTzQ1WUhPRlRaYzZMb3Q5eW5hejcwYjV4SVJiQjl1MHJwRVY1TEtCdHdtYmtZU3ZDTVA4SmhzY21wN0ZLeUVDb2JKUXRRZ3RkTUlJMnVnS3Nmc0ViZHpGUE1aNEJvQlB6ZmxJNmt6ckl1ZlJEVzB6dGp6TG5oTmhfNjg?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOV2NwOENyZ1hleGx4b3NBQXkxalBtVUptU01KaGpsSVVfSUNzTDJsNkV6d0Q1b1RNTWpfVVJ2b1pBUGxsRTFvM0hXeFFpVVB1V3VyeGd6ZUtiU2h1ajNyU05OaWpJUThaN24xQjctTTZiRGZZc0NuUkYxMUsyT1JzSGRhMWk1al90bGNpeGZlUUprOWt0cC1CWF9BWi1QVUFMQkl2LXJNWU50ZmtJMlczLW1CTnVyaGhSMnFGdUsxbUVsWFJhQS1IYmVMd2YwU3BoUm0wT2cxRDZWU3VNbnc4cFZjMUFlU0dLNGNZVi1TWmtUT0NE0gGPAkFVX3lxTE5YeXpyTU9neEQzdzBENmVMTm5adzYyWDB3YlFMcHZWcXh4M1dHa2RJX3R0Ykx6TDlEdGRvYU4wTktOMEZxOVZJY1hXZHBSVTdpc1BoQU5CS0ktQ1NrOUx4ZHh0MmJOaWI3YXpWa1ZubnZyVEJJLWo5allHVk44UlRoODlSUkhCQWYyaml0eHBERFRRYk9pTzQ1WUhPRlRaYzZMb3Q5eW5hejcwYjV4SVJiQjl1MHJwRVY1TEtCdHdtYmtZU3ZDTVA4SmhzY21wN0ZLeUVDb2JKUXRRZ3RkTUlJMnVnS3Nmc0ViZHpGUE1aNEJvQlB6ZmxJNmt6ckl1ZlJEVzB6dGp6TG5oTmhfNjg",
@@ -4499,6 +4523,30 @@
       "agregado": "2026-09-27 00:04"
     },
     {
+      "id": "b9b94dcd27f00b08",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abd28115ac341fcb7efdde9fb6729bb&url=https%3a%2f%2fwww.swissinfo.ch%2fspa%2ffeministas-protestan-contra-proyecto-de-ley-para-eliminar-el-delito-de-feminicidio-en-per%25c3%25ba%2f91406027&c=7834531448188995654&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abd28115ac341fcb7efdde9fb6729bb&url=https%3A%2F%2Fwww.swissinfo.ch%2Fspa%2Ffeministas-protestan-contra-proyecto-de-ley-para-eliminar-el-delito-de-feminicidio-en-per%25c3%25ba%2F91406027&c=7834531448188995654&mkt=es-us",
+      "titulo": "Feministas protestan contra proyecto de ley para eliminar el delito de feminicidio en Perú",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-05-12",
+      "fecha_hecho": null,
+      "snippet": "Lima, 12 may (EFE).- Un grupo de colectivos feministas realizó este martes un vigilia frente al Palacio de Justicia de Perú para protestar contra un proyecto de ley que plantea la eliminación del ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:feminicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-30 10:17"
+    },
+    {
       "id": "53f0139947b55be3",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbGNobWpIMnpsekFfajZid3RRTTN2NFduaExJZERYLXZSMDByQndpWUdPOTN1Z2wzNGRjcldkNGNORjZiVXhhNnlZT2M0VW95cUI5YWs2S3d3Q2ZmRFF1NHhudHJvU1g3cjdBUXJ6MzZ0Tm5ibE5lNk5RZXIzSG5ubkZyRnhnRkJMRGNJZjB3R2pCVGJEMDdZckdKS21tbjRDRWpvalpvSkllUHNLd0JXbDJValE2SjhpZWI5V2YzamZvd21YUlFBdkhUZWVvN2tUeWFWQW13dVZweXZURkVSOGZkcnNrNXBJ0gGDAkFVX3lxTFBtWnk4REIxTlVyNmtCMVIxaG04ZnhGVTdCVTlxd3ZMdXFGa0tZUVZRdHJmRkdrdnJRMm5BUjZDS2M5MklwTWNrQ1J6dzdjRWxyU3kxQktFRjhIdzZQRTZYcHpBNkliMElXRUdQM3lfbUh4WDVEaklaa2ZPWGN3a3VLUlg3OGdzQ1liRDNGTHB1bHd5Wjc1ZjQ4WFVaR3lTN2JNUTNLaC0wSkNkN25nYWxjbHNPRDNCTXRBcUduY0tpcUlxRWh4NDZ6eXBaYmJtTDlzSWhxNjA5RnRsdEM5WHBxa0c0djM0NmFsamN0b1hIbG1hc1AwMC12c2R0cHY0TGlXaXc?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbGNobWpIMnpsekFfajZid3RRTTN2NFduaExJZERYLXZSMDByQndpWUdPOTN1Z2wzNGRjcldkNGNORjZiVXhhNnlZT2M0VW95cUI5YWs2S3d3Q2ZmRFF1NHhudHJvU1g3cjdBUXJ6MzZ0Tm5ibE5lNk5RZXIzSG5ubkZyRnhnRkJMRGNJZjB3R2pCVGJEMDdZckdKS21tbjRDRWpvalpvSkllUHNLd0JXbDJValE2SjhpZWI5V2YzamZvd21YUlFBdkhUZWVvN2tUeWFWQW13dVZweXZURkVSOGZkcnNrNXBJ0gGDAkFVX3lxTFBtWnk4REIxTlVyNmtCMVIxaG04ZnhGVTdCVTlxd3ZMdXFGa0tZUVZRdHJmRkdrdnJRMm5BUjZDS2M5MklwTWNrQ1J6dzdjRWxyU3kxQktFRjhIdzZQRTZYcHpBNkliMElXRUdQM3lfbUh4WDVEaklaa2ZPWGN3a3VLUlg3OGdzQ1liRDNGTHB1bHd5Wjc1ZjQ4WFVaR3lTN2JNUTNLaC0wSkNkN25nYWxjbHNPRDNCTXRBcUduY0tpcUlxRWh4NDZ6eXBaYmJtTDlzSWhxNjA5RnRsdEM5WHBxa0c0djM0NmFsamN0b1hIbG1hc1AwMC12c2R0cHY0TGlXaXc",
@@ -5877,6 +5925,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-09-30 00:05"
+    },
+    {
+      "id": "eb031b7ac83b4da7",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abd28115ac341fcb7efdde9fb6729bb&url=https%3a%2f%2fefe.com%2fmundo%2f2026-05-08%2forganizaciones-rechazan-proyecto-eliminacion-delito-feminicidio-peru%2f&c=13239562359694979301&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abd28115ac341fcb7efdde9fb6729bb&url=https%3A%2F%2Fefe.com%2Fmundo%2F2026-05-08%2Forganizaciones-rechazan-proyecto-eliminacion-delito-feminicidio-peru%2F&c=13239562359694979301&mkt=es-us",
+      "titulo": "Diversas organizaciones rechazan un proyecto de ley que elimina el delito de feminicidio en Perú",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-05-07",
+      "fecha_hecho": null,
+      "snippet": "Lima (EFE).- Diversas organizaciones de derechos humanos y feministas de Perú, así como familiares de víctimas de violencia machista rechazaron este jueves el proyecto de ley de la congresista y ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:feminicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-30 10:17"
     },
     {
       "id": "decb527f280ebf81",
@@ -7975,5 +8047,5 @@
       "descartar": false
     }
   ],
-  "n": 352
+  "n": 355
 }

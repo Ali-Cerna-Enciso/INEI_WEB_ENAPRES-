@@ -1,6 +1,6 @@
 {
   "mes": "2026-01",
-  "actualizado": "2026-09-30 00:05",
+  "actualizado": "2026-09-30 10:17",
   "items": [
     {
       "id": "8e0e04fef25e5005",
@@ -1322,6 +1322,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-09-30 00:05"
+    },
+    {
+      "id": "a406ae4f0d4f2de3",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abd281501e742bfb0a9b7ae0b5bb006&url=https%3a%2f%2fwww.msn.com%2fes-mx%2fnoticias%2fother%2festafa-telef%25C3%25B3nica-frases-que-debes-escuchar-para-colgar-de-inmediato%2far-AA1V1q9h&c=1921912367042198052&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abd281501e742bfb0a9b7ae0b5bb006&url=https%3A%2F%2Fwww.msn.com%2Fes-mx%2Fnoticias%2Fother%2Festafa-telef%25C3%25B3nica-frases-que-debes-escuchar-para-colgar-de-inmediato%2Far-AA1V1q9h&c=1921912367042198052&mkt=es-us",
+      "titulo": "Estafa telefónica: frases que debes escuchar para colgar de inmediato",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-01-26",
+      "fecha_hecho": null,
+      "snippet": "La estafa telefónica ya no es un fraude burdo ni fácil de detectar. Hoy, las llamadas engañosas están cuidadosamente diseñadas para parecer legítimas, utilizar lenguaje profesional y provocar una ...",
+      "temas": [
+        "Estafa"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:\"estafa telefónica\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-30 10:17"
     },
     {
       "id": "4fb7c8e4633b75c6",
@@ -6711,5 +6733,5 @@
       "descartar": false
     }
   ],
-  "n": 298
+  "n": 299
 }
