@@ -1,6 +1,6 @@
 {
   "mes": "2026-08",
-  "actualizado": "2026-09-29 16:37",
+  "actualizado": "2026-09-30 00:05",
   "items": [
     {
       "id": "d9d4232fbcb587d1",
@@ -705,6 +705,30 @@
       "agregado": "2026-09-29 16:37"
     },
     {
+      "id": "a48cc690aa2fb63a",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abc9867c4cf4e0da6e08b11166bde3d&url=https%3a%2f%2fwww.radioagricultura.cl%2fnoticias%2fsecuestro-extorsivo-en-lampa-detienen-en-peru-a-profugo-vinculado-al-cautiverio-de-una-victima_20260831%2f&c=12843092498541570099&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abc9867c4cf4e0da6e08b11166bde3d&url=https%3A%2F%2Fwww.radioagricultura.cl%2Fnoticias%2Fsecuestro-extorsivo-en-lampa-detienen-en-peru-a-profugo-vinculado-al-cautiverio-de-una-victima_20260831%2F&c=12843092498541570099&mkt=es-us",
+      "titulo": "Secuestro extorsivo en Lampa: detienen en Perú a prófugo vinculado al cautiverio de una víctima",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-31",
+      "fecha_hecho": null,
+      "snippet": "La cooperación entre la PDI y la Policía Nacional del Perú permitió detener en Lima a un ciudadano venezolano de ...",
+      "temas": [
+        "Secuestro"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:secuestro Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-30 00:05"
+    },
+    {
       "id": "a2c6673566726666",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPRW5remZiLW9uc1piblBTaG1nbDk2TWloUHc2bFpkeW9EWXdGb2dMNElPSUx0TE1IbjB4dUM2dkhhb2NDRWVUZUFqZXhPZGhPNlJhR2p2MmtrekdIcnNZbGp3RzZXVHpsaXU4QTgzU1V5UElOM3E5QXNScVlFdDFSdXh3ZW5qNldYaXcwMVRYOEpTUFpkZ1h4RHRrV2JaRlRab2htT3I3ZGhIby10RE9DYVduRDZUa0JPRG1NTVpVdDdQLUxZQUxiZFQyMS1GZTF6OWt2UGFwRDlDR3B6NE5lcFE3WWxNSU44WGNpSFZPbWlKYXFfcWZBZVpJY1hLd9IBgwJBVV95cUxOdHhERzJLUGxwV0dwS0dYRlF2dmU5M2F0blRGODNwaHAyXy01SzIyNEZiWmx1LXlqTkpKNDAxMUxHbGotZ3pjWjc1NFRBd2RHQXJRLWdHMnQ0ejBPempYa0R1VG9PYTIyZnJwSk5JeEQwc2VhZ2Z5M3laOWZiMkFrdG0wSy1jMGZhOHVDOHZoa1RubWtER0dmb0U4eVY2bzNMMDdOLXdSN1BxRDFZSmMwQ2dIY283UEc4N2laR3NkdzZraVdKYklzYkpVdFJhQXlRR3BOMWNKdVctWjhGUE5vcUMyMVhUN3RoblN1MVhRWWlSdEFLZXBjRXhKSnppR2pwYTlv?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPRW5remZiLW9uc1piblBTaG1nbDk2TWloUHc2bFpkeW9EWXdGb2dMNElPSUx0TE1IbjB4dUM2dkhhb2NDRWVUZUFqZXhPZGhPNlJhR2p2MmtrekdIcnNZbGp3RzZXVHpsaXU4QTgzU1V5UElOM3E5QXNScVlFdDFSdXh3ZW5qNldYaXcwMVRYOEpTUFpkZ1h4RHRrV2JaRlRab2htT3I3ZGhIby10RE9DYVduRDZUa0JPRG1NTVpVdDdQLUxZQUxiZFQyMS1GZTF6OWt2UGFwRDlDR3B6NE5lcFE3WWxNSU44WGNpSFZPbWlKYXFfcWZBZVpJY1hLd9IBgwJBVV95cUxOdHhERzJLUGxwV0dwS0dYRlF2dmU5M2F0blRGODNwaHAyXy01SzIyNEZiWmx1LXlqTkpKNDAxMUxHbGotZ3pjWjc1NFRBd2RHQXJRLWdHMnQ0ejBPempYa0R1VG9PYTIyZnJwSk5JeEQwc2VhZ2Z5M3laOWZiMkFrdG0wSy1jMGZhOHVDOHZoa1RubWtER0dmb0U4eVY2bzNMMDdOLXdSN1BxRDFZSmMwQ2dIY283UEc4N2laR3NkdzZraVdKYklzYkpVdFJhQXlRR3BOMWNKdVctWjhGUE5vcUMyMVhUN3RoblN1MVhRWWlSdEFLZXBjRXhKSnppR2pwYTlv",
@@ -1181,6 +1205,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-09-29 16:37"
+    },
+    {
+      "id": "dd7cf12cbf970330",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abc9867c4cf4e0da6e08b11166bde3d&url=https%3a%2f%2fwww.msn.com%2fes-us%2fnews%2fother%2fsecuestran-en-per%c3%ba-a-un-empresario-minero-y-matan-a-sus-cuatro-acompa%c3%b1antes-seg%c3%ban-la-polic%c3%ada%2far-AA2bikxA&c=2424355882027936367&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abc9867c4cf4e0da6e08b11166bde3d&url=https%3A%2F%2Fwww.msn.com%2Fes-us%2Fnews%2Fother%2Fsecuestran-en-per%C3%BA-a-un-empresario-minero-y-matan-a-sus-cuatro-acompa%C3%B1antes-seg%C3%BAn-la-polic%C3%ADa%2Far-AA2bikxA&c=2424355882027936367&mkt=es-us",
+      "titulo": "Secuestran en Perú a un empresario minero y matan a sus cuatro acompañantes, según la Policía",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-31",
+      "fecha_hecho": null,
+      "snippet": "Un empresario minero fue secuestrado en Perú en plena vía pública de la ciudad de Trujillo durante la madrugada de este domingo, al ser interceptado por atacantes con uniformes policiales que asesinar ...",
+      "temas": [
+        "Secuestro"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 3,
+      "query": "bing:secuestro Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-30 00:05"
     },
     {
       "id": "afaa0ea8a9d387d7",
@@ -1743,6 +1791,29 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-09-29 16:37"
+    },
+    {
+      "id": "6cae01835400d633",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abc9867c4cf4e0da6e08b11166bde3d&url=https%3a%2f%2fwww.cooperativa.cl%2fnoticias%2fmundo%2fperu%2fperu-liberan-a-empresario-victima-de-sangriento-secuestro-cometido-por%2f2026-08-31%2f191512.html&c=6371970334043109865&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abc9867c4cf4e0da6e08b11166bde3d&url=https%3A%2F%2Fwww.cooperativa.cl%2Fnoticias%2Fmundo%2Fperu%2Fperu-liberan-a-empresario-victima-de-sangriento-secuestro-cometido-por%2F2026-08-31%2F191512.html&c=6371970334043109865&mkt=es-us",
+      "titulo": "Perú: Liberan a empresario víctima de sangriento secuestro cometido por Los Pulpos",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-31",
+      "fecha_hecho": null,
+      "snippet": "Jenss Lara fue raptado el domingo en un falso operativo policial en el que sus cuatro acompañantes fueron asesinados. El Ministerio de Defensa comunicó esta tarde la captura de los responsables, y la ...",
+      "temas": [
+        "Secuestro",
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 4,
+      "query": "bing:secuestro Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-30 00:05"
     },
     {
       "id": "0677c6152dc2c6fc",
@@ -2490,6 +2561,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-09-29 16:37"
+    },
+    {
+      "id": "f122597a040ef0aa",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abc98878c4840a8bffc09d04f7b01a4&url=https%3a%2f%2fdiariocorreo.pe%2fpolitica%2fmasacre-en-trujillo-renzo-reggiardo-pide-al-congreso-aprobar-facultades-legislativas-para-enfrentar-delincuencia-noticia%2f&c=9134434544173010546&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abc98878c4840a8bffc09d04f7b01a4&url=https%3A%2F%2Fdiariocorreo.pe%2Fpolitica%2Fmasacre-en-trujillo-renzo-reggiardo-pide-al-congreso-aprobar-facultades-legislativas-para-enfrentar-delincuencia-noticia%2F&c=9134434544173010546&mkt=es-us",
+      "titulo": "Masacre en Trujillo: Renzo Reggiardo pide al Congreso aprobar facultades legislativas para enfrentar delincuencia",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-31",
+      "fecha_hecho": null,
+      "snippet": "Reggiardo señaló que los congresistas deben asumir responsabilidad ante la ciudadanía si continúan postergando la decisión sobre las facultades solicitadas por el Gobierno. El alcalde sostuvo que ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 3,
+      "query": "bing:\"masacre\" Trujillo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-30 00:05"
     },
     {
       "id": "f6b6d1e545edb4f0",
@@ -4476,6 +4571,31 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-09-29 16:37"
+    },
+    {
+      "id": "1f65fe495ccb43c0",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abc9867c4cf4e0da6e08b11166bde3d&url=https%3a%2f%2fwww.msn.com%2fes-es%2fnoticias%2fother%2finvestigan-el-secuestro-de-un-empresario-minero-y-el-asesinato-de-sus-cuatro-acompa%25C3%25B1antes-en-trujillo-per%25C3%25BA%2far-AA2bfreF&c=5460582113156239359&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abc9867c4cf4e0da6e08b11166bde3d&url=https%3A%2F%2Fwww.msn.com%2Fes-es%2Fnoticias%2Fother%2Finvestigan-el-secuestro-de-un-empresario-minero-y-el-asesinato-de-sus-cuatro-acompa%25C3%25B1antes-en-trujillo-per%25C3%25BA%2Far-AA2bfreF&c=5460582113156239359&mkt=es-us",
+      "titulo": "Investigan el secuestro de un empresario minero y el asesinato de sus cuatro acompañantes en Trujillo (Perú)",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-30",
+      "fecha_hecho": null,
+      "snippet": "Juntos por el Perú impulsa un proyecto de ley para habilitar a Keiko Fujimori a poder cesar al comandante general de la Policía Nacional Las autoridades de Perú investigan el secuestro de un ...",
+      "temas": [
+        "Secuestro",
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 5,
+      "query": "bing:secuestro Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-30 00:05"
     },
     {
       "id": "e3b81e436403b5c3",
@@ -10583,6 +10703,28 @@
       "agregado": "2026-09-29 10:32"
     },
     {
+      "id": "60e4f525e6c3b1dc",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abc987244d24393b5a4db377502b999&url=https%3a%2f%2frpp.pe%2fperu%2factualidad%2fel-numero-de-presos-por-feminicidio-en-el-peru-se-multiplico-por-seis-en-la-ultima-decada-informe-noticia-1700934&c=16529491939722550603&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abc987244d24393b5a4db377502b999&url=https%3A%2F%2Frpp.pe%2Fperu%2Factualidad%2Fel-numero-de-presos-por-feminicidio-en-el-peru-se-multiplico-por-seis-en-la-ultima-decada-informe-noticia-1700934&c=16529491939722550603&mkt=es-us",
+      "titulo": "El número de presos por feminicidio en el Perú se multiplicó por seis en la última década [Informe]",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-10",
+      "fecha_hecho": null,
+      "snippet": "Cifras obtenidas por RPP revelan que, en los últimos diez años, el número de personas presas por feminicidio o por tentativa de feminicidio se multiplicó por seis. Los números también evidencian que ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:feminicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-09-30 00:05"
+    },
+    {
       "id": "0b6c0c5a8f0a8d14",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOekNGekctTzhMM2ExZUg4RGMxakpMSmdJekxFdzN1X240WEtoYkhpLTBfNk5keU9EWWlhdTRJcmx2UDBzMHRjOGJqNmpNTVhzdlloMEp5d0p1eE9xemw4bTVRQi1iclVwT2RmcFRhTUJmNFJ2MGd0Y1M1b2lmZEZGODdnRDVJeHF3WXNsZVNpVWt2MXpxQVhiN0o2QTZJQi1KZGJVcDJZUmZlWFI1ZTZPM1RDQklyUDk4ZDUtNUI4UkU3MnVGRVFHQ3FWUEhoSVU?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOekNGekctTzhMM2ExZUg4RGMxakpMSmdJekxFdzN1X240WEtoYkhpLTBfNk5keU9EWWlhdTRJcmx2UDBzMHRjOGJqNmpNTVhzdlloMEp5d0p1eE9xemw4bTVRQi1iclVwT2RmcFRhTUJmNFJ2MGd0Y1M1b2lmZEZGODdnRDVJeHF3WXNsZVNpVWt2MXpxQVhiN0o2QTZJQi1KZGJVcDJZUmZlWFI1ZTZPM1RDQklyUDk4ZDUtNUI4UkU3MnVGRVFHQ3FWUEhoSVU",
@@ -12269,5 +12411,5 @@
       "descartar": true
     }
   ],
-  "n": 530
+  "n": 536
 }
