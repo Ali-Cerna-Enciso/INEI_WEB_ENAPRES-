@@ -1,6 +1,6 @@
 {
   "mes": "2026-04",
-  "actualizado": "2026-09-30 16:38",
+  "actualizado": "2026-10-01 00:04",
   "items": [
     {
       "id": "0cac60cdfebbc9e7",
@@ -4094,6 +4094,28 @@
       "agregado": "2026-09-30 16:38"
     },
     {
+      "id": "16cf979af50fcc8a",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abde9cf55c94715b4776f9c4f06d939&url=https%3a%2f%2fwww.perfil.com%2fnoticias%2finternacional%2felecciones-en-peru-la-escalada-de-extorsiones-instala-la-pena-de-muerte-en-el-centro-de-la-campana-a39.phtml&c=4492100025895069672&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abde9cf55c94715b4776f9c4f06d939&url=https%3A%2F%2Fwww.perfil.com%2Fnoticias%2Finternacional%2Felecciones-en-peru-la-escalada-de-extorsiones-instala-la-pena-de-muerte-en-el-centro-de-la-campana-a39.phtml&c=4492100025895069672&mkt=es-us",
+      "titulo": "Elecciones en Perú: la escalada de extorsiones instala la pena de muerte en el centro de la campaña",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-04-08",
+      "fecha_hecho": null,
+      "snippet": "A menos de una semana de las elecciones presidenciales en Perú, la campaña entró en su tramo final atravesada por una variable que desbordó el debate político tradicional: la inseguridad. En un país ...",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:extorsión Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-01 00:04"
+    },
+    {
       "id": "330a88bc72688062",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQVGctNk5JRFdTM1dPSXlDYjFIOERxaWoxdERESzlBcFRBT3NJa0FNUEFLUm5QeDJRQTdiQkxleF9iZGhPU25KUVpQRzJsVVh1SjVod1dfWE9vWFRUSHdIaDNlOGFMTjdjMExTbWNxSmZwZGkyTWU3MWJiYk5Lcldmd25BTl91eTU1SXJIa0FxVGs5aWtrVVM0RU50dXFLQWVtcTlkSXpmLUpWY2dhOVowU1RNaEdjd0xZX2wzWWhOdmdMMzhaSEV3QnNXYVE4eldpMDVHajRwTTQtYkFPUTZhT2xkTm41c0FGalZOY01OSQ?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQVGctNk5JRFdTM1dPSXlDYjFIOERxaWoxdERESzlBcFRBT3NJa0FNUEFLUm5QeDJRQTdiQkxleF9iZGhPU25KUVpQRzJsVVh1SjVod1dfWE9vWFRUSHdIaDNlOGFMTjdjMExTbWNxSmZwZGkyTWU3MWJiYk5Lcldmd25BTl91eTU1SXJIa0FxVGs5aWtrVVM0RU50dXFLQWVtcTlkSXpmLUpWY2dhOVowU1RNaEdjd0xZX2wzWWhOdmdMMzhaSEV3QnNXYVE4eldpMDVHajRwTTQtYkFPUTZhT2xkTm41c0FGalZOY01OSQ",
@@ -5855,5 +5877,5 @@
       "descartar": false
     }
   ],
-  "n": 258
+  "n": 259
 }
