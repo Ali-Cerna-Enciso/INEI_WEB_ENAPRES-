@@ -1,6 +1,6 @@
 {
   "mes": "2026-03",
-  "actualizado": "2026-10-01 00:04",
+  "actualizado": "2026-10-01 07:51",
   "items": [
     {
       "id": "5976149ac746b5b8",
@@ -1228,6 +1228,28 @@
       "agregado": "2026-10-01 00:04"
     },
     {
+      "id": "739e9c725c8adbbe",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abe5735e1f34f94af7b659cf9c40512&url=https%3a%2f%2fwww.latercera.com%2fnacional%2fnoticia%2fdetienen-en-chile-a-hombre-buscado-por-homicidio-en-peru-lo-vinculan-al-tren-de-aragua%2f&c=17161718325389582042&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abe5735e1f34f94af7b659cf9c40512&url=https%3A%2F%2Fwww.latercera.com%2Fnacional%2Fnoticia%2Fdetienen-en-chile-a-hombre-buscado-por-homicidio-en-peru-lo-vinculan-al-tren-de-aragua%2F&c=17161718325389582042&mkt=es-us",
+      "titulo": "Detienen en Chile a hombre buscado por homicidio en Perú: lo vinculan al Tren de Aragua",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-03-28",
+      "fecha_hecho": null,
+      "snippet": "Un ciudadano venezolano, requerido por la justicia peruana, fue detenido este viernes en la comuna de Maipú, en la Región Metropolitana, en un operativo desarrollado por la Brigada Investigadora del ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:homicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-01 07:51"
+    },
+    {
       "id": "e70724b84945e0df",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPaDFiQlRkdFBBaUtHZHg0cENYTk5rcVRZYmpkaUZrUU52Y2ZSdEdKcUxIVkFmdjdOanRTaW82RWhfZjlYRjNEVmk1QmNtdThERGRpR3pPcmdOSnBjWHJFMmpnV1ZYajJWM2xsT0JLZ1lkbXJJeWNSZVp6WVJjazVkaVRvOXJsMkxfajZuOTU1ZmtzbzBSb0JuUVg4QXA1S0VsUHFuaTJYazFLZzdFRjNZQ3cxN3BvZXJQallMU0lSNTM5TDVRdm1BdU1vMlpKNnNSNklVRG9ITEwtMmVIbXVoZTNCbnFLeGNscExRQndtYnN1UTlOczlOMjlLcVFPZzBDX0lvM3FR0gGgAkFVX3lxTFBUT1FGZVR4cFlTRWhHNTFZOFJFS3dRb2wtQjBfZUxzcGVzX19CdklhcmJwRXUzSjJGVEItd2VmQndZVHRoa2V5LW5JLWlqMFItQm13dlFaeVlwbGhJNUpvT0Rkal9ZMTNUV0dPN0NIS1VOMkVYbDVsczZnbUR6YVk1QnRsZ09KX3FLX1Qzd2lXc0NsZ0lobmtadUl0UXBRVnVoZFNTUGpPa08xa0lNT04tYlQzUHJJVWNlYm9jUzJucGo3SFMtclVNY092dUhhdGxtTDdiQ09qUS1VeDR5WGJpWmpoUE1FRUpybUJUeUtCaF9ZeU5qcXJuR1B2blRHM05iSkR6d0Q0YnRGdlQwd0tpVEM3R2RFcEFLeVZMdXdfSQ?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPaDFiQlRkdFBBaUtHZHg0cENYTk5rcVRZYmpkaUZrUU52Y2ZSdEdKcUxIVkFmdjdOanRTaW82RWhfZjlYRjNEVmk1QmNtdThERGRpR3pPcmdOSnBjWHJFMmpnV1ZYajJWM2xsT0JLZ1lkbXJJeWNSZVp6WVJjazVkaVRvOXJsMkxfajZuOTU1ZmtzbzBSb0JuUVg4QXA1S0VsUHFuaTJYazFLZzdFRjNZQ3cxN3BvZXJQallMU0lSNTM5TDVRdm1BdU1vMlpKNnNSNklVRG9ITEwtMmVIbXVoZTNCbnFLeGNscExRQndtYnN1UTlOczlOMjlLcVFPZzBDX0lvM3FR0gGgAkFVX3lxTFBUT1FGZVR4cFlTRWhHNTFZOFJFS3dRb2wtQjBfZUxzcGVzX19CdklhcmJwRXUzSjJGVEItd2VmQndZVHRoa2V5LW5JLWlqMFItQm13dlFaeVlwbGhJNUpvT0Rkal9ZMTNUV0dPN0NIS1VOMkVYbDVsczZnbUR6YVk1QnRsZ09KX3FLX1Qzd2lXc0NsZ0lobmtadUl0UXBRVnVoZFNTUGpPa08xa0lNT04tYlQzUHJJVWNlYm9jUzJucGo3SFMtclVNY092dUhhdGxtTDdiQ09qUS1VeDR5WGJpWmpoUE1FRUpybUJUeUtCaF9ZeU5qcXJuR1B2blRHM05iSkR6d0Q0YnRGdlQwd0tpVEM3R2RFcEFLeVZMdXdfSQ",
@@ -2049,6 +2071,30 @@
       "agregado": "2026-09-27 16:33"
     },
     {
+      "id": "17dad28e006bc327",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abe5733c76a42a499e0cf6e89520b63&url=https%3a%2f%2fwww.telesurtv.net%2fperu-asesinato-candidato-congresista-partido-fe%2f&c=6827531796652007799&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abe5733c76a42a499e0cf6e89520b63&url=https%3A%2F%2Fwww.telesurtv.net%2Fperu-asesinato-candidato-congresista-partido-fe%2F&c=6827531796652007799&mkt=es-us",
+      "titulo": "Perú: asesinan a candidato a congresista por el partido Fe",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-03-25",
+      "fecha_hecho": null,
+      "snippet": "Gilbert Infante, candidato al Congreso por el partido Fe en el Perú, fue asesinado la noche de este martes en el sur de Lima, tras un brutal ataque, que se vincula a previas amenazas por sus ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-01 07:51"
+    },
+    {
       "id": "8671868de486eef7",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdEpuVkhWdW1JRFFrajZVOFYwNzltLTItcEJWM0VjN3JnRzBtTTBMbDNzQXJycHZFUThzY1p4eHVyaWltLUlNY0JEeWF0cGxFb3h1LWJ3SnpSQzBKZ19WYWxpWkZiSnBYN3VwdEJOX25HdFUtRWZCZUpDZ0dHMWRnN2xOUHpuN1l3TnJ6d2l2RHdGSWpTak5Tc2cxVHhJSWZVcFhFSjhuZnZ0cE9lWDVWQUxiSGN3M3M4dEE?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdEpuVkhWdW1JRFFrajZVOFYwNzltLTItcEJWM0VjN3JnRzBtTTBMbDNzQXJycHZFUThzY1p4eHVyaWltLUlNY0JEeWF0cGxFb3h1LWJ3SnpSQzBKZ19WYWxpWkZiSnBYN3VwdEJOX25HdFUtRWZCZUpDZ0dHMWRnN2xOUHpuN1l3TnJ6d2l2RHdGSWpTak5Tc2cxVHhJSWZVcFhFSjhuZnZ0cE9lWDVWQUxiSGN3M3M4dEE",
@@ -2386,6 +2432,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-09-29 10:32"
+    },
+    {
+      "id": "e58f2aef96f7d511",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abe5733c76a42a499e0cf6e89520b63&url=https%3a%2f%2fwww.telemundo51.com%2fnoticias%2flocal%2fcasi-30-anos-despues-extraditan-desde-peru-a-acusado-de-asesinato-a-miami-dade%2f2764803%2f&c=5752434553719132555&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abe5733c76a42a499e0cf6e89520b63&url=https%3A%2F%2Fwww.telemundo51.com%2Fnoticias%2Flocal%2Fcasi-30-anos-despues-extraditan-desde-peru-a-acusado-de-asesinato-a-miami-dade%2F2764803%2F&c=5752434553719132555&mkt=es-us",
+      "titulo": "Casi 30 años después: extraditan desde Perú a acusado de asesinato en Miami-Dade",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-03-25",
+      "fecha_hecho": null,
+      "snippet": "Un hombre acusado de asesinato hace casi tres décadas fue extraditado finalmente a Miami-Dade este martes, meses después de su detención en Perú tras años de permanecer bajo el radar, trabajando como ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-01 07:51"
     },
     {
       "id": "09cac9ea013cea1f",
@@ -2806,6 +2874,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-01 00:04"
+    },
+    {
+      "id": "65ce9a1687818538",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abe5733c76a42a499e0cf6e89520b63&url=https%3a%2f%2fwww.local10.com%2fespanol%2f2026%2f03%2f25%2fextraditan-desde-peru-a-fugitivo-buscado-por-asesinato-en-miami-dade-tras-casi-30-anos%2f&c=14256005446317427063&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abe5733c76a42a499e0cf6e89520b63&url=https%3A%2F%2Fwww.local10.com%2Fespanol%2F2026%2F03%2F25%2Fextraditan-desde-peru-a-fugitivo-buscado-por-asesinato-en-miami-dade-tras-casi-30-anos%2F&c=14256005446317427063&mkt=es-us",
+      "titulo": "Extraditan desde Perú a fugitivo buscado por asesinato en Miami-Dade tras casi 30 años",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-03-24",
+      "fecha_hecho": null,
+      "snippet": "MIAMI-DADE COUNTY, Fla. — Un fugitivo buscado por la balacera fatal de un hombre en el condado Miami-Dade hace casi 30 años ha sido extraditado de regreso al sur de Florida desde Perú, informaron las ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-01 07:51"
     },
     {
       "id": "a927e645a6c14b87",
@@ -4859,6 +4949,29 @@
       "agregado": "2026-09-30 16:38"
     },
     {
+      "id": "907eb31efe383486",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abe572721b448688733b7036f0730b7&url=https%3a%2f%2flarepublica.pe%2fverificador%2f2026%2f03%2f18%2fel-80-del-sicariato-y-la-extorsion-no-sale-de-las-carceles-como-dijo-george-forsyth-311112&c=11241401037420331643&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abe572721b448688733b7036f0730b7&url=https%3A%2F%2Flarepublica.pe%2Fverificador%2F2026%2F03%2F18%2Fel-80-del-sicariato-y-la-extorsion-no-sale-de-las-carceles-como-dijo-george-forsyth-311112&c=11241401037420331643&mkt=es-us",
+      "titulo": "El 80% del sicariato y la extorsión no sale de las cárceles, como dijo George Forsyth",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-03-17",
+      "fecha_hecho": null,
+      "snippet": "Durante una entrevista en Punto Final, el candidato presidencial de Somos Perú, George Forsyth, sostuvo que “el 80% de los casos de sicariato y extorsión son ordenados desde las cárceles”. Tras ...",
+      "temas": [
+        "Extorsión",
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 5,
+      "query": "bing:extorsión Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-01 07:51"
+    },
+    {
       "id": "c9ebfe9896e73498",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYk4tWjY0VzVWV0NOOWlLb0I2VDJCbjZ2cEN6THAyamN6YnV1MWUtdGdGS1VPaHhZN1lwTkR0ZnlyNksyeHpRV2dPYzR3Umdyajl4R0pFWTloX1ZHM0lRLUI5T3ZiSFFaQXBrU0VHWC1DSXV6WGFhSFFHTllOQjJES3ZPeHpSMHJaUTNReEJQN0l3MFhXTUE?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYk4tWjY0VzVWV0NOOWlLb0I2VDJCbjZ2cEN6THAyamN6YnV1MWUtdGdGS1VPaHhZN1lwTkR0ZnlyNksyeHpRV2dPYzR3Umdyajl4R0pFWTloX1ZHM0lRLUI5T3ZiSFFaQXBrU0VHWC1DSXV6WGFhSFFHTllOQjJES3ZPeHpSMHJaUTNReEJQN0l3MFhXTUE",
@@ -5705,6 +5818,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-01 00:04"
+    },
+    {
+      "id": "5ff6c32033302921",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abe57298b0344b7a798ec9a117ebdfa&url=https%3a%2f%2fwww.infobae.com%2fcolombia%2f2026%2f03%2f13%2fante-los-ojos-de-su-familia-asi-cayo-en-monteria-gota-a-gota-colombiano-buscado-en-peru-con-notificacion-roja-de-la-interpol%2f&c=18426383268530225879&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abe57298b0344b7a798ec9a117ebdfa&url=https%3A%2F%2Fwww.infobae.com%2Fcolombia%2F2026%2F03%2F13%2Fante-los-ojos-de-su-familia-asi-cayo-en-monteria-gota-a-gota-colombiano-buscado-en-peru-con-notificacion-roja-de-la-interpol%2F&c=18426383268530225879&mkt=es-us",
+      "titulo": "Ante su familia: así cayó en Montería ‘gota a gota’ colombiano buscado en Perú con notificación roja de la Interpol",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-03-12",
+      "fecha_hecho": null,
+      "snippet": "En video quedó cuando el hombre, señalado de extorsión agravada, salía de un supermercado de cadena junto a sus seres queridos y fue interceptado por las autoridades Por Juan Sánchez Romero El general ...",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:\"gota a gota\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-01 07:51"
     },
     {
       "id": "d94e3b33168b3e7a",
@@ -6936,5 +7071,5 @@
       "descartar": false
     }
   ],
-  "n": 308
+  "n": 314
 }
