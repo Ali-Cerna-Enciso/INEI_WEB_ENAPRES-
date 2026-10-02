@@ -1,6 +1,6 @@
 {
   "mes": "2026-07",
-  "actualizado": "2026-10-01 16:39",
+  "actualizado": "2026-10-02 05:56",
   "items": [
     {
       "id": "bcbc1d8bcd603fca",
@@ -374,6 +374,28 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-10-01 16:39"
+    },
+    {
+      "id": "0d2853a15f503fde",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abf8dd5c30943d6bece9ecc15d40e50&url=https%3a%2f%2felcomercio.pe%2fdeporte-total%2frunning%2fcorro-por-el-agua-2026-la-carrera-solidaria-que-busca-llevar-agua-potable-a-mas-comunidades-del-peru-noticia%2f&c=5278492120792229391&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abf8dd5c30943d6bece9ecc15d40e50&url=https%3A%2F%2Felcomercio.pe%2Fdeporte-total%2Frunning%2Fcorro-por-el-agua-2026-la-carrera-solidaria-que-busca-llevar-agua-potable-a-mas-comunidades-del-peru-noticia%2F&c=5278492120792229391&mkt=es-us",
+      "titulo": "Corro por el Agua 2026: la carrera solidaria que busca llevar agua potable a más comunidades del Perú",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-07-31",
+      "fecha_hecho": null,
+      "snippet": "Por Redacción EC 31/07/2026, 04:21 p.m. Cada día, millones de peruanos abren un caño y tienen acceso inmediato a agua potable. Sin embargo, esa realidad todavía está lejos de ser universal. En el Perú ...",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:\"acceso al agua\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-02 05:56"
     },
     {
       "id": "deb4ac7e0519087a",
@@ -5895,5 +5917,5 @@
       "descartar": false
     }
   ],
-  "n": 249
+  "n": 250
 }
