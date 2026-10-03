@@ -1,6 +1,6 @@
 {
   "mes": "2026-03",
-  "actualizado": "2026-10-03 05:11",
+  "actualizado": "2026-10-03 11:28",
   "items": [
     {
       "id": "5976149ac746b5b8",
@@ -1382,6 +1382,28 @@
       "agregado": "2026-10-02 19:40"
     },
     {
+      "id": "8e127b846ceaf271",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac12d1611e04dada8aee2613f2ef378&url=https%3a%2f%2fwww.latercera.com%2fnacional%2fnoticia%2fdetienen-en-chile-a-hombre-buscado-por-homicidio-en-peru-lo-vinculan-al-tren-de-aragua%2f&c=17161718325389582042&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac12d1611e04dada8aee2613f2ef378&url=https%3A%2F%2Fwww.latercera.com%2Fnacional%2Fnoticia%2Fdetienen-en-chile-a-hombre-buscado-por-homicidio-en-peru-lo-vinculan-al-tren-de-aragua%2F&c=17161718325389582042&mkt=es-us",
+      "titulo": "Detienen en Chile a hombre buscado por homicidio en Perú: lo vinculan al Tren de Aragua",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-03-28",
+      "fecha_hecho": null,
+      "snippet": "Un ciudadano venezolano, requerido por la justicia peruana, fue detenido este viernes en la comuna de Maipú, en la Región Metropolitana, en un operativo desarrollado por la Brigada Investigadora del ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:homicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-03 11:28"
+    },
+    {
       "id": "e70724b84945e0df",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPaDFiQlRkdFBBaUtHZHg0cENYTk5rcVRZYmpkaUZrUU52Y2ZSdEdKcUxIVkFmdjdOanRTaW82RWhfZjlYRjNEVmk1QmNtdThERGRpR3pPcmdOSnBjWHJFMmpnV1ZYajJWM2xsT0JLZ1lkbXJJeWNSZVp6WVJjazVkaVRvOXJsMkxfajZuOTU1ZmtzbzBSb0JuUVg4QXA1S0VsUHFuaTJYazFLZzdFRjNZQ3cxN3BvZXJQallMU0lSNTM5TDVRdm1BdU1vMlpKNnNSNklVRG9ITEwtMmVIbXVoZTNCbnFLeGNscExRQndtYnN1UTlOczlOMjlLcVFPZzBDX0lvM3FR0gGgAkFVX3lxTFBUT1FGZVR4cFlTRWhHNTFZOFJFS3dRb2wtQjBfZUxzcGVzX19CdklhcmJwRXUzSjJGVEItd2VmQndZVHRoa2V5LW5JLWlqMFItQm13dlFaeVlwbGhJNUpvT0Rkal9ZMTNUV0dPN0NIS1VOMkVYbDVsczZnbUR6YVk1QnRsZ09KX3FLX1Qzd2lXc0NsZ0lobmtadUl0UXBRVnVoZFNTUGpPa08xa0lNT04tYlQzUHJJVWNlYm9jUzJucGo3SFMtclVNY092dUhhdGxtTDdiQ09qUS1VeDR5WGJpWmpoUE1FRUpybUJUeUtCaF9ZeU5qcXJuR1B2blRHM05iSkR6d0Q0YnRGdlQwd0tpVEM3R2RFcEFLeVZMdXdfSQ?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPaDFiQlRkdFBBaUtHZHg0cENYTk5rcVRZYmpkaUZrUU52Y2ZSdEdKcUxIVkFmdjdOanRTaW82RWhfZjlYRjNEVmk1QmNtdThERGRpR3pPcmdOSnBjWHJFMmpnV1ZYajJWM2xsT0JLZ1lkbXJJeWNSZVp6WVJjazVkaVRvOXJsMkxfajZuOTU1ZmtzbzBSb0JuUVg4QXA1S0VsUHFuaTJYazFLZzdFRjNZQ3cxN3BvZXJQallMU0lSNTM5TDVRdm1BdU1vMlpKNnNSNklVRG9ITEwtMmVIbXVoZTNCbnFLeGNscExRQndtYnN1UTlOczlOMjlLcVFPZzBDX0lvM3FR0gGgAkFVX3lxTFBUT1FGZVR4cFlTRWhHNTFZOFJFS3dRb2wtQjBfZUxzcGVzX19CdklhcmJwRXUzSjJGVEItd2VmQndZVHRoa2V5LW5JLWlqMFItQm13dlFaeVlwbGhJNUpvT0Rkal9ZMTNUV0dPN0NIS1VOMkVYbDVsczZnbUR6YVk1QnRsZ09KX3FLX1Qzd2lXc0NsZ0lobmtadUl0UXBRVnVoZFNTUGpPa08xa0lNT04tYlQzUHJJVWNlYm9jUzJucGo3SFMtclVNY092dUhhdGxtTDdiQ09qUS1VeDR5WGJpWmpoUE1FRUpybUJUeUtCaF9ZeU5qcXJuR1B2blRHM05iSkR6d0Q0YnRGdlQwd0tpVEM3R2RFcEFLeVZMdXdfSQ",
@@ -2413,6 +2435,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-02 19:40"
+    },
+    {
+      "id": "8037596aa47aaa31",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac12d14f1c44739baf5b3b5c3b0e7b8&url=https%3a%2f%2fwww.telesurtv.net%2fperu-asesinato-candidato-congresista-partido-fe%2f&c=6827531796652007799&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac12d14f1c44739baf5b3b5c3b0e7b8&url=https%3A%2F%2Fwww.telesurtv.net%2Fperu-asesinato-candidato-congresista-partido-fe%2F&c=6827531796652007799&mkt=es-us",
+      "titulo": "Perú: asesinan a candidato a congresista por el partido Fe",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-03-25",
+      "fecha_hecho": null,
+      "snippet": "Gilbert Infante, candidato al Congreso por el partido Fe en el Perú, fue asesinado la noche de este martes en el sur de Lima, tras un brutal ataque, que se vincula a previas amenazas por sus ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-03 11:28"
     },
     {
       "id": "8671868de486eef7",
@@ -7819,5 +7865,5 @@
       "descartar": false
     }
   ],
-  "n": 347
+  "n": 349
 }

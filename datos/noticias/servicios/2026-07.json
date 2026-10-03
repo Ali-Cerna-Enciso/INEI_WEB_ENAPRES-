@@ -1,6 +1,6 @@
 {
   "mes": "2026-07",
-  "actualizado": "2026-10-03 05:11",
+  "actualizado": "2026-10-03 11:31",
   "items": [
     {
       "id": "bcbc1d8bcd603fca",
@@ -676,6 +676,31 @@
       "agregado": "2026-09-18 12:31",
       "tipo_fuente": "Noticias/reportes",
       "descartar": false
+    },
+    {
+      "id": "102856fc0ee80ecc",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac12dad2024478fa6392b86cdb4ee83&url=https%3a%2f%2felcomercio.pe%2frespuestas%2fa-que-hora%2fsedapal-anuncia-corte-de-agua-hoy-estos-son-los-distritos-afectados-y-las-horas-de-restriccion-tdpe-noticia%2f&c=14950598501625783059&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac12dad2024478fa6392b86cdb4ee83&url=https%3A%2F%2Felcomercio.pe%2Frespuestas%2Fa-que-hora%2Fsedapal-anuncia-corte-de-agua-hoy-estos-son-los-distritos-afectados-y-las-horas-de-restriccion-tdpe-noticia%2F&c=14950598501625783059&mkt=es-us",
+      "titulo": "CORTE DE AGUA: horarios y zonas afectadas en Lima HOY, viernes 31 de julio",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-07-30",
+      "fecha_hecho": null,
+      "snippet": "El Servicio de Agua Potable y Alcantarillado de Lima (Sedapal) anunció un nuevo corte de agua programado en Lima para la primera semana de julio. La entidad responsable del suministro de agua dio a ...",
+      "temas": [
+        "Agua por red pública",
+        "Alcantarillado"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 5,
+      "query": "bing:\"corte de agua\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-03 11:31"
     },
     {
       "id": "d5a641cbe24417e8",
@@ -5983,5 +6008,5 @@
       "descartar": false
     }
   ],
-  "n": 253
+  "n": 254
 }
