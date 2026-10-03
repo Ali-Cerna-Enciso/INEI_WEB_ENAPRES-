@@ -1,6 +1,6 @@
 {
   "mes": "2026-10",
-  "actualizado": "2026-10-03 11:28",
+  "actualizado": "2026-10-03 13:43",
   "items": [
     {
       "id": "704dae5180de923a",
@@ -25,6 +25,31 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-03 05:14"
+    },
+    {
+      "id": "a6e7fc155e582338",
+      "url": "https://diariocorreo.pe/edicion/lima/villa-el-salvador-asesinan-a-balazos-a-chofer-de-bus-el-triangulito-sicarios-extorsion-cobro-de-cupos-noticia/",
+      "url_canon": "https://diariocorreo.pe/edicion/lima/villa-el-salvador-asesinan-a-balazos-a-chofer-de-bus-el-triangulito-sicarios-extorsion-cobro-de-cupos-noticia",
+      "titulo": "Villa El Salvador: Asesinan a balazos a chofer de bus ‘El Triangulito’",
+      "fuente": "DiarioCorreo",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "feeds",
+      "fecha_pub": "2026-10-03",
+      "fecha_hecho": null,
+      "snippet": "El conductor esperaba pasajeros en la antigua Panamericana Sur cuando un sujeto descendió de una moto y le disparó tres veces",
+      "temas": [
+        "Extorsión",
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Villa El Salvador"
+      ],
+      "score": 3,
+      "query": "feed:DiarioCorreo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-03 13:43"
     },
     {
       "id": "067f83c3962f487b",
@@ -193,6 +218,30 @@
       "agregado": "2026-10-03 11:28"
     },
     {
+      "id": "26ce793909df5679",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac14caee8d7403d8fa9f24e01ee7e29&url=https%3a%2f%2fwww.msn.com%2fes-mx%2fentretenimiento%2fmusica%2flo-atacaron-en-fiesta-privada-asesinan-al-cantante-de-cumbia-andy-torres-esto-sabemos-del-homicidio-que-enluta-al-mundo-de-la-m%25C3%25BAsica%2far-AA2duasj&c=17314277278247073948&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac14caee8d7403d8fa9f24e01ee7e29&url=https%3A%2F%2Fwww.msn.com%2Fes-mx%2Fentretenimiento%2Fmusica%2Flo-atacaron-en-fiesta-privada-asesinan-al-cantante-de-cumbia-andy-torres-esto-sabemos-del-homicidio-que-enluta-al-mundo-de-la-m%25C3%25BAsica%2Far-AA2duasj&c=17314277278247073948&mkt=es-us",
+      "titulo": "Lo atacaron en fiesta privada: asesinan al cantante de cumbia Andy Torres; esto sabemos del homicidio que enluta al mundo de la música",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-03",
+      "fecha_hecho": null,
+      "snippet": "Andy Torres, cantante de cumbia de 31 años, murió tras ser atacado a balazos durante una fiesta privada en Huaycán, en el distrito de Ate, Perú.El crimen ocurrió cerca de las 21:00 horas este 1 de oct ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Ate"
+      ],
+      "score": 3,
+      "query": "bing:asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-03 13:43"
+    },
+    {
       "id": "19a8ef699311103f",
       "url": "https://diariocorreo.pe/edicion/huancayo/jauja-condenan-a-20-anos-de-prision-a-hombre-por-violacion-sexual-de-adolescente-noticia/",
       "url_canon": "https://diariocorreo.pe/edicion/huancayo/jauja-condenan-a-20-anos-de-prision-a-hombre-por-violacion-sexual-de-adolescente-noticia",
@@ -213,6 +262,55 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-03 11:28"
+    },
+    {
+      "id": "942e6c01c5ca76a5",
+      "url": "https://diariocorreo.pe/edicion/ica/ica-acusan-a-conductor-por-intento-violacion-y-robo-con-una-replica-de-arma-de-fuego-en-los-aquijes-noticia/",
+      "url_canon": "https://diariocorreo.pe/edicion/ica/ica-acusan-a-conductor-por-intento-violacion-y-robo-con-una-replica-de-arma-de-fuego-en-los-aquijes-noticia",
+      "titulo": "Ica: acusan a conductor por intento de violación y robo con una réplica de arma de fuego en Los Aquijes",
+      "fuente": "DiarioCorreo",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "feeds",
+      "fecha_pub": "2026-10-03",
+      "fecha_hecho": null,
+      "snippet": "",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Ica"
+      ],
+      "score": 2,
+      "query": "feed:DiarioCorreo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-03 13:43"
+    },
+    {
+      "id": "1dcc9182bf480951",
+      "url": "https://diariocorreo.pe/edicion/huanuco/huanuco-dictan-nueve-meses-de-prision-preventiva-para-joven-investigado-por-violacion-sexual-noticia/",
+      "url_canon": "https://diariocorreo.pe/edicion/huanuco/huanuco-dictan-nueve-meses-de-prision-preventiva-para-joven-investigado-por-violacion-sexual-noticia",
+      "titulo": "Huánuco: dictan nueve meses de prisión preventiva para joven investigado por violación sexual",
+      "fuente": "DiarioCorreo",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "feeds",
+      "fecha_pub": "2026-10-03",
+      "fecha_hecho": null,
+      "snippet": "Luis Enrique Hanco García (24) es investigado por una presunta agresión sexual contra una adolescente, ocurrida en un hospedaje de Tingo María.",
+      "temas": [
+        "Ofensas sexuales"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Huánuco",
+        "Huanuco"
+      ],
+      "score": 3,
+      "query": "feed:DiarioCorreo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-03 13:43"
     },
     {
       "id": "99beb54017fcce5b",
@@ -348,6 +446,74 @@
       "agregado": "2026-10-03 05:14"
     },
     {
+      "id": "2d1bb1419edfcf31",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTDdybkFWU1YtdWl4WE1LSk9TSUVuNWVGUUFvRGJDWVJuRC16b09sRmV6RFFweUNkeTQxTGpzSXFHV3FMMkhpYXFCVTJ3dHAzMFRPdjdHazNrZzhCUGpSRlpvZFA1VXBTVjN0X0hkNzRnUVpTbWFzWXRQekF1UEJkd1VfS3JCRmdfNF9KNnV5VGthTE5EeVloR0pLcm1NX1RwU2otY2FvcTNydEhYelh2elhvMkRSaGxYQzZYQUl2Y2xnMVBXMk9uS09HMkNlN3JpUnVOSHdmYk1nanhp0gH3AUFVX3lxTE9KNkZ2UUFMeUd2U0lQOEVXdnpJMzlYMlNDWi1wZTM5dVBneHY1UnlxZFJlT3JrMTdrT3hMcDg1LXFhb3lTcUtEcjVZZjFsWGtaeVFETGlUNEZ5VGJJbEs2Qi1nTFhNSi1kRlF1a3VqMjcxeGdIOHFoY25RYzJnV3hWY1ZXUlhOMVdxUjB1SjZ6ejBqVEZ3REt3S0xlRWNHQndyMEFxZENScGRXWVVwRkJKbEtqdDRIX2Jaa1lBQ0VjYVJqM0pTTVFQNXRXWmkzM3lRT01uLUNDNXhoNjdpSWlMQkpTZ013aUJjaHZJR3JHeGNNMXVIWVE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTDdybkFWU1YtdWl4WE1LSk9TSUVuNWVGUUFvRGJDWVJuRC16b09sRmV6RFFweUNkeTQxTGpzSXFHV3FMMkhpYXFCVTJ3dHAzMFRPdjdHazNrZzhCUGpSRlpvZFA1VXBTVjN0X0hkNzRnUVpTbWFzWXRQekF1UEJkd1VfS3JCRmdfNF9KNnV5VGthTE5EeVloR0pLcm1NX1RwU2otY2FvcTNydEhYelh2elhvMkRSaGxYQzZYQUl2Y2xnMVBXMk9uS09HMkNlN3JpUnVOSHdmYk1nanhp0gH3AUFVX3lxTE9KNkZ2UUFMeUd2U0lQOEVXdnpJMzlYMlNDWi1wZTM5dVBneHY1UnlxZFJlT3JrMTdrT3hMcDg1LXFhb3lTcUtEcjVZZjFsWGtaeVFETGlUNEZ5VGJJbEs2Qi1nTFhNSi1kRlF1a3VqMjcxeGdIOHFoY25RYzJnV3hWY1ZXUlhOMVdxUjB1SjZ6ejBqVEZ3REt3S0xlRWNHQndyMEFxZENScGRXWVVwRkJKbEtqdDRIX2Jaa1lBQ0VjYVJqM0pTTVFQNXRXWmkzM3lRT01uLUNDNXhoNjdpSWlMQkpTZ013aUJjaHZJR3JHeGNNMXVIWVE",
+      "titulo": "Caso ‘China Polo’: Fiscalía pide 18 meses de prisión preventiva contra el sicario y el presunto financista - Infobae",
+      "fuente": "Infobae",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-10-03",
+      "fecha_hecho": null,
+      "snippet": "Caso ‘China Polo’: Fiscalía pide 18 meses de prisión preventiva contra el sicario y el presunto financista Infobae",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "sicariato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-03 13:42"
+    },
+    {
+      "id": "858e97a7ceb74e98",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMlZId2Z0VnAzeFZtX290bUhabUdFYmVLZzM5NmhRd3ktbzdIZFd5d1kzUEZMQ0htRkt3Mk9WNGR6b0xiTWRobE1mMUo1SEl0ekJ6NWFmLTZNZHhGX3A3WFhJVF8zeEJNRlgyLUdWTjFHMTZhMkF3WEN0VFVQYVRiNFItMkEwUzZmZF9SM3NfbUFWRDJ1ZTNDNUJxY21Hb0Fp?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMlZId2Z0VnAzeFZtX290bUhabUdFYmVLZzM5NmhRd3ktbzdIZFd5d1kzUEZMQ0htRkt3Mk9WNGR6b0xiTWRobE1mMUo1SEl0ekJ6NWFmLTZNZHhGX3A3WFhJVF8zeEJNRlgyLUdWTjFHMTZhMkF3WEN0VFVQYVRiNFItMkEwUzZmZF9SM3NfbUFWRDJ1ZTNDNUJxY21Hb0Fp",
+      "titulo": "Cantante es asesinado a balazos en pleno concierto - Emisoras Unidas",
+      "fuente": "Emisoras Unidas",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-10-03",
+      "fecha_hecho": null,
+      "snippet": "Cantante es asesinado a balazos en pleno concierto Emisoras Unidas",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-03 13:42"
+    },
+    {
+      "id": "20c1f1a6adbd5bb7",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOWRiRy0tWUIyNmF1MHJ5ckJhdllhNTU4bFNNM2dheFppRC1HYmJ2NXpjUWJ3Y2dZYkZzbGhjVkJLTlVucUpiZTZKb2xhY1VYMXFUNUVRSzVKZnpralIzcnlUVEZoeFc0V2N3S21IRVljdmo1VENFLVJHMFNKTVlQLXRMTTJNdE1MbkJrR0dPN3FSODl1eXJUTE5LeGpiLVFCeUxDUXdESWFwcXN3OHJVdnhibnU4VWJQRDAwTUk5MzJ5c3pleG5JNnM5ZGZVdXM?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOWRiRy0tWUIyNmF1MHJ5ckJhdllhNTU4bFNNM2dheFppRC1HYmJ2NXpjUWJ3Y2dZYkZzbGhjVkJLTlVucUpiZTZKb2xhY1VYMXFUNUVRSzVKZnpralIzcnlUVEZoeFc0V2N3S21IRVljdmo1VENFLVJHMFNKTVlQLXRMTTJNdE1MbkJrR0dPN3FSODl1eXJUTE5LeGpiLVFCeUxDUXdESWFwcXN3OHJVdnhibnU4VWJQRDAwTUk5MzJ5c3pleG5JNnM5ZGZVdXM",
+      "titulo": "Callao: retienen a dos adolescentes presuntamente implicados en asesinato de chofer de combi - RPP Noticias",
+      "fuente": "RPP Noticias",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-10-03",
+      "fecha_hecho": null,
+      "snippet": "Callao: retienen a dos adolescentes presuntamente implicados en asesinato de chofer de combi RPP Noticias",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Callao"
+      ],
+      "score": 3,
+      "query": "asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-03 13:42"
+    },
+    {
       "id": "3eb5bbb5d7755102",
       "url": "https://rpp.pe/peru/callao/callao-retienen-a-dos-adolescentes-presuntamente-implicados-en-asesinato-de-chofer-de-combi-noticia-1710630",
       "url_canon": "https://rpp.pe/peru/callao/callao-retienen-a-dos-adolescentes-presuntamente-implicados-en-asesinato-de-chofer-de-combi-noticia-1710630",
@@ -418,6 +584,30 @@
       "agregado": "2026-10-03 11:27"
     },
     {
+      "id": "15b981c0d04c818b",
+      "url": "https://diariocorreo.pe/edicion/lima/asesinato-de-chofer-de-combi-en-callao-pnp-retiene-a-dos-adolescentes-presuntamente-implicados-noticia/",
+      "url_canon": "https://diariocorreo.pe/edicion/lima/asesinato-de-chofer-de-combi-en-callao-pnp-retiene-a-dos-adolescentes-presuntamente-implicados-noticia",
+      "titulo": "Asesinato de chofer de combi en Callao: Retienen a adolescentes presuntamente implicados",
+      "fuente": "DiarioCorreo",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "feeds",
+      "fecha_pub": "2026-10-03",
+      "fecha_hecho": null,
+      "snippet": "Los menores, de 13 y 17 años, fueron intervenidos con una pistola y celulares que serán sometidos a peritajes.",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Callao"
+      ],
+      "score": 3,
+      "query": "feed:DiarioCorreo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-03 13:43"
+    },
+    {
       "id": "d2247d04c65ba9c2",
       "url": "https://diariocorreo.pe/edicion/arequipa/arequipa-vigilante-que-disparo-a-taxista-por-un-pasaje-registra-tres-armas-de-fuego-noticia/",
       "url_canon": "https://diariocorreo.pe/edicion/arequipa/arequipa-vigilante-que-disparo-a-taxista-por-un-pasaje-registra-tres-armas-de-fuego-noticia",
@@ -462,6 +652,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-03 11:27"
+    },
+    {
+      "id": "a01b6ca238f1a298",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQekJWT0lnOXRSRnJnRVB2ck5HSG9nTUtZZGdlQkY1QzBPN0UxNmFSYmY5Rk5VNm0zdmZBNHpPaFI2Zmh6UFQ4bWNTdS1POVc4VzdIamdSVDNsLUlhUTZpZ1lING8xdFRvdUM0dzZnT2gwTlQ3c25leTBGZWxtVjZMTVRRLU5mSTFRekcxdVR0cU00TjVMNzgtTTVB0gGaAUFVX3lxTE15M09ncGxYS280bFUxaWtZRDlwckh3Zl9YUzZ6Um9Ua3dldDVhY0xvNHV4SWhTOUFDekJjS3FMUVlxbzlKZGtlTkt4bklDdThSTzV0c3M0M29wYUd1MHNSc0NkaElleWVpRnI2b0dZamR1NUVGa2NYOFFfanVwM1ItdHppWEZQZXFIRkVJODBPdWVLLTljREd0eWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQekJWT0lnOXRSRnJnRVB2ck5HSG9nTUtZZGdlQkY1QzBPN0UxNmFSYmY5Rk5VNm0zdmZBNHpPaFI2Zmh6UFQ4bWNTdS1POVc4VzdIamdSVDNsLUlhUTZpZ1lING8xdFRvdUM0dzZnT2gwTlQ3c25leTBGZWxtVjZMTVRRLU5mSTFRekcxdVR0cU00TjVMNzgtTTVB0gGaAUFVX3lxTE15M09ncGxYS280bFUxaWtZRDlwckh3Zl9YUzZ6Um9Ua3dldDVhY0xvNHV4SWhTOUFDekJjS3FMUVlxbzlKZGtlTkt4bklDdThSTzV0c3M0M29wYUd1MHNSc0NkaElleWVpRnI2b0dZamR1NUVGa2NYOFFfanVwM1ItdHppWEZQZXFIRkVJODBPdWVLLTljREd0eWc",
+      "titulo": "\"Lo atacaron en fiesta privada\": asesinan al cantante de cumbia Andy Torres; esto sabemos del homicidio que en - Milenio",
+      "fuente": "Milenio",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-10-03",
+      "fecha_hecho": null,
+      "snippet": "\"Lo atacaron en fiesta privada\": asesinan al cantante de cumbia Andy Torres; esto sabemos del homicidio que en Milenio",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-03 13:42"
     },
     {
       "id": "1b12e555d4644d75",
@@ -1870,6 +2082,30 @@
       "agregado": "2026-10-03 05:13"
     },
     {
+      "id": "7e8862f3989f4e2e",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcTBUTkVjLU5ZajRTQ1JLSGJCTXRmaTBfVzc2TVJPY1IzRUFNRDJfVk9zS1FQMFp1c1hDcnMxM2UxczBlbnJLY2hrYUxmWE4weF9nQ0VoQTJFM1N5ZzNnYkdiV2dmRmJxUi04TWRQbE5rbzlaNm5rSjZCTnlOU2ZJVXdtZUtrSGpLSHpFczdVOV9uWXZOVFJsRTctV0VUQy1NMWdjSmh0UVl2aUduUk5NekZkcVZvdlRhRnNWRnNkTTRhVWxja3hWSzQtS2xzUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcTBUTkVjLU5ZajRTQ1JLSGJCTXRmaTBfVzc2TVJPY1IzRUFNRDJfVk9zS1FQMFp1c1hDcnMxM2UxczBlbnJLY2hrYUxmWE4weF9nQ0VoQTJFM1N5ZzNnYkdiV2dmRmJxUi04TWRQbE5rbzlaNm5rSjZCTnlOU2ZJVXdtZUtrSGpLSHpFczdVOV9uWXZOVFJsRTctV0VUQy1NMWdjSmh0UVl2aUduUk5NekZkcVZvdlRhRnNWRnNkTTRhVWxja3hWSzQtS2xzUQ",
+      "titulo": "Chofer de transporte público fue asesinado por un sujeto armado cuando recogía pasajeros en el Callao - RPP Noticias",
+      "fuente": "RPP Noticias",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-10-02",
+      "fecha_hecho": null,
+      "snippet": "Chofer de transporte público fue asesinado por un sujeto armado cuando recogía pasajeros en el Callao RPP Noticias",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Callao"
+      ],
+      "score": 3,
+      "query": "asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-03 13:42"
+    },
+    {
       "id": "1cfbd2734b1bac29",
       "url": "https://rpp.pe/peru/callao/callao-chofer-de-transporte-publico-es-asesinado-por-desconocidos-cuando-recogia-pasajeros-noticia-1710600",
       "url_canon": "https://rpp.pe/peru/callao/callao-chofer-de-transporte-publico-es-asesinado-por-desconocidos-cuando-recogia-pasajeros-noticia-1710600",
@@ -2028,6 +2264,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-02 13:01"
+    },
+    {
+      "id": "2ebab753868d1f92",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac14caee8d7403d8fa9f24e01ee7e29&url=https%3a%2f%2femisorasunidas.com%2ffarandula%2f2026%2f10%2f03%2fcantante-es-asesinado-a-balazos-en-pleno-concierto%2f&c=878598831414226332&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac14caee8d7403d8fa9f24e01ee7e29&url=https%3A%2F%2Femisorasunidas.com%2Ffarandula%2F2026%2F10%2F03%2Fcantante-es-asesinado-a-balazos-en-pleno-concierto%2F&c=878598831414226332&mkt=es-us",
+      "titulo": "Cantante es asesinado a balazos en pleno concierto",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-02",
+      "fecha_hecho": null,
+      "snippet": "Impactante crimen en el escenario: un cantante es asesinado a balazos durante su concierto. Descubre los detalles de esta trágica noticia.",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-03 13:43"
     },
     {
       "id": "6cba338f4d74d7cd",
@@ -2315,6 +2573,30 @@
       "agregado": "2026-10-02 19:39"
     },
     {
+      "id": "ce5a08b9072faf96",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac14caee8d7403d8fa9f24e01ee7e29&url=https%3a%2f%2fdiariocorreo.pe%2fedicion%2flima%2fasesinato-de-chofer-de-combi-en-callao-pnp-retiene-a-dos-adolescentes-presuntamente-implicados-noticia%2f&c=10618270190567543348&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac14caee8d7403d8fa9f24e01ee7e29&url=https%3A%2F%2Fdiariocorreo.pe%2Fedicion%2Flima%2Fasesinato-de-chofer-de-combi-en-callao-pnp-retiene-a-dos-adolescentes-presuntamente-implicados-noticia%2F&c=10618270190567543348&mkt=es-us",
+      "titulo": "Asesinato de chofer de combi en Callao: Retienen a adolescentes presuntamente implicados",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-02",
+      "fecha_hecho": null,
+      "snippet": "Los menores, de 13 y 17 años, fueron intervenidos con una pistola y celulares que serán sometidos a peritajes.",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Callao"
+      ],
+      "score": 3,
+      "query": "bing:asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-03 13:43"
+    },
+    {
       "id": "0c022f0599639a80",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbTVZT3FRLVBrZ3N0akVySEVYX2h6aTc5V21RMGFCbC15cHVWSUVsSHQ1YzdoZEZKYTZiRDRHYXd1c1lnaklIWGtQUnpjbzM0cXR0SU8tcm9hb3dKaFhQOHFmbjQ4YlllQ1RrakJkQXRkWlVERlNrS001aWIzd0lLN2VQT2l2YkpxMkt3X251QndZY194blRORGdoNWtmTzgyb3FVMDEtWFk0Z3RjWGNWNWMwWUZZQTVvVTVSZW44UjBESkNWaEQxNm0zejhlWWpVLTlOZ0Rka2tBbG1EZmh3YUMwMVRhc0pn0gGDAkFVX3lxTE8yZ0Rsb09La3AxVHdseXNyR3lTNll5TmZpVnBfcVVEQkozQ1pwbVdsTl8wal9FTlBsRjBmVXpwRWVSemVRS0lIa0FseDc0T0FJZ1VEQTc3cFQ4TGdqbnRvck1kS3A0YWVOQk4xbGR4dDVBc0R1MXVuWUlBRVRoSDYwMURxLWZKbDY2VFRqeGlRVFBXaU4tdkduZ2YzamVKNlFyNDdSZXh2M2FfN2FIOUMzMGEzTmlmVVY0ZV9lRHJtYzNPYUlsb21LSVktZnRMTnlMQ3RRaDVJZVVCalBsTVJyV2hlY3JsR28wanRzOUIxQUpyZTBmSmhVbHl3SFNrWHYtNFE?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbTVZT3FRLVBrZ3N0akVySEVYX2h6aTc5V21RMGFCbC15cHVWSUVsSHQ1YzdoZEZKYTZiRDRHYXd1c1lnaklIWGtQUnpjbzM0cXR0SU8tcm9hb3dKaFhQOHFmbjQ4YlllQ1RrakJkQXRkWlVERlNrS001aWIzd0lLN2VQT2l2YkpxMkt3X251QndZY194blRORGdoNWtmTzgyb3FVMDEtWFk0Z3RjWGNWNWMwWUZZQTVvVTVSZW44UjBESkNWaEQxNm0zejhlWWpVLTlOZ0Rka2tBbG1EZmh3YUMwMVRhc0pn0gGDAkFVX3lxTE8yZ0Rsb09La3AxVHdseXNyR3lTNll5TmZpVnBfcVVEQkozQ1pwbVdsTl8wal9FTlBsRjBmVXpwRWVSemVRS0lIa0FseDc0T0FJZ1VEQTc3cFQ4TGdqbnRvck1kS3A0YWVOQk4xbGR4dDVBc0R1MXVuWUlBRVRoSDYwMURxLWZKbDY2VFRqeGlRVFBXaU4tdkduZ2YzamVKNlFyNDdSZXh2M2FfN2FIOUMzMGEzTmlmVVY0ZV9lRHJtYzNPYUlsb21LSVktZnRMTnlMQ3RRaDVJZVVCalBsTVJyV2hlY3JsR28wanRzOUIxQUpyZTBmSmhVbHl3SFNrWHYtNFE",
@@ -2431,6 +2713,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-03 11:28"
+    },
+    {
+      "id": "d652bf29afb73a80",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac14caee8d7403d8fa9f24e01ee7e29&url=https%3a%2f%2fwww.msn.com%2fes-mx%2fnoticias%2fother%2fasesinan-a-cantante-de-cumbia-andy-torres-durante-show-en-per%25C3%25BA-animador-result%25C3%25B3-herido%2far-AA2drnOT&c=14175885284242657447&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac14caee8d7403d8fa9f24e01ee7e29&url=https%3A%2F%2Fwww.msn.com%2Fes-mx%2Fnoticias%2Fother%2Fasesinan-a-cantante-de-cumbia-andy-torres-durante-show-en-per%25C3%25BA-animador-result%25C3%25B3-herido%2Far-AA2drnOT&c=14175885284242657447&mkt=es-us",
+      "titulo": "Asesinan a cantante de cumbia Andy Torres durante show en Perú; animador resultó herido",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-02",
+      "fecha_hecho": null,
+      "snippet": "El cantante de cumbia peruano Andy Torres fue asesinado a balazos durante una presentación privada en Huaycán, Lima ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-03 13:43"
     },
     {
       "id": "03aec938ed57fcbc",
@@ -4159,6 +4465,28 @@
       "agregado": "2026-10-03 11:28"
     },
     {
+      "id": "b0c653f7b5a99b8c",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac14caee8d7403d8fa9f24e01ee7e29&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f10%2f02%2fcantante-de-cumbia-fue-asesinado-en-pleno-show-recibio-siete-disparos-en-fiesta-privada%2f&c=11993826550597838338&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac14caee8d7403d8fa9f24e01ee7e29&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F10%2F02%2Fcantante-de-cumbia-fue-asesinado-en-pleno-show-recibio-siete-disparos-en-fiesta-privada%2F&c=11993826550597838338&mkt=es-us",
+      "titulo": "Cantante de cumbia fue asesinado en pleno show: Recibió siete disparos en fiesta privada",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-01",
+      "fecha_hecho": null,
+      "snippet": "El artista, identificado como Cristian Anderson Torres Zamora, recibió siete disparos durante una fiesta privada en Huaicán. La PNP analiza imágenes y testimonios para identificar a los atacantes ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-03 13:43"
+    },
+    {
       "id": "7667c8529e513736",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObzIxTkVwVTBQU2o0WGlKa2FFaG91YnYyZ3VHZW1WUHhsb0pUdHN0OGtQb1B3Rl85SDF3SGdDdmlUVWNvZDZoanFpNXFSM09xTzBsdEtyeTNGOWFDQjAyZFpTNzlUNVdRbG5tSjB4SDJrekt5Z05seGxDOG13VHFpLVFzNU92ZmV1MzZ5SU9vS1dvZ1k4RkZUNGpYR3dURy0tZ2VPS2RmNVBNdXNMQzVIei1tUXNTZXBSYmtnUEpvQkJ3blRYNGRGbldOeXFSdHFYUmNJOU1mczRwUjF6bGlRdmxZaEVtWmdZemdLQtIBhwJBVV95cUxPdlNaZC1tNmVZTE5HRFN5UW5yOWRWanREYmVmUHJPc0JyX2haX01JQjFkQWRFUE9FZGhOOEZwUmZ0V3ptaXpoLU1taHI2WjdwRXFSOGRLZ1NVLW9oU3dLbFlaZ2RWVS1mREVlU09UX1JZejNYUEI0WkQ1eEVHOHQ5VlJKVk1oQ1lOUGdVa0daZi1NTXBTeEx3dzdMQkRWdWNGMTJBRGZ1dzVUMUpfVFVVU05sd3VOMU02NDBVMk0wTGlPenZfWTU1UDlwMlQxQVVMdjNlMEN3dkwybHZFWFNzbF9Ba1dNVTJWdW9VV2RYd2k4Tnl0bzc5dEtBVmRiaUphXzNMY0cySQ?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObzIxTkVwVTBQU2o0WGlKa2FFaG91YnYyZ3VHZW1WUHhsb0pUdHN0OGtQb1B3Rl85SDF3SGdDdmlUVWNvZDZoanFpNXFSM09xTzBsdEtyeTNGOWFDQjAyZFpTNzlUNVdRbG5tSjB4SDJrekt5Z05seGxDOG13VHFpLVFzNU92ZmV1MzZ5SU9vS1dvZ1k4RkZUNGpYR3dURy0tZ2VPS2RmNVBNdXNMQzVIei1tUXNTZXBSYmtnUEpvQkJ3blRYNGRGbldOeXFSdHFYUmNJOU1mczRwUjF6bGlRdmxZaEVtWmdZemdLQtIBhwJBVV95cUxPdlNaZC1tNmVZTE5HRFN5UW5yOWRWanREYmVmUHJPc0JyX2haX01JQjFkQWRFUE9FZGhOOEZwUmZ0V3ptaXpoLU1taHI2WjdwRXFSOGRLZ1NVLW9oU3dLbFlaZ2RWVS1mREVlU09UX1JZejNYUEI0WkQ1eEVHOHQ5VlJKVk1oQ1lOUGdVa0daZi1NTXBTeEx3dzdMQkRWdWNGMTJBRGZ1dzVUMUpfVFVVU05sd3VOMU02NDBVMk0wTGlPenZfWTU1UDlwMlQxQVVMdjNlMEN3dkwybHZFWFNzbF9Ba1dNVTJWdW9VV2RYd2k4Tnl0bzc5dEtBVmRiaUphXzNMY0cySQ",
@@ -4738,5 +5066,5 @@
       "agregado": "2026-10-02 13:01"
     }
   ],
-  "n": 205
+  "n": 219
 }
