@@ -1,6 +1,6 @@
 {
   "mes": "2026-06",
-  "actualizado": "2026-10-02 19:43",
+  "actualizado": "2026-10-03 05:16",
   "items": [
     {
       "id": "c0e77ea1902d195f",
@@ -2531,6 +2531,28 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-10-02 19:43"
+    },
+    {
+      "id": "38a932d40f11fb82",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac0d60395894e76a93e7652ea11a994&url=https%3a%2f%2fwww.iagua.es%2fnoticias%2fredaccion%2fperu-aprueba-su-estrategia-de-agua-y-saneamiento-hasta-2050-con-metas-para-duplicar-la-cobertura-segura&c=11511439269959187556&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac0d60395894e76a93e7652ea11a994&url=https%3A%2F%2Fwww.iagua.es%2Fnoticias%2Fredaccion%2Fperu-aprueba-su-estrategia-de-agua-y-saneamiento-hasta-2050-con-metas-para-duplicar-la-cobertura-segura&c=11511439269959187556&mkt=es-us",
+      "titulo": "Perú aprueba su estrategia de agua y saneamiento hasta 2050",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-06-18",
+      "fecha_hecho": null,
+      "snippet": "El Gobierno de Perú ha aprobado la Política Nacional Multisectorial de Agua Potable y Saneamiento al 2050 (PNMAPS 2050), un instrumento estratégico que definirá la planificación del sector durante las ...",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:\"agua y saneamiento\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-03 05:16"
     },
     {
       "id": "1db8055ea3c6c8d9",
@@ -5599,5 +5621,5 @@
       "descartar": false
     }
   ],
-  "n": 239
+  "n": 240
 }

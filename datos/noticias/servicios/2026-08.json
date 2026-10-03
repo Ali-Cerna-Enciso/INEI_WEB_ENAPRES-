@@ -1,6 +1,6 @@
 {
   "mes": "2026-08",
-  "actualizado": "2026-10-02 19:43",
+  "actualizado": "2026-10-03 05:16",
   "items": [
     {
       "id": "bb9b57aa4ebf0c95",
@@ -643,6 +643,28 @@
       "agregado": "2026-10-02 19:43"
     },
     {
+      "id": "52d1d6e4ab649e29",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac0d5f291b64cdbbd26123f041cca32&url=https%3a%2f%2frpp.pe%2fpolitica%2fgobierno%2fsedapal-entra-en-reestructuracion-cuando-se-realizaran-los-cambios-del-directorio-noticia-1704749&c=16762080106188387549&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac0d5f291b64cdbbd26123f041cca32&url=https%3A%2F%2Frpp.pe%2Fpolitica%2Fgobierno%2Fsedapal-entra-en-reestructuracion-cuando-se-realizaran-los-cambios-del-directorio-noticia-1704749&c=16762080106188387549&mkt=es-us",
+      "titulo": "Reestructuración de Sedapal iniciará con nuevo directorio a partir del 4 de septiembre, asegura ministro de Vivienda",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-31",
+      "fecha_hecho": null,
+      "snippet": "El Ministro de Vivienda, Mauricio Arnillas, aseguró que la reestructuración de Sedapal se realizará a partir del viernes 4 de septiembre mediante el nombramiento de un nuevo directorio. Agregó que ...",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:Sedapal",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-03 05:16"
+    },
+    {
       "id": "8b29e2d63381b7f4",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVjlaYmtXQTZXWXJKbE03dDc4cU5MczludnZrMDZpUk9UYXZWVlA4Z2hCUmpZY21HbGtQVHpxTFh5NktLRVY0M2p1VHdxWUF5UjhEZkZQZ09JYkpHTFBHZ3VWbWM5R2xKZFdWTnpvVzVuWTZBckRpYzNlQ0xDUmt2ZkpHbncxT1hUc3FoNGtkbVkxSktiOUpMak9uSHhSVEJIRm9jcnVxcG9kWU9peVVYd3piRktTelNWd19hd0RXUk9sSnhlTHp6S3NNaXVMbFZxMHRGM0N2aHhGNUE?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVjlaYmtXQTZXWXJKbE03dDc4cU5MczludnZrMDZpUk9UYXZWVlA4Z2hCUmpZY21HbGtQVHpxTFh5NktLRVY0M2p1VHdxWUF5UjhEZkZQZ09JYkpHTFBHZ3VWbWM5R2xKZFdWTnpvVzVuWTZBckRpYzNlQ0xDUmt2ZkpHbncxT1hUc3FoNGtkbVkxSktiOUpMak9uSHhSVEJIRm9jcnVxcG9kWU9peVVYd3piRktTelNWd19hd0RXUk9sSnhlTHp6S3NNaXVMbFZxMHRGM0N2aHhGNUE",
@@ -1092,6 +1114,28 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-10-02 19:43"
+    },
+    {
+      "id": "70ee9afaa8a5835a",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac0d60395894e76a93e7652ea11a994&url=https%3a%2f%2fgestion.pe%2feconomia%2fmayor-presupuesto-para-agua-y-saneamiento-no-bastaria-para-cerrar-brecha-de-acceso-lo-que-plantea-el-mef-mvcs-y-sunass-noticia%2f&c=4371219544776000235&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac0d60395894e76a93e7652ea11a994&url=https%3A%2F%2Fgestion.pe%2Feconomia%2Fmayor-presupuesto-para-agua-y-saneamiento-no-bastaria-para-cerrar-brecha-de-acceso-lo-que-plantea-el-mef-mvcs-y-sunass-noticia%2F&c=4371219544776000235&mkt=es-us",
+      "titulo": "Más presupuesto para agua y saneamiento no bastaría para cerrar brecha, ¿qué falta?",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-29",
+      "fecha_hecho": null,
+      "snippet": "La falta de acceso a agua potable no se soluciona solo por aumentar el presupuesto para nuevas obras, sino por otra serie de factores. Aquí lo que dice el MEF, MVCS y Sunass.",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:\"agua y saneamiento\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-03 05:16"
     },
     {
       "id": "fbda28b40e78622f",
@@ -8682,5 +8726,5 @@
       "descartar": false
     }
   ],
-  "n": 363
+  "n": 365
 }
