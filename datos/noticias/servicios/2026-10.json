@@ -1,6 +1,6 @@
 {
   "mes": "2026-10",
-  "actualizado": "2026-10-04 12:02",
+  "actualizado": "2026-10-04 13:44",
   "items": [
     {
       "id": "9cb0c9233f139c60",
@@ -23,6 +23,56 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-10-04 12:02"
+    },
+    {
+      "id": "9df21b71984dfd28",
+      "url": "https://andina.pe/agencia/noticia-ministerio-vivienda-destrabara-proyecto-agua-mas-s706-millones-piura-1094521.aspx",
+      "url_canon": "https://andina.pe/agencia/noticia-ministerio-vivienda-destrabara-proyecto-agua-mas-s706-millones-piura-1094521.aspx",
+      "titulo": "Ministerio de Vivienda destrabará proyecto de agua por más de S/706 millones en Piura",
+      "fuente": "Andina",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "feeds",
+      "fecha_pub": "2026-10-04",
+      "fecha_hecho": null,
+      "snippet": "El Ministerio de Vivienda, Construcción y Saneamiento (MVCS), a través del Programa Nacional de Saneamiento Urbano (PNSU), instaló una mesa de trabajo para destrabar el proyecto de agua y saneamiento valorizado en 706 mi",
+      "temas": [
+        "Agua por red pública",
+        "Alcantarillado"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Piura"
+      ],
+      "score": 3,
+      "query": "feed:Andina",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-04 13:44"
+    },
+    {
+      "id": "d1125dc9fd1f1fc4",
+      "url": "https://elcomercio.pe/videos/entretenimiento/incendio-en-miraflores-bomberos-luchan-contra-el-fuego-en-acantilado-de-la-costa-verde-nnav-amtv-video-noticia/",
+      "url_canon": "https://elcomercio.pe/videos/entretenimiento/incendio-en-miraflores-bomberos-luchan-contra-el-fuego-en-acantilado-de-la-costa-verde-nnav-amtv-video-noticia",
+      "titulo": "Incendio en Miraflores: bomberos luchan contra el fuego en acantilado de la Costa Verde",
+      "fuente": "ElComercio",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "feeds",
+      "fecha_pub": "2026-10-04",
+      "fecha_hecho": null,
+      "snippet": "El brigadier mayor Marcos López, jefe de la 24 Comandancia Departamental Lima Sur, informó que el incendio fue reportado como código dos y se registra en una zona de maleza seca y malla protectora. Los bomberos atienden ",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Miraflores",
+        "Lima"
+      ],
+      "score": 2,
+      "query": "feed:ElComercio",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-04 13:44"
     },
     {
       "id": "8fd2967e4219f673",
@@ -99,6 +149,79 @@
       "agregado": "2026-10-04 12:02"
     },
     {
+      "id": "76a62b0f4779c026",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac29e4db647439cb2c457c163348db0&url=https%3a%2f%2frpp.pe%2flima%2fobras%2fcorte-de-agua-en-lima-hoy-04-de-octubre-distritos-y-horarios-afectados-noticia-1710719&c=10064352638941323218&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac29e4db647439cb2c457c163348db0&url=https%3A%2F%2Frpp.pe%2Flima%2Fobras%2Fcorte-de-agua-en-lima-hoy-04-de-octubre-distritos-y-horarios-afectados-noticia-1710719&c=10064352638941323218&mkt=es-us",
+      "titulo": "Corte de agua en Lima hoy 04 de octubre: Distritos y horarios afectados",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-04",
+      "fecha_hecho": null,
+      "snippet": "EN VIVO Consulta aquí los distritos de Lima y horarios afectados por el corte de agua programado por el Servicio de Agua Potable y Alcantarillado de Lima (Sedapal) para hoy.",
+      "temas": [
+        "Agua por red pública",
+        "Alcantarillado"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 4,
+      "query": "bing:Sedapal",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-04 13:43"
+    },
+    {
+      "id": "d2a069ecc132e81a",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYVBfdTNKd3R6bi1SQmQ2WFdtbi1iWVdEaDZyeWdweFRkaFcxOU9PZGpSc29hbHozZnR0RGlfQVNBQWtlYVVCTnNRdmpQQm51OUltUGl4Q2VtZEhCRWk5RzM0U1Q5TTV5OEE5R2Y3TU9GTXAtREZFRWJwMTRGTGZEUGtseTVYbXdFM2VFdzVDVlVPS3c5YzJVVnNzVVlxdEZPTEFiTUVWTGktN3hWTUtIOWZR?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYVBfdTNKd3R6bi1SQmQ2WFdtbi1iWVdEaDZyeWdweFRkaFcxOU9PZGpSc29hbHozZnR0RGlfQVNBQWtlYVVCTnNRdmpQQm51OUltUGl4Q2VtZEhCRWk5RzM0U1Q5TTV5OEE5R2Y3TU9GTXAtREZFRWJwMTRGTGZEUGtseTVYbXdFM2VFdzVDVlVPS3c5YzJVVnNzVVlxdEZPTEFiTUVWTGktN3hWTUtIOWZR",
+      "titulo": "Corte de AGUA en Lima el 5 de octubre: distritos afectados y horarios, según Sedapal - Exitosa Noticias",
+      "fuente": "Exitosa Noticias",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-10-04",
+      "fecha_hecho": null,
+      "snippet": "Corte de AGUA en Lima el 5 de octubre: distritos afectados y horarios, según Sedapal Exitosa Noticias",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "\"corte de agua\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-04 13:43"
+    },
+    {
+      "id": "3dfbecb7a4839a20",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac29e4db647439cb2c457c163348db0&url=https%3a%2f%2fwww.exitosanoticias.pe%2factualidad%2fcorte-agua-lima-5-octubre-distritos-afectados-horarios-sedapal-n185122&c=12629178782999033076&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac29e4db647439cb2c457c163348db0&url=https%3A%2F%2Fwww.exitosanoticias.pe%2Factualidad%2Fcorte-agua-lima-5-octubre-distritos-afectados-horarios-sedapal-n185122&c=12629178782999033076&mkt=es-us",
+      "titulo": "Corte de AGUA en Lima el 5 de octubre: distritos afectados y horarios, según Sedapal",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-04",
+      "fecha_hecho": null,
+      "snippet": "Seadapal anuncia que habrá corte temporal del servicio de agua potable en algunos distritos de Lima el lunes 5 de octubre. Conoce qué zonas se verán afectadas y en qué horarios.",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:Sedapal",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-04 13:43"
+    },
+    {
       "id": "bb0131e71455a7de",
       "url": "https://diariocorreo.pe/edicion/arequipa/arequipa-hombre-muere-atropellado-por-minivan-en-ingreso-al-botadero-de-quebrada-honda-noticia/",
       "url_canon": "https://diariocorreo.pe/edicion/arequipa/arequipa-hombre-muere-atropellado-por-minivan-en-ingreso-al-botadero-de-quebrada-honda-noticia",
@@ -144,6 +267,30 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-10-03 13:45"
+    },
+    {
+      "id": "b52c5cd0a9231efe",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOMGowa1VMMlp1dGxqaXRJZjhtYVoyMjdtYmlNOWhzSmlial9fcnZMcW5uT3RDV3FFd2VwSHBwSDQwYkxqNDZrS1JaRG9QbFZEeDA5d2dLcEtHTjlzUlVrTmdSNWRNTWhZTTByS3JvbC1ZWjNQT3JIcWNfQ0ZTNjA2b21DUzZjZDBHTEVET0h3WjBpWXZhTFBRdThFNm8xQ0RWcFBVMms4THRkWmlUekdyOXllVG9Eb1BWUHVFSUY3bjJjT3U5TEVlMU1OSmExcGpkdFc3TDdGdUlpRk8xdkJpMmtORQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOMGowa1VMMlp1dGxqaXRJZjhtYVoyMjdtYmlNOWhzSmlial9fcnZMcW5uT3RDV3FFd2VwSHBwSDQwYkxqNDZrS1JaRG9QbFZEeDA5d2dLcEtHTjlzUlVrTmdSNWRNTWhZTTByS3JvbC1ZWjNQT3JIcWNfQ0ZTNjA2b21DUzZjZDBHTEVET0h3WjBpWXZhTFBRdThFNm8xQ0RWcFBVMms4THRkWmlUekdyOXllVG9Eb1BWUHVFSUY3bjJjT3U5TEVlMU1OSmExcGpkdFc3TDdGdUlpRk8xdkJpMmtORQ",
+      "titulo": "💧🚫 Corte de agua hoy, sábado 3 de octubre, en distritos de Lima: zonas y horarios, según reporte de Sedapal - facebook.com",
+      "fuente": "facebook.com",
+      "tipo_fuente": "Redes sociales",
+      "colector": "gnews",
+      "fecha_pub": "2026-10-03",
+      "fecha_hecho": null,
+      "snippet": "💧🚫 Corte de agua hoy, sábado 3 de octubre, en distritos de Lima: zonas y horarios, según reporte de Sedapal facebook.com",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "Sedapal",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-04 13:43"
     },
     {
       "id": "74b32b76a7059986",
@@ -236,6 +383,30 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-10-04 12:01"
+    },
+    {
+      "id": "71ec7a1386e254df",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac29e4db647439cb2c457c163348db0&url=https%3a%2f%2felcomercio.pe%2frespuestas%2fa-que-hora%2fno-tendras-agua-revisa-los-distritos-afectados-este-sabado-3-de-octubre-segun-sedapal-tdpe-noticia%2f&c=11195767516286113318&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac29e4db647439cb2c457c163348db0&url=https%3A%2F%2Felcomercio.pe%2Frespuestas%2Fa-que-hora%2Fno-tendras-agua-revisa-los-distritos-afectados-este-sabado-3-de-octubre-segun-sedapal-tdpe-noticia%2F&c=11195767516286113318&mkt=es-us",
+      "titulo": "¿Sin agua en casa? Revisa los distritos afectados por el corte este sábado 3 de octubre, según Sedapal",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-03",
+      "fecha_hecho": null,
+      "snippet": "Sedapal anunció cortes programados para este sábado 3 de octubre en distintos puntos de Lima. Revisa los distritos, horarios y zonas que tendrán restricciones en el servicio de agua potable.",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:Sedapal",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-04 13:43"
     },
     {
       "id": "469a12725c4b4a32",
@@ -364,6 +535,32 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-10-04 12:01"
+    },
+    {
+      "id": "e08f38a386409b22",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac29e4db647439cb2c457c163348db0&url=https%3a%2f%2felpopular.pe%2factualidad%2f2026%2f10%2f03%2falerta-por-corte-de-agua-sedapal-dejara-zonas-de-lima-sin-servicio-por-hasta-12-horas-revisa-aqui-214788&c=15799539843210945702&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac29e4db647439cb2c457c163348db0&url=https%3A%2F%2Felpopular.pe%2Factualidad%2F2026%2F10%2F03%2Falerta-por-corte-de-agua-sedapal-dejara-zonas-de-lima-sin-servicio-por-hasta-12-horas-revisa-aqui-214788&c=15799539843210945702&mkt=es-us",
+      "titulo": "¡ALERTA POR CORTE DE AGUA ESTE 5 OCTUBRE! Sedapal dejará zonas de Lima SIN servicio hasta por 12 HORAS: REVISA AQUÍ",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-03",
+      "fecha_hecho": null,
+      "snippet": "Sedapal programó un corte de agua de hasta 12 horas para este lunes 5 de octubre en sectores de Villa El Salvador, San Juan de Miraflores y Santa Anita.",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Villa El Salvador",
+        "San Juan de Miraflores",
+        "Miraflores"
+      ],
+      "score": 3,
+      "query": "bing:Sedapal",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-04 13:43"
     },
     {
       "id": "947bcbe1e89948b7",
@@ -805,6 +1002,30 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-10-04 12:01"
+    },
+    {
+      "id": "6b599f7a1b3689bb",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac29e4db647439cb2c457c163348db0&url=https%3a%2f%2flibero.pe%2ftiempoextra%2f2026%2f10%2f03%2fcorte-de-agua-hoy-lunes-05-de-octubre-distritos-seran-afectados-horarios-anuncio-sedapal-114786&c=9436095580963140945&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac29e4db647439cb2c457c163348db0&url=https%3A%2F%2Flibero.pe%2Ftiempoextra%2F2026%2F10%2F03%2Fcorte-de-agua-hoy-lunes-05-de-octubre-distritos-seran-afectados-horarios-anuncio-sedapal-114786&c=9436095580963140945&mkt=es-us",
+      "titulo": "Corte de agua para este lunes 05 de octubre: qué distritos serán afectados y horarios",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-03",
+      "fecha_hecho": null,
+      "snippet": "Sedapal confirmó que diversos distritos de Lima sufrirán una suspensión temporal del suministro de agua potable este 5 de octubre.",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:Sedapal",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-04 13:43"
     },
     {
       "id": "33e3ac129249c603",
@@ -1805,6 +2026,28 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-10-04 12:01"
+    },
+    {
+      "id": "705eae1b038ff3f2",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac29e5d5a884617afef941972933883&url=https%3a%2f%2felperuano.pe%2fnoticia%2f306002-peru-impulsa-una-politica-que-busca-generar-oportunidades-para-los-jovenes-del-campo&c=1838175339097531661&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac29e5d5a884617afef941972933883&url=https%3A%2F%2Felperuano.pe%2Fnoticia%2F306002-peru-impulsa-una-politica-que-busca-generar-oportunidades-para-los-jovenes-del-campo&c=1838175339097531661&mkt=es-us",
+      "titulo": "Perú impulsa una política que busca generar oportunidades para los jóvenes del campo",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-02",
+      "fecha_hecho": null,
+      "snippet": "Panama.- Garantizar el acceso al agua, ampliar el financiamiento, fortalecer la asistencia tecnica y conectar a los productores con los mercados son prioridades que permitiran generar nuevas oportunid ...",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:\"acceso al agua\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-04 13:43"
     },
     {
       "id": "efc7d6d8dd4be4f3",
@@ -3014,6 +3257,28 @@
       "agregado": "2026-10-04 12:01"
     },
     {
+      "id": "6ddb7ef576208b57",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac29e5f5a13463e97c38749421079ad&url=https%3a%2f%2fstakeholders.com.pe%2fcompromiso-empresarial%2farticulacion-territorial-una-apuesta-para-enfrentar-los-grandes-desafios-del-peru-de-manera-conjunta%2f&c=5512887642808252143&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac29e5f5a13463e97c38749421079ad&url=https%3A%2F%2Fstakeholders.com.pe%2Fcompromiso-empresarial%2Farticulacion-territorial-una-apuesta-para-enfrentar-los-grandes-desafios-del-peru-de-manera-conjunta%2F&c=5512887642808252143&mkt=es-us",
+      "titulo": "Articulación territorial: una apuesta para enfrentar los grandes desafíos del Perú de manera conjunta",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-02",
+      "fecha_hecho": null,
+      "snippet": "En el Perú, desafíos como la anemia infantil, la falta de acceso al agua y saneamiento, el cambio climático, la inseguridad y las brechas de competitividad rara vez ocurren de manera aislada. Por ...",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:\"agua y saneamiento\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-04 13:43"
+    },
+    {
       "id": "111040135422a050",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbk80R012cjY0YVQ4aVNxQUtVWUZEbWJ0UjVFWWt0LUROS0tKN3FtNEJXTXBoVndTMVpuaU80Y2hlYlQzZ05LVnFOWTNiSGQwQWhDUXJSZW91N0tyX3dZLURZREl0NzZPWWJkX2hKWGJZME8wNW9CRXlGWHVuclNXOHRRSlNNVl8yVTZDbjF3VHVSY2hVbXoyeUwzLWg3ZjNYYlk3V2phRzFPZG95Z0FWTU1FUzR1NmNRc3RQclRFdUdBQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbk80R012cjY0YVQ4aVNxQUtVWUZEbWJ0UjVFWWt0LUROS0tKN3FtNEJXTXBoVndTMVpuaU80Y2hlYlQzZ05LVnFOWTNiSGQwQWhDUXJSZW91N0tyX3dZLURZREl0NzZPWWJkX2hKWGJZME8wNW9CRXlGWHVuclNXOHRRSlNNVl8yVTZDbjF3VHVSY2hVbXoyeUwzLWg3ZjNYYlk3V2phRzFPZG95Z0FWTU1FUzR1NmNRc3RQclRFdUdBQQ",
@@ -3767,6 +4032,28 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-10-01 16:40"
+    },
+    {
+      "id": "d22d5d30be079d18",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUlp3aTV5dTBxcWVpalF2T0MzLXh0SjlXeE1ST2wwZUxxZjBoRUVzSDNyWENTNW50Wk11N0pSQXVEUjdFWUVHRGJ1UjUwbk54bTJPSElDbVFXVHo0R2NJTm1VemV1QnhTekxUQzZLLVMyU3FzUHNFaUlWcmFPQmRpdXpqTWxhSUk0TGkxamhrYzlZNWFlZHIxVzZKenhlSDBURHB4ZEpHUkNiSzUtV3lJY1BoMURlcWlhb3V0M0tNeFVGVC1TZkY2V2xVQnZHS2lh?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUlp3aTV5dTBxcWVpalF2T0MzLXh0SjlXeE1ST2wwZUxxZjBoRUVzSDNyWENTNW50Wk11N0pSQXVEUjdFWUVHRGJ1UjUwbk54bTJPSElDbVFXVHo0R2NJTm1VemV1QnhTekxUQzZLLVMyU3FzUHNFaUlWcmFPQmRpdXpqTWxhSUk0TGkxamhrYzlZNWFlZHIxVzZKenhlSDBURHB4ZEpHUkNiSzUtV3lJY1BoMURlcWlhb3V0M0tNeFVGVC1TZkY2V2xVQnZHS2lh",
+      "titulo": "Perú.- Ministro de Vivienda Arnillas dialoga con el Banco Mundial sobre agua y saneamiento - notiperu.com.pe",
+      "fuente": "notiperu.com.pe",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-10-01",
+      "fecha_hecho": null,
+      "snippet": "Perú.- Ministro de Vivienda Arnillas dialoga con el Banco Mundial sobre agua y saneamiento notiperu.com.pe",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "\"agua y saneamiento\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-04 13:43"
     },
     {
       "id": "9d0fa1a3a18c964f",
@@ -4987,5 +5274,5 @@
       "agregado": "2026-10-02 13:04"
     }
   ],
-  "n": 213
+  "n": 225
 }
