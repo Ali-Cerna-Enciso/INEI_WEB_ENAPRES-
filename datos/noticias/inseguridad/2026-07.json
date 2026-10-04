@@ -1,6 +1,6 @@
 {
   "mes": "2026-07",
-  "actualizado": "2026-10-04 05:54",
+  "actualizado": "2026-10-04 11:59",
   "items": [
     {
       "id": "1afe8ca6c5860d94",
@@ -4743,6 +4743,32 @@
       "agregado": "2026-10-04 05:54"
     },
     {
+      "id": "36e883d030191bea",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac285e6bb1c4ff991cd0acfa81e1167&url=https%3a%2f%2fwww.abc.com.py%2finternacionales%2f2025%2f12%2f22%2fperu-anuncia-un-subsistema-de-justicia-para-enfrentar-extorsion-sicariato-y-secuestro%2f&c=15021620673450360077&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac285e6bb1c4ff991cd0acfa81e1167&url=https%3A%2F%2Fwww.abc.com.py%2Finternacionales%2F2025%2F12%2F22%2Fperu-anuncia-un-subsistema-de-justicia-para-enfrentar-extorsion-sicariato-y-secuestro%2F&c=15021620673450360077&mkt=es-us",
+      "titulo": "Perú anuncia un \"subsistema de justicia\" para enfrentar extorsión, sicariato y secuestro",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-07-12",
+      "fecha_hecho": null,
+      "snippet": "Lima, 22 dic (EFE).- El Gobierno de Perú creará un \"subsistema de justicia\" que se dedicará a combatir los casos de extorsión, sicariato y secuestro, con el objetivo de tener una respuesta más rápida ...",
+      "temas": [
+        "Extorsión",
+        "Secuestro",
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 7,
+      "query": "bing:sicariato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-04 11:59"
+    },
+    {
       "id": "96b908d4506a9558",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX2E5TGhYbDRDaTdNVTNXa1BWWkdfS3oteGgwZE9rU3hQR05mVVpVQ0VNZFg2UXVPNXVrVTVqTzVfUWVNenZVdkg3RWRJLWJwbXdUc25rTXdsT2dINlREeFFCTGE4Y0wzRWlRTVRGWEZ5RkxmRFdUakFhNjdBUElSTnZKNGhjSGVPS05Qdk5zbVEwQm5Ya3RYZnFKbmVBX1oybFVxWTREakJWOHpTU3B0dXgzUXZRRkVXcFJWemRhM2o?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX2E5TGhYbDRDaTdNVTNXa1BWWkdfS3oteGgwZE9rU3hQR05mVVpVQ0VNZFg2UXVPNXVrVTVqTzVfUWVNenZVdkg3RWRJLWJwbXdUc25rTXdsT2dINlREeFFCTGE4Y0wzRWlRTVRGWEZ5RkxmRFdUakFhNjdBUElSTnZKNGhjSGVPS05Qdk5zbVEwQm5Ya3RYZnFKbmVBX1oybFVxWTREakJWOHpTU3B0dXgzUXZRRkVXcFJWemRhM2o",
@@ -7414,5 +7440,5 @@
       "descartar": false
     }
   ],
-  "n": 330
+  "n": 331
 }
