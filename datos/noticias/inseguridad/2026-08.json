@@ -1,6 +1,6 @@
 {
   "mes": "2026-08",
-  "actualizado": "2026-10-05 06:59",
+  "actualizado": "2026-10-05 15:53",
   "items": [
     {
       "id": "d9d4232fbcb587d1",
@@ -1039,6 +1039,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-05 06:59"
+    },
+    {
+      "id": "746d10105d18ef6d",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac40e212772469a827db564ecba9a47&url=https%3a%2f%2fwww.radioagricultura.cl%2fnoticias%2fsecuestro-extorsivo-en-lampa-detienen-en-peru-a-profugo-vinculado-al-cautiverio-de-una-victima_20260831%2f&c=12843092498541570099&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac40e212772469a827db564ecba9a47&url=https%3A%2F%2Fwww.radioagricultura.cl%2Fnoticias%2Fsecuestro-extorsivo-en-lampa-detienen-en-peru-a-profugo-vinculado-al-cautiverio-de-una-victima_20260831%2F&c=12843092498541570099&mkt=es-us",
+      "titulo": "Secuestro extorsivo en Lampa: detienen en Perú a prófugo vinculado al cautiverio de una víctima",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-31",
+      "fecha_hecho": null,
+      "snippet": "La cooperación entre la PDI y la Policía Nacional del Perú permitió detener en Lima a un ciudadano venezolano de ...",
+      "temas": [
+        "Secuestro"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:secuestro Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-05 15:53"
     },
     {
       "id": "a2c6673566726666",
@@ -2517,6 +2541,29 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-05 06:59"
+    },
+    {
+      "id": "57fd4aa1160a2a0c",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac40e212772469a827db564ecba9a47&url=https%3a%2f%2fwww.cooperativa.cl%2fnoticias%2fmundo%2fperu%2fperu-liberan-a-empresario-victima-de-sangriento-secuestro-cometido-por%2f2026-08-31%2f191512.html&c=6371970334043109865&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac40e212772469a827db564ecba9a47&url=https%3A%2F%2Fwww.cooperativa.cl%2Fnoticias%2Fmundo%2Fperu%2Fperu-liberan-a-empresario-victima-de-sangriento-secuestro-cometido-por%2F2026-08-31%2F191512.html&c=6371970334043109865&mkt=es-us",
+      "titulo": "Perú: Liberan a empresario víctima de sangriento secuestro cometido por Los Pulpos",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-31",
+      "fecha_hecho": null,
+      "snippet": "Jenss Lara fue raptado el domingo en un falso operativo policial en el que sus cuatro acompañantes fueron asesinados. El Ministerio de Defensa comunicó esta tarde la captura de los responsables, y la ...",
+      "temas": [
+        "Secuestro",
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 4,
+      "query": "bing:secuestro Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-05 15:53"
     },
     {
       "id": "0677c6152dc2c6fc",
@@ -4306,6 +4353,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-05 06:59"
+    },
+    {
+      "id": "a82a32d9e5ec5f5a",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac40e212772469a827db564ecba9a47&url=https%3a%2f%2fcnnespanol.cnn.com%2f2026%2f08%2f31%2flatinoamerica%2fsecuestran-peru-empresario-minero-efe&c=5339990083134012685&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac40e212772469a827db564ecba9a47&url=https%3A%2F%2Fcnnespanol.cnn.com%2F2026%2F08%2F31%2Flatinoamerica%2Fsecuestran-peru-empresario-minero-efe&c=5339990083134012685&mkt=es-us",
+      "titulo": "Liberan en Perú al empresario minero secuestrado en Trujillo, confirma ministro de Defensa",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-31",
+      "fecha_hecho": null,
+      "snippet": "El ministro de Defensa de Perú, Rafael Belaúnde, anunció este lunes que el empresario minero secuestrado el domingo en la ciudad de Trujillo mediante un falso operativo policial fue liberado, a la vez ...",
+      "temas": [
+        "Secuestro"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 3,
+      "query": "bing:secuestro Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-05 15:53"
     },
     {
       "id": "78647574594c0b64",
@@ -6520,6 +6591,31 @@
       "agregado": "2026-10-05 06:59"
     },
     {
+      "id": "6472a82014908831",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac40e212772469a827db564ecba9a47&url=https%3a%2f%2fwww.msn.com%2fes-es%2fnoticias%2fother%2finvestigan-el-secuestro-de-un-empresario-minero-y-el-asesinato-de-sus-cuatro-acompa%25C3%25B1antes-en-trujillo-per%25C3%25BA%2far-AA2bfreF&c=5460582113156239359&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac40e212772469a827db564ecba9a47&url=https%3A%2F%2Fwww.msn.com%2Fes-es%2Fnoticias%2Fother%2Finvestigan-el-secuestro-de-un-empresario-minero-y-el-asesinato-de-sus-cuatro-acompa%25C3%25B1antes-en-trujillo-per%25C3%25BA%2Far-AA2bfreF&c=5460582113156239359&mkt=es-us",
+      "titulo": "Investigan el secuestro de un empresario minero y el asesinato de sus cuatro acompañantes en Trujillo (Perú)",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-30",
+      "fecha_hecho": null,
+      "snippet": "Juntos por el Perú impulsa un proyecto de ley para habilitar a Keiko Fujimori a poder cesar al comandante general de la Policía Nacional Las autoridades de Perú investigan el secuestro de un ...",
+      "temas": [
+        "Secuestro",
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 5,
+      "query": "bing:secuestro Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-05 15:53"
+    },
+    {
       "id": "e3b81e436403b5c3",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZF8tTDBDbkZuQ19STkk1eXVyT1Zja2lLNHJvZzJMZFNkclpqWmFWSEtoQTdWc3JPcFplS2FXU3pnWXVBR085ZFM1SnpnMExZaHlnWDJ3d0ZrQWZtb1VyZWljbXBNb1FyTWxNVktjdXdnUHdmbG9oSjJhaXlHRG9FUGVFSERSdW5VdGp0ekJ4QS1lMlh2RFAzSVlQbVNkSlFpbzJ4dUR5WjdrVFk4eDNSeVo5eGRob3JmM2lnUGRDc25SM1NMUUxueTRUZWdkRzlHZm9IeElWMmg?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZF8tTDBDbkZuQ19STkk1eXVyT1Zja2lLNHJvZzJMZFNkclpqWmFWSEtoQTdWc3JPcFplS2FXU3pnWXVBR085ZFM1SnpnMExZaHlnWDJ3d0ZrQWZtb1VyZWljbXBNb1FyTWxNVktjdXdnUHdmbG9oSjJhaXlHRG9FUGVFSERSdW5VdGp0ekJ4QS1lMlh2RFAzSVlQbVNkSlFpbzJ4dUR5WjdrVFk4eDNSeVo5eGRob3JmM2lnUGRDc25SM1NMUUxueTRUZWdkRzlHZm9IeElWMmg",
@@ -7134,6 +7230,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-04 19:06"
+    },
+    {
+      "id": "4f6b634989715a19",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac40e1eef5a42fa903eb7af940d6bf7&url=https%3a%2f%2fwww.infobae.com%2fcolombia%2f2026%2f08%2f29%2fde-un-secuestro-a-la-balacera-en-el-peaje-asi-fue-el-operativo-para-liberar-a-un-colombiano-en-peru%2f&c=11438357179918946946&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac40e1eef5a42fa903eb7af940d6bf7&url=https%3A%2F%2Fwww.infobae.com%2Fcolombia%2F2026%2F08%2F29%2Fde-un-secuestro-a-la-balacera-en-el-peaje-asi-fue-el-operativo-para-liberar-a-un-colombiano-en-peru%2F&c=11438357179918946946&mkt=es-us",
+      "titulo": "De un secuestro a la balacera en el peaje: así fue el operativo para liberar a un colombiano en Perú",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-29",
+      "fecha_hecho": null,
+      "snippet": "Los dos delincuentes de nacionalidad venezolana que fueron detenidos producto del operativo fueron identificados como Israel Rodríguez Palacios, alias Chato; y Saúl Bernal Campos ...",
+      "temas": [
+        "Secuestro"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:\"gota a gota\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-05 15:53"
     },
     {
       "id": "369018a35ae85d1e",
@@ -8614,6 +8732,28 @@
       "agregado": "2026-10-05 06:59"
     },
     {
+      "id": "add25b36c70536f2",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac40e31fe5f49399d20d50039c78e9d&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f08%2f26%2fidentidades-sinteticas-y-tecnicas-de-fatiga-contrasenas-ya-no-frenan-el-fraude-digital-y-bancos-en-peru-encienden-las-alertas%2f&c=10172187503192527293&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac40e31fe5f49399d20d50039c78e9d&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F08%2F26%2Fidentidades-sinteticas-y-tecnicas-de-fatiga-contrasenas-ya-no-frenan-el-fraude-digital-y-bancos-en-peru-encienden-las-alertas%2F&c=10172187503192527293&mkt=es-us",
+      "titulo": "Identidades sintéticas y técnicas de fatiga: contraseñas ya no frenan el fraude digital y bancos en Perú encienden las alertas",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-26",
+      "fecha_hecho": null,
+      "snippet": "El crecimiento de las operaciones digitales amplió la exposición al fraude bancario, que ahora apunta a suplantar identidades digitales y tomar control de cuentas legítimas ...",
+      "temas": [
+        "Fraude bancario"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 2,
+      "query": "bing:\"fraude bancario\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-05 15:53"
+    },
+    {
       "id": "2c07c7b4a2a841ad",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNzJQQzYyZUFGdUhtVTZnRDNMUWsyYm4yX0dTNVR1M3MwSU1IRVNodk1iZFVZOTVmN1h6ZGtrdzdGQ0I5S05wUHU0VENydU02a1YwSWNxcTkxbVpqNkZ6ZmFxdThTTE5VZ3BBMlhKM1haek83ZEZEdHN6UW5uaFpsVGZkRlNVdFVvYzFtSXJRQjc0ZWhyOFl6UFAwSGhuWTF2Y1N6c2lQdTZiN2VTbGlQV0l4Qm9VdXJPaldxQ2xWQTVQZ1VYZFdBalVKUWpnTWxmLVJwWjdGalAwQ0ZJQmFRTUwzWjnSAf8BQVVfeXFMTm1JUmdPV3RFbHVYTldCcTdJOTFCQzQycHRlOUFxS01aUWEwczhpZU1uQVYxLUtNbEZYelJ6YVFYOTdIWTNtMzRvOWJGR1otbXluYUktVHlONWZJcHowWnRjci12d1pBcVMxMW95REt3RzlnbXAwVjJQWTdSZDhuUERZUXg5LVY4LTJ6VFhDWU9JbVNPZzlnaHk3X0U5M1BVSURqY25MaG9rMl9sb055elFjYjhmenhwNTl2TklkWFpueTlBczBoUU9rWEJ2TkJxQ002WGtNZXYyTWFBRktxcll0V0sxRnRudlNGN3Fob2hFeWtldWhBdUlkeDVhNkxR?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNzJQQzYyZUFGdUhtVTZnRDNMUWsyYm4yX0dTNVR1M3MwSU1IRVNodk1iZFVZOTVmN1h6ZGtrdzdGQ0I5S05wUHU0VENydU02a1YwSWNxcTkxbVpqNkZ6ZmFxdThTTE5VZ3BBMlhKM1haek83ZEZEdHN6UW5uaFpsVGZkRlNVdFVvYzFtSXJRQjc0ZWhyOFl6UFAwSGhuWTF2Y1N6c2lQdTZiN2VTbGlQV0l4Qm9VdXJPaldxQ2xWQTVQZ1VYZFdBalVKUWpnTWxmLVJwWjdGalAwQ0ZJQmFRTUwzWjnSAf8BQVVfeXFMTm1JUmdPV3RFbHVYTldCcTdJOTFCQzQycHRlOUFxS01aUWEwczhpZU1uQVYxLUtNbEZYelJ6YVFYOTdIWTNtMzRvOWJGR1otbXluYUktVHlONWZJcHowWnRjci12d1pBcVMxMW95REt3RzlnbXAwVjJQWTdSZDhuUERZUXg5LVY4LTJ6VFhDWU9JbVNPZzlnaHk3X0U5M1BVSURqY25MaG9rMl9sb055elFjYjhmenhwNTl2TklkWFpueTlBczBoUU9rWEJ2TkJxQ002WGtNZXYyTWFBRktxcll0V0sxRnRudlNGN3Fob2hFeWtldWhBdUlkeDVhNkxR",
@@ -10073,6 +10213,31 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-05 06:59"
+    },
+    {
+      "id": "358efdcd360290c9",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac40e3d31274a63a366ba83fe412be9&url=https%3a%2f%2fwww.msn.com%2fes-co%2fnoticias%2fother%2fholand%25C3%25A9s-condenado-en-eeuu-y-per%25C3%25BA-pide-cambio-de-c%25C3%25A1rcel-por-supuestas-amenazas-de-muerte%2far-AA2aBJ3C&c=12078230844436437049&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac40e3d31274a63a366ba83fe412be9&url=https%3A%2F%2Fwww.msn.com%2Fes-co%2Fnoticias%2Fother%2Fholand%25C3%25A9s-condenado-en-eeuu-y-per%25C3%25BA-pide-cambio-de-c%25C3%25A1rcel-por-supuestas-amenazas-de-muerte%2Far-AA2aBJ3C&c=12078230844436437049&mkt=es-us",
+      "titulo": "Holandés condenado en EEUU y Perú pide cambio de cárcel por supuestas amenazas de muerte",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-20",
+      "fecha_hecho": null,
+      "snippet": "LIMA (AP) — Un holandés condenado en 2023 en Estados Unidos por extorsionar a la familia de una estadounidense a la que mató en 2005 y sentenciado en Perú por asesinar a una peruana en 2010 pidió ser ...",
+      "temas": [
+        "Extorsión",
+        "Amenazas e intimidaciones"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 5,
+      "query": "bing:\"amenazas de muerte\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-05 15:53"
     },
     {
       "id": "799fc5b287526bbb",
@@ -12153,6 +12318,28 @@
       "agregado": "2026-10-05 06:59"
     },
     {
+      "id": "04af0eb4b9c6689b",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac40e2d09114aa493617776aa2d6a27&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f08%2f14%2fdeepfakes-y-estafas-romanticas-asi-usan-la-ia-los-ciberdelincuentes-para-manipular-a-sus-victimas-en-peru%2f&c=1360384658314082771&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac40e2d09114aa493617776aa2d6a27&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F08%2F14%2Fdeepfakes-y-estafas-romanticas-asi-usan-la-ia-los-ciberdelincuentes-para-manipular-a-sus-victimas-en-peru%2F&c=1360384658314082771&mkt=es-us",
+      "titulo": "Deepfakes y estafas románticas: así usan la IA los ciberdelincuentes para manipular a sus víctimas en Perú",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-14",
+      "fecha_hecho": null,
+      "snippet": "El CNSD alertó sobre el aumento de los fraudes sentimentales digitales, una modalidad que ya incorpora videollamadas falsas y perfiles generados con inteligencia artificial para generar confianza Por ...",
+      "temas": [
+        "Estafa"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:estafa Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-05 15:53"
+    },
+    {
       "id": "d3a3685d7d17c8d0",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeWZPZnN4SnpUM0FRcnY0TklrdWVDWFBlLUREX2ljWU0xel9nbEJzd0JJdG5EUFVTNWtOVUJ0TzFJQkZDYUpyaFFyRi0yWEdOS09iaXpaTTBDWTc5N0c0TWtLYXZtUEotc1JfU2NtaGtGVUdDLVAxZVd1amkyV2tCZ05INVNoU3BaTUdnbUl3MWd2bVJqRHc?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeWZPZnN4SnpUM0FRcnY0TklrdWVDWFBlLUREX2ljWU0xel9nbEJzd0JJdG5EUFVTNWtOVUJ0TzFJQkZDYUpyaFFyRi0yWEdOS09iaXpaTTBDWTc5N0c0TWtLYXZtUEotc1JfU2NtaGtGVUdDLVAxZVd1amkyV2tCZ05INVNoU3BaTUdnbUl3MWd2bVJqRHc",
@@ -13834,6 +14021,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-05 06:59"
+    },
+    {
+      "id": "adbfd2c2b3d8b887",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac40e2c1c8c4fa3b6381325d90c6825&url=https%3a%2f%2frpp.pe%2fperu%2factualidad%2fel-numero-de-presos-por-feminicidio-en-el-peru-se-multiplico-por-seis-en-la-ultima-decada-informe-noticia-1700934&c=16529491939722550603&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac40e2c1c8c4fa3b6381325d90c6825&url=https%3A%2F%2Frpp.pe%2Fperu%2Factualidad%2Fel-numero-de-presos-por-feminicidio-en-el-peru-se-multiplico-por-seis-en-la-ultima-decada-informe-noticia-1700934&c=16529491939722550603&mkt=es-us",
+      "titulo": "El número de presos por feminicidio en el Perú se multiplicó por seis en la última década [Informe]",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-10",
+      "fecha_hecho": null,
+      "snippet": "Cifras obtenidas por RPP revelan que, en los últimos diez años, el número de personas presas por feminicidio o por tentativa de feminicidio se multiplicó por seis. Los números también evidencian que ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:feminicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-05 15:53"
     },
     {
       "id": "0b6c0c5a8f0a8d14",
@@ -15546,5 +15755,5 @@
       "descartar": true
     }
   ],
-  "n": 670
+  "n": 679
 }
