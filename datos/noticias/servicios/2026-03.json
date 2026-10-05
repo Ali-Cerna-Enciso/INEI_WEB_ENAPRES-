@@ -1,6 +1,6 @@
 {
   "mes": "2026-03",
-  "actualizado": "2026-10-04 13:43",
+  "actualizado": "2026-10-04 19:09",
   "items": [
     {
       "id": "b0f580d9819204b4",
@@ -1654,6 +1654,31 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-10-04 13:43"
+    },
+    {
+      "id": "7395a1e5cb0f933f",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac2eaa8ba2b4ff89a559fb8a299feb6&url=https%3a%2f%2fgestion.pe%2fperu%2fcontraloria-impulsa-control-preventivo-para-destrabar-obras-de-agua-en-lima-sur-noticia%2f&c=10822199448474756343&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac2eaa8ba2b4ff89a559fb8a299feb6&url=https%3A%2F%2Fgestion.pe%2Fperu%2Fcontraloria-impulsa-control-preventivo-para-destrabar-obras-de-agua-en-lima-sur-noticia%2F&c=10822199448474756343&mkt=es-us",
+      "titulo": "Contraloría impulsa control preventivo para destrabar millonarias obras de agua en Lima Sur",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-03-27",
+      "fecha_hecho": null,
+      "snippet": "La Contraloría General de la República puso en marcha servicios de control preventivo en dos relevantes proyectos de agua potable y alcantarillado que permanecen paralizados en los distritos de ...",
+      "temas": [
+        "Agua por red pública",
+        "Alcantarillado"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:alcantarillado Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-04 19:09"
     },
     {
       "id": "e66b0c15a71ab712",
@@ -3430,6 +3455,30 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-10-04 13:43"
+    },
+    {
+      "id": "41a082fd122e6f94",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac2eab328ef4516818038e3c05f9622&url=https%3a%2f%2fwww.swissinfo.ch%2fspa%2fbanco-mundial-financiar%25c3%25a1-proyecto-de-agua-y-saneamiento-en-per%25c3%25ba-de-200-millones-de-d%25c3%25b3lares%2f91135873&c=1641680843407308526&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac2eab328ef4516818038e3c05f9622&url=https%3A%2F%2Fwww.swissinfo.ch%2Fspa%2Fbanco-mundial-financiar%25c3%25a1-proyecto-de-agua-y-saneamiento-en-per%25c3%25ba-de-200-millones-de-d%25c3%25b3lares%2F91135873&c=1641680843407308526&mkt=es-us",
+      "titulo": "Banco Mundial financiará proyecto de agua y saneamiento en Perú de 200 millones de dólares",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-03-20",
+      "fecha_hecho": null,
+      "snippet": "Lima, 20 mar (EFE).- El Gobierno de Perú firmó este viernes un contrato con el Banco Internacional de Reconstrucción y Fomento (BIRF), dependiente del Banco Mundial, por un valor de 200 millones de ...",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:\"agua y saneamiento\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-04 19:09"
     },
     {
       "id": "33497e810a07a336",
@@ -7053,5 +7102,5 @@
       "descartar": false
     }
   ],
-  "n": 299
+  "n": 301
 }
