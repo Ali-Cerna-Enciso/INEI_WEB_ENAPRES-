@@ -1,6 +1,6 @@
 {
   "mes": "2026-01",
-  "actualizado": "2026-10-06 13:33",
+  "actualizado": "2026-10-06 15:23",
   "items": [
     {
       "id": "8e0e04fef25e5005",
@@ -4670,6 +4670,29 @@
       "agregado": "2026-10-06 06:41"
     },
     {
+      "id": "6907d5864a55904d",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac558ade26b4df3acbbf025667886d7&url=https%3a%2f%2fwww.msn.com%2fes-xl%2fnoticias%2fother%2fper%25C3%25BA-reglamenta-ley-para-luchar-contra-extorsi%25C3%25B3n-y-sicariato%2far-AA1UtLTG&c=9098951137123133570&mkt=es-mx",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac558ade26b4df3acbbf025667886d7&url=https%3A%2F%2Fwww.msn.com%2Fes-xl%2Fnoticias%2Fother%2Fper%25C3%25BA-reglamenta-ley-para-luchar-contra-extorsi%25C3%25B3n-y-sicariato%2Far-AA1UtLTG&c=9098951137123133570&mkt=es-mx",
+      "titulo": "Perú reglamenta ley para luchar contra extorsión y sicariato",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-01-18",
+      "fecha_hecho": null,
+      "snippet": "El Gobierno de Transición de Perú, que preside José Jerí, aprobó este domingo (18.01.2026) el reglamento de la nueva ley contra los delitos de extorsión y sicariato con lo que, aseguró, el Estado ...",
+      "temas": [
+        "Extorsión",
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 5,
+      "query": "bing:sicariato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-06 15:23"
+    },
+    {
       "id": "94ae5cdd005c8103",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aae1794c8b6469aa878ae5018d579a2&url=https%3a%2f%2fwww.telesurtv.net%2fperu-aprueba-ley-extorsion-sicariato%2f&c=11445771162653073536&mkt=es-us",
       "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aae1794c8b6469aa878ae5018d579a2&url=https%3A%2F%2Fwww.telesurtv.net%2Fperu-aprueba-ley-extorsion-sicariato%2F&c=11445771162653073536&mkt=es-us",
@@ -5519,6 +5542,29 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-06 13:33"
+    },
+    {
+      "id": "223c2fe9337c8170",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac558ade26b4df3acbbf025667886d7&url=https%3a%2f%2fwww.telesurtv.net%2fperu-aprueba-ley-extorsion-sicariato%2f&c=11445771162653073536&mkt=es-mx",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac558ade26b4df3acbbf025667886d7&url=https%3A%2F%2Fwww.telesurtv.net%2Fperu-aprueba-ley-extorsion-sicariato%2F&c=11445771162653073536&mkt=es-mx",
+      "titulo": "Perú aprueba ley para hacer frente a la extorsión y el sicariato",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-01-18",
+      "fecha_hecho": null,
+      "snippet": "Según el Ejecutivo, con esta medida el Estado cambiará «de la defensiva a la ofensiva contra la delincuencia y el crimen organizado» en Perú. La norma se hizo oficial por la publicación de un decreto ...",
+      "temas": [
+        "Extorsión",
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 5,
+      "query": "bing:sicariato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-06 15:23"
     },
     {
       "id": "393c773b64e303ac",
@@ -8149,5 +8195,5 @@
       "descartar": false
     }
   ],
-  "n": 362
+  "n": 364
 }

@@ -1,6 +1,6 @@
 {
   "mes": "2026-07",
-  "actualizado": "2026-10-06 13:36",
+  "actualizado": "2026-10-06 15:29",
   "items": [
     {
       "id": "bcbc1d8bcd603fca",
@@ -704,6 +704,28 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-10-06 13:36"
+    },
+    {
+      "id": "2240df766eb23da4",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac55a2c2dab490283fbe315f5104575&url=https%3a%2f%2felcomercio.pe%2fdeporte-total%2frunning%2fcorro-por-el-agua-2026-la-carrera-solidaria-que-busca-llevar-agua-potable-a-mas-comunidades-del-peru-noticia%2f&c=5278492120792229391&mkt=es-mx",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac55a2c2dab490283fbe315f5104575&url=https%3A%2F%2Felcomercio.pe%2Fdeporte-total%2Frunning%2Fcorro-por-el-agua-2026-la-carrera-solidaria-que-busca-llevar-agua-potable-a-mas-comunidades-del-peru-noticia%2F&c=5278492120792229391&mkt=es-mx",
+      "titulo": "Corro por el Agua 2026: la carrera solidaria que busca llevar agua potable a más comunidades del Perú",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-07-31",
+      "fecha_hecho": null,
+      "snippet": "Por Redacción EC 31/07/2026, 04:21 p.m. Cada día, millones de peruanos abren un caño y tienen acceso inmediato a agua potable. Sin embargo, esa realidad todavía está lejos de ser universal. En el Perú ...",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:\"acceso al agua\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-06 15:29"
     },
     {
       "id": "deb4ac7e0519087a",
@@ -3816,6 +3838,28 @@
       "descartar": false
     },
     {
+      "id": "f42ec61049646ee2",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac55a18f2db48b58700dd9ba2bef1f6&url=https%3a%2f%2fwww.unosantafe.com.ar%2fsanta-fe%2fante-la-llegada-el-nino-avanzan-las-obras-del-desague-peru-evitar-anegamientos-y-beneficiar-mas-30000-vecinos-barranquitas-n10269587.html&c=8560355869578638991&mkt=es-mx",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac55a18f2db48b58700dd9ba2bef1f6&url=https%3A%2F%2Fwww.unosantafe.com.ar%2Fsanta-fe%2Fante-la-llegada-el-nino-avanzan-las-obras-del-desague-peru-evitar-anegamientos-y-beneficiar-mas-30000-vecinos-barranquitas-n10269587.html&c=8560355869578638991&mkt=es-mx",
+      "titulo": "Ante la llegada de El Niño, avanzan las obras del desagüe Perú para evitar anegamientos y beneficiar a más de 30.000 vecinos de Barranquitas",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-07-14",
+      "fecha_hecho": null,
+      "snippet": "La Municipalidad de Santa Fe avanza con las obras de reconstrucción del desagüe Perú, una intervención considerada estratégica para optimizar el drenaje pluvial en el oeste de la ciudad y reducir el ...",
+      "temas": [
+        "Alcantarillado"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:desagüe Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-06 15:29"
+    },
+    {
       "id": "4f6e6b3b3c476f59",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTmVlVkpyVUhwT0huRXd1NE40TDR1aEc0b3VLUGNscWY2MGhsMHpJUmtBc3hKN3dhZ08wVnB5NVVnNVpESEp0Y3NoY3V6ZkVqYTRrUzhyZ05NdHF6SzVVT2p3c291ZXdWeEZXUVIxV1dMUGlvX2ZfeVNFOVRVMG4tMXNEUGtEVlNyRlF2b3ZGXzZFbGhwVGRpeWRjUkl1ZS1XeTVZNlNnYlhHN0pQZWU1VThVYV9waF9LYjdaUHZJV3JYTzFtSHpEUHhfRTRtdGF3VjBPTnF6emdqUmZ1bDMzUnVYUGlYdHlSa2c?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTmVlVkpyVUhwT0huRXd1NE40TDR1aEc0b3VLUGNscWY2MGhsMHpJUmtBc3hKN3dhZ08wVnB5NVVnNVpESEp0Y3NoY3V6ZkVqYTRrUzhyZ05NdHF6SzVVT2p3c291ZXdWeEZXUVIxV1dMUGlvX2ZfeVNFOVRVMG4tMXNEUGtEVlNyRlF2b3ZGXzZFbGhwVGRpeWRjUkl1ZS1XeTVZNlNnYlhHN0pQZWU1VThVYV9waF9LYjdaUHZJV3JYTzFtSHpEUHhfRTRtdGF3VjBPTnF6emdqUmZ1bDMzUnVYUGlYdHlSa2c",
@@ -6400,5 +6444,5 @@
       "descartar": false
     }
   ],
-  "n": 271
+  "n": 273
 }

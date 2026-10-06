@@ -1,6 +1,6 @@
 {
   "mes": "2026-01",
-  "actualizado": "2026-10-06 13:36",
+  "actualizado": "2026-10-06 15:29",
   "items": [
     {
       "id": "92ea08055726643a",
@@ -1080,6 +1080,32 @@
       "agregado": "2026-09-18 12:30",
       "tipo_fuente": "Noticias/reportes",
       "descartar": false
+    },
+    {
+      "id": "429355f15bec6caf",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac55a253bf84b6aace927b942ec103f&url=https%3a%2f%2feltiempo.pe%2fnacional%2fjefe-de-seguridad-de-hidrandina-desato-balacera-y-se-quito-la-vida-tras-ser-despedido%2f&c=5153852794685632899&mkt=es-mx",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac55a253bf84b6aace927b942ec103f&url=https%3A%2F%2Feltiempo.pe%2Fnacional%2Fjefe-de-seguridad-de-hidrandina-desato-balacera-y-se-quito-la-vida-tras-ser-despedido%2F&c=5153852794685632899&mkt=es-mx",
+      "titulo": "Jefe de seguridad de Hidrandina desató balacera y se quitó la vida tras ser despedido",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-01-31",
+      "fecha_hecho": null,
+      "snippet": "Un tiroteo ocurrido la tarde del jueves en la sede principal de Hidrandina, situada en la cuadra ocho del jirón San Martín, en el centro histórico de Trujillo, dejó una persona fallecida y tres ...",
+      "temas": [
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo",
+        "San Martín",
+        "San Martin"
+      ],
+      "score": 3,
+      "query": "bing:Hidrandina",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-06 15:29"
     },
     {
       "id": "018957a531190a23",
@@ -5043,5 +5069,5 @@
       "descartar": false
     }
   ],
-  "n": 215
+  "n": 216
 }
