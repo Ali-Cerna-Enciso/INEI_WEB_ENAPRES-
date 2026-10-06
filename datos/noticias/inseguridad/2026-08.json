@@ -1,6 +1,6 @@
 {
   "mes": "2026-08",
-  "actualizado": "2026-10-05 17:02",
+  "actualizado": "2026-10-05 20:54",
   "items": [
     {
       "id": "d9d4232fbcb587d1",
@@ -3838,6 +3838,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-05 17:02"
+    },
+    {
+      "id": "0648deae70849402",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac454ed39ee4138a8d2de5b88c00c0b&url=https%3a%2f%2fdiariocorreo.pe%2fpolitica%2fmasacre-en-trujillo-renzo-reggiardo-pide-al-congreso-aprobar-facultades-legislativas-para-enfrentar-delincuencia-noticia%2f&c=9134434544173010546&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac454ed39ee4138a8d2de5b88c00c0b&url=https%3A%2F%2Fdiariocorreo.pe%2Fpolitica%2Fmasacre-en-trujillo-renzo-reggiardo-pide-al-congreso-aprobar-facultades-legislativas-para-enfrentar-delincuencia-noticia%2F&c=9134434544173010546&mkt=es-us",
+      "titulo": "Masacre en Trujillo: Renzo Reggiardo pide al Congreso aprobar facultades legislativas para enfrentar delincuencia",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-31",
+      "fecha_hecho": null,
+      "snippet": "Reggiardo señaló que los congresistas deben asumir responsabilidad ante la ciudadanía si continúan postergando la decisión sobre las facultades solicitadas por el Gobierno. El alcalde sostuvo que ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 3,
+      "query": "bing:\"masacre\" Trujillo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-05 20:54"
     },
     {
       "id": "f6b6d1e545edb4f0",
@@ -7737,6 +7761,31 @@
       "agregado": "2026-09-18 12:29",
       "tipo_fuente": "Noticias/reportes",
       "descartar": false
+    },
+    {
+      "id": "f9812d7db4bc3493",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac454cb7fc847ec96eb9ec1dfe6de40&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f08%2f28%2fpnp-rescata-a-ciudadano-colombiano-secuestrado-en-ate-y-abate-a-presunto-integrante-de-banda-tras-balacera-en-via-de-evitamiento%2f&c=11894049238847099241&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac454cb7fc847ec96eb9ec1dfe6de40&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F08%2F28%2Fpnp-rescata-a-ciudadano-colombiano-secuestrado-en-ate-y-abate-a-presunto-integrante-de-banda-tras-balacera-en-via-de-evitamiento%2F&c=11894049238847099241&mkt=es-us",
+      "titulo": "PNP rescata a ciudadano colombiano secuestrado en Ate y abate a presunto integrante de banda tras balacera en Vía de Evitamiento",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-27",
+      "fecha_hecho": null,
+      "snippet": "La Policía investiga si el secuestro estaría relacionado con la actividad de la víctima, quien presuntamente se dedicaría a los préstamos informales bajo la modalidad “gota a gota” ...",
+      "temas": [
+        "Extorsión",
+        "Secuestro"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Ate"
+      ],
+      "score": 4,
+      "query": "bing:\"gota a gota\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-05 20:54"
     },
     {
       "id": "f17a60bc674caca4",
@@ -15988,5 +16037,5 @@
       "descartar": true
     }
   ],
-  "n": 689
+  "n": 691
 }

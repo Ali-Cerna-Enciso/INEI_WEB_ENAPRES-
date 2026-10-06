@@ -1,6 +1,6 @@
 {
   "mes": "2026-05",
-  "actualizado": "2026-10-05 17:05",
+  "actualizado": "2026-10-05 20:57",
   "items": [
     {
       "id": "5fe29bfac629cb2e",
@@ -2406,6 +2406,30 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-10-05 17:05"
+    },
+    {
+      "id": "bb7d606fc83de88a",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac4558681b44df1a21838cde8de3ef9&url=https%3a%2f%2fwww.iagua.es%2fnoticias%2fredaccion-iagua%2fperu-impulsa-cajamarca-proyectos-agua-y-saneamiento-694-millones-dolares&c=3104823854735414108&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac4558681b44df1a21838cde8de3ef9&url=https%3A%2F%2Fwww.iagua.es%2Fnoticias%2Fredaccion-iagua%2Fperu-impulsa-cajamarca-proyectos-agua-y-saneamiento-694-millones-dolares&c=3104823854735414108&mkt=es-us",
+      "titulo": "Perú impulsa en Cajamarca proyectos de agua y saneamiento por 694 millones de dólares",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-05-21",
+      "fecha_hecho": null,
+      "snippet": "La Agencia de Promoción de la Inversión Privada del Perú (PROINVERSIÓN) ha suscrito en Cajamarca el Pacto Nacional por la Infraestructura y el Desarrollo Productivo junto a los principales gremios ...",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Cajamarca"
+      ],
+      "score": 3,
+      "query": "bing:\"agua y saneamiento\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-05 20:57"
     },
     {
       "id": "a057b46c9583fd08",
@@ -5956,5 +5980,5 @@
       "descartar": false
     }
   ],
-  "n": 251
+  "n": 252
 }
