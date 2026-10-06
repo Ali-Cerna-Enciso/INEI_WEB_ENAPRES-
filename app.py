@@ -396,7 +396,8 @@ def _barra_actualizar(clave: str, snap: Path | None = None) -> bool:
         pin = st.text_input("Clave", type="password", key=f"pin_{clave}",
                             label_visibility="collapsed", placeholder="Clave")
         if st.button("Actualizar ahora", type="primary",
-                     use_container_width=True, key=f"btn_{clave}"):
+                     use_container_width=True, key=f"btn_{clave}",
+                     help="Corridas automáticas (hora Lima): 07:17, 10:17, 16:17 y 23:50."):
             if not pin or not hmac.compare_digest(pin, admin):
                 st.error("Clave incorrecta.")
             else:
@@ -404,8 +405,8 @@ def _barra_actualizar(clave: str, snap: Path | None = None) -> bool:
                 (st.success if ok else st.error)(msg)
     elif _puede_rastrear_aqui():
         local_click = st.button("Actualizar hoy", type="primary",
-                                use_container_width=True, key=f"btn_{clave}")
-    st.caption("Auto: 07:17 menciones y noticias · 10:17 noticias · 16:17 ambos · 23:50 Lima")
+                                use_container_width=True, key=f"btn_{clave}",
+                                help="Corridas automáticas (hora Lima): 07:17, 10:17, 16:17 y 23:50.")
     ruta = snap or (DIR / "datos_publicos" / "menciones.json")
     st.caption(
         f"Última actualización: {_hora_json(str(ruta), _mtime(ruta))} (hora Lima)"
@@ -509,7 +510,7 @@ def _panel_noticias(area: str, titulo: str, caption: str, clave: str) -> bool:
         key=f"per_{clave}",
         help="Hoy/semana/mes recortan por fecha de publicación (día Lima). "
              "Año 2026 lee el JSON acumulado. Un día sin botón no se pierde: "
-             "las corridas de 07:17, 10:17, 16:17 y 23:50 miran al menos 7 días atrás. "
+             "Cada corrida mira al menos 7 días atrás. "
              "Si eliges un mes archivado, ese mes manda sobre el periodo.",
     )
     mes_sel = ""
@@ -590,7 +591,7 @@ def _panel_noticias(area: str, titulo: str, caption: str, clave: str) -> bool:
         if ventana == "Hoy" and not mes_sel:
             st.info(
                 "Sin noticias con fecha de hoy (Lima). A media mañana suele haber pocas; "
-                "esta vista se llena con las corridas de las 07:17, 10:17 y 16:17. "
+                "esta vista se llena con las corridas de la mañana y la tarde. "
                 "Lo de ayer está en Semana."
             )
         else:
@@ -675,7 +676,6 @@ with tab_mon:
         _correr_rastreo()
 
     st.caption(
-        f"Última escritura: {fecha_catalogo_humana(_mtime(DIR / 'datos_publicos' / 'menciones.json'), _mtime(ROOT / 'datos' / 'indice.json'), _mtime(DIR / 'datos' / 'indice.json'))} (hora Lima) · "
         f"{len(indice.get('dias') or [])}/{indice.get('max_live', 31)} días en vivo"
     )
     ventana = st.radio(
