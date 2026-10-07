@@ -1,6 +1,6 @@
 {
   "mes": "2026-05",
-  "actualizado": "2026-10-07 06:30",
+  "actualizado": "2026-10-07 14:06",
   "items": [
     {
       "id": "afe3597b96dcb38e",
@@ -3197,6 +3197,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-06 13:33"
+    },
+    {
+      "id": "3a5f2604cb16bdd4",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac6984296104001a2f14869c06f25e8&url=https%3a%2f%2fwww.laprensa.hn%2fpremium%2fhipotesis-masacre-trujillo-pleito-bandas-amenazas-MB30757380&c=7320002656868494535&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac6984296104001a2f14869c06f25e8&url=https%3A%2F%2Fwww.laprensa.hn%2Fpremium%2Fhipotesis-masacre-trujillo-pleito-bandas-amenazas-MB30757380&c=7320002656868494535&mkt=es-us",
+      "titulo": "Hipótesis de masacre en Trujillo apuntan a pleito de bandas y amenazas",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-05-21",
+      "fecha_hecho": null,
+      "snippet": "Las víctimas fueron sometidas y luego les dispararon en la cabeza. Pobladores dijeron a LA PRENSA que \"quisieron huir y fueron alcanzados por las balas”. Contaron dos versiones sobre las posibles ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 3,
+      "query": "bing:\"masacre\" Trujillo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-07 14:06"
     },
     {
       "id": "875a8eef4c1780da",
@@ -10518,5 +10542,5 @@
       "descartar": false
     }
   ],
-  "n": 460
+  "n": 461
 }

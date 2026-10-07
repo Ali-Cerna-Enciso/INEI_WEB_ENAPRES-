@@ -1,6 +1,6 @@
 {
   "mes": "2026-03",
-  "actualizado": "2026-10-07 06:30",
+  "actualizado": "2026-10-07 14:06",
   "items": [
     {
       "id": "5976149ac746b5b8",
@@ -7688,6 +7688,28 @@
       "agregado": "2026-10-07 06:30"
     },
     {
+      "id": "24abfce5ee20f482",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac6982098ff44d0a2f05f96172bedf2&url=https%3a%2f%2fwww.infobae.com%2fcolombia%2f2026%2f03%2f13%2fante-los-ojos-de-su-familia-asi-cayo-en-monteria-gota-a-gota-colombiano-buscado-en-peru-con-notificacion-roja-de-la-interpol%2f&c=18426383268530225879&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac6982098ff44d0a2f05f96172bedf2&url=https%3A%2F%2Fwww.infobae.com%2Fcolombia%2F2026%2F03%2F13%2Fante-los-ojos-de-su-familia-asi-cayo-en-monteria-gota-a-gota-colombiano-buscado-en-peru-con-notificacion-roja-de-la-interpol%2F&c=18426383268530225879&mkt=es-us",
+      "titulo": "Ante su familia: así cayó en Montería ‘gota a gota’ colombiano buscado en Perú con notificación roja de la Interpol",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-03-12",
+      "fecha_hecho": null,
+      "snippet": "En video quedó cuando el hombre, señalado de extorsión agravada, salía de un supermercado de cadena junto a sus seres queridos y fue interceptado por las autoridades Por Juan Sánchez Romero El general ...",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:\"gota a gota\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-07 14:06"
+    },
+    {
       "id": "d94e3b33168b3e7a",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQRXdBUVZhcEM3UWQwWUNYa1lJcUY0Z2prNUpmWXBiOVN3aVJDZUxxLWp3RWdWWldPaGFXM2pyMEZyYUVIcnAxcFZhT2IyTWllWC1CcEZ6SlBkdnlUZi1Pc3Z4YWRHWmpFS09TMXpFblJpbVdUd0tZZ3QzOXpITFk0aTdfT0I4RnJpMDVaUU1HN2FNb0FuSi1oOE5vQVI3ZTFyYXgySXdzbVdnOXo5aDZKTlZSbHl0MFA5TzA0ekVTekVTeThvZTFfNlQwel9WNzV3eEVTM3BaVXVETklfWFlNd0pnMGw1Q2NySUpqV2I2aU9RV0hzcFdveTJlb0o?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQRXdBUVZhcEM3UWQwWUNYa1lJcUY0Z2prNUpmWXBiOVN3aVJDZUxxLWp3RWdWWldPaGFXM2pyMEZyYUVIcnAxcFZhT2IyTWllWC1CcEZ6SlBkdnlUZi1Pc3Z4YWRHWmpFS09TMXpFblJpbVdUd0tZZ3QzOXpITFk0aTdfT0I4RnJpMDVaUU1HN2FNb0FuSi1oOE5vQVI3ZTFyYXgySXdzbVdnOXo5aDZKTlZSbHl0MFA5TzA0ekVTekVTeThvZTFfNlQwel9WNzV3eEVTM3BaVXVETklfWFlNd0pnMGw1Q2NySUpqV2I2aU9RV0hzcFdveTJlb0o",
@@ -8917,5 +8939,5 @@
       "descartar": false
     }
   ],
-  "n": 396
+  "n": 397
 }
