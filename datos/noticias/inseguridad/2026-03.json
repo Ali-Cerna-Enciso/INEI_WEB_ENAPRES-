@@ -1,6 +1,6 @@
 {
   "mes": "2026-03",
-  "actualizado": "2026-10-06 15:23",
+  "actualizado": "2026-10-06 19:53",
   "items": [
     {
       "id": "5976149ac746b5b8",
@@ -2549,6 +2549,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-06 13:33"
+    },
+    {
+      "id": "43944029350e6b37",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac597f348a84288aa7a148b2ca21d64&url=https%3a%2f%2fwww.telemundo51.com%2fnoticias%2flocal%2fsospechoso-de-asesinato-en-miami-dade-hace-30-anos-es-extraditado-tras-su-arresto-en-peru%2f2764935%2f&c=14702040607545765718&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac597f348a84288aa7a148b2ca21d64&url=https%3A%2F%2Fwww.telemundo51.com%2Fnoticias%2Flocal%2Fsospechoso-de-asesinato-en-miami-dade-hace-30-anos-es-extraditado-tras-su-arresto-en-peru%2F2764935%2F&c=14702040607545765718&mkt=es-us",
+      "titulo": "Sospechoso de asesinato hace 30 años en Miami-Dade es extraditado a Florida desde Perú",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-03-25",
+      "fecha_hecho": null,
+      "snippet": "Un hombre acusado de un asesinato ocurrido en 1996 en Miami-Dade, que según las autoridades pasó casi tres décadas prófugo, fue extraditado al sur de Florida tras su arresto en Perú el año pasado.",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-06 19:53"
     },
     {
       "id": "364de0755638f7f3",
@@ -8829,5 +8851,5 @@
       "descartar": false
     }
   ],
-  "n": 392
+  "n": 393
 }

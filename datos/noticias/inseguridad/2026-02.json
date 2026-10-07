@@ -1,6 +1,6 @@
 {
   "mes": "2026-02",
-  "actualizado": "2026-10-06 15:23",
+  "actualizado": "2026-10-06 19:53",
   "items": [
     {
       "id": "08be74dba74aeb1c",
@@ -2059,6 +2059,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-06 13:33"
+    },
+    {
+      "id": "6450df39d9a8c126",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac597f886d24e2b9bd7e5bd42cff1c8&url=https%3a%2f%2fwww.msn.com%2fes-us%2fnoticias%2fmundo%2flas-pol%25C3%25A9micas-e-imputaciones-del-nuevo-presidente-de-per%25C3%25BA-prevaricato-fraude-y-estafa%2far-AA1WGqzK&c=7652150532196156322&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac597f886d24e2b9bd7e5bd42cff1c8&url=https%3A%2F%2Fwww.msn.com%2Fes-us%2Fnoticias%2Fmundo%2Flas-pol%25C3%25A9micas-e-imputaciones-del-nuevo-presidente-de-per%25C3%25BA-prevaricato-fraude-y-estafa%2Far-AA1WGqzK&c=7652150532196156322&mkt=es-us",
+      "titulo": "Las polémicas e imputaciones del nuevo presidente de Perú: prevaricato, fraude y estafa",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-02-19",
+      "fecha_hecho": null,
+      "snippet": "Lima, 19 feb (EFE).- El nuevo presidente interino de Perú, el izquierdista José María Balcázar, acumula una serie de polémicas e imputaciones por hasta trece delitos distintos como prevaricato, fraude ...",
+      "temas": [
+        "Estafa"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:estafa Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-06 19:53"
     },
     {
       "id": "d24d2021146632e7",
@@ -6138,5 +6162,5 @@
       "descartar": false
     }
   ],
-  "n": 267
+  "n": 268
 }
