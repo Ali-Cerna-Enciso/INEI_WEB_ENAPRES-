@@ -1,7 +1,122 @@
 {
   "mes": "2026-10",
-  "actualizado": "2026-10-06 19:56",
+  "actualizado": "2026-10-07 06:33",
   "items": [
+    {
+      "id": "42fdf8035c0ceeb9",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY25scTJKb0kwOTNiWVJtb1ZLQzBDeWNmbS1ZaEU3dGpTYlZPYXI5NTZ6N1RkcmhoYldoSnl0aFlIc0daLUdOVERkcFFuQ2Q5WnkxcHpUY1MxNlotUFBneWFiUTU5aW9SUGY4Ni1Hbk40d0VLR2ItcGpxcTNlUXgwd3IwUkNNTl8zVmhGQTJXN1d1aFJ5eHh3VTBDMjc5WmRQM1NOX0xId2dUSV9PSlpNZDVOZWZ3ejVU?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY25scTJKb0kwOTNiWVJtb1ZLQzBDeWNmbS1ZaEU3dGpTYlZPYXI5NTZ6N1RkcmhoYldoSnl0aFlIc0daLUdOVERkcFFuQ2Q5WnkxcHpUY1MxNlotUFBneWFiUTU5aW9SUGY4Ni1Hbk40d0VLR2ItcGpxcTNlUXgwd3IwUkNNTl8zVmhGQTJXN1d1aFJ5eHh3VTBDMjc5WmRQM1NOX0xId2dUSV9PSlpNZDVOZWZ3ejVU",
+      "titulo": "Global X Copper Miners: invertir en el metal clave de la electrificación - Renta 4 Banco",
+      "fuente": "Renta 4 Banco",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-10-07",
+      "fecha_hecho": null,
+      "snippet": "Global X Copper Miners: invertir en el metal clave de la electrificación Renta 4 Banco",
+      "temas": [
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "electrificación Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-07 06:32"
+    },
+    {
+      "id": "b2713785e710ce11",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb044SkxfRVcwRGZWbXZCRzR2TTAxaVU3YkFxUDVGN0NqUXlMazc5YndBR0FleTMydkdtNDRLRjViczN0QmxPM2hQNk9KWVUtRlc0aUc2UjAwLU5raEZkSEtZN1hhSEFZZklWcXN6aFZOQ2F3S1lFdGxuWlpRRGpNbHlaQkk3M3AtNldxNHI4cGRhblhGejcyemNTbFk1bnVfcXZPdFlycU9oOVBBbFhjVUR3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb044SkxfRVcwRGZWbXZCRzR2TTAxaVU3YkFxUDVGN0NqUXlMazc5YndBR0FleTMydkdtNDRLRjViczN0QmxPM2hQNk9KWVUtRlc0aUc2UjAwLU5raEZkSEtZN1hhSEFZZklWcXN6aFZOQ2F3S1lFdGxuWlpRRGpNbHlaQkk3M3AtNldxNHI4cGRhblhGejcyemNTbFk1bnVfcXZPdFlycU9oOVBBbFhjVUR3",
+      "titulo": "Corte de agua en Lima hoy 07 de octubre: Distritos y horarios afectados - RPP Noticias",
+      "fuente": "RPP Noticias",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-10-07",
+      "fecha_hecho": null,
+      "snippet": "Corte de agua en Lima hoy 07 de octubre: Distritos y horarios afectados RPP Noticias",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "Sedapal",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-07 06:32"
+    },
+    {
+      "id": "293097f31438da51",
+      "url": "https://rpp.pe/lima/obras/corte-de-agua-en-lima-hoy-07-de-octubre-distritos-y-horarios-afectados-noticia-1711189",
+      "url_canon": "https://rpp.pe/lima/obras/corte-de-agua-en-lima-hoy-07-de-octubre-distritos-y-horarios-afectados-noticia-1711189",
+      "titulo": "Corte de agua en Lima hoy 07 de octubre: Distritos y horarios afectados",
+      "fuente": "RPP",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "feeds",
+      "fecha_pub": "2026-10-07",
+      "fecha_hecho": null,
+      "snippet": "EN VIVO Consulta aquí los distritos de Lima y horarios afectados por el corte de agua programado por el Servicio de Agua Potable y Alcantarillado de Lima (Sedapal) para hoy.",
+      "temas": [
+        "Agua por red pública",
+        "Alcantarillado"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 4,
+      "query": "feed:RPP",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-07 06:33"
+    },
+    {
+      "id": "3bed3cfd15a9a36d",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWlBKMUxYTkw2SC1lV0tfdVNNU012UXhKREZmVU1nR2wzSGdEbVlRXzg5bzFXLU9RT2RQRzQ4OGg5akRHVmZsOVJaOTEyODBzWmwxY2JZRFdDbkt6NllaU0FaVXQwZVpGWTZKaERxR193a0ljMGlBUmFtTDNGdVg4NERjQkRxa0RmU3NaeUpVbkNpZnVnZmoyYnVyeS14Z0JhblhUeG12S2lsYXZIVmJpZjVmd21fNC04Y0U5Yy13aHdNME9PanlmUzFVZm9nS1hGemhtRWRHVVJfMFFpRGZoRjdwQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWlBKMUxYTkw2SC1lV0tfdVNNU012UXhKREZmVU1nR2wzSGdEbVlRXzg5bzFXLU9RT2RQRzQ4OGg5akRHVmZsOVJaOTEyODBzWmwxY2JZRFdDbkt6NllaU0FaVXQwZVpGWTZKaERxR193a0ljMGlBUmFtTDNGdVg4NERjQkRxa0RmU3NaeUpVbkNpZnVnZmoyYnVyeS14Z0JhblhUeG12S2lsYXZIVmJpZjVmd21fNC04Y0U5Yy13aHdNME9PanlmUzFVZm9nS1hGemhtRWRHVVJfMFFpRGZoRjdwQQ",
+      "titulo": "🚰💧 ¿No hay agua? El artículo 115 constitucional es claro: el servicio de agua potable corresponde al Gobierno de la Ciudad de Puebla. El agua es un servicio público y un derecho que las autoridades deben atender dentro del ámbito de sus competencias. - Facebook",
+      "fuente": "Facebook",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-10-06",
+      "fecha_hecho": null,
+      "snippet": "🚰💧 ¿No hay agua? El artículo 115 constitucional es claro: el servicio de agua potable corresponde al Gobierno de la Ciudad de Puebla. El agua es un servicio público y un derecho que las autoridades deben atender dentro d",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "\"acceso al agua\" site:facebook.com",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-07 06:32"
+    },
+    {
+      "id": "00d57320c3862723",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZ2locVptSmRLMjdRYjRHMUlsSmpIc1JsQkhKNnVOVW5IWU1zU1d2Y2RWQ0lJX0Z5S2YwbDgwdmwyVEpMand2NnRVU1JMeTI4TUlSSDRjM0g2aDQzNHNCV3g0RFpPYmI2U1pOTTFtdnFURkh5ZU14eUlQNzVwbUFfMnYwWC1ZN1hrbmFpNXJyVHdsNmJaWnk5ZTRTVUt1TEdLYnBqbzF6Q3NUV1daSVJldG1UZUktT2drbThZTnE2QW9IRnZfMm1IRndlN1NlTVV2REtNOXd6ck1VQ3hQbEJQZ0tPNGZXQk1vODlDMi0taw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZ2locVptSmRLMjdRYjRHMUlsSmpIc1JsQkhKNnVOVW5IWU1zU1d2Y2RWQ0lJX0Z5S2YwbDgwdmwyVEpMand2NnRVU1JMeTI4TUlSSDRjM0g2aDQzNHNCV3g0RFpPYmI2U1pOTTFtdnFURkh5ZU14eUlQNzVwbUFfMnYwWC1ZN1hrbmFpNXJyVHdsNmJaWnk5ZTRTVUt1TEdLYnBqbzF6Q3NUV1daSVJldG1UZUktT2drbThZTnE2QW9IRnZfMm1IRndlN1NlTVV2REtNOXd6ck1VQ3hQbEJQZ0tPNGZXQk1vODlDMi0taw",
+      "titulo": "🔴🔵 ¿A alistar las linternas? ⚠️💡 Corte de LUZ el 7 de octubre: estos distritos se verán afectados MAÑANA 👇 - Facebook",
+      "fuente": "Facebook",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-10-06",
+      "fecha_hecho": null,
+      "snippet": "🔴🔵 ¿A alistar las linternas? ⚠️💡 Corte de LUZ el 7 de octubre: estos distritos se verán afectados MAÑANA 👇 Facebook",
+      "temas": [
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "\"corte de luz\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-07 06:32"
+    },
     {
       "id": "931a088222ce6dd0",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNmY5ZnVqS1ZtMGVkTWFfTzRWdXF3RktXZnJPMVFVWDJRUDBqeVRmYzdTZzdEdXNRNUo0LWcwV2RoQUpEQ2VLLTVtLUZOVk1WazBZY1hmN1J5NXlNa3U3cG1aYTNpajFDTnd5RkxkM29xeE9fTW1yd1QtU041YlNuaTVhdExmQWpkMGRjdHg2amg4ZG91djdvMmJKUVVKcVJ4WW8wZHhBaGtvazBEY0pPYXlWeXJXUjdqeWxTMXNVcDBBR1ZWbVIzRy1Tc3ZhdnVwT0s0VXkzcGJTalh0TjlhQmZzaWs?oc=5&hl=en-US&gl=US&ceid=US:en",
@@ -205,6 +320,28 @@
       "agregado": "2026-10-06 13:36"
     },
     {
+      "id": "4aefc8a839f7edce",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObWhzV3U0OF9Yc3B4VGFSdGJpdUFIT1FMcmhrRHNRRzF4a3pGWnVaNUtzQWtVbEN1a0JMVGlyNzdvTGVkRzl6dDdqODJKemtZT084eVNHVFRLZXJpVGVUNHhmUmhkazdfZTJFUDlERm1YV3lGVDBfYkV5dkpndTAyXy1TU3I0aVVYanpES0FVN1F2TXJoR3N6NkVYejNfLTZtVDFaNkRESjZPVnRvUkxqNWFXR0puQVI5Q0cwUkdFS0xjbXlGTnNpU3VBWW5lcFpKTXF0Q25Zcmp1Z1B4LTZv?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObWhzV3U0OF9Yc3B4VGFSdGJpdUFIT1FMcmhrRHNRRzF4a3pGWnVaNUtzQWtVbEN1a0JMVGlyNzdvTGVkRzl6dDdqODJKemtZT084eVNHVFRLZXJpVGVUNHhmUmhkazdfZTJFUDlERm1YV3lGVDBfYkV5dkpndTAyXy1TU3I0aVVYanpES0FVN1F2TXJoR3N6NkVYejNfLTZtVDFaNkRESjZPVnRvUkxqNWFXR0puQVI5Q0cwUkdFS0xjbXlGTnNpU3VBWW5lcFpKTXF0Q25Zcmp1Z1B4LTZv",
+      "titulo": "Imagínate un Puebla donde el acceso al agua sea un servicio digno y garantizado para las familias, con soluciones que permitan cuidar este recurso y asegurar su disponibilidad para las próximas generaciones. #Imaginate #PRIPuebla - Facebook",
+      "fuente": "Facebook",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-10-06",
+      "fecha_hecho": null,
+      "snippet": "Imagínate un Puebla donde el acceso al agua sea un servicio digno y garantizado para las familias, con soluciones que permitan cuidar este recurso y asegurar su disponibilidad para las próximas generaciones. #Imaginate #",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "\"acceso al agua\" site:facebook.com",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-07 06:32"
+    },
+    {
       "id": "72d550e8cd3216cd",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNERyQlhyLVF1RThnbzdjeVlxWGNRb1BPTDlKd3Iyc19XWUhWMlVFZEZRWjRSR1A1dzNVeW5rajQxbWtncElXWW9aTDJZSHBPZ0N1RGMyalQ1RWlkdEhweldQQ1VfNEhVSDJEMS1pWE0xSWdta0RQX1RwejBZNjNDQmFrN1FCdGI5aFloT3VGREZiRUFjZi1VRzVwTTdyUklXWGVtSWM3TVdrM3VzdjU0WkluMA?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNERyQlhyLVF1RThnbzdjeVlxWGNRb1BPTDlKd3Iyc19XWUhWMlVFZEZRWjRSR1A1dzNVeW5rajQxbWtncElXWW9aTDJZSHBPZ0N1RGMyalQ1RWlkdEhweldQQ1VfNEhVSDJEMS1pWE0xSWdta0RQX1RwejBZNjNDQmFrN1FCdGI5aFloT3VGREZiRUFjZi1VRzVwTTdyUklXWGVtSWM3TVdrM3VzdjU0WkluMA",
@@ -247,6 +384,28 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-10-06 19:55"
+    },
+    {
+      "id": "5e8243ff47d0a10c",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZWJYUExoN3ljVE9jNjNOM2hLeloyenljMHlQT01URE81aWdXQ240eFFNUWhaT1RqbkFrQ0lMVFFaWmtLVzRmNWdFeXVScERYWi1vS3BOX2ZLc3hRMnBHQ1BabWRZYnNkeHpqYW1UVlR5dGxrNy1BXzc2LVN2ci05YW9aX2xySWxILXczUDZVMHZNdzIzTkpzS3pvWGRueWhZSUVld0FUV2RQMmtRQUdCVmJmTENWN2I4QkxmaUF0bFplYk9HbHBGb01SSTVRbnJqdWxqUA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZWJYUExoN3ljVE9jNjNOM2hLeloyenljMHlQT01URE81aWdXQ240eFFNUWhaT1RqbkFrQ0lMVFFaWmtLVzRmNWdFeXVScERYWi1vS3BOX2ZLc3hRMnBHQ1BabWRZYnNkeHpqYW1UVlR5dGxrNy1BXzc2LVN2ci05YW9aX2xySWxILXczUDZVMHZNdzIzTkpzS3pvWGRueWhZSUVld0FUV2RQMmtRQUdCVmJmTENWN2I4QkxmaUF0bFplYk9HbHBGb01SSTVRbnJqdWxqUA",
+      "titulo": "El acceso al agua es fundamental, ya que su escasez puede afectar la salud y el desarrollo de niñas y niños, provocando problemas como desnutrición, retraso en el crecimiento y deshidratación por diarrea. - Facebook",
+      "fuente": "Facebook",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-10-06",
+      "fecha_hecho": null,
+      "snippet": "El acceso al agua es fundamental, ya que su escasez puede afectar la salud y el desarrollo de niñas y niños, provocando problemas como desnutrición, retraso en el crecimiento y deshidratación por diarrea. Facebook",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "\"acceso al agua\" site:facebook.com",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-07 06:32"
     },
     {
       "id": "22bd35ed3f78d531",
@@ -463,6 +622,32 @@
       "agregado": "2026-10-06 15:29"
     },
     {
+      "id": "fd273f6353a860a7",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac62dda236e4455bfaa164ba436c3f5&url=https%3a%2f%2flarepublica.pe%2fsociedad%2f2026%2f10%2f06%2fcorte-de-agua-este-7-de-octubre-en-sjl-vmt-independencia-y-mas-distritos-horarios-y-programacion-oficial-de-sedapal-489240&c=6041361244246239302&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac62dda236e4455bfaa164ba436c3f5&url=https%3A%2F%2Flarepublica.pe%2Fsociedad%2F2026%2F10%2F06%2Fcorte-de-agua-este-7-de-octubre-en-sjl-vmt-independencia-y-mas-distritos-horarios-y-programacion-oficial-de-sedapal-489240&c=6041361244246239302&mkt=es-us",
+      "titulo": "Corte de agua este 7 de octubre en SJL, VMT, Independencia y más distritos: horarios y programación oficial de Sedapal",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-06",
+      "fecha_hecho": null,
+      "snippet": "Sedapal ha programado el corte de agua potable el 7 de octubre en San Juan de Lurigancho, Villa María del Triunfo, Independencia y Lurigancho, afectando varias zonas.",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "San Juan de Lurigancho",
+        "Villa María del Triunfo",
+        "Independencia"
+      ],
+      "score": 3,
+      "query": "bing:Sedapal",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-07 06:33"
+    },
+    {
       "id": "b723ca3e0cc8848d",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWXFFVEUwWDNNM3Q0T3otZFJLTW93XzlKY3ZsQ3R2VEdsTGdUMkx5WFBDamtud0hYMlFPZ0Q4VWlYNzlxRzk3N2ZoWlFXYzR1MGlhRTlWXzZrcWR3cjltWDdFOWRzd0hQRDhXN3FqYURKMFM1ZlVmazVHU0lLU2g5U0FpUHJsUnhxby1XVDJGNDhRS2lFWUVWcXRkUWdyRl91R29vTUc4RXAtLThwS3lpYmtn?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWXFFVEUwWDNNM3Q0T3otZFJLTW93XzlKY3ZsQ3R2VEdsTGdUMkx5WFBDamtud0hYMlFPZ0Q4VWlYNzlxRzk3N2ZoWlFXYzR1MGlhRTlWXzZrcWR3cjltWDdFOWRzd0hQRDhXN3FqYURKMFM1ZlVmazVHU0lLU2g5U0FpUHJsUnhxby1XVDJGNDhRS2lFWUVWcXRkUWdyRl91R29vTUc4RXAtLThwS3lpYmtn",
@@ -562,6 +747,31 @@
       "agregado": "2026-10-06 19:55"
     },
     {
+      "id": "bd35db7c161db0eb",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYWdDQWU1SXBMMUU5VlpKOExPeVkwbDBkb1RVc2ZOU0tud05lSkVRejNGcF9zUnRXeDRCWTROOFpBYlMyT3lROGR3T3R4SUFIUzVvc1pBdTlraXFULXE3bkZnT1JwMEZrOWpqcERWNXFrM3FKMG1PSkVOQXd5WXk5eGF5aE5ReUpXekdOdmN2aG91b0IxNGhwWGVDZWpzZjRYSkVKbjhtbTJzOExuQmVIU2dyaDRYYkV0bW9kZjJ5N3NiNk0?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYWdDQWU1SXBMMUU5VlpKOExPeVkwbDBkb1RVc2ZOU0tud05lSkVRejNGcF9zUnRXeDRCWTROOFpBYlMyT3lROGR3T3R4SUFIUzVvc1pBdTlraXFULXE3bkZnT1JwMEZrOWpqcERWNXFrM3FKMG1PSkVOQXd5WXk5eGF5aE5ReUpXekdOdmN2aG91b0IxNGhwWGVDZWpzZjRYSkVKbjhtbTJzOExuQmVIU2dyaDRYYkV0bW9kZjJ5N3NiNk0",
+      "titulo": "Corte de LUZ el 7 de octubre: ¿qué distritos de Lima y Callao se verán afectados el miércoles? - AP Noticias",
+      "fuente": "AP Noticias",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-10-06",
+      "fecha_hecho": null,
+      "snippet": "Corte de LUZ el 7 de octubre: ¿qué distritos de Lima y Callao se verán afectados el miércoles? AP Noticias",
+      "temas": [
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Callao",
+        "Lima"
+      ],
+      "score": 3,
+      "query": "apagón Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-07 06:32"
+    },
+    {
       "id": "23bd6aac29f3b8c6",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac53f9f2183467fadbae2abc26e418a&url=https%3a%2f%2fwww.exitosanoticias.pe%2factualidad%2fcorte-luz-7-octubre-que-distritos-lima-callao-veran-afectados-miercoles-n185302&c=15399238214727978935&mkt=es-us",
       "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac53f9f2183467fadbae2abc26e418a&url=https%3A%2F%2Fwww.exitosanoticias.pe%2Factualidad%2Fcorte-luz-7-octubre-que-distritos-lima-callao-veran-afectados-miercoles-n185302&c=15399238214727978935&mkt=es-us",
@@ -610,6 +820,31 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-10-06 15:29"
+    },
+    {
+      "id": "e6dedba850a3ee1d",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac62dd4c014463e9d022e97d92bd869&url=https%3a%2f%2fwww.exitosanoticias.pe%2factualidad%2fcorte-luz-7-octubre-que-distritos-lima-callao-veran-afectados-miercoles-n185302&c=15399238214727978935&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac62dd4c014463e9d022e97d92bd869&url=https%3A%2F%2Fwww.exitosanoticias.pe%2Factualidad%2Fcorte-luz-7-octubre-que-distritos-lima-callao-veran-afectados-miercoles-n185302&c=15399238214727978935&mkt=es-us",
+      "titulo": "Corte de LUZ el 7 de octubre: ¿qué distritos de Lima y Callao se verán afectados el miércoles?",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-06",
+      "fecha_hecho": null,
+      "snippet": "Pluz Perú anunció que habrá nuevo corte temporal del servicio de luz en distintos distritos de Lima y el Callao. Conoce qué zonas se verán afectadas el miércoles 7 de octubre.",
+      "temas": [
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Callao",
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:\"corte de luz\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-07 06:33"
     },
     {
       "id": "b2b8c270b155582d",
@@ -684,6 +919,28 @@
       "agregado": "2026-10-06 15:29"
     },
     {
+      "id": "1c90a56cc314df5f",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRnhrc1RwYjNuVElYdlRhNkEzTFdxYWdGNndvaF9KRFZJNE9ub3VZalE2eVMwMWdOc29MY2VIUnNFc3BRbVlkLUp2RzR0OTVsVlQ5cTk4YW44M2lSU3JPekQ2WGh0dGRWdVQxMDh6Q3FuZkpSQVROX2MtSlUwYkZVVkhrLWhEOTN2dHEySV9iQVIwdklXM2JUbEluZHRKNGRhU2VTaDFoR1NFcFRONHRzRUdHVjFsN3lsUjZpR0J0UG9QWTE2MjMxcGRiNXd5Ujd0bXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRnhrc1RwYjNuVElYdlRhNkEzTFdxYWdGNndvaF9KRFZJNE9ub3VZalE2eVMwMWdOc29MY2VIUnNFc3BRbVlkLUp2RzR0OTVsVlQ5cTk4YW44M2lSU3JPekQ2WGh0dGRWdVQxMDh6Q3FuZkpSQVROX2MtSlUwYkZVVkhrLWhEOTN2dHEySV9iQVIwdklXM2JUbEluZHRKNGRhU2VTaDFoR1NFcFRONHRzRUdHVjFsN3lsUjZpR0J0UG9QWTE2MjMxcGRiNXd5Ujd0bXc",
+      "titulo": "Comunidades tienen acceso al agua de una a tres veces por semana | #LLAKTAPI INFORMATIVO Este 6 de agosto comunidades del Proyecto Pasillo Imbabura marcharon hasta el pretil municipal de Otavalo, exigiendo respuestas por dicho proyecto, especi - Facebook",
+      "fuente": "Facebook",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-10-06",
+      "fecha_hecho": null,
+      "snippet": "Comunidades tienen acceso al agua de una a tres veces por semana | #LLAKTAPI INFORMATIVO Este 6 de agosto comunidades del Proyecto Pasillo Imbabura marcharon hasta el pretil municipal de Otavalo, exigiendo respuestas por",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "\"acceso al agua\" site:facebook.com",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-07 06:32"
+    },
+    {
       "id": "c8fc22252d48d69b",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac53fb3572749b5b418cb5b62f39f83&url=https%3a%2f%2fwww.msn.com%2fes-pe%2fautos%2flujo%2faudi-a6-e-tron-el-futuro-el%25C3%25A9ctrico-del-a6-al-detalle%2fvi-AA2dGegE&c=6397773500684818885&mkt=es-us",
       "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac53fb3572749b5b418cb5b62f39f83&url=https%3A%2F%2Fwww.msn.com%2Fes-pe%2Fautos%2Flujo%2Faudi-a6-e-tron-el-futuro-el%25C3%25A9ctrico-del-a6-al-detalle%2Fvi-AA2dGegE&c=6397773500684818885&mkt=es-us",
@@ -750,6 +1007,28 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-10-06 13:36"
+    },
+    {
+      "id": "316c70775a9b74f6",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbmZscDk0VzFNZlp4eFJGOGxaSXpQOXVEM2UwWll6ZWZNa0pJMll3bG5IakdUanBoVGo5ZzVxT3haOTd6QWhKa2Ftb1MtMDBvVkJSMnBiZndRcThBWGowVVlyaTA1akhCa0hxcTR1YjlsVmJodEFCekdBUWVsSU9GQlhlbzF4czMyR01tWl9FdG5FZHBQX0V4Z0FsbXB1RXN4ZUdiWFdraWdGclhlbTY5VFk5OVJWTjM3UGdINXZUTzlwdWJnc1lWTDBrZV9xeUdVMDdMdjFqa3ZWa1JXOHhtODdKb1RXRGtlTy1aWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbmZscDk0VzFNZlp4eFJGOGxaSXpQOXVEM2UwWll6ZWZNa0pJMll3bG5IakdUanBoVGo5ZzVxT3haOTd6QWhKa2Ftb1MtMDBvVkJSMnBiZndRcThBWGowVVlyaTA1akhCa0hxcTR1YjlsVmJodEFCekdBUWVsSU9GQlhlbzF4czMyR01tWl9FdG5FZHBQX0V4Z0FsbXB1RXN4ZUdiWFdraWdGclhlbTY5VFk5OVJWTjM3UGdINXZUTzlwdWJnc1lWTDBrZV9xeUdVMDdMdjFqa3ZWa1JXOHhtODdKb1RXRGtlTy1aWQ",
+      "titulo": "#Atención 🚰💧 ¿No hay agua? El artículo 115 constitucional es claro: el servicio de agua potable corresponde al Gobierno de la Ciudad de Puebla. El agua es un servicio público y un derecho que las autoridades deben atender dentro del ámbito de sus comp - Facebook",
+      "fuente": "Facebook",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-10-06",
+      "fecha_hecho": null,
+      "snippet": "#Atención 🚰💧 ¿No hay agua? El artículo 115 constitucional es claro: el servicio de agua potable corresponde al Gobierno de la Ciudad de Puebla. El agua es un servicio público y un derecho que las autoridades deben atende",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "\"acceso al agua\" site:facebook.com",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-07 06:32"
     },
     {
       "id": "a13c1ca8cc778d89",
@@ -1056,6 +1335,30 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-10-06 15:29"
+    },
+    {
+      "id": "1459ce13b3a7557a",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac62dda236e4455bfaa164ba436c3f5&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f10%2f05%2fsedapal-suspendera-el-agua-este-martes-6-de-octubre-en-cinco-distritos-de-lima-conoce-las-zonas-y-horarios%2f&c=6167656922013811203&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac62dda236e4455bfaa164ba436c3f5&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F10%2F05%2Fsedapal-suspendera-el-agua-este-martes-6-de-octubre-en-cinco-distritos-de-lima-conoce-las-zonas-y-horarios%2F&c=6167656922013811203&mkt=es-us",
+      "titulo": "Sedapal suspenderá el agua este martes 6 de octubre en cinco distritos de Lima: conoce las zonas y horarios",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-05",
+      "fecha_hecho": null,
+      "snippet": "Los avisos contemplan intervenciones por lavado de reservorios y una conexión de tuberías, con horarios distintos que van desde las 7:00 de la mañana hasta la noche ...",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:Sedapal",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-07 06:33"
     },
     {
       "id": "e60835f5b2eb2c85",
@@ -1404,6 +1707,28 @@
       "agregado": "2026-10-05 15:55"
     },
     {
+      "id": "2b2ebbcecacb0651",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZ0xvQzBCTUdNc2pvd092Wm0yRDMyTEo0ZTJ0U2xJX2dKTGRqWDY4dEpBQzRQUEhRaWQxMHVZMVdCa1daUnl0bzdVUHhRRU45cVYyaGNsRUk2bHE2alRaSWd5Tk1LQ0RvYVhNYU1URmFSamtjSkxaRWpWREwxRGFKcjdKaXJON0Y1Q0Nrdmd2WnpZYWg5ekw4d25WZ0dYWlFyWl93eWpCMXo1UkduM0dJRVFKVHRGRWEyd3JzSWhiemlyWWxCelVKZ3Rqd1J4TGh3ZlE0SzBPWWI4YnpwVndmNXI0TWluZFdkM29TajBVLXY?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZ0xvQzBCTUdNc2pvd092Wm0yRDMyTEo0ZTJ0U2xJX2dKTGRqWDY4dEpBQzRQUEhRaWQxMHVZMVdCa1daUnl0bzdVUHhRRU45cVYyaGNsRUk2bHE2alRaSWd5Tk1LQ0RvYVhNYU1URmFSamtjSkxaRWpWREwxRGFKcjdKaXJON0Y1Q0Nrdmd2WnpZYWg5ekw4d25WZ0dYWlFyWl93eWpCMXo1UkduM0dJRVFKVHRGRWEyd3JzSWhiemlyWWxCelVKZ3Rqd1J4TGh3ZlE0SzBPWWI4YnpwVndmNXI0TWluZFdkM29TajBVLXY",
+      "titulo": "El agua es un bien común y un derecho humano. Protegerla no es tarea de unos pocos: es una responsabilidad de todas y todos. 🌳 La Sierra de las Minas nos recuerda que la vida, la comunidad y el futuro están profundamente ligados al acceso al agua. ¡Po - Facebook",
+      "fuente": "Facebook",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-10-05",
+      "fecha_hecho": null,
+      "snippet": "El agua es un bien común y un derecho humano. Protegerla no es tarea de unos pocos: es una responsabilidad de todas y todos. 🌳 La Sierra de las Minas nos recuerda que la vida, la comunidad y el futuro están profundamente",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 2,
+      "query": "\"acceso al agua\" site:facebook.com",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-07 06:32"
+    },
+    {
       "id": "40605b1af1342cfa",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPakd2UnktZ2hOSXFNaVl2LV9MMTR3bjZ1QU5rc1diVTUwM0c0RkdobmQ2VWpkY210V2hvRk9PRGpVRGdEVFlJQU1hLUx6MVl3V1VqajlRN2kydHBEYzFDTGczUUZPLUt1OFczek5Jakp2cDQ5VHRvMlFvZk5xWmd0SG5vZXJXVFFpUjNIbHNRR2hqWUFocHlVQnRVR2dUOTdQVmZWTEt2Uk9DVllKdUZaUmZVQ0pPQjVPTnpVZTNNV3hGUjNKNDd2TUpRMWdCT3Q5emxRanNfQ0JJV3JtUEd1aVkyMVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPakd2UnktZ2hOSXFNaVl2LV9MMTR3bjZ1QU5rc1diVTUwM0c0RkdobmQ2VWpkY210V2hvRk9PRGpVRGdEVFlJQU1hLUx6MVl3V1VqajlRN2kydHBEYzFDTGczUUZPLUt1OFczek5Jakp2cDQ5VHRvMlFvZk5xWmd0SG5vZXJXVFFpUjNIbHNRR2hqWUFocHlVQnRVR2dUOTdQVmZWTEt2Uk9DVllKdUZaUmZVQ0pPQjVPTnpVZTNNV3hGUjNKNDd2TUpRMWdCT3Q5emxRanNfQ0JJV3JtUEd1aVkyMVQ",
@@ -1588,6 +1913,30 @@
       "agregado": "2026-10-06 15:29"
     },
     {
+      "id": "a40eceafdfe69fd5",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac62dda236e4455bfaa164ba436c3f5&url=https%3a%2f%2flibero.pe%2ftiempoextra%2f2026%2f10%2f05%2fdistritos-de-lima-tendran-servicio-de-agua-potable-6-de-octubre-sedapal-confirma-corte-405000&c=6748969538096971472&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac62dda236e4455bfaa164ba436c3f5&url=https%3A%2F%2Flibero.pe%2Ftiempoextra%2F2026%2F10%2F05%2Fdistritos-de-lima-tendran-servicio-de-agua-potable-6-de-octubre-sedapal-confirma-corte-405000&c=6748969538096971472&mkt=es-us",
+      "titulo": "Distritos de Lima no tendrán servicio de agua potable HOY, 6 de octubre: Sedapal confirma corte",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-05",
+      "fecha_hecho": null,
+      "snippet": "Sedapal anunció un nuevo corte de agua potable para este martes 6 de octubre en varios distritos de Lima. Conoce las zonas afectadas, horarios y duración.",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:Sedapal",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-07 06:33"
+    },
+    {
       "id": "8808c10969a8d78f",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPLW9DVUpsei1makVCcnVlMlY2SThTODA1NTlxYndfb2pYdlN6bERVTlVkVERtVTd6S3pvejQwTVJ5T1poZDUzbGV1ZHNISEJVdDRaYVlIZUM3azlUUHNIc1k4RHRmOEEyUkNRRE1OYThheUZpVGVwZ1dMRUx3OFVzWGFR?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPLW9DVUpsei1makVCcnVlMlY2SThTODA1NTlxYndfb2pYdlN6bERVTlVkVERtVTd6S3pvejQwTVJ5T1poZDUzbGV1ZHNISEJVdDRaYVlIZUM3azlUUHNIc1k4RHRmOEEyUkNRRE1OYThheUZpVGVwZ1dMRUx3OFVzWGFR",
@@ -1729,6 +2078,30 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-10-06 15:29"
+    },
+    {
+      "id": "84b04937f680b91c",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac62dda236e4455bfaa164ba436c3f5&url=https%3a%2f%2fwww.expreso.com.pe%2factualidad%2fcorte-de-agua-hoy-martes-6-de-octubre-en-distritos-de-lima-zonas-y-horarios-segun-reporte-de-sedapal-recibo-medidor-tuberias-servicio-potable-alcantarillado-noticia%2f1320364%2f&c=14597045255222706145&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac62dda236e4455bfaa164ba436c3f5&url=https%3A%2F%2Fwww.expreso.com.pe%2Factualidad%2Fcorte-de-agua-hoy-martes-6-de-octubre-en-distritos-de-lima-zonas-y-horarios-segun-reporte-de-sedapal-recibo-medidor-tuberias-servicio-potable-alcantarillado-noticia%2F1320364%2F&c=14597045255222706145&mkt=es-us",
+      "titulo": "Corte de agua hoy, martes 6 de octubre, en distritos de Lima: zonas y horarios, según reporte de Sedapal.",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-05",
+      "fecha_hecho": null,
+      "snippet": "Sedapal comunicó que hoy, 6 de octubre, se ejecutará el corte de agua en varios distritos de Lima Metropolitana.",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:Sedapal",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-07 06:33"
     },
     {
       "id": "aba130ee07cce46a",
@@ -1874,6 +2247,31 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-10-06 15:29"
+    },
+    {
+      "id": "2a81ffe1de1e350b",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac62dda236e4455bfaa164ba436c3f5&url=https%3a%2f%2frpp.pe%2flima%2fobras%2fcorte-de-agua-en-lima-hoy-06-de-octubre-distritos-y-horarios-afectados-noticia-1711007&c=8844320667587122065&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac62dda236e4455bfaa164ba436c3f5&url=https%3A%2F%2Frpp.pe%2Flima%2Fobras%2Fcorte-de-agua-en-lima-hoy-06-de-octubre-distritos-y-horarios-afectados-noticia-1711007&c=8844320667587122065&mkt=es-us",
+      "titulo": "Corte de agua en Lima hoy 06 de octubre: Distritos y horarios afectados",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-05",
+      "fecha_hecho": null,
+      "snippet": "EN VIVO Consulta aquí los distritos de Lima y horarios afectados por el corte de agua programado por el Servicio de Agua Potable y Alcantarillado de Lima (Sedapal) para hoy.",
+      "temas": [
+        "Agua por red pública",
+        "Alcantarillado"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 4,
+      "query": "bing:Sedapal",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-07 06:33"
     },
     {
       "id": "eceb2fb86906acc9",
@@ -2125,6 +2523,31 @@
       "agregado": "2026-10-06 15:29"
     },
     {
+      "id": "88a4207b18e9addb",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac62dd4c014463e9d022e97d92bd869&url=https%3a%2f%2fwww.exitosanoticias.pe%2factualidad%2fcorte-luz-lima-callao-5-6-octubre-estos-distritos-veran-afectados-n185218&c=2403810824377031837&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac62dd4c014463e9d022e97d92bd869&url=https%3A%2F%2Fwww.exitosanoticias.pe%2Factualidad%2Fcorte-luz-lima-callao-5-6-octubre-estos-distritos-veran-afectados-n185218&c=2403810824377031837&mkt=es-us",
+      "titulo": "Corte de LUZ en Lima y Callao el 5 y 6 de octubre: estos distritos se verán afectados",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-05",
+      "fecha_hecho": null,
+      "snippet": "Pluz Perú anunció qué distritos de Lima y el Callao se verán afectados por el corte de luz programado para el lunes 5 y martes 6 de octubre. ¿Tu zona está en la lista?",
+      "temas": [
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Callao",
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:\"corte de luz\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-07 06:33"
+    },
+    {
       "id": "92adf445a383ba56",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVjYyTHBnNXZyTWpfRWFyUVFRc3VRUERuLVNQY2JHR2tqOWxnRGg0N3FZcVdjbGF3bkdNbjA5dFBtUlBkZlhiMnVjcGlCUEQwVmVhU2N1WGhsNGdEZElSU29Kay1BdUF4QVhqT2hpaFg3Q3VjME5DbU1UdllTT3hmeld4a1kyZmEwWC1nVFJsTklGTHpwSkNla3BsT0MyRDExeVRqT25KblExZlBSS3FoQ0NBX1dxZw?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVjYyTHBnNXZyTWpfRWFyUVFRc3VRUERuLVNQY2JHR2tqOWxnRGg0N3FZcVdjbGF3bkdNbjA5dFBtUlBkZlhiMnVjcGlCUEQwVmVhU2N1WGhsNGdEZElSU29Kay1BdUF4QVhqT2hpaFg3Q3VjME5DbU1UdllTT3hmeld4a1kyZmEwWC1nVFJsTklGTHpwSkNla3BsT0MyRDExeVRqT25KblExZlBSS3FoQ0NBX1dxZw",
@@ -2294,6 +2717,28 @@
       "agregado": "2026-10-05 20:57"
     },
     {
+      "id": "fb47bf3a471e000e",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNOVA4UTNoZ3RTS3lEd1R2RHlIeHR1WkkwQU5SLWtBeFlYb3NFWXdwWHFSV18zTV9yRmk2TnRhNm1wNFV6eWtVTExuVmhNRFNpSE9laFV4bGRlblM1bURoODhwQTg2YmZXRkVMdG5KdGc4V1lqSVB6Q1RKQ0huTzNHblhhODVhUG9mZWFrYmhBOEIzdnFVOUdTUjBlN25pb3ZJY1lSOXphUHRUYUhhb2NNNjU4RGVRUVpvSFNPaVViLXZsUGE5Y3R3OWVrc3VhaHBYTlpzUUlJdFpHdlBzdXlXUGZiZ0k1LWQzU1kyOG1mcw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNOVA4UTNoZ3RTS3lEd1R2RHlIeHR1WkkwQU5SLWtBeFlYb3NFWXdwWHFSV18zTV9yRmk2TnRhNm1wNFV6eWtVTExuVmhNRFNpSE9laFV4bGRlblM1bURoODhwQTg2YmZXRkVMdG5KdGc4V1lqSVB6Q1RKQ0huTzNHblhhODVhUG9mZWFrYmhBOEIzdnFVOUdTUjBlN25pb3ZJY1lSOXphUHRUYUhhb2NNNjU4RGVRUVpvSFNPaVViLXZsUGE5Y3R3OWVrc3VhaHBYTlpzUUlJdFpHdlBzdXlXUGZiZ0k1LWQzU1kyOG1mcw",
+      "titulo": "#MPSMAyA| Desde el Viceministerio de Seguridad Hídrica, Agua, Saneamiento Básico y Riego, rendimos homenaje a las ingenieras e ingenieros bolivianos que, con conocimiento, compromiso y vocación de servicio, aportan al desarrollo de nuestro país. S - Facebook",
+      "fuente": "Facebook",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-10-05",
+      "fecha_hecho": null,
+      "snippet": "#MPSMAyA| Desde el Viceministerio de Seguridad Hídrica, Agua, Saneamiento Básico y Riego, rendimos homenaje a las ingenieras e ingenieros bolivianos que, con conocimiento, compromiso y vocación de servicio, aportan al de",
+      "temas": [
+        "Alcantarillado"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "\"acceso al agua\" site:facebook.com",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-07 06:32"
+    },
+    {
       "id": "44ae088f9e43310c",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRWMyX2E0anpJTFgtRTFwYUFiSU1pRUJnRFdQRFRreDl4WElySGRCY1RqSjU4OVh5N3d5SXF3U3VFYkxKT3B0N0Y5cl92VjZWaC1RUDdGYTNEc1JHdFg0OWJkbHVOelVJcnFWTFAtUkhEcXh5T01LX1RESGtUWkN4bGJieUFFN29yNXJyZU5GYlFpeDJfUXlNM2NuczhURklld3lCUS10V1VoeF8tQzdsQzJFMFJGZ2QwVElsRlhlMU1OS1B1Vy1DdTV2OUlkeE5JWTNSaGZhOVVmNjh1V3FUMEx2OTRZT21qSTd3?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRWMyX2E0anpJTFgtRTFwYUFiSU1pRUJnRFdQRFRreDl4WElySGRCY1RqSjU4OVh5N3d5SXF3U3VFYkxKT3B0N0Y5cl92VjZWaC1RUDdGYTNEc1JHdFg0OWJkbHVOelVJcnFWTFAtUkhEcXh5T01LX1RESGtUWkN4bGJieUFFN29yNXJyZU5GYlFpeDJfUXlNM2NuczhURklld3lCUS10V1VoeF8tQzdsQzJFMFJGZ2QwVElsRlhlMU1OS1B1Vy1DdTV2OUlkeE5JWTNSaGZhOVVmNjh1V3FUMEx2OTRZT21qSTd3",
@@ -2404,6 +2849,28 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-10-04 19:08"
+    },
+    {
+      "id": "cefbeb2e05115e8a",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4ydGtPYVJqWm53N2s2SEMydWhzSHpWS2xoTDBlaVViei1DT2tOOWJRZUdVZ0ZLREVzNDcwQU9EdTd4QUpPRk5idWFUMm1hU1BlN2I1Sl9wU0d0MXBmMUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4ydGtPYVJqWm53N2s2SEMydWhzSHpWS2xoTDBlaVViei1DT2tOOWJRZUdVZ0ZLREVzNDcwQU9EdTd4QUpPRk5idWFUMm1hU1BlN2I1Sl9wU0d0MXBmMUE",
+      "titulo": "ONPE prueba su sistema ante apagones y posibles hackeos antes del 4 de octubre - ATV.pe",
+      "fuente": "ATV.pe",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-10-04",
+      "fecha_hecho": null,
+      "snippet": "ONPE prueba su sistema ante apagones y posibles hackeos antes del 4 de octubre ATV.pe",
+      "temas": [
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "apagón Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-07 06:32"
     },
     {
       "id": "9cb0c9233f139c60",
@@ -3262,6 +3729,32 @@
       "agregado": "2026-10-06 15:29"
     },
     {
+      "id": "bc6eef3b0d98a113",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac62dda236e4455bfaa164ba436c3f5&url=https%3a%2f%2fperu21.pe%2flima%2fsedapal-anuncia-corte-de-agua-de-12-horas-este-lunes%2f&c=11555993636207858565&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac62dda236e4455bfaa164ba436c3f5&url=https%3A%2F%2Fperu21.pe%2Flima%2Fsedapal-anuncia-corte-de-agua-de-12-horas-este-lunes%2F&c=11555993636207858565&mkt=es-us",
+      "titulo": "CORTAN EL AGUA HOY EN LIMA: estos son los distritos afectados y horarios",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-04",
+      "fecha_hecho": null,
+      "snippet": "Sedapal anunció corte de agua este lunes 5 de octubre en sectores de Villa El Salvador, San Juan de Miraflores y Santa Anita. Conoce horarios y zonas.",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Villa El Salvador",
+        "San Juan de Miraflores",
+        "Miraflores"
+      ],
+      "score": 3,
+      "query": "bing:Sedapal",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-07 06:33"
+    },
+    {
       "id": "bb0131e71455a7de",
       "url": "https://diariocorreo.pe/edicion/arequipa/arequipa-hombre-muere-atropellado-por-minivan-en-ingreso-al-botadero-de-quebrada-honda-noticia/",
       "url_canon": "https://diariocorreo.pe/edicion/arequipa/arequipa-hombre-muere-atropellado-por-minivan-en-ingreso-al-botadero-de-quebrada-honda-noticia",
@@ -3947,6 +4440,32 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-10-06 15:29"
+    },
+    {
+      "id": "2c4bc00b444dbc03",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac62dda236e4455bfaa164ba436c3f5&url=https%3a%2f%2felpopular.pe%2factualidad%2f2026%2f10%2f03%2falerta-por-corte-de-agua-sedapal-dejara-zonas-de-lima-sin-servicio-por-hasta-12-horas-revisa-aqui-214788&c=15799539843210945702&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac62dda236e4455bfaa164ba436c3f5&url=https%3A%2F%2Felpopular.pe%2Factualidad%2F2026%2F10%2F03%2Falerta-por-corte-de-agua-sedapal-dejara-zonas-de-lima-sin-servicio-por-hasta-12-horas-revisa-aqui-214788&c=15799539843210945702&mkt=es-us",
+      "titulo": "¡ALERTA POR CORTE DE AGUA ESTE 5 OCTUBRE! Sedapal dejará zonas de Lima SIN servicio hasta por 12 HORAS: REVISA AQUÍ",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-03",
+      "fecha_hecho": null,
+      "snippet": "Sedapal programó un corte de agua de hasta 12 horas para este lunes 5 de octubre en sectores de Villa El Salvador, San Juan de Miraflores y Santa Anita.",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Villa El Salvador",
+        "San Juan de Miraflores",
+        "Miraflores"
+      ],
+      "score": 3,
+      "query": "bing:Sedapal",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-07 06:33"
     },
     {
       "id": "947bcbe1e89948b7",
@@ -5938,6 +6457,28 @@
       "agregado": "2026-10-06 15:29"
     },
     {
+      "id": "e9b1fffdbb531e12",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac62de9ba8c474f9bd9165d0cf0114b&url=https%3a%2f%2felperuano.pe%2fnoticia%2f306002-peru-impulsa-una-politica-que-busca-generar-oportunidades-para-los-jovenes-del-campo&c=1838175339097531661&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac62de9ba8c474f9bd9165d0cf0114b&url=https%3A%2F%2Felperuano.pe%2Fnoticia%2F306002-peru-impulsa-una-politica-que-busca-generar-oportunidades-para-los-jovenes-del-campo&c=1838175339097531661&mkt=es-us",
+      "titulo": "Perú impulsa una política que busca generar oportunidades para los jóvenes del campo",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-02",
+      "fecha_hecho": null,
+      "snippet": "Panama.- Garantizar el acceso al agua, ampliar el financiamiento, fortalecer la asistencia tecnica y conectar a los productores con los mercados son prioridades que permitiran generar nuevas oportunid ...",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:\"acceso al agua\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-07 06:33"
+    },
+    {
       "id": "efc7d6d8dd4be4f3",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac04f9218e94259998d9166047be1ca&url=https%3a%2f%2fandina.pe%2fagencia%2fnoticia-peru-impulsa-oportunidades-para-jovenes-del-campo-y-fortalece-cooperacion-panama-1094332.aspx&c=10103447070704130774&mkt=es-us",
       "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac04f9218e94259998d9166047be1ca&url=https%3A%2F%2Fandina.pe%2Fagencia%2Fnoticia-peru-impulsa-oportunidades-para-jovenes-del-campo-y-fortalece-cooperacion-panama-1094332.aspx&c=10103447070704130774&mkt=es-us",
@@ -7433,6 +7974,28 @@
       "agregado": "2026-10-06 19:56"
     },
     {
+      "id": "126238e6820bd129",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac62debb0804e7ea50803447844fd27&url=https%3a%2f%2fstakeholders.com.pe%2fcompromiso-empresarial%2farticulacion-territorial-una-apuesta-para-enfrentar-los-grandes-desafios-del-peru-de-manera-conjunta%2f&c=5512887642808252143&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac62debb0804e7ea50803447844fd27&url=https%3A%2F%2Fstakeholders.com.pe%2Fcompromiso-empresarial%2Farticulacion-territorial-una-apuesta-para-enfrentar-los-grandes-desafios-del-peru-de-manera-conjunta%2F&c=5512887642808252143&mkt=es-us",
+      "titulo": "Articulación territorial: una apuesta para enfrentar los grandes desafíos del Perú de manera conjunta",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-02",
+      "fecha_hecho": null,
+      "snippet": "En el Perú, desafíos como la anemia infantil, la falta de acceso al agua y saneamiento, el cambio climático, la inseguridad y las brechas de competitividad rara vez ocurren de manera aislada. Por ...",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:\"agua y saneamiento\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-07 06:33"
+    },
+    {
       "id": "111040135422a050",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbk80R012cjY0YVQ4aVNxQUtVWUZEbWJ0UjVFWWt0LUROS0tKN3FtNEJXTXBoVndTMVpuaU80Y2hlYlQzZ05LVnFOWTNiSGQwQWhDUXJSZW91N0tyX3dZLURZREl0NzZPWWJkX2hKWGJZME8wNW9CRXlGWHVuclNXOHRRSlNNVl8yVTZDbjF3VHVSY2hVbXoyeUwzLWg3ZjNYYlk3V2phRzFPZG95Z0FWTU1FUzR1NmNRc3RQclRFdUdBQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbk80R012cjY0YVQ4aVNxQUtVWUZEbWJ0UjVFWWt0LUROS0tKN3FtNEJXTXBoVndTMVpuaU80Y2hlYlQzZ05LVnFOWTNiSGQwQWhDUXJSZW91N0tyX3dZLURZREl0NzZPWWJkX2hKWGJZME8wNW9CRXlGWHVuclNXOHRRSlNNVl8yVTZDbjF3VHVSY2hVbXoyeUwzLWg3ZjNYYlk3V2phRzFPZG95Z0FWTU1FUzR1NmNRc3RQclRFdUdBQQ",
@@ -7722,6 +8285,28 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-10-01 16:39"
+    },
+    {
+      "id": "57c410cbb41f902c",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTzVtbnNMQ3FqZHJza3NmT2d3dWVxYlVqRV9yZXBqUG9SSVFITkw1bDJGaWJmazhMclBocEFrdmozd3E0dW9jZ2pfTTFUbllZa0pvNDZzb2ZQc2M2QnJWajJ2UmdGWEFUN0lXVXN2dE1NTTZlaExLN1d5Z2hGbjNxRUdDNGVHMXUwXzQzWGdFVEt6MzlfNXBwV1dScXdydFhRY2NpeXpjS1FyR29YbUhRaG10TXVWbm5TTnN4dHE3YmFGOWJoajh4TmlzSnRIMWM5QVhlMEhJQ0wtdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTzVtbnNMQ3FqZHJza3NmT2d3dWVxYlVqRV9yZXBqUG9SSVFITkw1bDJGaWJmazhMclBocEFrdmozd3E0dW9jZ2pfTTFUbllZa0pvNDZzb2ZQc2M2QnJWajJ2UmdGWEFUN0lXVXN2dE1NTTZlaExLN1d5Z2hGbjNxRUdDNGVHMXUwXzQzWGdFVEt6MzlfNXBwV1dScXdydFhRY2NpeXpjS1FyR29YbUhRaG10TXVWbm5TTnN4dHE3YmFGOWJoajh4TmlzSnRIMWM5QVhlMEhJQ0wtdw",
+      "titulo": "¿VERDADERO O FALSO ? 🫵🏼💧 Salimos a la calle a poner a prueba cuánto sabemos sobre el agua potable. Junto a Somos CMPC 🌱 seguimos trabajando para dar acceso a agua potable a más comunidades y aprovechamos de compartir un poco más de c - Facebook",
+      "fuente": "Facebook",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-10-01",
+      "fecha_hecho": null,
+      "snippet": "¿VERDADERO O FALSO ? 🫵🏼💧 Salimos a la calle a poner a prueba cuánto sabemos sobre el agua potable. Junto a Somos CMPC 🌱 seguimos trabajando para dar acceso a agua potable a más comunidades y aprovechamos de compartir un ",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "\"acceso al agua\" site:facebook.com",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-07 06:32"
     },
     {
       "id": "91307dcb9d7eac3b",
@@ -9562,5 +10147,5 @@
       "agregado": "2026-10-02 13:04"
     }
   ],
-  "n": 407
+  "n": 432
 }
