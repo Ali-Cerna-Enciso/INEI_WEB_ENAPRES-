@@ -1,6 +1,6 @@
 {
   "mes": "2026-05",
-  "actualizado": "2026-10-07 14:06",
+  "actualizado": "2026-10-07 15:38",
   "items": [
     {
       "id": "afe3597b96dcb38e",
@@ -1117,6 +1117,29 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-07 06:30"
+    },
+    {
+      "id": "f714c9311b5c1988",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac6adc21e7048c1a722d90364488af9&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f05%2f27%2fdetienen-a-trabajador-del-ministerio-publico-por-presuntos-vinculos-con-red-de-extorsion-y-sicariato%2f&c=13573825060315679103&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac6adc21e7048c1a722d90364488af9&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F05%2F27%2Fdetienen-a-trabajador-del-ministerio-publico-por-presuntos-vinculos-con-red-de-extorsion-y-sicariato%2F&c=13573825060315679103&mkt=es-us",
+      "titulo": "Detienen a trabajador del Ministerio Público por presuntos vínculos con red de extorsión y sicariato",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-05-27",
+      "fecha_hecho": null,
+      "snippet": "Agentes policiales logran la captura de los hermanos Danny y Roly Nieves Chipau, quienes son acusados de suministrar armas y explosivos a una organización criminal Por Clara Giraldo La Policía ...",
+      "temas": [
+        "Extorsión",
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 5,
+      "query": "bing:sicariato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-07 15:38"
     },
     {
       "id": "3c6c7e13d6a86981",
@@ -2253,6 +2276,30 @@
       "agregado": "2026-10-06 15:23"
     },
     {
+      "id": "b33cda0fa0252bc7",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac6addc03bc40c298fa0dc66b12e64e&url=https%3a%2f%2fwww.elheraldo.hn%2ffotogalerias%2fsucesos%2fsepultan-primeras-13-victimas-masacre-finca-rigores-trujillo-JB30759880&c=14755907560534254788&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac6addc03bc40c298fa0dc66b12e64e&url=https%3A%2F%2Fwww.elheraldo.hn%2Ffotogalerias%2Fsucesos%2Fsepultan-primeras-13-victimas-masacre-finca-rigores-trujillo-JB30759880&c=14755907560534254788&mkt=es-us",
+      "titulo": "Sepultan a las primeras 13 víctimas de masacre en finca de Rigores, Trujillo",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-05-22",
+      "fecha_hecho": null,
+      "snippet": "Entre gritos desgarradores, llantos colectivos, dolor e impotencia 13 de las víctimas de la masacre en una finca de palma africana fueron sepultados este viernes.",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 3,
+      "query": "bing:\"masacre\" Trujillo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-07 15:38"
+    },
+    {
       "id": "ec52b8365f349e95",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVzU3cGxta240U3BUZDVqQkF1dEd5Ti1vMEU5RXJiRDJPbFBydTh0Z0lsUzhzTk1zd3lDeWFPMHZmZTZqYUVYWG82RkMxVmhvRjNpVng4S29hNHR6bXpIRVZFLU1WNWk5bnpfTkI1MEdFQUVjNlpTQjRwUU1ncjVxaC1GUmplMWs4aDJJSW9RNUJuT2k3b3l4cmR0VHU4cXMtT2tBLTR2Y2Rsd3psQUJnWUgyTk1EWVo0dEHSAdQBQVVfeXFMTUlhcVFEQnE3Tk04OXA5ZlhVTF9oODZHakppdk80bzRIUjhyWlF6RFhDYlNPRy0xZE1pbEZ6bU42WWJ4aWFxVXFmYVZtTGdvV3RZdDExSVZHT0cxZ254OHI2SmdKdE5ZaDZ3aXgxaGFOZE1hR0FBenFubER2NnNvZ3Y5SUpyWUlLM2R1aWRLTm9EWk51cHZsV19jU0t0cGtVeW9oU3RTM2dfM05lQlRwekk3amZrMWphZDh1dXZTUzhKb05iQldYRWVVMTZpOEQyLWNGMm4?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVzU3cGxta240U3BUZDVqQkF1dEd5Ti1vMEU5RXJiRDJPbFBydTh0Z0lsUzhzTk1zd3lDeWFPMHZmZTZqYUVYWG82RkMxVmhvRjNpVng4S29hNHR6bXpIRVZFLU1WNWk5bnpfTkI1MEdFQUVjNlpTQjRwUU1ncjVxaC1GUmplMWs4aDJJSW9RNUJuT2k3b3l4cmR0VHU4cXMtT2tBLTR2Y2Rsd3psQUJnWUgyTk1EWVo0dEHSAdQBQVVfeXFMTUlhcVFEQnE3Tk04OXA5ZlhVTF9oODZHakppdk80bzRIUjhyWlF6RFhDYlNPRy0xZE1pbEZ6bU42WWJ4aWFxVXFmYVZtTGdvV3RZdDExSVZHT0cxZ254OHI2SmdKdE5ZaDZ3aXgxaGFOZE1hR0FBenFubER2NnNvZ3Y5SUpyWUlLM2R1aWRLTm9EWk51cHZsV19jU0t0cGtVeW9oU3RTM2dfM05lQlRwekk3amZrMWphZDh1dXZTUzhKb05iQldYRWVVMTZpOEQyLWNGMm4",
@@ -3221,6 +3268,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-07 14:06"
+    },
+    {
+      "id": "9c133c75e560dea1",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac6addc03bc40c298fa0dc66b12e64e&url=https%3a%2f%2fwww.laprensa.hn%2fpremium%2fhipotesis-masacre-trujillo-pleito-bandas-amenazas-MB30757380&c=7320002656868494535&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac6addc03bc40c298fa0dc66b12e64e&url=https%3A%2F%2Fwww.laprensa.hn%2Fpremium%2Fhipotesis-masacre-trujillo-pleito-bandas-amenazas-MB30757380&c=7320002656868494535&mkt=es-us",
+      "titulo": "Hipótesis de masacre en Trujillo apuntan a pleito de bandas y amenazas",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-05-21",
+      "fecha_hecho": null,
+      "snippet": "Las víctimas fueron sometidas y luego les dispararon en la cabeza. Pobladores dijeron a LA PRENSA que \"quisieron huir y fueron alcanzados por las balas”. Contaron dos versiones sobre las posibles ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 3,
+      "query": "bing:\"masacre\" Trujillo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-07 15:38"
     },
     {
       "id": "875a8eef4c1780da",
@@ -7412,6 +7483,30 @@
       "agregado": "2026-10-07 06:30"
     },
     {
+      "id": "2c76a5d4b9ffe9d4",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac6adc763a64d7f8959f65c78f1bfdc&url=https%3a%2f%2fefe.com%2fmundo%2f2026-05-08%2forganizaciones-rechazan-proyecto-eliminacion-delito-feminicidio-peru%2f&c=13239562359694979301&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac6adc763a64d7f8959f65c78f1bfdc&url=https%3A%2F%2Fefe.com%2Fmundo%2F2026-05-08%2Forganizaciones-rechazan-proyecto-eliminacion-delito-feminicidio-peru%2F&c=13239562359694979301&mkt=es-us",
+      "titulo": "Diversas organizaciones rechazan un proyecto de ley que elimina el delito de feminicidio en Perú",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-05-07",
+      "fecha_hecho": null,
+      "snippet": "Lima (EFE).- Diversas organizaciones de derechos humanos y feministas de Perú, así como familiares de víctimas de violencia machista rechazaron este jueves el proyecto de ley de la congresista y ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:feminicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-07 15:38"
+    },
+    {
       "id": "decb527f280ebf81",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTDA2MjdqekdnVlV5X0xGUXJtR19PeG5Qd2RnREUtekkwRjVQR0M5MVRKNUJOMVFGMGd0bnYwNXhBV3FHWV9zYm9RTkFZUGV1MU5YYW5UYlVSSjJtVlhwQ1o4OHhhM3IyOV8xbEFUMDFzaUNJemhwREFMZ19UUUs0c0dFZUNtTnNOZzk0Nm9oMnNvUkQ4WUNFYWk2dWQxVGlhZFkzSW50U1NIR2F3WmYtTEVHbGhZQjFEMERjT2tvNG5XTi1lbFg4Zk5VYUFZTk3SAeoBQVVfeXFMUFd3bDVkODNfR0xXUERKd3FkYzgxX2pxV1RmRjhpVG5pSXBSMzZ3VG43TXFSRTltak10bzFiMmdTR2tiY0FZNEdGVkwwb2MwZUo3dlhNMTZpS1lTQ2hSUWRmbTBVQmlyT252WWNWUk9wbFVYVFk2bUM2bFVFaFdCTkF0SjQwOFFEZ2FMWHBCdFlRd1JwZmFkM2JJc1lrNWdkazYzNkk3bmZlQkhfNWVySkFmbHJkTVZTSjVQUVZmSWg3U3hSZFFjRUU3MVFyVUd4ZDRSVnd5SFhZNDN4UFhBYXhlOTU1b1pEbXBn?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTDA2MjdqekdnVlV5X0xGUXJtR19PeG5Qd2RnREUtekkwRjVQR0M5MVRKNUJOMVFGMGd0bnYwNXhBV3FHWV9zYm9RTkFZUGV1MU5YYW5UYlVSSjJtVlhwQ1o4OHhhM3IyOV8xbEFUMDFzaUNJemhwREFMZ19UUUs0c0dFZUNtTnNOZzk0Nm9oMnNvUkQ4WUNFYWk2dWQxVGlhZFkzSW50U1NIR2F3WmYtTEVHbGhZQjFEMERjT2tvNG5XTi1lbFg4Zk5VYUFZTk3SAeoBQVVfeXFMUFd3bDVkODNfR0xXUERKd3FkYzgxX2pxV1RmRjhpVG5pSXBSMzZ3VG43TXFSRTltak10bzFiMmdTR2tiY0FZNEdGVkwwb2MwZUo3dlhNMTZpS1lTQ2hSUWRmbTBVQmlyT252WWNWUk9wbFVYVFk2bUM2bFVFaFdCTkF0SjQwOFFEZ2FMWHBCdFlRd1JwZmFkM2JJc1lrNWdkazYzNkk3bmZlQkhfNWVySkFmbHJkTVZTSjVQUVZmSWg3U3hSZFFjRUU3MVFyVUd4ZDRSVnd5SFhZNDN4UFhBYXhlOTU1b1pEbXBn",
@@ -10518,6 +10613,28 @@
       "agregado": "2026-10-07 06:30"
     },
     {
+      "id": "5275b8c1267f04d8",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac6adc5fc6f487a83b3164c271ae731&url=https%3a%2f%2fdiariocorreo.pe%2fmundo%2fecuador-extradita-a-peru-a-un-hombre-requerido-por-presunto-homicidio-interpol-noticia%2f&c=894570939631287793&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac6adc5fc6f487a83b3164c271ae731&url=https%3A%2F%2Fdiariocorreo.pe%2Fmundo%2Fecuador-extradita-a-peru-a-un-hombre-requerido-por-presunto-homicidio-interpol-noticia%2F&c=894570939631287793&mkt=es-us",
+      "titulo": "Ecuador extradita a Perú a un hombre requerido por presunto homicidio",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-05-01",
+      "fecha_hecho": null,
+      "snippet": "La Policía ecuatoriana, en coordinación con la Interpol, extraditó a un hombre de nacionalidad peruana que es requerido por la Justicia de su país por el delito de homicidio, informó este viernes la ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:homicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-07 15:38"
+    },
+    {
       "id": "d5fa21287157bfa8",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQ0JKRVJ3UDBQNmswTTE3M3dxMzdUcGhydTJBN3Y1OXNFVmQ2V3dTU2dsOV9yazlBWG1qR0VKRjJ1Q2ROOWdyNUVfam5QVm9lQ2tZUXAwemxQTzEwcVQ5bHFsVTdKZm1rSXJuR0JOWnV4eFdQalFGbEFIeldZZU9ySnNETDF3bjRFbWx2bXlKU245U05SMTZFa3FpX0JsOEtoS3ZOT1lYeWFyT3RHQW5tbEQzUlo1RTM3bWV3YmFFUDdCNFFtdzhqTHB0Y24zZGJvTDZFeEhqNEZwTGZFQ3hPOWdlc28zMFg4YU5XZNIBgAJBVV95cUxOYl9Sc2JyZWVJVVZoenlGUkxVMVdMX2Z5QW5sXzlvNmIxMkI0UWhoYkx5OXAyQmVRdmlyZjdrNTBnbWxIVzB5R2JESV9UTXoxYzJZckpJN3pnV3dmdHZzQU1RWVVOZGFpcU5BY2FoZ0kxUXVrRUdOVjZ4Tk5TNy11dzhYekMwU014d0lsVldyby1IQjZicHJyc19hOFhFa005V0FkLUZOeU9oaVJjZGJVYzNrclNPTm1FQjBQSFpqWnBnN2QwT2dGbGhRQlFwYmZNcHdJMzZpLWt2WmFyYkVoWXZJQ3h5T0QwTURGUnZSdkRNczczci1qd1VZVFRnb3Fx?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQ0JKRVJ3UDBQNmswTTE3M3dxMzdUcGhydTJBN3Y1OXNFVmQ2V3dTU2dsOV9yazlBWG1qR0VKRjJ1Q2ROOWdyNUVfam5QVm9lQ2tZUXAwemxQTzEwcVQ5bHFsVTdKZm1rSXJuR0JOWnV4eFdQalFGbEFIeldZZU9ySnNETDF3bjRFbWx2bXlKU245U05SMTZFa3FpX0JsOEtoS3ZOT1lYeWFyT3RHQW5tbEQzUlo1RTM3bWV3YmFFUDdCNFFtdzhqTHB0Y24zZGJvTDZFeEhqNEZwTGZFQ3hPOWdlc28zMFg4YU5XZNIBgAJBVV95cUxOYl9Sc2JyZWVJVVZoenlGUkxVMVdMX2Z5QW5sXzlvNmIxMkI0UWhoYkx5OXAyQmVRdmlyZjdrNTBnbWxIVzB5R2JESV9UTXoxYzJZckpJN3pnV3dmdHZzQU1RWVVOZGFpcU5BY2FoZ0kxUXVrRUdOVjZ4Tk5TNy11dzhYekMwU014d0lsVldyby1IQjZicHJyc19hOFhFa005V0FkLUZOeU9oaVJjZGJVYzNrclNPTm1FQjBQSFpqWnBnN2QwT2dGbGhRQlFwYmZNcHdJMzZpLWt2WmFyYkVoWXZJQ3h5T0QwTURGUnZSdkRNczczci1qd1VZVFRnb3Fx",
@@ -10542,5 +10659,5 @@
       "descartar": false
     }
   ],
-  "n": 461
+  "n": 466
 }
