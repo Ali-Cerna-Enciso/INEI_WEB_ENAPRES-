@@ -1,6 +1,6 @@
 {
   "mes": "2026-05",
-  "actualizado": "2026-10-08 06:46",
+  "actualizado": "2026-10-08 14:00",
   "items": [
     {
       "id": "afe3597b96dcb38e",
@@ -1186,6 +1186,29 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-08 06:46"
+    },
+    {
+      "id": "76cd0b24e351de7c",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7e84e5e5e49ffb3ebc5780559e1ac&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f05%2f27%2fdetienen-a-trabajador-del-ministerio-publico-por-presuntos-vinculos-con-red-de-extorsion-y-sicariato%2f&c=13573825060315679103&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7e84e5e5e49ffb3ebc5780559e1ac&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F05%2F27%2Fdetienen-a-trabajador-del-ministerio-publico-por-presuntos-vinculos-con-red-de-extorsion-y-sicariato%2F&c=13573825060315679103&mkt=es-us",
+      "titulo": "Detienen a trabajador del Ministerio Público por presuntos vínculos con red de extorsión y sicariato",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-05-27",
+      "fecha_hecho": null,
+      "snippet": "Agentes policiales logran la captura de los hermanos Danny y Roly Nieves Chipau, quienes son acusados de suministrar armas y explosivos a una organización criminal Por Clara Giraldo La Policía ...",
+      "temas": [
+        "Extorsión",
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 5,
+      "query": "bing:sicariato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-08 14:00"
     },
     {
       "id": "3c6c7e13d6a86981",
@@ -3362,6 +3385,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-08 06:46"
+    },
+    {
+      "id": "e98d2cbeff48873a",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7e867cf6c48f1b781afab39638f62&url=https%3a%2f%2fwww.laprensa.hn%2fpremium%2fhipotesis-masacre-trujillo-pleito-bandas-amenazas-MB30757380&c=7320002656868494535&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7e867cf6c48f1b781afab39638f62&url=https%3A%2F%2Fwww.laprensa.hn%2Fpremium%2Fhipotesis-masacre-trujillo-pleito-bandas-amenazas-MB30757380&c=7320002656868494535&mkt=es-us",
+      "titulo": "Hipótesis de masacre en Trujillo apuntan a pleito de bandas y amenazas",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-05-21",
+      "fecha_hecho": null,
+      "snippet": "Las víctimas fueron sometidas y luego les dispararon en la cabeza. Pobladores dijeron a LA PRENSA que \"quisieron huir y fueron alcanzados por las balas”. Contaron dos versiones sobre las posibles ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 3,
+      "query": "bing:\"masacre\" Trujillo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-08 14:00"
     },
     {
       "id": "875a8eef4c1780da",
@@ -10797,6 +10844,28 @@
       "agregado": "2026-10-08 06:46"
     },
     {
+      "id": "e277d8014aae1dce",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7e851e33f4a94ba8e96c45348b968&url=https%3a%2f%2fdiariocorreo.pe%2fmundo%2fecuador-extradita-a-peru-a-un-hombre-requerido-por-presunto-homicidio-interpol-noticia%2f&c=894570939631287793&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7e851e33f4a94ba8e96c45348b968&url=https%3A%2F%2Fdiariocorreo.pe%2Fmundo%2Fecuador-extradita-a-peru-a-un-hombre-requerido-por-presunto-homicidio-interpol-noticia%2F&c=894570939631287793&mkt=es-us",
+      "titulo": "Ecuador extradita a Perú a un hombre requerido por presunto homicidio",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-05-01",
+      "fecha_hecho": null,
+      "snippet": "La Policía ecuatoriana, en coordinación con la Interpol, extraditó a un hombre de nacionalidad peruana que es requerido por la Justicia de su país por el delito de homicidio, informó este viernes la ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:homicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-08 14:00"
+    },
+    {
       "id": "d5fa21287157bfa8",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQ0JKRVJ3UDBQNmswTTE3M3dxMzdUcGhydTJBN3Y1OXNFVmQ2V3dTU2dsOV9yazlBWG1qR0VKRjJ1Q2ROOWdyNUVfam5QVm9lQ2tZUXAwemxQTzEwcVQ5bHFsVTdKZm1rSXJuR0JOWnV4eFdQalFGbEFIeldZZU9ySnNETDF3bjRFbWx2bXlKU245U05SMTZFa3FpX0JsOEtoS3ZOT1lYeWFyT3RHQW5tbEQzUlo1RTM3bWV3YmFFUDdCNFFtdzhqTHB0Y24zZGJvTDZFeEhqNEZwTGZFQ3hPOWdlc28zMFg4YU5XZNIBgAJBVV95cUxOYl9Sc2JyZWVJVVZoenlGUkxVMVdMX2Z5QW5sXzlvNmIxMkI0UWhoYkx5OXAyQmVRdmlyZjdrNTBnbWxIVzB5R2JESV9UTXoxYzJZckpJN3pnV3dmdHZzQU1RWVVOZGFpcU5BY2FoZ0kxUXVrRUdOVjZ4Tk5TNy11dzhYekMwU014d0lsVldyby1IQjZicHJyc19hOFhFa005V0FkLUZOeU9oaVJjZGJVYzNrclNPTm1FQjBQSFpqWnBnN2QwT2dGbGhRQlFwYmZNcHdJMzZpLWt2WmFyYkVoWXZJQ3h5T0QwTURGUnZSdkRNczczci1qd1VZVFRnb3Fx?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQ0JKRVJ3UDBQNmswTTE3M3dxMzdUcGhydTJBN3Y1OXNFVmQ2V3dTU2dsOV9yazlBWG1qR0VKRjJ1Q2ROOWdyNUVfam5QVm9lQ2tZUXAwemxQTzEwcVQ5bHFsVTdKZm1rSXJuR0JOWnV4eFdQalFGbEFIeldZZU9ySnNETDF3bjRFbWx2bXlKU245U05SMTZFa3FpX0JsOEtoS3ZOT1lYeWFyT3RHQW5tbEQzUlo1RTM3bWV3YmFFUDdCNFFtdzhqTHB0Y24zZGJvTDZFeEhqNEZwTGZFQ3hPOWdlc28zMFg4YU5XZNIBgAJBVV95cUxOYl9Sc2JyZWVJVVZoenlGUkxVMVdMX2Z5QW5sXzlvNmIxMkI0UWhoYkx5OXAyQmVRdmlyZjdrNTBnbWxIVzB5R2JESV9UTXoxYzJZckpJN3pnV3dmdHZzQU1RWVVOZGFpcU5BY2FoZ0kxUXVrRUdOVjZ4Tk5TNy11dzhYekMwU014d0lsVldyby1IQjZicHJyc19hOFhFa005V0FkLUZOeU9oaVJjZGJVYzNrclNPTm1FQjBQSFpqWnBnN2QwT2dGbGhRQlFwYmZNcHdJMzZpLWt2WmFyYkVoWXZJQ3h5T0QwTURGUnZSdkRNczczci1qd1VZVFRnb3Fx",
@@ -10821,5 +10890,5 @@
       "descartar": false
     }
   ],
-  "n": 473
+  "n": 476
 }

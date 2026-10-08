@@ -1,6 +1,6 @@
 {
   "mes": "2026-08",
-  "actualizado": "2026-10-08 06:46",
+  "actualizado": "2026-10-08 14:00",
   "items": [
     {
       "id": "d9d4232fbcb587d1",
@@ -1303,6 +1303,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-08 06:46"
+    },
+    {
+      "id": "628038dc3f5f5962",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7e84838cb4ebc92d1d7d3e4bb04ef&url=https%3a%2f%2fwww.radioagricultura.cl%2fnoticias%2fsecuestro-extorsivo-en-lampa-detienen-en-peru-a-profugo-vinculado-al-cautiverio-de-una-victima_20260831%2f&c=12843092498541570099&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7e84838cb4ebc92d1d7d3e4bb04ef&url=https%3A%2F%2Fwww.radioagricultura.cl%2Fnoticias%2Fsecuestro-extorsivo-en-lampa-detienen-en-peru-a-profugo-vinculado-al-cautiverio-de-una-victima_20260831%2F&c=12843092498541570099&mkt=es-us",
+      "titulo": "Secuestro extorsivo en Lampa: detienen en Perú a prófugo vinculado al cautiverio de una víctima",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-31",
+      "fecha_hecho": null,
+      "snippet": "La cooperación entre la PDI y la Policía Nacional del Perú permitió detener en Lima a un ciudadano venezolano de ...",
+      "temas": [
+        "Secuestro"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:secuestro Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-08 14:00"
     },
     {
       "id": "a2c6673566726666",
@@ -3013,6 +3037,29 @@
       "agregado": "2026-10-08 06:46"
     },
     {
+      "id": "ea891fbc0cf51b7d",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7e84838cb4ebc92d1d7d3e4bb04ef&url=https%3a%2f%2fwww.cooperativa.cl%2fnoticias%2fmundo%2fperu%2fperu-liberan-a-empresario-victima-de-sangriento-secuestro-cometido-por%2f2026-08-31%2f191512.html&c=6371970334043109865&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7e84838cb4ebc92d1d7d3e4bb04ef&url=https%3A%2F%2Fwww.cooperativa.cl%2Fnoticias%2Fmundo%2Fperu%2Fperu-liberan-a-empresario-victima-de-sangriento-secuestro-cometido-por%2F2026-08-31%2F191512.html&c=6371970334043109865&mkt=es-us",
+      "titulo": "Perú: Liberan a empresario víctima de sangriento secuestro cometido por Los Pulpos",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-31",
+      "fecha_hecho": null,
+      "snippet": "Jenss Lara fue raptado el domingo en un falso operativo policial en el que sus cuatro acompañantes fueron asesinados. El Ministerio de Defensa comunicó esta tarde la captura de los responsables, y la ...",
+      "temas": [
+        "Secuestro",
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 4,
+      "query": "bing:secuestro Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-08 14:00"
+    },
+    {
       "id": "0677c6152dc2c6fc",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZkZNZExRZ0pOZlVXU2FMLUtzNEhoM0FndWhscEF4aGh5dm5OaEZBeW51SWV1NXdnYzVDOUhQU1p6M2xzcFhlV0VBQm9rdE1PaTI1eGNCN29WRTlsbXVaREh1TGZkYjBhQXBiRUxZZE9UNUFQdVlDR1BpM1BQcFdQTWh6Zmd2TmZDb0FFYlFrZXhiQTdZX0RUdHFWUTRETVpjdDFPX3BDaVdEazRGQWNhVUVqYVhlWE1ZeGZtdl9ZaEMxTGNvMTlJT2VUNkxTRjhLUTZWSlhiZ9IB8gFBVV95cUxPQ2hrbEZSOER4eTRIaEo0enk1bXZoY0dzWXVJd09vOHF5Q2xFWkVhTTc2QkdxQU44NlBXb1VBa3psQ3NYUV9udEVSTGRpbndra2dXaHJlMVNjUHBvYTVFX296MWFSWlhGX3BELXVzNXI0dUwyTGk1NXY2MnNGakl1WThRXzI5MkVmVW1OUlRWRmVleDhBZk4zc1A1dmhPOENXamxGVmRkbzBpMi1WMEh2RTdQRmVYblp2Y0ctYmtCbS1jb2J6a0hwVkdOdVBMcEsySm52OTR6WXJlMjREMWlvX2Z4Z1lqWDZIdnFKVmZVSDhaQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZkZNZExRZ0pOZlVXU2FMLUtzNEhoM0FndWhscEF4aGh5dm5OaEZBeW51SWV1NXdnYzVDOUhQU1p6M2xzcFhlV0VBQm9rdE1PaTI1eGNCN29WRTlsbXVaREh1TGZkYjBhQXBiRUxZZE9UNUFQdVlDR1BpM1BQcFdQTWh6Zmd2TmZDb0FFYlFrZXhiQTdZX0RUdHFWUTRETVpjdDFPX3BDaVdEazRGQWNhVUVqYVhlWE1ZeGZtdl9ZaEMxTGNvMTlJT2VUNkxTRjhLUTZWSlhiZ9IB8gFBVV95cUxPQ2hrbEZSOER4eTRIaEo0enk1bXZoY0dzWXVJd09vOHF5Q2xFWkVhTTc2QkdxQU44NlBXb1VBa3psQ3NYUV9udEVSTGRpbndra2dXaHJlMVNjUHBvYTVFX296MWFSWlhGX3BELXVzNXI0dUwyTGk1NXY2MnNGakl1WThRXzI5MkVmVW1OUlRWRmVleDhBZk4zc1A1dmhPOENXamxGVmRkbzBpMi1WMEh2RTdQRmVYblp2Y0ctYmtCbS1jb2J6a0hwVkdOdVBMcEsySm52OTR6WXJlMjREMWlvX2Z4Z1lqWDZIdnFKVmZVSDhaQQ",
@@ -3587,6 +3634,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-07 20:11"
+    },
+    {
+      "id": "049b0c673f4bbd14",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7e866edb14555bd7c9f6a75290d52&url=https%3a%2f%2fdiariocorreo.pe%2fpolitica%2fministro-cesar-astudillo-anuncia-captura-del-cabecilla-de-los-pulpos-en-bolivia-noticia%2f&c=11302451259145310832&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7e866edb14555bd7c9f6a75290d52&url=https%3A%2F%2Fdiariocorreo.pe%2Fpolitica%2Fministro-cesar-astudillo-anuncia-captura-del-cabecilla-de-los-pulpos-en-bolivia-noticia%2F&c=11302451259145310832&mkt=es-us",
+      "titulo": "Ministro César Astudillo anuncia captura en Bolivia de ‘Jhonsson Pulpo’, cabecilla de Los Pulpos",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-31",
+      "fecha_hecho": null,
+      "snippet": "El titular del Ministerio del Interior señaló en Canal N que recibió la información del comandante general de la Policía. Por el momento, no precisó las circunstancias de la detención ni el procedimie ...",
+      "temas": [
+        "Asalto a mano armada"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 2,
+      "query": "bing:\"Los Pulpos\" Trujillo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-08 14:00"
     },
     {
       "id": "d5862e05c7f3c96c",
@@ -4454,6 +4523,30 @@
       "agregado": "2026-10-08 06:46"
     },
     {
+      "id": "20d6a856d1c3dd9a",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7e867cf6c48f1b781afab39638f62&url=https%3a%2f%2fdiariocorreo.pe%2fpolitica%2fmasacre-en-trujillo-renzo-reggiardo-pide-al-congreso-aprobar-facultades-legislativas-para-enfrentar-delincuencia-noticia%2f&c=9134434544173010546&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7e867cf6c48f1b781afab39638f62&url=https%3A%2F%2Fdiariocorreo.pe%2Fpolitica%2Fmasacre-en-trujillo-renzo-reggiardo-pide-al-congreso-aprobar-facultades-legislativas-para-enfrentar-delincuencia-noticia%2F&c=9134434544173010546&mkt=es-us",
+      "titulo": "Masacre en Trujillo: Renzo Reggiardo pide al Congreso aprobar facultades legislativas para enfrentar delincuencia",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-31",
+      "fecha_hecho": null,
+      "snippet": "Reggiardo señaló que los congresistas deben asumir responsabilidad ante la ciudadanía si continúan postergando la decisión sobre las facultades solicitadas por el Gobierno. El alcalde sostuvo que ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 3,
+      "query": "bing:\"masacre\" Trujillo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-08 14:00"
+    },
+    {
       "id": "f6b6d1e545edb4f0",
       "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNajRydzhWVFJ5RDNES2ludDhsaVZBY2dMdGtvY3g4anVPZWd1WVFKWFhUSjVNV2gxaFFHZlFvWXUyc1JVaWt5ZEZzVm5mbFdIU1BpRjB4Nk1xQThhdXRNbnFiMGp3aXZUUmhxVTZ1NU4yOWd0QVlyNFJ5V2NuMzBIbGd5SmJSWHdZNUpEcGN2UUdKNWkzRnFaMEhXOFhUY1ZFNFVNVGotYkJvYWRYdHpQZldGQlhfR010RnU0N0Q5NlN6TDhETjVsVmpUUFc2cTIwWS0ySTNyV09rOUREMkdaenp6a2FlZzg5ZWtKQ2dUekxiekZFdF85XzhqQmRwbmU0MkV5ZVFPN0h4eVFDNUHSAaICQVVfeXFMTnZUZWJHVVlQZHYxb3lMRktMdTNSU3A3alREV2JRNkFmRTNYSV9mQy1kNXJ6ZFh2OU9XSm56ZjJ0T0tGLW5LU0o3bDlFZEFEQ2ZnRFFkc2dOZEFwWHVHcVdhSktSclU5Y3dkNks1YXVyVHNEdGhqQjZReWlQRFlGYlJFX2dTaVJRczhjWmhEUzRHZXdYMTRVd0MtNmRRXzlTZ2RfWlRpbm1QN2pySkpxZVJ4WG5sYkVEdVFVcVRHSU4wb0VBX194R2FaQ3E0ZE9sc0k5M3d0X1AxSDJEOGI4RWZJRTItbU5mb2JlTWZMNUg2YW5RNU0zQ2RmVTRwN0hRZnRoRy1ONEVCS0tHaWM3NzlQWEJjODdKb1NFaGZyOWVJckE?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNajRydzhWVFJ5RDNES2ludDhsaVZBY2dMdGtvY3g4anVPZWd1WVFKWFhUSjVNV2gxaFFHZlFvWXUyc1JVaWt5ZEZzVm5mbFdIU1BpRjB4Nk1xQThhdXRNbnFiMGp3aXZUUmhxVTZ1NU4yOWd0QVlyNFJ5V2NuMzBIbGd5SmJSWHdZNUpEcGN2UUdKNWkzRnFaMEhXOFhUY1ZFNFVNVGotYkJvYWRYdHpQZldGQlhfR010RnU0N0Q5NlN6TDhETjVsVmpUUFc2cTIwWS0ySTNyV09rOUREMkdaenp6a2FlZzg5ZWtKQ2dUekxiekZFdF85XzhqQmRwbmU0MkV5ZVFPN0h4eVFDNUHSAaICQVVfeXFMTnZUZWJHVVlQZHYxb3lMRktMdTNSU3A3alREV2JRNkFmRTNYSV9mQy1kNXJ6ZFh2OU9XSm56ZjJ0T0tGLW5LU0o3bDlFZEFEQ2ZnRFFkc2dOZEFwWHVHcVdhSktSclU5Y3dkNks1YXVyVHNEdGhqQjZReWlQRFlGYlJFX2dTaVJRczhjWmhEUzRHZXdYMTRVd0MtNmRRXzlTZ2RfWlRpbm1QN2pySkpxZVJ4WG5sYkVEdVFVcVRHSU4wb0VBX194R2FaQ3E0ZE9sc0k5M3d0X1AxSDJEOGI4RWZJRTItbU5mb2JlTWZMNUg2YW5RNU0zQ2RmVTRwN0hRZnRoRy1ONEVCS0tHaWM3NzlQWEJjODdKb1NFaGZyOWVJckE",
@@ -5280,6 +5373,30 @@
       "agregado": "2026-10-08 06:46"
     },
     {
+      "id": "de29b70e6ae4d61b",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7e84838cb4ebc92d1d7d3e4bb04ef&url=https%3a%2f%2fcnnespanol.cnn.com%2f2026%2f08%2f31%2flatinoamerica%2fsecuestran-peru-empresario-minero-efe&c=5339990083134012685&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7e84838cb4ebc92d1d7d3e4bb04ef&url=https%3A%2F%2Fcnnespanol.cnn.com%2F2026%2F08%2F31%2Flatinoamerica%2Fsecuestran-peru-empresario-minero-efe&c=5339990083134012685&mkt=es-us",
+      "titulo": "Liberan en Perú al empresario minero secuestrado en Trujillo, confirma ministro de Defensa",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-31",
+      "fecha_hecho": null,
+      "snippet": "El ministro de Defensa de Perú, Rafael Belaúnde, anunció este lunes que el empresario minero secuestrado el domingo en la ciudad de Trujillo mediante un falso operativo policial fue liberado, a la vez ...",
+      "temas": [
+        "Secuestro"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 3,
+      "query": "bing:secuestro Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-08 14:00"
+    },
+    {
       "id": "78647574594c0b64",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVjU1UDVIb05lWVRJeHhKTnhoX3NuTGZGczhjMVV3eFlPSWtOSHBrRTREeG9zRlhwSjlFQUJGQlkwT0ctZjRkRXpBT3VhYWlRRlFEUW5LVEVZZ05FS19MUHlrdTBxS3lnWWJkREhHNkk3VlJZZm1nTm5KTkh1WnJ2emc1a2FnbWdVWHh2c1N0UU9ESkpGb3B5cWNra2hxcFowRm5DR0NzR04zQ3VpY0kzYmRBaGNTWUxpNk1aQkNBVHBJT20tWTg3Y2lKT1_SAecBQVVfeXFMTV94b09VUWRZNFZCZU5fVTR3NzM1NVl6VGgxR0FkSVNDSHdvQloyY2hRUHlCZGNFWk5VbUpxQUNOV2dMVzFSTElkdENkX2xSSTJ5R0F6cWtVdU1UcEhOQVpOSEdDS0RBai1WaWlMRDN5QmJER1BDQVZUNFdZNEstNTRFUlBqNG8zb2tHa0lNUERfUFBOT3RtZk5nUHVPUVgwX1E3bzlvYzFZbTJQYXhPZFZUXzhWbjM3U3BYNmdWeHJueGJfcVpGeHRsTjlNOWQxbmFkVHA0ZkJ0LXRBekVXR3cwY2dvS2Fj?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVjU1UDVIb05lWVRJeHhKTnhoX3NuTGZGczhjMVV3eFlPSWtOSHBrRTREeG9zRlhwSjlFQUJGQlkwT0ctZjRkRXpBT3VhYWlRRlFEUW5LVEVZZ05FS19MUHlrdTBxS3lnWWJkREhHNkk3VlJZZm1nTm5KTkh1WnJ2emc1a2FnbWdVWHh2c1N0UU9ESkpGb3B5cWNra2hxcFowRm5DR0NzR04zQ3VpY0kzYmRBaGNTWUxpNk1aQkNBVHBJT20tWTg3Y2lKT1_SAecBQVVfeXFMTV94b09VUWRZNFZCZU5fVTR3NzM1NVl6VGgxR0FkSVNDSHdvQloyY2hRUHlCZGNFWk5VbUpxQUNOV2dMVzFSTElkdENkX2xSSTJ5R0F6cWtVdU1UcEhOQVpOSEdDS0RBai1WaWlMRDN5QmJER1BDQVZUNFdZNEstNTRFUlBqNG8zb2tHa0lNUERfUFBOT3RtZk5nUHVPUVgwX1E3bzlvYzFZbTJQYXhPZFZUXzhWbjM3U3BYNmdWeHJueGJfcVpGeHRsTjlNOWQxbmFkVHA0ZkJ0LXRBekVXR3cwY2dvS2Fj",
@@ -5777,6 +5894,31 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-06 15:23"
+    },
+    {
+      "id": "2488f57668bd4cfe",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7e866edb14555bd7c9f6a75290d52&url=https%3a%2f%2felcomercio.pe%2fperu%2fcuadruple-asesinato-y-secuestro-en-trujillo-quienes-son-los-pulpos-como-operan-y-quienes-son-sus-cabecillas-trujillo-apuesplan-noticia%2f&c=12258141393819850854&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7e866edb14555bd7c9f6a75290d52&url=https%3A%2F%2Felcomercio.pe%2Fperu%2Fcuadruple-asesinato-y-secuestro-en-trujillo-quienes-son-los-pulpos-como-operan-y-quienes-son-sus-cabecillas-trujillo-apuesplan-noticia%2F&c=12258141393819850854&mkt=es-us",
+      "titulo": "Cuádruple asesinato y secuestro en Trujillo: ¿Quiénes son Los Pulpos, cómo operan y quiénes son sus cabecillas?",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-31",
+      "fecha_hecho": null,
+      "snippet": "La Policía investiga la posible participación de integrantes de Los Pulpos o La Jauría en el secuestro del empresario minero Jens Marty Lara Tantaquilla y el asesinato de cuatro personas en Trujillo.",
+      "temas": [
+        "Secuestro",
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 4,
+      "query": "bing:\"Los Pulpos\" Trujillo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-08 14:00"
     },
     {
       "id": "755fd120c7d6ef4c",
@@ -7790,6 +7932,31 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-08 06:46"
+    },
+    {
+      "id": "8536c546325daff1",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7e84838cb4ebc92d1d7d3e4bb04ef&url=https%3a%2f%2fwww.msn.com%2fes-es%2fnoticias%2fother%2finvestigan-el-secuestro-de-un-empresario-minero-y-el-asesinato-de-sus-cuatro-acompa%25C3%25B1antes-en-trujillo-per%25C3%25BA%2far-AA2bfreF&c=5460582113156239359&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7e84838cb4ebc92d1d7d3e4bb04ef&url=https%3A%2F%2Fwww.msn.com%2Fes-es%2Fnoticias%2Fother%2Finvestigan-el-secuestro-de-un-empresario-minero-y-el-asesinato-de-sus-cuatro-acompa%25C3%25B1antes-en-trujillo-per%25C3%25BA%2Far-AA2bfreF&c=5460582113156239359&mkt=es-us",
+      "titulo": "Investigan el secuestro de un empresario minero y el asesinato de sus cuatro acompañantes en Trujillo (Perú)",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-30",
+      "fecha_hecho": null,
+      "snippet": "Juntos por el Perú impulsa un proyecto de ley para habilitar a Keiko Fujimori a poder cesar al comandante general de la Policía Nacional Las autoridades de Perú investigan el secuestro de un ...",
+      "temas": [
+        "Secuestro",
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 5,
+      "query": "bing:secuestro Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-08 14:00"
     },
     {
       "id": "e3b81e436403b5c3",
@@ -10319,6 +10486,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-08 06:46"
+    },
+    {
+      "id": "fe7ab31e34f92ae8",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7e858c5cb4b2aa0d9c2f8653d75b0&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f08%2f26%2fidentidades-sinteticas-y-tecnicas-de-fatiga-contrasenas-ya-no-frenan-el-fraude-digital-y-bancos-en-peru-encienden-las-alertas%2f&c=10172187503192527293&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7e858c5cb4b2aa0d9c2f8653d75b0&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F08%2F26%2Fidentidades-sinteticas-y-tecnicas-de-fatiga-contrasenas-ya-no-frenan-el-fraude-digital-y-bancos-en-peru-encienden-las-alertas%2F&c=10172187503192527293&mkt=es-us",
+      "titulo": "Identidades sintéticas y técnicas de fatiga: contraseñas ya no frenan el fraude digital y bancos en Perú encienden las alertas",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-26",
+      "fecha_hecho": null,
+      "snippet": "El crecimiento de las operaciones digitales amplió la exposición al fraude bancario, que ahora apunta a suplantar identidades digitales y tomar control de cuentas legítimas ...",
+      "temas": [
+        "Fraude bancario"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 2,
+      "query": "bing:\"fraude bancario\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-08 14:00"
     },
     {
       "id": "2c07c7b4a2a841ad",
@@ -17620,5 +17809,5 @@
       "descartar": true
     }
   ],
-  "n": 758
+  "n": 766
 }

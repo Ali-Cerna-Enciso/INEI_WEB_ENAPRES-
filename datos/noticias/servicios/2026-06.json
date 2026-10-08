@@ -1,6 +1,6 @@
 {
   "mes": "2026-06",
-  "actualizado": "2026-10-08 06:49",
+  "actualizado": "2026-10-08 14:03",
   "items": [
     {
       "id": "c0e77ea1902d195f",
@@ -2346,6 +2346,30 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-10-08 06:49"
+    },
+    {
+      "id": "f62f454db84ddf6c",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7e8fc08bd4f62af0b5233a58a77a9&url=https%3a%2f%2fdiariocorreo.pe%2fperu%2fperu-y-suiza-ponen-en-marcha-proyecto-para-asegurar-el-acceso-al-agua-ante-un-gran-sismo-en-lima-noticia%2f&c=4451783769159580042&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7e8fc08bd4f62af0b5233a58a77a9&url=https%3A%2F%2Fdiariocorreo.pe%2Fperu%2Fperu-y-suiza-ponen-en-marcha-proyecto-para-asegurar-el-acceso-al-agua-ante-un-gran-sismo-en-lima-noticia%2F&c=4451783769159580042&mkt=es-us",
+      "titulo": "Perú y Suiza ponen en marcha proyecto para asegurar el acceso al agua ante un gran sismo en Lima",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-06-20",
+      "fecha_hecho": null,
+      "snippet": "El Ministerio de Relaciones Exteriores publicó el Acuerdo entre la Confederación Suiza y la República del Perú relativo al proyecto “Agua en Emergencias, fase 1”, suscrito en Lima el 14 de agosto de ...",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:\"acceso al agua\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-08 14:03"
     },
     {
       "id": "7af1d26fd2196c81",
@@ -6139,5 +6163,5 @@
       "descartar": false
     }
   ],
-  "n": 262
+  "n": 263
 }
