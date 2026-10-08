@@ -1,6 +1,6 @@
 {
   "mes": "2026-06",
-  "actualizado": "2026-10-07 15:41",
+  "actualizado": "2026-10-07 20:14",
   "items": [
     {
       "id": "c0e77ea1902d195f",
@@ -2298,6 +2298,30 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-10-07 15:41"
+    },
+    {
+      "id": "a11af015713af667",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac6ee67e6e2422c856abeb1ad92edac&url=https%3a%2f%2fdiariocorreo.pe%2fperu%2fperu-y-suiza-ponen-en-marcha-proyecto-para-asegurar-el-acceso-al-agua-ante-un-gran-sismo-en-lima-noticia%2f&c=4451783769159580042&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac6ee67e6e2422c856abeb1ad92edac&url=https%3A%2F%2Fdiariocorreo.pe%2Fperu%2Fperu-y-suiza-ponen-en-marcha-proyecto-para-asegurar-el-acceso-al-agua-ante-un-gran-sismo-en-lima-noticia%2F&c=4451783769159580042&mkt=es-us",
+      "titulo": "Perú y Suiza ponen en marcha proyecto para asegurar el acceso al agua ante un gran sismo en Lima",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-06-20",
+      "fecha_hecho": null,
+      "snippet": "El Ministerio de Relaciones Exteriores publicó el Acuerdo entre la Confederación Suiza y la República del Perú relativo al proyecto “Agua en Emergencias, fase 1”, suscrito en Lima el 14 de agosto de ...",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:\"acceso al agua\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-07 20:14"
     },
     {
       "id": "7af1d26fd2196c81",
@@ -5247,6 +5271,30 @@
       "descartar": false
     },
     {
+      "id": "a432db74dcedaec8",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac6ee529f14448899d4cf1a58a88420&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f06%2f05%2fcorte-de-luz-6-de-junio-estos-son-los-distritos-de-lima-que-se-quedaran-sin-electricidad-por-disposicion-de-pluz%2f&c=16736106141325505878&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac6ee529f14448899d4cf1a58a88420&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F06%2F05%2Fcorte-de-luz-6-de-junio-estos-son-los-distritos-de-lima-que-se-quedaran-sin-electricidad-por-disposicion-de-pluz%2F&c=16736106141325505878&mkt=es-us",
+      "titulo": "Corte de luz, 6 de junio: estos son los distritos de Lima que se quedarán sin electricidad por disposición de Pluz",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-06-05",
+      "fecha_hecho": null,
+      "snippet": "La empresa informó que la suspensión temporal del servicio eléctrico forma parte de las labores de modernización de la infraestructura y prevención de futuras averías en la red Por Analí Espinoza La ...",
+      "temas": [
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:\"corte de luz\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-07 20:14"
+    },
+    {
       "id": "669983fffff65572",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMGlnOUJaakRYSkJ1VEFjWDF4d2tRMmkxWHZjeHJVdnA5eUM0Y29GTFlhbVRyQmZzODVabURDWDZWYm5KbnJpRU5pX0pFNml1OWM0SUwxTnBzblBBbllUQkxpdXFKSkVOWkN2dGhYRjFIWlRLeU53bGxrblVpZF9sRXh3ZndoNUlTN1RSM3pHOE9LR2w4SGxIZHpZclhpSUgxU0ZpbzQtTFVDWkttdnBF?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMGlnOUJaakRYSkJ1VEFjWDF4d2tRMmkxWHZjeHJVdnA5eUM0Y29GTFlhbVRyQmZzODVabURDWDZWYm5KbnJpRU5pX0pFNml1OWM0SUwxTnBzblBBbllUQkxpdXFKSkVOWkN2dGhYRjFIWlRLeU53bGxrblVpZF9sRXh3ZndoNUlTN1RSM3pHOE9LR2w4SGxIZHpZclhpSUgxU0ZpbzQtTFVDWkttdnBF",
@@ -6067,5 +6115,5 @@
       "descartar": false
     }
   ],
-  "n": 259
+  "n": 261
 }
