@@ -1,6 +1,6 @@
 {
   "mes": "2026-03",
-  "actualizado": "2026-10-09 13:27",
+  "actualizado": "2026-10-09 15:12",
   "items": [
     {
       "id": "b0f580d9819204b4",
@@ -4164,6 +4164,30 @@
       "agregado": "2026-10-09 06:42"
     },
     {
+      "id": "7763c901dd6d8a0b",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac94aa9ff97413c9ffed74f0a9d1902&url=https%3a%2f%2fwww.swissinfo.ch%2fspa%2fbanco-mundial-financiar%25c3%25a1-proyecto-de-agua-y-saneamiento-en-per%25c3%25ba-de-200-millones-de-d%25c3%25b3lares%2f91135873&c=1641680843407308526&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac94aa9ff97413c9ffed74f0a9d1902&url=https%3A%2F%2Fwww.swissinfo.ch%2Fspa%2Fbanco-mundial-financiar%25c3%25a1-proyecto-de-agua-y-saneamiento-en-per%25c3%25ba-de-200-millones-de-d%25c3%25b3lares%2F91135873&c=1641680843407308526&mkt=es-us",
+      "titulo": "Banco Mundial financiará proyecto de agua y saneamiento en Perú de 200 millones de dólares",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-03-20",
+      "fecha_hecho": null,
+      "snippet": "Lima, 20 mar (EFE).- El Gobierno de Perú firmó este viernes un contrato con el Banco Internacional de Reconstrucción y Fomento (BIRF), dependiente del Banco Mundial, por un valor de 200 millones de ...",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:\"agua y saneamiento\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-09 15:12"
+    },
+    {
       "id": "33497e810a07a336",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX0NkRWZmV0hHS0hrZXlBaGZwYkY4R1B3QzZrdC16NTZ3c1FDbDhTSS05eFExWTVObV9aQnVvc2hnQmF3T3licHVwN0RFZ3pSeEstSmFpQ1ZZZzdyVzNjcXZMMk1vQ3BQWm8zamhuaFhGeHgwb2xYdGgxVi1hMWlFVTNjVk10SWxfZHJvS2Y5M0xpSEVZZXYxTko4N0R1WnVtOGFNSW5WZFJZdlctVUtXaWtBMU9hQQ?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX0NkRWZmV0hHS0hrZXlBaGZwYkY4R1B3QzZrdC16NTZ3c1FDbDhTSS05eFExWTVObV9aQnVvc2hnQmF3T3licHVwN0RFZ3pSeEstSmFpQ1ZZZzdyVzNjcXZMMk1vQ3BQWm8zamhuaFhGeHgwb2xYdGgxVi1hMWlFVTNjVk10SWxfZHJvS2Y5M0xpSEVZZXYxTko4N0R1WnVtOGFNSW5WZFJZdlctVUtXaWtBMU9hQQ",
@@ -7851,5 +7875,5 @@
       "descartar": false
     }
   ],
-  "n": 332
+  "n": 333
 }
