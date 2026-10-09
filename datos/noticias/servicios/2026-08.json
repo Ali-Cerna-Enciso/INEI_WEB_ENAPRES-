@@ -1,6 +1,6 @@
 {
   "mes": "2026-08",
-  "actualizado": "2026-10-08 15:47",
+  "actualizado": "2026-10-08 20:25",
   "items": [
     {
       "id": "bb9b57aa4ebf0c95",
@@ -3777,6 +3777,28 @@
       "agregado": "2026-10-08 15:47"
     },
     {
+      "id": "1767d80abff21023",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac842948fb54890a0e7013eb91d4a81&url=https%3a%2f%2fgestion.pe%2fperu%2fsismos-en-peru-estan-preparadas-las-redes-de-agua-y-saneamiento-noticia%2f&c=16114097099455607576&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac842948fb54890a0e7013eb91d4a81&url=https%3A%2F%2Fgestion.pe%2Fperu%2Fsismos-en-peru-estan-preparadas-las-redes-de-agua-y-saneamiento-noticia%2F&c=16114097099455607576&mkt=es-us",
+      "titulo": "Sismos en Perú: ¿están preparadas las redes de agua y saneamiento?",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-21",
+      "fecha_hecho": null,
+      "snippet": "Cuando ocurre un evento extremo, mantener operativo el servicio de agua potable y saneamiento depende de más factores que la disponibilidad del recurso. Las redes encargadas de transportarlo deben ...",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:\"agua y saneamiento\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-08 20:25"
+    },
+    {
       "id": "288c8e8ce8f1d39d",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObE40WDVtV1h3OVlMc28tdVBNcnpNSlM2X0NFemE3OGxZVi1Qa1Rhek45Yjgxekp3cHNacVRwZW5UNW1BbC1EX1laY0tlbXBWWDJLUmV2R0l0MUR1UzBrWnF4bXp4QWZ2Q0g1QmJQbExCOVg0ZlNUS1ZCb3doS3ZNUUc3VF9IeDBJVnFpTGIxV0VtUHY4S2FwM1ZfTnp5NmppbjN3ZWxfWUJMUnZraUV3TGkySkVtS3VuNTVWczNDcHdoSUpNS3o3LXBpTjA2UdIB4gFBVV95cUxNTE9VSnJITndLVUlZSEpfWWRRX1pVUnVBbHowYzdVN0dEUllDM2lCbUFKaC02dVBSd3g0MTRFUFlnSjFTNG5adzUyYjBHYU5CT0VNQnlPRjljR0trbDMwMndDV0gyZk1ZMUJadEVRVFgtR2MxRjhKYi1BS3lnUmtMNDZMZ1A0WWlXWTNVS1dXenIxaUxnMXQ1WjBnVkozS0l6Z2hxb01FeTFIemVsRGV1M2dBaWJma2diUHBNbGtNNHI0UzNJVVYweG9QU3VGN1NMeGVSYm5KcEZDY2d0QTd2aTlB?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObE40WDVtV1h3OVlMc28tdVBNcnpNSlM2X0NFemE3OGxZVi1Qa1Rhek45Yjgxekp3cHNacVRwZW5UNW1BbC1EX1laY0tlbXBWWDJLUmV2R0l0MUR1UzBrWnF4bXp4QWZ2Q0g1QmJQbExCOVg0ZlNUS1ZCb3doS3ZNUUc3VF9IeDBJVnFpTGIxV0VtUHY4S2FwM1ZfTnp5NmppbjN3ZWxfWUJMUnZraUV3TGkySkVtS3VuNTVWczNDcHdoSUpNS3o3LXBpTjA2UdIB4gFBVV95cUxNTE9VSnJITndLVUlZSEpfWWRRX1pVUnVBbHowYzdVN0dEUllDM2lCbUFKaC02dVBSd3g0MTRFUFlnSjFTNG5adzUyYjBHYU5CT0VNQnlPRjljR0trbDMwMndDV0gyZk1ZMUJadEVRVFgtR2MxRjhKYi1BS3lnUmtMNDZMZ1A0WWlXWTNVS1dXenIxaUxnMXQ1WjBnVkozS0l6Z2hxb01FeTFIemVsRGV1M2dBaWJma2diUHBNbGtNNHI0UzNJVVYweG9QU3VGN1NMeGVSYm5KcEZDY2d0QTd2aTlB",
@@ -5316,6 +5338,31 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-10-08 15:47"
+    },
+    {
+      "id": "60dc3754fb3c6f98",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac8427d51f941d0bdfc81c94eb828b7&url=https%3a%2f%2flibero.pe%2ftiempoextra%2f2026%2f08%2f19%2fcorte-de-luz-en-distritos-de-lima-callao-hoy-jueves-20-de-agosto-zonas-tendran-servicio-electrico-pluz-peru-1056362&c=12246942659473122791&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac8427d51f941d0bdfc81c94eb828b7&url=https%3A%2F%2Flibero.pe%2Ftiempoextra%2F2026%2F08%2F19%2Fcorte-de-luz-en-distritos-de-lima-callao-hoy-jueves-20-de-agosto-zonas-tendran-servicio-electrico-pluz-peru-1056362&c=12246942659473122791&mkt=es-us",
+      "titulo": "Corte de luz en distritos de Lima y Callao del 20 de agosto: qué zonas no tuvieron servicio eléctrico",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-20",
+      "fecha_hecho": null,
+      "snippet": "El jueves 20 de agosto, algunos sectores de Lima y Callao experimentaron una suspensión temporal del servicio eléctrico, según el cronograma confirmado por Pluz Energía. El corte se aplicó en ...",
+      "temas": [
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Callao",
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:\"corte de luz\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-08 20:25"
     },
     {
       "id": "26aa310890d9d894",
@@ -8257,6 +8304,28 @@
       "agregado": "2026-10-08 06:49"
     },
     {
+      "id": "7e8533425da0c141",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac84286817549159df4898ac32fdbc8&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f08%2f12%2fla-rambla-en-san-borja-sufrio-apagon-por-unos-minutos-se-vio-afectada-proyeccion-de-peliculas-en-salas-de-cines%2f&c=10931979672889307914&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac84286817549159df4898ac32fdbc8&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F08%2F12%2Fla-rambla-en-san-borja-sufrio-apagon-por-unos-minutos-se-vio-afectada-proyeccion-de-peliculas-en-salas-de-cines%2F&c=10931979672889307914&mkt=es-us",
+      "titulo": "La Rambla San Borja sufrió apagón por unos minutos: se vio afectada proyección de películas en salas de cines",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-12",
+      "fecha_hecho": null,
+      "snippet": "Un repentino corte de fluido eléctrico sorprendió a los visitantes del centro comercial La Rambla, ubicado en el distrito de San Borja. El incidente afectó temporalmente diversas áreas del ...",
+      "temas": [
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:apagón Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-08 20:25"
+    },
+    {
       "id": "0ba3d77073461dda",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObEpLazNWYlRMU21oc2xZdkMxTTNjZERGR3FlVlJYTktDRUNmQWtuakpzVmZNME5Iclk3MWRFZ25XT1FDcENERWg0SzI0Y1RCdVVwcVZmVnJYWWExbmIxRHRyOHJKV095aF82Wl9Uc0hhbVV3ZzB6ODdGd0JFUVBHU3prTGR2NVoxV0ZxbDRWUTdheU84MUliTzdHMGF6d01aUE1Ha1U0RGtVRDNEZjFSbnVqZkZvLXUtSVdTZUN1SzVZTTlVNjJGX2Z4RdIB5gFBVV95cUxPU3FjS2hDZ3FkbWNHRGxrQ1o3aGpqYVNVc0NoYlpZb1lTNEpfX0lEMGdMaU90Zmg4TWFQdV9zS3o5cnk3US04N3FWbXpaYUVudHc2ckhyX2Nrc1FFQXZwSERmaWw3TWRpQmJrNDM2M200Yk1xU1d4SnQyaDhVckZ5Z0JCTWFaU1pwM2Y0S2pBWEtMandvZWlrMkNCTVZZY3ItRjYwNlJpbW9SN3pVYU5Qc1k1MURrazlYeG9FOUM2aE9ZbDhXUmJJeFZxMzNUT2s5eWxGNDBhYmNaOFRpNnFoci11c05Edw?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObEpLazNWYlRMU21oc2xZdkMxTTNjZERGR3FlVlJYTktDRUNmQWtuakpzVmZNME5Iclk3MWRFZ25XT1FDcENERWg0SzI0Y1RCdVVwcVZmVnJYWWExbmIxRHRyOHJKV095aF82Wl9Uc0hhbVV3ZzB6ODdGd0JFUVBHU3prTGR2NVoxV0ZxbDRWUTdheU84MUliTzdHMGF6d01aUE1Ha1U0RGtVRDNEZjFSbnVqZkZvLXUtSVdTZUN1SzVZTTlVNjJGX2Z4RdIB5gFBVV95cUxPU3FjS2hDZ3FkbWNHRGxrQ1o3aGpqYVNVc0NoYlpZb1lTNEpfX0lEMGdMaU90Zmg4TWFQdV9zS3o5cnk3US04N3FWbXpaYUVudHc2ckhyX2Nrc1FFQXZwSERmaWw3TWRpQmJrNDM2M200Yk1xU1d4SnQyaDhVckZ5Z0JCTWFaU1pwM2Y0S2pBWEtMandvZWlrMkNCTVZZY3ItRjYwNlJpbW9SN3pVYU5Qc1k1MURrazlYeG9FOUM2aE9ZbDhXUmJJeFZxMzNUT2s5eWxGNDBhYmNaOFRpNnFoci11c05Edw",
@@ -10448,5 +10517,5 @@
       "descartar": false
     }
   ],
-  "n": 440
+  "n": 443
 }
