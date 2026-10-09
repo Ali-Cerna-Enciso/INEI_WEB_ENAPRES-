@@ -1,6 +1,6 @@
 {
   "mes": "2026-09",
-  "actualizado": "2026-10-09 06:39",
+  "actualizado": "2026-10-09 13:32",
   "items": [
     {
       "id": "0ff24c6cde4e21d6",
@@ -2412,6 +2412,28 @@
       "agregado": "2026-10-06 13:33"
     },
     {
+      "id": "c05e45ec0a242aaa",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac9330f77af4ae495c9af0bcbfff080&url=https%3a%2f%2felcomercio.pe%2flima%2fcasa-hogar-con-presidente-denunciado-por-violencia-tiene-respaldo-de-candidato-de-chorrillos-ricardo-vasquez-de-somos-peru-noticia%2f&c=8669301757395354255&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac9330f77af4ae495c9af0bcbfff080&url=https%3A%2F%2Felcomercio.pe%2Flima%2Fcasa-hogar-con-presidente-denunciado-por-violencia-tiene-respaldo-de-candidato-de-chorrillos-ricardo-vasquez-de-somos-peru-noticia%2F&c=8669301757395354255&mkt=es-us",
+      "titulo": "Centro juvenil denunciado por maltrato y hasta homicidio: fundador tiene 11 denuncias y recibe respaldo de candidato Ricardo Vásquez de Somos Perú",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-30",
+      "fecha_hecho": null,
+      "snippet": "José Luis Olivares Laynes, presidente de la Casa Hogar San Judas Tadeo, registra once denuncias, entre ellas dos por tentativa de homicidio ocurridas al interior del centro.",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:homicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-09 13:32"
+    },
+    {
       "id": "ab71a8176ebe4545",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbWFwa1l1cnhXRWhwQVBveXhiMGZub3lVTjZfXzJhV3FuMEFrZzZjZ05qQXIyeXFkb2hZWVplVmQ5ZFJWNWNVZC02MGE4Z0ptLWhrMjVsZXdIdHYtdWdfWVdZSWFyLWwycnF3am9fc2R4dHB4ZlBUcTBMTWhBU1NTUUszNUNwb3J4NGVsRHBLaFNna3RvaGtQdU9BV3pmbVQ3UkpCb0lCbmVhU21ESVp6VXJvQWk?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbWFwa1l1cnhXRWhwQVBveXhiMGZub3lVTjZfXzJhV3FuMEFrZzZjZ05qQXIyeXFkb2hZWVplVmQ5ZFJWNWNVZC02MGE4Z0ptLWhrMjVsZXdIdHYtdWdfWVdZSWFyLWwycnF3am9fc2R4dHB4ZlBUcTBMTWhBU1NTUUszNUNwb3J4NGVsRHBLaFNna3RvaGtQdU9BV3pmbVQ3UkpCb0lCbmVhU21ESVp6VXJvQWk",
@@ -3417,6 +3439,31 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-09 06:39"
+    },
+    {
+      "id": "3a94221844fc0881",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac9331e50d54558a28b1ed3a08a1943&url=https%3a%2f%2fwww.infobae.com%2fvideo%2fperu%2fcae-banda-criminal-en-iquitos-y-detienen-a-cabecilla-con-requisitoria-por-homicidio%2fHC4w6Njz%2f&c=13083119424144629774&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac9331e50d54558a28b1ed3a08a1943&url=https%3A%2F%2Fwww.infobae.com%2Fvideo%2Fperu%2Fcae-banda-criminal-en-iquitos-y-detienen-a-cabecilla-con-requisitoria-por-homicidio%2FHC4w6Njz%2F&c=13083119424144629774&mkt=es-us",
+      "titulo": "Cae banda criminal en Iquitos y detienen a cabecilla con requisitoria por homicidio",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-30",
+      "fecha_hecho": null,
+      "snippet": "Según la Policía, los intervenidos presuntamente realizaban actos preparatorios para cometer un asalto a mano armada contra personas que retornaban de establecimientos de diversión (Créditos: TVPerú) ...",
+      "temas": [
+        "Homicidio / sicariato",
+        "Asalto a mano armada"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Iquitos"
+      ],
+      "score": 4,
+      "query": "bing:\"mano armada\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-09 13:32"
     },
     {
       "id": "1bc88e3d7cfb80f8",
@@ -5642,6 +5689,30 @@
       "agregado": "2026-10-09 06:39"
     },
     {
+      "id": "3918fbd1c14ebee6",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac93316e9b24f4eb6434cf8d5653010&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f09%2f29%2fperu-extradita-a-eeuu-a-ciudadano-acusado-de-conseguir-prestamos-por-us40-millones-con-documentos-financieros-y-tributarios-falsos%2f&c=10649501405057400435&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac93316e9b24f4eb6434cf8d5653010&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F09%2F29%2Fperu-extradita-a-eeuu-a-ciudadano-acusado-de-conseguir-prestamos-por-us40-millones-con-documentos-financieros-y-tributarios-falsos%2F&c=10649501405057400435&mkt=es-us",
+      "titulo": "Perú extradita a EE.UU. a ciudadano acusado de conseguir préstamos por US$40 millones con documentos financieros y tributarios falsos",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-29",
+      "fecha_hecho": null,
+      "snippet": "Hugo Villanueva fue detenido en Lima en 2025 y trasladado a Houston, donde enfrenta cargos por conspiración, fraude bancario y lavado de dinero ...",
+      "temas": [
+        "Fraude bancario"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 2,
+      "query": "bing:\"fraude bancario\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-09 13:32"
+    },
+    {
       "id": "921aff29ad73decd",
       "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNYU15NGtsbk5NXy1va1JsS2lNbldxV2gwQXBtM2JNN3FRMDNkc01nQVZPWWJRTEhJOUJmaHNLUi0tRUp2a1E4MDc3Vi0yZmJ0NVpsY1NjTEpxUFJSV3MyM3pCc3lQYWU4WkVlMTdqc3BTRUMxa2Z1UFltcWJ4UWtDRVdtWTJSSDdUdDIxbXhGMEdTRThQRTczSy1ja0pTOWVmdjR5eUJFY1A2cVFjZWdiTm15YmoyYnZXY1YxME5ncllPVFJ5Z1FoM29XNHVDTDlXd0pJRXp2ZXJ3Y2wtMXlsRExWNExJV3phLUNCbjl4SVF0bEFndERnYUNIMHB3MG5YXzNJcndvdl9jckoyNW4yQVlOZjdpU3laY1Y3N0dEUjk?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNYU15NGtsbk5NXy1va1JsS2lNbldxV2gwQXBtM2JNN3FRMDNkc01nQVZPWWJRTEhJOUJmaHNLUi0tRUp2a1E4MDc3Vi0yZmJ0NVpsY1NjTEpxUFJSV3MyM3pCc3lQYWU4WkVlMTdqc3BTRUMxa2Z1UFltcWJ4UWtDRVdtWTJSSDdUdDIxbXhGMEdTRThQRTczSy1ja0pTOWVmdjR5eUJFY1A2cVFjZWdiTm15YmoyYnZXY1YxME5ncllPVFJ5Z1FoM29XNHVDTDlXd0pJRXp2ZXJ3Y2wtMXlsRExWNExJV3phLUNCbjl4SVF0bEFndERnYUNIMHB3MG5YXzNJcndvdl9jckoyNW4yQVlOZjdpU3laY1Y3N0dEUjk",
@@ -6732,6 +6803,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-09 06:39"
+    },
+    {
+      "id": "b854081a4c35be53",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac93302fa40495eaab2b16cded0c14f&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f09%2f29%2fla-pnp-captura-en-el-norte-de-peru-a-cinco-presuntos-disidentes-de-las-farc-vinculados-con-extorsiones%2f&c=11225098918823072065&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac93302fa40495eaab2b16cded0c14f&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F09%2F29%2Fla-pnp-captura-en-el-norte-de-peru-a-cinco-presuntos-disidentes-de-las-farc-vinculados-con-extorsiones%2F&c=11225098918823072065&mkt=es-us",
+      "titulo": "La PNP captura en el norte de Perú a cinco presuntos disidentes de las FARC vinculados con extorsiones",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-29",
+      "fecha_hecho": null,
+      "snippet": "El Grupo Especial contra el Crimen Organizado intervino un inmueble de Tumbes tras varios días de vigilancia y trasladó a los sospechosos a la División de Investigación Criminal regional, donde perman ...",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Tumbes"
+      ],
+      "score": 3,
+      "query": "bing:extorsión Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-09 13:32"
     },
     {
       "id": "7089c660483851ba",
@@ -7990,6 +8085,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-09 06:39"
+    },
+    {
+      "id": "acdc85e2af635fcd",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac93316e9b24f4eb6434cf8d5653010&url=https%3a%2f%2fwww.univision.com%2flocal%2fhouston-kxln%2fextraditan-peru-exresidente-katy-hugo-villanueva-acusado-fraude-bancario-40-millones&c=11001353709968538207&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac93316e9b24f4eb6434cf8d5653010&url=https%3A%2F%2Fwww.univision.com%2Flocal%2Fhouston-kxln%2Fextraditan-peru-exresidente-katy-hugo-villanueva-acusado-fraude-bancario-40-millones&c=11001353709968538207&mkt=es-us",
+      "titulo": "Extraditan desde Perú a exresidente de Texas acusado de fraude bancario por al menos $40 millones",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-29",
+      "fecha_hecho": null,
+      "snippet": "Hugo Villanueva, exresidente de Katy de 70 años, compareció ante un tribunal federal en Houston después de ser extraditado desde Perú por un presunto esquema de préstamos bancarios fraudulentos que in ...",
+      "temas": [
+        "Fraude bancario"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:\"fraude bancario\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-09 13:32"
     },
     {
       "id": "162d8368fe278704",
@@ -18411,6 +18528,30 @@
       "agregado": "2026-10-09 06:39"
     },
     {
+      "id": "0cf98cb487515b09",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac93307febb49f1b9b7b4488ea447ac&url=https%3a%2f%2flarepublica.pe%2fsociedad%2f2026%2f09%2f26%2fun-secuestro-cada-90-minutos-en-peru-cifras-alcanzan-su-peor-nivel-en-anos-y-2026-podria-superar-los-5000-casos-709202&c=13527967690825083770&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac93307febb49f1b9b7b4488ea447ac&url=https%3A%2F%2Flarepublica.pe%2Fsociedad%2F2026%2F09%2F26%2Fun-secuestro-cada-90-minutos-en-peru-cifras-alcanzan-su-peor-nivel-en-anos-y-2026-podria-superar-los-5000-casos-709202&c=13527967690825083770&mkt=es-us",
+      "titulo": "Un secuestro cada 90 minutos en Perú: cifras alcanzan su peor nivel en años y 2026 podría superar los 5.000 casos",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-26",
+      "fecha_hecho": null,
+      "snippet": "Tres víctimas de secuestro fueron rescatadas en Lima en menos de 48 horas, mientras la Policía investiga posibles vínculos entre los casos. A nivel nacional, las denuncias acumuladas proyectan más de ...",
+      "temas": [
+        "Secuestro"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:secuestro Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-09 13:32"
+    },
+    {
       "id": "d353acaa9482e01a",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPX2JzVnF5cDIxSkR5clBsbWJsX1MzTGFsaGNnYlJFNy1RQ2k1cHpwa3JhX24wV0prWEtCaDJUc2VxeDB6bndGM3h3d1Q0enBlMUg2c0lCRnpkdlVua0N1QnpEaXc0T0FBV0lZQnBxZ1p1M1VVdVVOYzdCVkl2eWptU2hQckhQMnVQNmVUZzNQc0FmMWRSdEkyLUFIUktDY1NXZ19KMlBFZmFCeFpkS29GN3YzVjlkNDhObjNZM3lR?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPX2JzVnF5cDIxSkR5clBsbWJsX1MzTGFsaGNnYlJFNy1RQ2k1cHpwa3JhX24wV0prWEtCaDJUc2VxeDB6bndGM3h3d1Q0enBlMUg2c0lCRnpkdlVua0N1QnpEaXc0T0FBV0lZQnBxZ1p1M1VVdVVOYzdCVkl2eWptU2hQckhQMnVQNmVUZzNQc0FmMWRSdEkyLUFIUktDY1NXZ19KMlBFZmFCeFpkS29GN3YzVjlkNDhObjNZM3lR",
@@ -19721,6 +19862,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-09 06:39"
+    },
+    {
+      "id": "27857b5e4c2879b6",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac93302fa40495eaab2b16cded0c14f&url=https%3a%2f%2fwww.abc.com.py%2finternacionales%2f2026%2f09%2f26%2fperu-reporta-83-amenazas-extorsiones-y-ataques-a-candidatos-en-elecciones-locales%2f&c=2009769985232589456&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac93302fa40495eaab2b16cded0c14f&url=https%3A%2F%2Fwww.abc.com.py%2Finternacionales%2F2026%2F09%2F26%2Fperu-reporta-83-amenazas-extorsiones-y-ataques-a-candidatos-en-elecciones-locales%2F&c=2009769985232589456&mkt=es-us",
+      "titulo": "Perú reporta 83 amenazas, extorsiones y ataques a candidatos en elecciones locales",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-26",
+      "fecha_hecho": null,
+      "snippet": "Lima, 26 sep (EFE).- Las autoridades electorales de Perú reportaron que se han presentado 83 casos de amenazas, extorsiones y ataques contra candidatos en las elecciones regionales y municipales que s ...",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:extorsión Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-09 13:32"
     },
     {
       "id": "dbdd95e329daf680",
@@ -61076,6 +61241,28 @@
       "agregado": "2026-10-09 06:39"
     },
     {
+      "id": "da4516c3cadc9254",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac9331248b74825870e2bb504b88baf&url=https%3a%2f%2fwww.meganoticias.cl%2fnacional%2f532049-pdi-detiene-a-mujer-vinculada-a-presunta-estafa-piramidal-con-1500-victimas-9-09-2026.html&c=5779597272939679306&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac9331248b74825870e2bb504b88baf&url=https%3A%2F%2Fwww.meganoticias.cl%2Fnacional%2F532049-pdi-detiene-a-mujer-vinculada-a-presunta-estafa-piramidal-con-1500-victimas-9-09-2026.html&c=5779597272939679306&mkt=es-us",
+      "titulo": "PDI detiene a mujer vinculada a presunta estafa piramidal con 1.500 víctimas",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-19",
+      "fecha_hecho": null,
+      "snippet": "Cuando se disponía a abordar un vuelo con destino a Perú, fue detenida en el Aeropuerto, una mujer investigada por su presunta participación en un esquema de estafa piramidal que habría provocado pérd ...",
+      "temas": [
+        "Estafa"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:estafa Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-09 13:32"
+    },
+    {
       "id": "69208693a29e6a49",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaXJyM2lxTlF0VkVRUmxtNEtHQ3dka0pBdngySHF2ZXlreldieDlWcU1pNXlnX3dMNlNrZXZydWVsOEdaZTRxbHlEREh4QTRONkNXN1pvYUdOMXhzdnhhckNhTlNDSGZGTEUtcUI4SHRzcXRjV2dsN3ZoNWkzVzZRUEd0enZ1ZWpsQnluQl9tZDVoWllsY2NjQ25NNVBPYUJBdjFCVnpKWkJhOXBMZFE?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaXJyM2lxTlF0VkVRUmxtNEtHQ3dka0pBdngySHF2ZXlreldieDlWcU1pNXlnX3dMNlNrZXZydWVsOEdaZTRxbHlEREh4QTRONkNXN1pvYUdOMXhzdnhhckNhTlNDSGZGTEUtcUI4SHRzcXRjV2dsN3ZoNWkzVzZRUEd0enZ1ZWpsQnluQl9tZDVoWllsY2NjQ25NNVBPYUJBdjFCVnpKWkJhOXBMZFE",
@@ -62409,6 +62596,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-09 06:39"
+    },
+    {
+      "id": "33e1a8700b6073cc",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac9331248b74825870e2bb504b88baf&url=https%3a%2f%2fwww.t13.cl%2fnoticia%2fnacional%2fla-detuvieron-cuando-viajaba-peru-mujer-acusada-estafa-piramidal-1500-victimas-19-9-2026&c=1894275619435771876&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac9331248b74825870e2bb504b88baf&url=https%3A%2F%2Fwww.t13.cl%2Fnoticia%2Fnacional%2Fla-detuvieron-cuando-viajaba-peru-mujer-acusada-estafa-piramidal-1500-victimas-19-9-2026&c=1894275619435771876&mkt=es-us",
+      "titulo": "La detuvieron cuando viajaba a Perú: mujer es acusada de estafa piramidal con 1.500 víctimas",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-19",
+      "fecha_hecho": null,
+      "snippet": "La PDI detuvo en el Aeropuerto de Santiago a una mujer acusada de participar en el esquema vinculado a la plataforma \"Sunflower Technologies\". La investigación cifra preliminarmente el perjuicio en ce ...",
+      "temas": [
+        "Estafa"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:estafa Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-09 13:32"
     },
     {
       "id": "17308a09a61ffdcb",
@@ -66395,6 +66604,31 @@
       "agregado": "2026-10-09 06:39"
     },
     {
+      "id": "4b99c58b5fed9549",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac933212b2f4573849f46c84fd926a4&url=https%3a%2f%2fwww.msn.com%2fes-cl%2fnoticias%2fotras%2fasesinan-a-periodista-que-era-candidata-a-gobierno-regional-en-per%25C3%25BA%2far-AA2cDPle&c=2155919859642733618&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac933212b2f4573849f46c84fd926a4&url=https%3A%2F%2Fwww.msn.com%2Fes-cl%2Fnoticias%2Fotras%2Fasesinan-a-periodista-que-era-candidata-a-gobierno-regional-en-per%25C3%25BA%2Far-AA2cDPle&c=2155919859642733618&mkt=es-us",
+      "titulo": "Asesinan a periodista que era candidata a gobierno regional en Perú",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-19",
+      "fecha_hecho": null,
+      "snippet": "La candidata peruana a gobernadora de la región de Áncash en Perú, Susy Aponte, fue asesinada este sábado cuando recorría la ciudad andina de Caraz en plena campaña electoral y días después de denunci ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Áncash",
+        "Ancash"
+      ],
+      "score": 3,
+      "query": "bing:\"amenazas de muerte\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-09 13:32"
+    },
+    {
       "id": "74f5fb0d118f3449",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZWlHcVV5WHEtVFkxOFBYOW92eVk2MkwtWi1KaUxLeUllRHVaMWxjaUhLQlpta0NyM2ZhcnVfTXJLT20xRURXRUhUN3BISWs3ZDBTUzZUM1U1Q3ZSREo3TzF0YmEtY04xSWlJRWxGUEdxamFTaUJ4S2RNdm5CWXJXVXpHNThTU21vR2Vac2Zac2diZng3aFF1WEltZE55Ui1JTEhSS0tGUUpqNC11RUE0OGdMOTBybFo2dGxZUXRPazd0QkFX0gHYAUFVX3lxTE9PcTdHVlI2QXozeEZXX0tUOU1UT1lZMWcwbXhXaFprb0szZkRYcjZhM0NvUmpJUFFkNE9fdmFwdjc3M2l2YmgwbVhEVDVqRHViVWlGTmJDSXdBTjBKWXJTVjdLVlFpTWxGckgyYzJqaVdydnFiQnFsV2psR2NhS2lsOXJveWtJSVNWVmpPVjhCdktwdTRUS3EtZWZ4QUtxcWQ0ZUdXNkVYSUxETzBNTGMtZ1k3SkpMdFN2aUcwcHF3UUF3VHppa2ZaY1ZvUGFNWk9rYnpWcEVPWA?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZWlHcVV5WHEtVFkxOFBYOW92eVk2MkwtWi1KaUxLeUllRHVaMWxjaUhLQlpta0NyM2ZhcnVfTXJLT20xRURXRUhUN3BISWs3ZDBTUzZUM1U1Q3ZSREo3TzF0YmEtY04xSWlJRWxGUEdxamFTaUJ4S2RNdm5CWXJXVXpHNThTU21vR2Vac2Zac2diZng3aFF1WEltZE55Ui1JTEhSS0tGUUpqNC11RUE0OGdMOTBybFo2dGxZUXRPazd0QkFX0gHYAUFVX3lxTE9PcTdHVlI2QXozeEZXX0tUOU1UT1lZMWcwbXhXaFprb0szZkRYcjZhM0NvUmpJUFFkNE9fdmFwdjc3M2l2YmgwbVhEVDVqRHViVWlGTmJDSXdBTjBKWXJTVjdLVlFpTWxGckgyYzJqaVdydnFiQnFsV2psR2NhS2lsOXJveWtJSVNWVmpPVjhCdktwdTRUS3EtZWZ4QUtxcWQ0ZUdXNkVYSUxETzBNTGMtZ1k3SkpMdFN2aUcwcHF3UUF3VHppa2ZaY1ZvUGFNWk9rYnpWcEVPWA",
@@ -67900,6 +68134,32 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-09 06:39"
+    },
+    {
+      "id": "8bf77937ec145c9c",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac933212b2f4573849f46c84fd926a4&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f09%2f19%2fquien-fue-la-china-polo-periodista-y-candidata-al-gore-ancash-asesinada-tras-denunciar-amenazas-de-muerte%2f&c=12628909325458181723&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac933212b2f4573849f46c84fd926a4&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F09%2F19%2Fquien-fue-la-china-polo-periodista-y-candidata-al-gore-ancash-asesinada-tras-denunciar-amenazas-de-muerte%2F&c=12628909325458181723&mkt=es-us",
+      "titulo": "¿Quién fue la China Polo?: Periodista y candidata al Gore Áncash asesinada tras denunciar amenazas de muerte",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-18",
+      "fecha_hecho": null,
+      "snippet": "Susy Aponte Polo fue atacada a balazos en Caraz durante una actividad electoral. La Fiscalía investiga el caso como presunto feminicidio ...",
+      "temas": [
+        "Homicidio / sicariato",
+        "Amenazas e intimidaciones"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Áncash",
+        "Ancash"
+      ],
+      "score": 4,
+      "query": "bing:\"amenazas de muerte\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-09 13:32"
     },
     {
       "id": "9eddfed3bf32561c",
@@ -76867,6 +77127,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-09 06:39"
+    },
+    {
+      "id": "d94a7eb627c8dc42",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac9331248b74825870e2bb504b88baf&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f09%2f16%2festafa-en-viaje-de-promocion-padres-denuncian-a-agencia-de-turismo-de-quedarse-con-mas-de-s-30-mil%2f&c=10504413946800433512&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac9331248b74825870e2bb504b88baf&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F09%2F16%2Festafa-en-viaje-de-promocion-padres-denuncian-a-agencia-de-turismo-de-quedarse-con-mas-de-s-30-mil%2F&c=10504413946800433512&mkt=es-us",
+      "titulo": "Estafa en viaje de promoción: padres denuncian a agencia de turismo de quedarse con más de S/ 30 mil",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-16",
+      "fecha_hecho": null,
+      "snippet": "Los estudiantes de quinto de secundaria del colegio San Isidro Labrador no pudieron realizar el viaje de promoción que habían planeado junto a sus compañeros tras la desaparición del dinero reunido po ...",
+      "temas": [
+        "Estafa"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:estafa Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-09 13:32"
     },
     {
       "id": "be6b4b716ad243da",
@@ -88628,6 +88910,28 @@
       "agregado": "2026-10-09 06:39"
     },
     {
+      "id": "40303e9b900945d7",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac93302fa40495eaab2b16cded0c14f&url=https%3a%2f%2fgestion.pe%2fperu%2finseguridad-en-peru-extorsion-se-expande-pero-los-presos-apenas-crecen-solo-475-mas-desde-2024-segun-observatorio-del-crimen-y-la-violencia-noticia%2f&c=15561443827417433364&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac93302fa40495eaab2b16cded0c14f&url=https%3A%2F%2Fgestion.pe%2Fperu%2Finseguridad-en-peru-extorsion-se-expande-pero-los-presos-apenas-crecen-solo-475-mas-desde-2024-segun-observatorio-del-crimen-y-la-violencia-noticia%2F&c=15561443827417433364&mkt=es-us",
+      "titulo": "Extorsión se expande, pero solo hay 475 presos más que hace 2 años",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-13",
+      "fecha_hecho": null,
+      "snippet": "La evolución de la criminalidad en el Perú deja una brecha entre la dimensión que ha alcanzado el problema y la respuesta que se refleja en uno de sus principales indicadores: el número de personas ...",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:extorsión Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-09 13:32"
+    },
+    {
       "id": "a3a6f4a82f845257",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPSjZrem42dzRYZkZTQnYtVWc0UllmZ1JOZUdNSG1PVDlIRTMxQ0FqMFU4REQ5M3ZPU1k0NWRmSlZNQ2dLcUJWeEozTS1zdDhDTG1rVlVNWGtveWF2bkJtVVFLdWJfQlcwaXFkQVlkdzRlMFJTc1B5MDU1cmdkNTZlUk05WVV5ekFKODRVZkE0UFlYaVY2NzQyTWhTbHJ4QlFmUUNaaWR0eFpjWmY0eTRPWkNEMlFpNFFzc3pTeGdwRjRNdXFfUUNzREVvOUh2LWlmLXNwNUxiaWxCdEFRNXJoUkFadlB5Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPSjZrem42dzRYZkZTQnYtVWc0UllmZ1JOZUdNSG1PVDlIRTMxQ0FqMFU4REQ5M3ZPU1k0NWRmSlZNQ2dLcUJWeEozTS1zdDhDTG1rVlVNWGtveWF2bkJtVVFLdWJfQlcwaXFkQVlkdzRlMFJTc1B5MDU1cmdkNTZlUk05WVV5ekFKODRVZkE0UFlYaVY2NzQyTWhTbHJ4QlFmUUNaaWR0eFpjWmY0eTRPWkNEMlFpNFFzc3pTeGdwRjRNdXFfUUNzREVvOUh2LWlmLXNwNUxiaWxCdEFRNXJoUkFadlB5Zw",
@@ -89102,6 +89406,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-09 06:39"
+    },
+    {
+      "id": "16d8a79c366b1851",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac93307febb49f1b9b7b4488ea447ac&url=https%3a%2f%2felpopular.pe%2factualidad%2f2026%2f09%2f14%2fcaso-jenss-lara-pnp-identifica-al-dueno-de-la-camioneta-del-cuadruple-crimen-y-secuestro-del-empresario-minero-en-trujillo-569436&c=11664050577213705345&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac93307febb49f1b9b7b4488ea447ac&url=https%3A%2F%2Felpopular.pe%2Factualidad%2F2026%2F09%2F14%2Fcaso-jenss-lara-pnp-identifica-al-dueno-de-la-camioneta-del-cuadruple-crimen-y-secuestro-del-empresario-minero-en-trujillo-569436&c=11664050577213705345&mkt=es-us",
+      "titulo": "Caso Jenss Lara da GIRO INESPERADO: PNP identifica al DUEÑO de la camioneta del cuádruple crimen y secuestro del empresario minero en Trujillo",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-13",
+      "fecha_hecho": null,
+      "snippet": "La Policía Nacional del Perú identificó al propietario de la camioneta Toyota Hilux usada en un cuádruple crimen y secuestro en Trujillo. Conoce todos los detalles en la siguiente nota.",
+      "temas": [
+        "Secuestro"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 3,
+      "query": "bing:secuestro Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-09 13:32"
     },
     {
       "id": "d00e75bbe558b04c",
@@ -96717,6 +97045,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-09 06:39"
+    },
+    {
+      "id": "ad2faa599942f3e8",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac93309959b41629b292e533b0bb3bb&url=https%3a%2f%2felcomercio.pe%2flima%2fpoliciales%2flima-norte-policia-captura-a-tres-presuntos-integrantes-de-banda-dedicada-al-secuestro-al-paso-ultimas-noticia%2f&c=4113432530470725151&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac93309959b41629b292e533b0bb3bb&url=https%3A%2F%2Felcomercio.pe%2Flima%2Fpoliciales%2Flima-norte-policia-captura-a-tres-presuntos-integrantes-de-banda-dedicada-al-secuestro-al-paso-ultimas-noticia%2F&c=4113432530470725151&mkt=es-us",
+      "titulo": "Policía captura a tres presuntos integrantes de banda dedicada al secuestro al paso en Lima Norte",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-06",
+      "fecha_hecho": null,
+      "snippet": "Tres presuntos integrantes de una banda dedicada al secuestro bajo la modalidad del falso servicio de taxi fueron capturados en Lima Norte, informó la Policía.",
+      "temas": [
+        "Secuestro"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:\"secuestro al paso\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-09 13:32"
     },
     {
       "id": "cf7c94b492720241",
@@ -104979,6 +105331,30 @@
       "agregado": "2026-10-09 06:39"
     },
     {
+      "id": "747b240752966b51",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac93302fa40495eaab2b16cded0c14f&url=https%3a%2f%2fperu21.pe%2fperu%2fextorsiones-en-peru-registran-mas-de-13-mil-denuncias-en-2026%2f&c=11178265544352604731&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac93302fa40495eaab2b16cded0c14f&url=https%3A%2F%2Fperu21.pe%2Fperu%2Fextorsiones-en-peru-registran-mas-de-13-mil-denuncias-en-2026%2F&c=11178265544352604731&mkt=es-us",
+      "titulo": "Extorsiones en Perú: registran más de 13 mil denuncias en los primeros siete meses de 2026",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-03",
+      "fecha_hecho": null,
+      "snippet": "En el caso de Trujillo, las 1,625 denuncias registradas entre enero y julio la colocan como otra de las ciudades con mayor incidencia dentro de las cifras difundidas por el Ministerio Público. ¿Qué ...",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 3,
+      "query": "bing:extorsión Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-09 13:32"
+    },
+    {
       "id": "a4768c25de29ab3e",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQc1U5ck9VWFdiR1B4TjQ2cGlVVE1PLTEwWWUzeVpocGYtVE1ITjlTcTFNWnFQdy1hdzdkWDcyTi1SY25qaUVLcjZDRkpmdFZISHdRYUhHdG5PNGpsWUdud041QUNjQUZPMnVudFpQdXA3d1VHMHFjOU9mc2RBUVJTbEVMMXZmdTZBU2ttSlRhSnBxLTBjcUJhZTJ0dFI3ZlhReUctYWZFdjdtRXhhSWswQ1dKc1JMXzhoN0NCUE5hOS1nLUhhTU5MaEM1Njh6eFF3VTQ1U3JfRUwyWDYySlRV0gH6AUFVX3lxTE1VZmJPeEl5SlRWaXItRGJFbjV1RWFnUlp2aWF6Rk4yVU8tR19JcVRYenFrZVc4ZmZ3VFcxTERYaXM3RG5HQ2stbUJNekFiTlRSSTFSbnI0Q21rc0doNC1TdkNKSE5HaXJpR1B1Zkp6ek96eVdsVWZ5alVFWjJJMV9ReW4yeDZHbS00Wm1TQnI0eHRqZHFKUzhIRVlYY21ySDRyY1JWaG1aUGZuYm9pZzZ6amh5MUFrUmNtT3dZWThBZ0lBZDA4dERlYmthVGpaV0pxLUdXNE1kRlpEdDlMV281b0JsbWFHZUFxbGltekJyc2RRSHFyek9GRnc?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQc1U5ck9VWFdiR1B4TjQ2cGlVVE1PLTEwWWUzeVpocGYtVE1ITjlTcTFNWnFQdy1hdzdkWDcyTi1SY25qaUVLcjZDRkpmdFZISHdRYUhHdG5PNGpsWUdud041QUNjQUZPMnVudFpQdXA3d1VHMHFjOU9mc2RBUVJTbEVMMXZmdTZBU2ttSlRhSnBxLTBjcUJhZTJ0dFI3ZlhReUctYWZFdjdtRXhhSWswQ1dKc1JMXzhoN0NCUE5hOS1nLUhhTU5MaEM1Njh6eFF3VTQ1U3JfRUwyWDYySlRV0gH6AUFVX3lxTE1VZmJPeEl5SlRWaXItRGJFbjV1RWFnUlp2aWF6Rk4yVU8tR19JcVRYenFrZVc4ZmZ3VFcxTERYaXM3RG5HQ2stbUJNekFiTlRSSTFSbnI0Q21rc0doNC1TdkNKSE5HaXJpR1B1Zkp6ek96eVdsVWZ5alVFWjJJMV9ReW4yeDZHbS00Wm1TQnI0eHRqZHFKUzhIRVlYY21ySDRyY1JWaG1aUGZuYm9pZzZ6amh5MUFrUmNtT3dZWThBZ0lBZDA4dERlYmthVGpaV0pxLUdXNE1kRlpEdDlMV281b0JsbWFHZUFxbGltekJyc2RRSHFyek9GRnc",
@@ -110789,6 +111165,30 @@
       "agregado": "2026-10-09 06:39"
     },
     {
+      "id": "8ab37076f94d6c35",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac9330a4d404f68a7aea339ecc061d4&url=https%3a%2f%2fwww.elheraldo.hn%2fmundo%2fliberan-empresario-minero-secuestrado-trujillo-peru-BD31891231&c=14774386619390595945&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac9330a4d404f68a7aea339ecc061d4&url=https%3A%2F%2Fwww.elheraldo.hn%2Fmundo%2Fliberan-empresario-minero-secuestrado-trujillo-peru-BD31891231&c=14774386619390595945&mkt=es-us",
+      "titulo": "Empresario secuestrado en Trujillo, Perú, es liberado tras pago de rescate",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-01",
+      "fecha_hecho": null,
+      "snippet": "Las autoridades informaron la captura de los presuntos responsables, incluido el supuesto autor de los disparos, vinculados con la organización criminal Los Pulpos ...",
+      "temas": [
+        "Secuestro"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 3,
+      "query": "bing:\"secuestro empresario\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-09 13:32"
+    },
+    {
       "id": "93906b3821a3c26c",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdXFxX19hd3FVSXdEREthbFFVdVN6b0cxVVIwOC1Oa1ZQcmhrTU8ybC14NlpFWl9XQm5uTEFxdGxsWXllTW1oVzlLdVJsS0NVNHJsekc1R045emc0QVlOYlBUUDZpaXNWWWZiS2FZQ0JYdXI1ZEZMcTBGeG5NRkV6V1AtU21sUUNMSUM3TFlOV0NRRklBcGtuN1h1dWpTcGo3TDROd29DNC1acmgwdGh2WUNYLWF4UDI5WEs5Ql9vUkVyUzU1SlY4WVVvQVVRZVZvQWoxNEREdEJza3pPNlBV0gH6AUFVX3lxTE9TQ3NRMzhVY3h0SklRSGZBVENfVm9ESVkwb3VGTWd2WXhoV0EwdW5UX3BwQ3EwSVVURE91WUx0VnBrbGVoTGJCSWVZeXZlNVpaSlM4WWdxOW9pQTJTTkttS2tMRHVsYlAzZUM5QlJ0c0ZZNm43cjQ5M1lIYllRdHAycXJMNjVoWEJ5ejZGQTNzRWNBRU9rUjVVQ3owb1Q1YndDZVhld1dKSWJWWnQ4cnJYZTFsblR4YjVmSElGcDU3Yjk5VHdPRm9pVkVLV1l2VXg0TjVHSHFRZ2dSZWNxLVFpSlFubkZQaDg5cjRwb1VaWGh4anlKVzVhamc?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdXFxX19hd3FVSXdEREthbFFVdVN6b0cxVVIwOC1Oa1ZQcmhrTU8ybC14NlpFWl9XQm5uTEFxdGxsWXllTW1oVzlLdVJsS0NVNHJsekc1R045emc0QVlOYlBUUDZpaXNWWWZiS2FZQ0JYdXI1ZEZMcTBGeG5NRkV6V1AtU21sUUNMSUM3TFlOV0NRRklBcGtuN1h1dWpTcGo3TDROd29DNC1acmgwdGh2WUNYLWF4UDI5WEs5Ql9vUkVyUzU1SlY4WVVvQVVRZVZvQWoxNEREdEJza3pPNlBV0gH6AUFVX3lxTE9TQ3NRMzhVY3h0SklRSGZBVENfVm9ESVkwb3VGTWd2WXhoV0EwdW5UX3BwQ3EwSVVURE91WUx0VnBrbGVoTGJCSWVZeXZlNVpaSlM4WWdxOW9pQTJTTkttS2tMRHVsYlAzZUM5QlJ0c0ZZNm43cjQ5M1lIYllRdHAycXJMNjVoWEJ5ejZGQTNzRWNBRU9rUjVVQ3owb1Q1YndDZVhld1dKSWJWWnQ4cnJYZTFsblR4YjVmSElGcDU3Yjk5VHdPRm9pVkVLV1l2VXg0TjVHSHFRZ2dSZWNxLVFpSlFubkZQaDg5cjRwb1VaWGh4anlKVzVhamc",
@@ -112189,5 +112589,5 @@
       "descartar": false
     }
   ],
-  "n": 4795
+  "n": 4812
 }

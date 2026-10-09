@@ -1,6 +1,6 @@
 {
   "mes": "2026-06",
-  "actualizado": "2026-10-09 06:39",
+  "actualizado": "2026-10-09 13:32",
   "items": [
     {
       "id": "26d94905d70f5f18",
@@ -1960,6 +1960,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-09 06:39"
+    },
+    {
+      "id": "805287f411f114f3",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac9331248b74825870e2bb504b88baf&url=https%3a%2f%2fcadenaser.com%2fcomunitat-valenciana%2f2026%2f06%2f24%2fdetenida-en-alicante-una-fugitiva-acusada-de-estafa-en-peru-radio-alicante%2f&c=16552710934103439200&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac9331248b74825870e2bb504b88baf&url=https%3A%2F%2Fcadenaser.com%2Fcomunitat-valenciana%2F2026%2F06%2F24%2Fdetenida-en-alicante-una-fugitiva-acusada-de-estafa-en-peru-radio-alicante%2F&c=16552710934103439200&mkt=es-us",
+      "titulo": "Detenida en Alicante una fugitiva acusada de estafa en Perú",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-06-23",
+      "fecha_hecho": null,
+      "snippet": "La Policía Nacional ha detenido en Alicante a una fugitiva sobre la que pesaba una orden de detención peruana por estafa. Se trata de una mujer de 46 años, sobre la que figuraba vigente una orden ...",
+      "temas": [
+        "Estafa"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:estafa Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-09 13:32"
     },
     {
       "id": "dcbdeee79cbb5249",
@@ -8867,6 +8889,30 @@
       "agregado": "2026-10-09 06:39"
     },
     {
+      "id": "80c91bcd99dbeac3",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac93302fa40495eaab2b16cded0c14f&url=https%3a%2f%2fwww.msn.com%2fes-us%2fnoticias%2fotras%2flas-v%25C3%25ADctimas-de-la-extorsi%25C3%25B3n-en-per%25C3%25BA-se-cuentan-por-miles%2far-AA24CFpZ&c=3428690479657807304&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac93302fa40495eaab2b16cded0c14f&url=https%3A%2F%2Fwww.msn.com%2Fes-us%2Fnoticias%2Fotras%2Flas-v%25C3%25ADctimas-de-la-extorsi%25C3%25B3n-en-per%25C3%25BA-se-cuentan-por-miles%2Far-AA24CFpZ&c=3428690479657807304&mkt=es-us",
+      "titulo": "Las víctimas de la extorsión en Perú se cuentan por miles",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-06-01",
+      "fecha_hecho": null,
+      "snippet": "En una zona desértica de la provincia peruana de Trujillo, sobre el Pacífico, Gladys Saavedra mira con recelo a los desconocidos que llegan al pequeño mercado donde trabaja junto a un grupo de mujeres ...",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 3,
+      "query": "bing:extorsión Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-09 13:32"
+    },
+    {
       "id": "da3db479041a5f02",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONTgzTGJyVndnaXQ2cGxNalZZV3AyZlVWeGdSSVJnZWtweGFpQkdOMDh5aUhmUmlWY1Z0Q0ktdnNmM0VWT1pKZU5aQTU5ME16dHRRTmV2Z25hV3BKdkprTFBPYmkzeXJPbTdwUDZ3UENiQVBWeUhCNUNJZENZaHRubFhSMlFJOUdwbFlJa0dRV1ZuUnZfVkxBbDMtYVVEQ2IyeVMtUENCQlFEczBucXdBV3RfcGpvS0FWM1JjTkFTR3RZTk9xaUg0MkVyZENwc0V6S2JNaWZHeXdCWHFrVFZyQzJKVHlNcU5wY2c?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONTgzTGJyVndnaXQ2cGxNalZZV3AyZlVWeGdSSVJnZWtweGFpQkdOMDh5aUhmUmlWY1Z0Q0ktdnNmM0VWT1pKZU5aQTU5ME16dHRRTmV2Z25hV3BKdkprTFBPYmkzeXJPbTdwUDZ3UENiQVBWeUhCNUNJZENZaHRubFhSMlFJOUdwbFlJa0dRV1ZuUnZfVkxBbDMtYVVEQ2IyeVMtUENCQlFEczBucXdBV3RfcGpvS0FWM1JjTkFTR3RZTk9xaUg0MkVyZENwc0V6S2JNaWZHeXdCWHFrVFZyQzJKVHlNcU5wY2c",
@@ -9001,5 +9047,5 @@
       "descartar": false
     }
   ],
-  "n": 395
+  "n": 397
 }
