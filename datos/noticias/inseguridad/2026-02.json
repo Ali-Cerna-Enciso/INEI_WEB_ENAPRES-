@@ -1,6 +1,6 @@
 {
   "mes": "2026-02",
-  "actualizado": "2026-10-10 05:57",
+  "actualizado": "2026-10-10 12:29",
   "items": [
     {
       "id": "08be74dba74aeb1c",
@@ -6726,6 +6726,30 @@
       "agregado": "2026-10-10 05:57"
     },
     {
+      "id": "7813e652f757bcc5",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aca7607786c440c9ea3cd74afa748f5&url=https%3a%2f%2fwww.americatv.com.pe%2fnoticias%2factualidad%2ftrasladan-trujillo-pareja-cabecilla-pulpos-n515454&c=1502515553807197793&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aca7607786c440c9ea3cd74afa748f5&url=https%3A%2F%2Fwww.americatv.com.pe%2Fnoticias%2Factualidad%2Ftrasladan-trujillo-pareja-cabecilla-pulpos-n515454&c=1502515553807197793&mkt=es-us",
+      "titulo": "Trasladan a Trujillo a pareja del cabecilla de Los Pulpos",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-02-02",
+      "fecha_hecho": null,
+      "snippet": "Bajo un impresionante despliegue de seguridad, Keysi Salvatierra Vigo llegó a la ciudad de Trujillo resguardada por agentes de diversas unidades de la Policía. La detenida, identificada como la pareja ...",
+      "temas": [
+        "Asalto a mano armada"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 2,
+      "query": "bing:\"Los Pulpos\" Trujillo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-10 12:29"
+    },
+    {
       "id": "44d5dd7a8e988bb5",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUDVFTTVibzh1dEoyZVpxaWo0NnlET042ckNtMFZFbmRZYVF0S1hNbGdhMkdZRzNqU1dpSXpOeFB4a3BsZUdzV0Zjemh0ZG5wRFRrd2QwQXNGSlJmUGs2eFNwR3FWWFZUNDBvT1BVVjFvdndsNDBCVGdCX19TSmxKYkVQdWFZY242Y2JHRzZ4NGdlcVpldC1IN2haNDMyRzI3d2Q0UDdDT0VybmpZNUlDVVhXWVJfMHUxQ0FaX1pxUjQzT0lpNkHSAeABQVVfeXFMTzdYRENjbUZHSzJJTVVyWGdySy1EblhpZTN2RFhjaGtzckhnRzJiMVZDMHpsZjdmallHa1FIcXdVN2JWODFydklqcU43b2Ftajd6dDA3OHZhSG9nVWZTdDZnbkV4UENYRUxCWTNBVUxnUkNOLWZoZG16V251WktUd0xsVWxqRkxnU3hQQThVbVNnVC1ibl9oaFhVTGxfQmwydS1na0phczZmOElUeERDVnk1UUQ2dGFiOVQyS1M4SjNPMVRabng3Ymx5aFdidE9FZjdqQl9CXzltVmRyYUFka1I?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUDVFTTVibzh1dEoyZVpxaWo0NnlET042ckNtMFZFbmRZYVF0S1hNbGdhMkdZRzNqU1dpSXpOeFB4a3BsZUdzV0Zjemh0ZG5wRFRrd2QwQXNGSlJmUGs2eFNwR3FWWFZUNDBvT1BVVjFvdndsNDBCVGdCX19TSmxKYkVQdWFZY242Y2JHRzZ4NGdlcVpldC1IN2haNDMyRzI3d2Q0UDdDT0VybmpZNUlDVVhXWVJfMHUxQ0FaX1pxUjQzT0lpNkHSAeABQVVfeXFMTzdYRENjbUZHSzJJTVVyWGdySy1EblhpZTN2RFhjaGtzckhnRzJiMVZDMHpsZjdmallHa1FIcXdVN2JWODFydklqcU43b2Ftajd6dDA3OHZhSG9nVWZTdDZnbkV4UENYRUxCWTNBVUxnUkNOLWZoZG16V251WktUd0xsVWxqRkxnU3hQQThVbVNnVC1ibl9oaFhVTGxfQmwydS1na0phczZmOElUeERDVnk1UUQ2dGFiOVQyS1M4SjNPMVRabng3Ymx5aFdidE9FZjdqQl9CXzltVmRyYUFka1I",
@@ -6906,5 +6930,5 @@
       "descartar": false
     }
   ],
-  "n": 299
+  "n": 300
 }
