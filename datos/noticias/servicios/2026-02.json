@@ -1,6 +1,6 @@
 {
   "mes": "2026-02",
-  "actualizado": "2026-10-09 19:59",
+  "actualizado": "2026-10-10 05:59",
   "items": [
     {
       "id": "6fd861d9251bce4b",
@@ -2191,6 +2191,28 @@
       "descartar": false
     },
     {
+      "id": "41d0b6caae84e738",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aca1a9fa84e40308bd80cb5436fac98&url=https%3a%2f%2fgestion.pe%2fopinion%2fagua-y-saneamiento-en-peru-los-us-15-mil-millones-que-exige-el-sistema-y-lo-que-implica-para-las-tarifas-noticia%2f&c=11213670636521027000&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aca1a9fa84e40308bd80cb5436fac98&url=https%3A%2F%2Fgestion.pe%2Fopinion%2Fagua-y-saneamiento-en-peru-los-us-15-mil-millones-que-exige-el-sistema-y-lo-que-implica-para-las-tarifas-noticia%2F&c=11213670636521027000&mkt=es-us",
+      "titulo": "Agua y saneamiento en Perú: los US$ 15 mil millones que exige el sistema y lo que implica para las tarifas",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-02-15",
+      "fecha_hecho": null,
+      "snippet": "En Gestión, valoramos profundamente la labor periodística que realizamos para mantenerlos informados. Por ello, les recordamos que no está permitido, reproducir, comercializar, distribuir, copiar ...",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:\"agua y saneamiento\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-10 05:59"
+    },
+    {
       "id": "c22885169923a6e8",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTERCczEzRWpyVzJ5NHJHaG5FbF9qVGR3SUwzZzVwV3RFTzlYcjk1Ul9lMlEwWjZaeUgyTEljS29jaE9fMldSNVkzTm83ZnRRVU1RTktacHE4ZjJ5SGNzTHdQNmJ2LXU5eVJzTjhQU2FDOG5PbWk0d3RLUDFPc19rOVNETGkzd0xuZ0VpYlhR?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTERCczEzRWpyVzJ5NHJHaG5FbF9qVGR3SUwzZzVwV3RFTzlYcjk1Ul9lMlEwWjZaeUgyTEljS29jaE9fMldSNVkzTm83ZnRRVU1RTktacHE4ZjJ5SGNzTHdQNmJ2LXU5eVJzTjhQU2FDOG5PbWk0d3RLUDFPc19rOVNETGkzd0xuZ0VpYlhR",
@@ -3984,5 +4006,5 @@
       "descartar": false
     }
   ],
-  "n": 172
+  "n": 173
 }
