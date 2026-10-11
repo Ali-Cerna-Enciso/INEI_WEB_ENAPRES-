@@ -1,6 +1,6 @@
 {
   "mes": "2026-08",
-  "actualizado": "2026-10-10 19:26",
+  "actualizado": "2026-10-11 06:12",
   "items": [
     {
       "id": "bb9b57aa4ebf0c95",
@@ -3929,6 +3929,28 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-10-10 19:26"
+    },
+    {
+      "id": "d693bc72fd01178a",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acb6f2b93304a86b033324bee79ec1e&url=https%3a%2f%2fgestion.pe%2fperu%2fsismos-en-peru-estan-preparadas-las-redes-de-agua-y-saneamiento-noticia%2f&c=16114097099455607576&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acb6f2b93304a86b033324bee79ec1e&url=https%3A%2F%2Fgestion.pe%2Fperu%2Fsismos-en-peru-estan-preparadas-las-redes-de-agua-y-saneamiento-noticia%2F&c=16114097099455607576&mkt=es-us",
+      "titulo": "Sismos en Perú: ¿están preparadas las redes de agua y saneamiento?",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-21",
+      "fecha_hecho": null,
+      "snippet": "Cuando ocurre un evento extremo, mantener operativo el servicio de agua potable y saneamiento depende de más factores que la disponibilidad del recurso. Las redes encargadas de transportarlo deben ...",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:\"agua y saneamiento\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-11 06:12"
     },
     {
       "id": "288c8e8ce8f1d39d",
@@ -10740,5 +10762,5 @@
       "descartar": false
     }
   ],
-  "n": 453
+  "n": 454
 }
