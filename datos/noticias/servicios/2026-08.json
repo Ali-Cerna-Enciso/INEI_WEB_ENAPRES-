@@ -1,6 +1,6 @@
 {
   "mes": "2026-08",
-  "actualizado": "2026-10-10 14:22",
+  "actualizado": "2026-10-10 19:26",
   "items": [
     {
       "id": "bb9b57aa4ebf0c95",
@@ -3907,6 +3907,28 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-10-10 14:22"
+    },
+    {
+      "id": "54cfb84bae9c939f",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acad7c0c3ea4071a434ab2eafcd03f2&url=https%3a%2f%2fgestion.pe%2fperu%2fsismos-en-peru-estan-preparadas-las-redes-de-agua-y-saneamiento-noticia%2f&c=16114097099455607576&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acad7c0c3ea4071a434ab2eafcd03f2&url=https%3A%2F%2Fgestion.pe%2Fperu%2Fsismos-en-peru-estan-preparadas-las-redes-de-agua-y-saneamiento-noticia%2F&c=16114097099455607576&mkt=es-us",
+      "titulo": "Sismos en Perú: ¿están preparadas las redes de agua y saneamiento?",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-21",
+      "fecha_hecho": null,
+      "snippet": "Cuando ocurre un evento extremo, mantener operativo el servicio de agua potable y saneamiento depende de más factores que la disponibilidad del recurso. Las redes encargadas de transportarlo deben ...",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:\"agua y saneamiento\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-10 19:26"
     },
     {
       "id": "288c8e8ce8f1d39d",
@@ -10572,6 +10594,31 @@
       "descartar": false
     },
     {
+      "id": "46973578810bebe3",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acad7bdfae846a6a02f59624c4d72bc&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f08%2f01%2fminem-culmina-tres-proyectos-de-electrificacion-rural-en-el-sur-que-beneficiaran-a-mas-de-20000-personas%2f&c=14667250074921085498&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acad7bdfae846a6a02f59624c4d72bc&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F08%2F01%2Fminem-culmina-tres-proyectos-de-electrificacion-rural-en-el-sur-que-beneficiaran-a-mas-de-20000-personas%2F&c=14667250074921085498&mkt=es-us",
+      "titulo": "Minem culmina tres proyectos de electrificación rural en el sur que beneficiarán a más de 20.000 personas",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-01",
+      "fecha_hecho": null,
+      "snippet": "Las obras ejecutadas en Puno y Moquegua ampliarán la cobertura del servicio eléctrico en 201 localidades, con el objetivo de fortalecer las actividades productivas, mejorar el acceso a educación y ...",
+      "temas": [
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Moquegua",
+        "Puno"
+      ],
+      "score": 3,
+      "query": "bing:electrificación Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-10 19:26"
+    },
+    {
       "id": "a3721b64a7c65a32",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPRkwxeWh0eDk4Y2x3czQ3R0Nnd0U2QmM3RDFSbVZLdUJiSU1oNlVkUFJFMDJlXzI1YXU1alRoeHVaVkgwVG9DdlVpaVRkRGRDZGhVUFRjSXRybkUtNUxSVGMtSzJYLTJkNzhCeU5nN1JZLVlDWXhIWjRvMTZUb2Fua01QNE9POWV3XzVwUkZ4czFwd3VwTzk1TWpSV3UwRmJlaXhvckxsdVdiUWM1ZU52Z0ZEOC1oaFRpbnU0anJCVFp4bGJxc0tHS2FxYUhidU53ZXRYRGx6b0J2Z3l3bUVVVXZXU3RQMkg0OHdEWNIBhwJBVV95cUxNTHZxUFVhS3JUdzM4UXBDeS1JeDN4UG1XV3RiM0FVWXdrdzFwMHVYOXJHQzFFdVd0VllhbmlJSzdGX2poMUZ6bVJ6MWVuTWtFbjFGSE5BMHVQa2ZpSWQxVzZnaVc0aVp4ZVZTbHl0TzNFdVpnMXdHUlQ1ZW81QXdwMVhBd290TF9uZXVTNVNTT25MUDFPTmo5SkZhV2MtWGJJeFJRUDRDTGx3NkxFdm9iR2p3WEc3ZWxMY244ajRpV3AyTE9qbks0NmF1VFBsLXM1LUMtbm50V1VKNW1XUlRpRzZoQkNydVNlRHVKUkxvNk5wZWVrdFVMeTdwMXo4dGZXclJycWJGSQ?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPRkwxeWh0eDk4Y2x3czQ3R0Nnd0U2QmM3RDFSbVZLdUJiSU1oNlVkUFJFMDJlXzI1YXU1alRoeHVaVkgwVG9DdlVpaVRkRGRDZGhVUFRjSXRybkUtNUxSVGMtSzJYLTJkNzhCeU5nN1JZLVlDWXhIWjRvMTZUb2Fua01QNE9POWV3XzVwUkZ4czFwd3VwTzk1TWpSV3UwRmJlaXhvckxsdVdiUWM1ZU52Z0ZEOC1oaFRpbnU0anJCVFp4bGJxc0tHS2FxYUhidU53ZXRYRGx6b0J2Z3l3bUVVVXZXU3RQMkg0OHdEWNIBhwJBVV95cUxNTHZxUFVhS3JUdzM4UXBDeS1JeDN4UG1XV3RiM0FVWXdrdzFwMHVYOXJHQzFFdVd0VllhbmlJSzdGX2poMUZ6bVJ6MWVuTWtFbjFGSE5BMHVQa2ZpSWQxVzZnaVc0aVp4ZVZTbHl0TzNFdVpnMXdHUlQ1ZW81QXdwMVhBd290TF9uZXVTNVNTT25MUDFPTmo5SkZhV2MtWGJJeFJRUDRDTGx3NkxFdm9iR2p3WEc3ZWxMY244ajRpV3AyTE9qbks0NmF1VFBsLXM1LUMtbm50V1VKNW1XUlRpRzZoQkNydVNlRHVKUkxvNk5wZWVrdFVMeTdwMXo4dGZXclJycWJGSQ",
@@ -10693,5 +10740,5 @@
       "descartar": false
     }
   ],
-  "n": 451
+  "n": 453
 }
