@@ -1,6 +1,6 @@
 {
   "mes": "2026-09",
-  "actualizado": "2026-10-12 16:28",
+  "actualizado": "2026-10-12 17:35",
   "items": [
     {
       "id": "4cca0f6932b1eef7",
@@ -13389,6 +13389,31 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-10-12 16:28"
+    },
+    {
+      "id": "0b5c1e067e8e2155",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acd6097e66a4fef9e3cc483a33336c2&url=https%3a%2f%2fwww.expreso.com.pe%2factualidad%2fcorte-de-agua-hoy-sabado-26-de-septiembre-en-distritos-de-lima-zonas-y-horarios-segun-reporte-de-sedapal-recibo-medidor-tuberias-servicio-potable-alcantarillado-noticia%2f1318260%2f&c=6423717628377431173&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acd6097e66a4fef9e3cc483a33336c2&url=https%3A%2F%2Fwww.expreso.com.pe%2Factualidad%2Fcorte-de-agua-hoy-sabado-26-de-septiembre-en-distritos-de-lima-zonas-y-horarios-segun-reporte-de-sedapal-recibo-medidor-tuberias-servicio-potable-alcantarillado-noticia%2F1318260%2F&c=6423717628377431173&mkt=es-us",
+      "titulo": "Corte de agua hoy, sábado 26 de septiembre, en distritos de Lima: zonas y horarios, según reporte de Sedapal",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-25",
+      "fecha_hecho": null,
+      "snippet": "El Servicio de Agua Potable y Alcantarillado de Lima (Sedapal) comunicó que hoy, 26 de septiembre de 2026, se ejecutará el corte de agua en varios distritos de Lima Metropolitana, afectando ...",
+      "temas": [
+        "Agua por red pública",
+        "Alcantarillado"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 5,
+      "query": "bing:\"corte de agua\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-12 17:35"
     },
     {
       "id": "b2317c1ad99a8f6b",
@@ -44203,6 +44228,30 @@
       "agregado": "2026-10-12 16:28"
     },
     {
+      "id": "fed49a15d1356b0c",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acd609cc1ba4d84a71037ad70d69a60&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f09%2f10%2fllovizna-inunda-bypass-de-villa-maria-del-triunfo-y-restringen-el-transito-en-la-avenida-pachacutec%2f&c=14885752106282139944&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acd609cc1ba4d84a71037ad70d69a60&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F09%2F10%2Fllovizna-inunda-bypass-de-villa-maria-del-triunfo-y-restringen-el-transito-en-la-avenida-pachacutec%2F&c=14885752106282139944&mkt=es-us",
+      "titulo": "Llovizna inunda bypass de Villa María del Triunfo y restringen el tránsito en la avenida Pachacútec",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-10",
+      "fecha_hecho": null,
+      "snippet": "El aniego obligó a restringir temporalmente el paso vehicular en la avenida Pachacútec. El nivel del agua llegó a superar la mitad de las llantas de algunos vehículos ...",
+      "temas": [
+        "Alcantarillado"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Villa María del Triunfo"
+      ],
+      "score": 3,
+      "query": "bing:aniego Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-12 17:35"
+    },
+    {
       "id": "9fd9ed79c5a13dd2",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOR0F3cDcwT0lEbWJGcXNvMGxTODZlLU96MnpnQUxPME5aX1RyYVV3aWtTRmdsOFdWWkc0NER6RldnMm1GNEtfeHlQdGdhQThuS0F2enlBQVZZNDM2aDB4S3F4eXVMTlY3NnN2U2duZXdENmxMZTBLTkZ3bWNRbWcwSkdLdE0xMEllR29EdFhrQmdXOG5OYUJmT3NfVG5IbWxVSVR1eE56WWlOanNfeDRaQm9iX1JfbWtxRHExWjBCMVBSeUdnRjNFZXRVZUFMMkxwZmUzcw?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOR0F3cDcwT0lEbWJGcXNvMGxTODZlLU96MnpnQUxPME5aX1RyYVV3aWtTRmdsOFdWWkc0NER6RldnMm1GNEtfeHlQdGdhQThuS0F2enlBQVZZNDM2aDB4S3F4eXVMTlY3NnN2U2duZXdENmxMZTBLTkZ3bWNRbWcwSkdLdE0xMEllR29EdFhrQmdXOG5OYUJmT3NfVG5IbWxVSVR1eE56WWlOanNfeDRaQm9iX1JfbWtxRHExWjBCMVBSeUdnRjNFZXRVZUFMMkxwZmUzcw",
@@ -51822,5 +51871,5 @@
       "descartar": false
     }
   ],
-  "n": 2208
+  "n": 2210
 }

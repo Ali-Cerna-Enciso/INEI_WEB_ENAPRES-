@@ -1,6 +1,6 @@
 {
   "mes": "2026-03",
-  "actualizado": "2026-10-12 16:25",
+  "actualizado": "2026-10-12 17:32",
   "items": [
     {
       "id": "5976149ac746b5b8",
@@ -2108,6 +2108,28 @@
       "agregado": "2026-10-12 16:25"
     },
     {
+      "id": "dc0766f089714cb0",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acd5ff16dfb4ad4841eb2baa98bbe7b&url=https%3a%2f%2fwww.msn.com%2fes-cl%2fnoticias%2fother%2fdetienen-en-chile-a-hombre-buscado-por-homicidio-en-per%25C3%25BA-lo-vinculan-al-tren-de-aragua%2far-AA1ZBRQ3&c=4014645335106842763&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acd5ff16dfb4ad4841eb2baa98bbe7b&url=https%3A%2F%2Fwww.msn.com%2Fes-cl%2Fnoticias%2Fother%2Fdetienen-en-chile-a-hombre-buscado-por-homicidio-en-per%25C3%25BA-lo-vinculan-al-tren-de-aragua%2Far-AA1ZBRQ3&c=4014645335106842763&mkt=es-us",
+      "titulo": "Detienen en Chile a hombre buscado por homicidio en Perú: lo vinculan al Tren de Aragua",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-03-28",
+      "fecha_hecho": null,
+      "snippet": "Un ciudadano venezolano, requerido por la justicia peruana, fue detenido este viernes en la comuna de Maipú, en la Región Metropolitana, en un operativo desarrollado por la Brigada Investigadora del ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:homicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-12 17:32"
+    },
+    {
       "id": "e70724b84945e0df",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPaDFiQlRkdFBBaUtHZHg0cENYTk5rcVRZYmpkaUZrUU52Y2ZSdEdKcUxIVkFmdjdOanRTaW82RWhfZjlYRjNEVmk1QmNtdThERGRpR3pPcmdOSnBjWHJFMmpnV1ZYajJWM2xsT0JLZ1lkbXJJeWNSZVp6WVJjazVkaVRvOXJsMkxfajZuOTU1ZmtzbzBSb0JuUVg4QXA1S0VsUHFuaTJYazFLZzdFRjNZQ3cxN3BvZXJQallMU0lSNTM5TDVRdm1BdU1vMlpKNnNSNklVRG9ITEwtMmVIbXVoZTNCbnFLeGNscExRQndtYnN1UTlOczlOMjlLcVFPZzBDX0lvM3FR0gGgAkFVX3lxTFBUT1FGZVR4cFlTRWhHNTFZOFJFS3dRb2wtQjBfZUxzcGVzX19CdklhcmJwRXUzSjJGVEItd2VmQndZVHRoa2V5LW5JLWlqMFItQm13dlFaeVlwbGhJNUpvT0Rkal9ZMTNUV0dPN0NIS1VOMkVYbDVsczZnbUR6YVk1QnRsZ09KX3FLX1Qzd2lXc0NsZ0lobmtadUl0UXBRVnVoZFNTUGpPa08xa0lNT04tYlQzUHJJVWNlYm9jUzJucGo3SFMtclVNY092dUhhdGxtTDdiQ09qUS1VeDR5WGJpWmpoUE1FRUpybUJUeUtCaF9ZeU5qcXJuR1B2blRHM05iSkR6d0Q0YnRGdlQwd0tpVEM3R2RFcEFLeVZMdXdfSQ?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPaDFiQlRkdFBBaUtHZHg0cENYTk5rcVRZYmpkaUZrUU52Y2ZSdEdKcUxIVkFmdjdOanRTaW82RWhfZjlYRjNEVmk1QmNtdThERGRpR3pPcmdOSnBjWHJFMmpnV1ZYajJWM2xsT0JLZ1lkbXJJeWNSZVp6WVJjazVkaVRvOXJsMkxfajZuOTU1ZmtzbzBSb0JuUVg4QXA1S0VsUHFuaTJYazFLZzdFRjNZQ3cxN3BvZXJQallMU0lSNTM5TDVRdm1BdU1vMlpKNnNSNklVRG9ITEwtMmVIbXVoZTNCbnFLeGNscExRQndtYnN1UTlOczlOMjlLcVFPZzBDX0lvM3FR0gGgAkFVX3lxTFBUT1FGZVR4cFlTRWhHNTFZOFJFS3dRb2wtQjBfZUxzcGVzX19CdklhcmJwRXUzSjJGVEItd2VmQndZVHRoa2V5LW5JLWlqMFItQm13dlFaeVlwbGhJNUpvT0Rkal9ZMTNUV0dPN0NIS1VOMkVYbDVsczZnbUR6YVk1QnRsZ09KX3FLX1Qzd2lXc0NsZ0lobmtadUl0UXBRVnVoZFNTUGpPa08xa0lNT04tYlQzUHJJVWNlYm9jUzJucGo3SFMtclVNY092dUhhdGxtTDdiQ09qUS1VeDR5WGJpWmpoUE1FRUpybUJUeUtCaF9ZeU5qcXJuR1B2blRHM05iSkR6d0Q0YnRGdlQwd0tpVEM3R2RFcEFLeVZMdXdfSQ",
@@ -3321,6 +3343,28 @@
       "agregado": "2026-10-12 16:25"
     },
     {
+      "id": "ab776343344c1893",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acd5fef311c4ca188c801b1f3646b1a&url=https%3a%2f%2fwww.telemundo51.com%2fnoticias%2flocal%2fsospechoso-de-asesinato-en-miami-dade-hace-30-anos-es-extraditado-tras-su-arresto-en-peru%2f2764935%2f&c=14702040607545765718&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acd5fef311c4ca188c801b1f3646b1a&url=https%3A%2F%2Fwww.telemundo51.com%2Fnoticias%2Flocal%2Fsospechoso-de-asesinato-en-miami-dade-hace-30-anos-es-extraditado-tras-su-arresto-en-peru%2F2764935%2F&c=14702040607545765718&mkt=es-us",
+      "titulo": "Sospechoso de asesinato hace 30 años en Miami-Dade es extraditado a Florida desde Perú",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-03-25",
+      "fecha_hecho": null,
+      "snippet": "Un hombre acusado de un asesinato ocurrido en 1996 en Miami-Dade, que según las autoridades pasó casi tres décadas prófugo, fue extraditado al sur de Florida tras su arresto en Perú el año pasado.",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-12 17:32"
+    },
+    {
       "id": "364de0755638f7f3",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVWczTkU5UDF5RkN5Uk9CNVI2Vm9VYzJmMU1ibUZOYVI5OF9fY2xXbVVNU09CX1FESTZna2dieFEtYnBCanY3OWkwMWdqUXpKQ0V5emk5Y3NBSEpOV000eVIwbTRSMkY2andPcXRZWm1rSGJORGtCTG9kbk9nSnlKREk0YmctOXZlLVBkWDNkSU5EYUNsLVlFMEJmWU8yTVJzTHJzQ0I0S0VWQ3g4Q3c1cVN0T3ZvM1ZLemZWdHo1a0haLW5MV1hvUk5HdWxwM2I3Mmc?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVWczTkU5UDF5RkN5Uk9CNVI2Vm9VYzJmMU1ibUZOYVI5OF9fY2xXbVVNU09CX1FESTZna2dieFEtYnBCanY3OWkwMWdqUXpKQ0V5emk5Y3NBSEpOV000eVIwbTRSMkY2andPcXRZWm1rSGJORGtCTG9kbk9nSnlKREk0YmctOXZlLVBkWDNkSU5EYUNsLVlFMEJmWU8yTVJzTHJzQ0I0S0VWQ3g4Q3c1cVN0T3ZvM1ZLemZWdHo1a0haLW5MV1hvUk5HdWxwM2I3Mmc",
@@ -4083,6 +4127,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-12 16:25"
+    },
+    {
+      "id": "88bc462bfe565e6f",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acd5fef311c4ca188c801b1f3646b1a&url=https%3a%2f%2fwww.telesurtv.net%2fperu-asesinato-candidato-congresista-partido-fe%2f&c=6827531796652007799&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acd5fef311c4ca188c801b1f3646b1a&url=https%3A%2F%2Fwww.telesurtv.net%2Fperu-asesinato-candidato-congresista-partido-fe%2F&c=6827531796652007799&mkt=es-us",
+      "titulo": "Perú: asesinan a candidato a congresista por el partido Fe",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-03-25",
+      "fecha_hecho": null,
+      "snippet": "Gilbert Infante, candidato al Congreso por el partido Fe en el Perú, fue asesinado la noche de este martes en el sur de Lima, tras un brutal ataque, que se vincula a previas amenazas por sus ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-12 17:32"
     },
     {
       "id": "8671868de486eef7",
@@ -10593,5 +10661,5 @@
       "descartar": false
     }
   ],
-  "n": 471
+  "n": 474
 }
