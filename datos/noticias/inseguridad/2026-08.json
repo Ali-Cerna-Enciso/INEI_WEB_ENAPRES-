@@ -1,6 +1,6 @@
 {
   "mes": "2026-08",
-  "actualizado": "2026-10-12 17:32",
+  "actualizado": "2026-10-12 21:44",
   "items": [
     {
       "id": "d9d4232fbcb587d1",
@@ -5379,6 +5379,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-12 16:25"
+    },
+    {
+      "id": "fadaaaa4c8524f26",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acd9b0f498e41fb834d64c32bc2f043&url=https%3a%2f%2fdiariocorreo.pe%2fpolitica%2fmasacre-en-trujillo-renzo-reggiardo-pide-al-congreso-aprobar-facultades-legislativas-para-enfrentar-delincuencia-noticia%2f&c=9134434544173010546&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acd9b0f498e41fb834d64c32bc2f043&url=https%3A%2F%2Fdiariocorreo.pe%2Fpolitica%2Fmasacre-en-trujillo-renzo-reggiardo-pide-al-congreso-aprobar-facultades-legislativas-para-enfrentar-delincuencia-noticia%2F&c=9134434544173010546&mkt=es-us",
+      "titulo": "Masacre en Trujillo: Renzo Reggiardo pide al Congreso aprobar facultades legislativas para enfrentar delincuencia",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-31",
+      "fecha_hecho": null,
+      "snippet": "Reggiardo señaló que los congresistas deben asumir responsabilidad ante la ciudadanía si continúan postergando la decisión sobre las facultades solicitadas por el Gobierno. El alcalde sostuvo que ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 3,
+      "query": "bing:\"masacre\" Trujillo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-12 21:44"
     },
     {
       "id": "f6b6d1e545edb4f0",
@@ -18694,6 +18718,28 @@
       "agregado": "2026-10-12 16:25"
     },
     {
+      "id": "3d78067524dfe9f3",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acd9afa50894021a2895fb7b40659e8&url=https%3a%2f%2frpp.pe%2fperu%2factualidad%2fel-numero-de-presos-por-feminicidio-en-el-peru-se-multiplico-por-seis-en-la-ultima-decada-informe-noticia-1700934&c=16529491939722550603&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acd9afa50894021a2895fb7b40659e8&url=https%3A%2F%2Frpp.pe%2Fperu%2Factualidad%2Fel-numero-de-presos-por-feminicidio-en-el-peru-se-multiplico-por-seis-en-la-ultima-decada-informe-noticia-1700934&c=16529491939722550603&mkt=es-us",
+      "titulo": "El número de presos por feminicidio en el Perú se multiplicó por seis en la última década [Informe]",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-10",
+      "fecha_hecho": null,
+      "snippet": "Cifras obtenidas por RPP revelan que, en los últimos diez años, el número de personas presas por feminicidio o por tentativa de feminicidio se multiplicó por seis. Los números también evidencian que ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:feminicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-12 21:44"
+    },
+    {
       "id": "0b6c0c5a8f0a8d14",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOekNGekctTzhMM2ExZUg4RGMxakpMSmdJekxFdzN1X240WEtoYkhpLTBfNk5keU9EWWlhdTRJcmx2UDBzMHRjOGJqNmpNTVhzdlloMEp5d0p1eE9xemw4bTVRQi1iclVwT2RmcFRhTUJmNFJ2MGd0Y1M1b2lmZEZGODdnRDVJeHF3WXNsZVNpVWt2MXpxQVhiN0o2QTZJQi1KZGJVcDJZUmZlWFI1ZTZPM1RDQklyUDk4ZDUtNUI4UkU3MnVGRVFHQ3FWUEhoSVU?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOekNGekctTzhMM2ExZUg4RGMxakpMSmdJekxFdzN1X240WEtoYkhpLTBfNk5keU9EWWlhdTRJcmx2UDBzMHRjOGJqNmpNTVhzdlloMEp5d0p1eE9xemw4bTVRQi1iclVwT2RmcFRhTUJmNFJ2MGd0Y1M1b2lmZEZGODdnRDVJeHF3WXNsZVNpVWt2MXpxQVhiN0o2QTZJQi1KZGJVcDJZUmZlWFI1ZTZPM1RDQklyUDk4ZDUtNUI4UkU3MnVGRVFHQ3FWUEhoSVU",
@@ -20404,5 +20450,5 @@
       "descartar": true
     }
   ],
-  "n": 877
+  "n": 879
 }
