@@ -1,6 +1,6 @@
 {
   "mes": "2026-04",
-  "actualizado": "2026-10-14 12:26",
+  "actualizado": "2026-10-14 14:27",
   "items": [
     {
       "id": "e82b01a5eca5be1b",
@@ -1986,6 +1986,30 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-10-14 12:26"
+    },
+    {
+      "id": "d210a85d9673500a",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acfd7a8cac9484f976294ee594f16c5&url=https%3a%2f%2fgestion.pe%2fblog%2fjuegomaniaticos%2f2026%2f04%2fgeely-apuesta-por-la-electrificacion-en-el-peru-con-los-modelos-ex5-y-ex5-em-i.html&c=17145780875729136540&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acfd7a8cac9484f976294ee594f16c5&url=https%3A%2F%2Fgestion.pe%2Fblog%2Fjuegomaniaticos%2F2026%2F04%2Fgeely-apuesta-por-la-electrificacion-en-el-peru-con-los-modelos-ex5-y-ex5-em-i.html&c=17145780875729136540&mkt=es-us",
+      "titulo": "Geely apuesta por la electrificación en el Perú con los modelos EX5 y EX5 EM-i",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-04-26",
+      "fecha_hecho": null,
+      "snippet": "Geely presentó en Lima sus nuevos modelos EX5 (100% eléctrico) y EX5 EM-i (híbrido enchufable), marcando su ingreso al segmento de vehículos de nueva energía en el mercado peruano. La estrategia busca ...",
+      "temas": [
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:electrificación Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-14 14:27"
     },
     {
       "id": "d6d9c5ffde42043e",
@@ -7494,6 +7518,29 @@
       "descartar": false
     },
     {
+      "id": "b8679110e572429f",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acfd796bf9d4c8480b0538f6a7f75cf&url=https%3a%2f%2fgestion.pe%2feconomia%2fagua-y-desague-los-millones-que-se-dejaron-de-invertir-en-obras-de-saneamiento-en-el-peru-como-esta-la-brecha-noticia%2f&c=7617185666064963885&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acfd796bf9d4c8480b0538f6a7f75cf&url=https%3A%2F%2Fgestion.pe%2Feconomia%2Fagua-y-desague-los-millones-que-se-dejaron-de-invertir-en-obras-de-saneamiento-en-el-peru-como-esta-la-brecha-noticia%2F&c=7617185666064963885&mkt=es-us",
+      "titulo": "Los millones que se dejaron de invertir en obras de agua y desagüe: así va la brecha en Perú",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-04-02",
+      "fecha_hecho": null,
+      "snippet": "En menos de dos semanas, el Perú tendrá que elegir al nuevo Gobierno que tome acción sobre pendientes clave para el país. Uno de estos temas urgentes es, sin duda, llevar agua y saneamiento a la ...",
+      "temas": [
+        "Agua por red pública",
+        "Alcantarillado"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 4,
+      "query": "bing:desagüe Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-14 14:27"
+    },
+    {
       "id": "23ac45bfba733bae",
       "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQWHBmYlNKYVM2cWNqMjdya2pJQUtuenZZa3FtOEN0bmlIZnNSOC1MNlhjVXpTUUN4WDJSZ0V5NFN1ZFNWM19vcDIyX0VpanRwZUpGdDhPcjhPN1J2RWtwLTVQREpzdFB5T2pha2ZZSzFUMXYzN3BneXJqWmxsSXlsclZHbHpjalVMZndTS2RuMGlxQl8teW9xTU94cVl4RHFjeUxMOGFSVk5aTnVWMXQ4ejV5dWVFTFd5a0NxdF9JN2VRUUdlQ3pUZkdwYWM3MHRPS1hxbjBYNXBzdUo4NTF1ejZYWWR2V0lkX08wUGRlXzhHdDJJckkwOVhyRlkxZDNTdVlHWUhxdTF1ZEZiQ1dad2ZDOWxpYXhFQ2FyQ0stWkhpdWNpTjRFZ1hpVFhtNmZ2SHo4?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQWHBmYlNKYVM2cWNqMjdya2pJQUtuenZZa3FtOEN0bmlIZnNSOC1MNlhjVXpTUUN4WDJSZ0V5NFN1ZFNWM19vcDIyX0VpanRwZUpGdDhPcjhPN1J2RWtwLTVQREpzdFB5T2pha2ZZSzFUMXYzN3BneXJqWmxsSXlsclZHbHpjalVMZndTS2RuMGlxQl8teW9xTU94cVl4RHFjeUxMOGFSVk5aTnVWMXQ4ejV5dWVFTFd5a0NxdF9JN2VRUUdlQ3pUZkdwYWM3MHRPS1hxbjBYNXBzdUo4NTF1ejZYWWR2V0lkX08wUGRlXzhHdDJJckkwOVhyRlkxZDNTdVlHWUhxdTF1ZEZiQ1dad2ZDOWxpYXhFQ2FyQ0stWkhpdWNpTjRFZ1hpVFhtNmZ2SHo4",
@@ -7706,5 +7753,5 @@
       "descartar": false
     }
   ],
-  "n": 328
+  "n": 330
 }
