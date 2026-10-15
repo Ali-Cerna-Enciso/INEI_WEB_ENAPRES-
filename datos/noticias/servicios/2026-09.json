@@ -1,6 +1,6 @@
 {
   "mes": "2026-09",
-  "actualizado": "2026-10-14 14:27",
+  "actualizado": "2026-10-14 19:06",
   "items": [
     {
       "id": "4cca0f6932b1eef7",
@@ -3276,6 +3276,31 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-09-30 00:06"
+    },
+    {
+      "id": "f6b52284aa23c42b",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad018fd361d44cf87e7a59033991bad&url=https%3a%2f%2felcomercio.pe%2frespuestas%2fa-que-hora%2fsedapal-anuncia-cortes-de-agua-en-lima-para-el-29-y-30-de-setiembre-revisa-horarios-y-zonas-afectadas-tdpe-noticia%2f&c=3340648350329357550&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad018fd361d44cf87e7a59033991bad&url=https%3A%2F%2Felcomercio.pe%2Frespuestas%2Fa-que-hora%2Fsedapal-anuncia-cortes-de-agua-en-lima-para-el-29-y-30-de-setiembre-revisa-horarios-y-zonas-afectadas-tdpe-noticia%2F&c=3340648350329357550&mkt=es-us",
+      "titulo": "Nuevo corte de agua en Lima HOY, 30 de setiembre: lista de distritos afectados y horarios",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-29",
+      "fecha_hecho": null,
+      "snippet": "Sedapal reportó un nuevo corte de agua programado para distritos de Lima y Callao. Revisa las zonas afectadas y horarios según reportes de la institución.",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Callao",
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:\"corte de agua\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-14 19:06"
     },
     {
       "id": "936b7b3bcb99eaa9",
@@ -9433,6 +9458,30 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-10-14 14:27"
+    },
+    {
+      "id": "88a1ef03f085e65b",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0190443d1436cb4a430b0fe9da33f&url=https%3a%2f%2flarepublica.pe%2fservicios%2f2026%2f09%2f27%2fsedapal-anuncia-corte-de-agua-en-lima-este-28-de-septiembre-conoce-los-distritos-y-horarios-964062&c=4289004004760197717&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0190443d1436cb4a430b0fe9da33f&url=https%3A%2F%2Flarepublica.pe%2Fservicios%2F2026%2F09%2F27%2Fsedapal-anuncia-corte-de-agua-en-lima-este-28-de-septiembre-conoce-los-distritos-y-horarios-964062&c=4289004004760197717&mkt=es-us",
+      "titulo": "Sedapal anuncia corte de agua en Lima este 28 de septiembre: conoce los distritos y horarios",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-27",
+      "fecha_hecho": null,
+      "snippet": "Los usuarios en las zonas afectadas deben tomar precauciones y almacenar agua con anticipación. Los cortes tendrán distintas duraciones según cada sector.",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:Sedapal",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-14 19:06"
     },
     {
       "id": "f63275472561051e",
@@ -18465,6 +18514,30 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-10-14 12:26"
+    },
+    {
+      "id": "37e1c4e7b4dea5e7",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0190d6c724ef6b988436815f5b245&url=https%3a%2f%2fdiariocorreo.pe%2fedicion%2fla-libertad%2fhidrandina-detecta-y-erradica-509-conexiones-clandestinas-que-ponen-en-riesgo-a-familias-la-libertad-peru-noticia%2f&c=11633541843318035626&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0190d6c724ef6b988436815f5b245&url=https%3A%2F%2Fdiariocorreo.pe%2Fedicion%2Fla-libertad%2Fhidrandina-detecta-y-erradica-509-conexiones-clandestinas-que-ponen-en-riesgo-a-familias-la-libertad-peru-noticia%2F&c=11633541843318035626&mkt=es-us",
+      "titulo": "La Libertad: Hidrandina detecta y erradica 509 conexiones clandestinas que ponen en riesgo a familias",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-24",
+      "fecha_hecho": null,
+      "snippet": "Empresa realiza operativos de control todos los meses y acumuló 66 intervenciones entre enero y agosto de 2026 ...",
+      "temas": [
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "La Libertad"
+      ],
+      "score": 3,
+      "query": "bing:Hidrandina",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-14 19:06"
     },
     {
       "id": "6cb7964d147ca67c",
@@ -33845,6 +33918,28 @@
       "agregado": "2026-10-14 14:27"
     },
     {
+      "id": "e6ea41bc892cc916",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad01916066946f1b9a95062c3e95a7f&url=https%3a%2f%2felcomercio.pe%2feconomia%2fperu%2fcofide-anuncia-su-tercer-bono-azul-para-ampliar-el-acceso-a-agua-y-saneamiento-en-el-peru-l-ultimas-noticia%2f&c=2221719719642236792&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad01916066946f1b9a95062c3e95a7f&url=https%3A%2F%2Felcomercio.pe%2Feconomia%2Fperu%2Fcofide-anuncia-su-tercer-bono-azul-para-ampliar-el-acceso-a-agua-y-saneamiento-en-el-peru-l-ultimas-noticia%2F&c=2221719719642236792&mkt=es-us",
+      "titulo": "Cofide anuncia su tercer Bono Azul para ampliar el acceso a agua y saneamiento en el Perú",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-18",
+      "fecha_hecho": null,
+      "snippet": "Cofide, el Banco de Desarrollo del Perú, anunció la emisión de su tercer Bono Azul en el mercado de capitales local, por un monto de hasta S/120 millones.",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:\"agua y saneamiento\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-14 19:06"
+    },
+    {
       "id": "eed30cf344d60151",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZ3I4b3ZkU0xBSGE3RnJtNVRzTEtQVnU3WnA3c1Q0aFgtNmdOLTJQd0gxUzJGcjl5eW11N3JvQ2xGM0pOLTh4WnpYbWUzSHM2QVY2Uk5qRXd4dDd5MjBUaUdzMGgzZlNCNFQzXzQyOXNMdFM1d19HT2FzVU5lMGhKcTNIbGJIQnpoaFdtOHhFM0NmOHZhSktwaDBVQmxPSmtyZkk5Q1d6dGJ4Mkh3Q19RYklDNDVFNzhmUlg2ZC1NT0VaZ1Z3bTc3M2hyT3lVUTdsZ09IVkMzb0ttWjQyUWpqOGR30gH2AUFVX3lxTE5VUXR4YkJPTHFPS1VMRmEtR0sxeUZjeWx1VnVLRUhiVVlyVXRrak5RVkJmeVZ0ZmRBbjU2UVAweWF3TGdFOUh6LXFDZXl4YVBuNW94aW1aM01GSjJYV2pGX1FZMWpHTVZOLUJoQlhQcE5OSTd3RS1LWDVGQ2pwaDltZGF4eFVHcTNoc29ua2VPLWhqLXpwUzFXQjdubHRCcExNVzZua3dFQjNKc28zSkJoWXRjT1JseVB3ZWo1TmhSdUpzcW94THptSWFjS3A3cE9fbnZwQ21VakN3Q2d4X01ycDJ6YU8ycWI0d2U1VldlTXNkZEQydw?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZ3I4b3ZkU0xBSGE3RnJtNVRzTEtQVnU3WnA3c1Q0aFgtNmdOLTJQd0gxUzJGcjl5eW11N3JvQ2xGM0pOLTh4WnpYbWUzSHM2QVY2Uk5qRXd4dDd5MjBUaUdzMGgzZlNCNFQzXzQyOXNMdFM1d19HT2FzVU5lMGhKcTNIbGJIQnpoaFdtOHhFM0NmOHZhSktwaDBVQmxPSmtyZkk5Q1d6dGJ4Mkh3Q19RYklDNDVFNzhmUlg2ZC1NT0VaZ1Z3bTc3M2hyT3lVUTdsZ09IVkMzb0ttWjQyUWpqOGR30gH2AUFVX3lxTE5VUXR4YkJPTHFPS1VMRmEtR0sxeUZjeWx1VnVLRUhiVVlyVXRrak5RVkJmeVZ0ZmRBbjU2UVAweWF3TGdFOUh6LXFDZXl4YVBuNW94aW1aM01GSjJYV2pGX1FZMWpHTVZOLUJoQlhQcE5OSTd3RS1LWDVGQ2pwaDltZGF4eFVHcTNoc29ua2VPLWhqLXpwUzFXQjdubHRCcExNVzZua3dFQjNKc28zSkJoWXRjT1JseVB3ZWo1TmhSdUpzcW94THptSWFjS3A3cE9fbnZwQ21VakN3Q2d4X01ycDJ6YU8ycWI0d2U1VldlTXNkZEQydw",
@@ -38171,6 +38266,28 @@
       "agregado": "2026-10-14 14:27"
     },
     {
+      "id": "603d4d6d72760bb9",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad01916066946f1b9a95062c3e95a7f&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f09%2f17%2fcofide-emitira-tercer-bono-azul-por-hasta-s-120-millones-para-financiar-acceso-a-agua-y-saneamiento%2f&c=9932207857646511183&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad01916066946f1b9a95062c3e95a7f&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F09%2F17%2Fcofide-emitira-tercer-bono-azul-por-hasta-s-120-millones-para-financiar-acceso-a-agua-y-saneamiento%2F&c=9932207857646511183&mkt=es-us",
+      "titulo": "COFIDE emitirá tercer Bono Azul por hasta S/ 120 millones para financiar acceso a agua y saneamiento",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-16",
+      "fecha_hecho": null,
+      "snippet": "La operación forma parte de un programa que ya permitió beneficiar a más de 133 mil peruanos mediante microcréditos destinados a conexiones domiciliarias, baños, tanques de almacenamiento y otras mejo ...",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:\"agua y saneamiento\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-14 19:06"
+    },
+    {
       "id": "d86f4db0a52623aa",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSmROQUQyYW1GVjhEVk1BcmFiQzJGTFZoQUtlaDUyTmhDb0ZSUk1BNy1UMlFIZjl2emY3MFJoWXZoSEVHaFFjLW9UUUtfcmExRWgwdHZrZjV3VGZKRmVIYjE0alk4ZEVOVWFfU1VGY2ZEd040QlJIZ1VhcU85eENwUkV5RS1jbUp1TUlxc1NMTTc1eFE4MWd4Tk4xT3MweGxrU0sybmR4b25Rb0V0WHZLeA?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSmROQUQyYW1GVjhEVk1BcmFiQzJGTFZoQUtlaDUyTmhDb0ZSUk1BNy1UMlFIZjl2emY3MFJoWXZoSEVHaFFjLW9UUUtfcmExRWgwdHZrZjV3VGZKRmVIYjE0alk4ZEVOVWFfU1VGY2ZEd040QlJIZ1VhcU85eENwUkV5RS1jbUp1TUlxc1NMTTc1eFE4MWd4Tk4xT3MweGxrU0sybmR4b25Rb0V0WHZLeA",
@@ -39598,6 +39715,28 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-10-14 12:26"
+    },
+    {
+      "id": "2fe7f764dad8c7fe",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0191468ba4a3c8276fb39fba53d23&url=https%3a%2f%2felcomercio.pe%2fdeporte-total%2frunning%2fcorro-por-el-agua-mas-de-1300-corredores-se-unieron-en-evento-solidario-por-el-acceso-al-agua-y-banos-dignos-noticia%2f&c=8767683404336343319&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0191468ba4a3c8276fb39fba53d23&url=https%3A%2F%2Felcomercio.pe%2Fdeporte-total%2Frunning%2Fcorro-por-el-agua-mas-de-1300-corredores-se-unieron-en-evento-solidario-por-el-acceso-al-agua-y-banos-dignos-noticia%2F&c=8767683404336343319&mkt=es-us",
+      "titulo": "Más de 1.300 corredores se unieron en evento solidario por el acceso al agua y baños dignos",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-15",
+      "fecha_hecho": null,
+      "snippet": "Más de 1.300 personas se pusieron en movimiento por una causa que fue más allá del deporte. La carrera solidaria Corro por el Agua reunió el pasado domingo 13 de setiembre a corredores, familias y ciu ...",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:\"acceso al agua\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-14 19:06"
     },
     {
       "id": "f9cc4b7943710104",
@@ -43806,6 +43945,32 @@
       "agregado": "2026-10-14 14:27"
     },
     {
+      "id": "5454716a2ae1e2f6",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad01916066946f1b9a95062c3e95a7f&url=https%3a%2f%2fandina.pe%2fagencia%2fnoticia-ministro-vivienda-supervisa-proyectos-agua-y-saneamiento-callao-y-lima-norte-1091607.aspx&c=18050859029091975332&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad01916066946f1b9a95062c3e95a7f&url=https%3A%2F%2Fandina.pe%2Fagencia%2Fnoticia-ministro-vivienda-supervisa-proyectos-agua-y-saneamiento-callao-y-lima-norte-1091607.aspx&c=18050859029091975332&mkt=es-us",
+      "titulo": "Ministro de Vivienda supervisa proyectos de agua y saneamiento en Callao y Lima Norte",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-12",
+      "fecha_hecho": null,
+      "snippet": "El ministro de Vivienda, Construcción y Saneamiento, Mauricio Arnillas, realizó una visita de inspección a importantes obras y proyectos de agua potable y alcantarillado en el Callao y Lima Norte, que ...",
+      "temas": [
+        "Agua por red pública",
+        "Alcantarillado"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Callao",
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:\"agua y saneamiento\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-14 19:06"
+    },
+    {
       "id": "bfcac5c9d5b1a22d",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOai11OTJMcUFBRVZKVmwwZzRSOVVPVkRNUzYxenZaR2Jod0hfVE12MlhGUW9zVW1lNXJOVGs4Vl81Mk9XU0JnVFpwRUJJaGFmaUpKbEdPV05kaldEV1VyMjRsVzhnOTVZbUpXMjBkMlJKLU1IZV9ES2RlZVlZQlZJM3NyOG1zSWRRdlpUVlk2SzJQV2dLVWxfWV9CdFgyNHNHT1pXc01oYkFDN1p0WFR4aXZIdmw3c0xTVUhEc2pmS2ZNUjBxcG94bFFZMjZJYnRwU0k2YkJIMHhqMUc5dzhRQ3dCdzMzeHNiaTZKeHRDSUJ3bk3SAYcCQVVfeXFMTlF0ck5Sd0NnMEJocFgtVTVWMXF1ZU9DUFhVTU5wdjRNcHF6MzdiY05TOEZuUnhUOERYSHc3SElKel91TTgxb3o5d3FUZ3FXRUZwdHowWFJFR2V0UDhmZ3VqMElScVlwYXNUUXpXQ1VfckxTWG9kcERrQ3JSc1B4NFNaaWZ4VzdLUWt4LUhDRE95cjNFOFczbU1KRWNUaG9ETjROaUhicFFMODFfV29Bcl8zOHdYdnAzUTAwaUJMbDZQS19seWQ4VHNpRjZWalAyQnFWYllEaFB5dnBKVlBXemYtMjRfVm0tbGl3RERZYWx2WG1FNXhiRk9zTHFWbEpjdXRUdE1JOFk?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOai11OTJMcUFBRVZKVmwwZzRSOVVPVkRNUzYxenZaR2Jod0hfVE12MlhGUW9zVW1lNXJOVGs4Vl81Mk9XU0JnVFpwRUJJaGFmaUpKbEdPV05kaldEV1VyMjRsVzhnOTVZbUpXMjBkMlJKLU1IZV9ES2RlZVlZQlZJM3NyOG1zSWRRdlpUVlk2SzJQV2dLVWxfWV9CdFgyNHNHT1pXc01oYkFDN1p0WFR4aXZIdmw3c0xTVUhEc2pmS2ZNUjBxcG94bFFZMjZJYnRwU0k2YkJIMHhqMUc5dzhRQ3dCdzMzeHNiaTZKeHRDSUJ3bk3SAYcCQVVfeXFMTlF0ck5Sd0NnMEJocFgtVTVWMXF1ZU9DUFhVTU5wdjRNcHF6MzdiY05TOEZuUnhUOERYSHc3SElKel91TTgxb3o5d3FUZ3FXRUZwdHowWFJFR2V0UDhmZ3VqMElScVlwYXNUUXpXQ1VfckxTWG9kcERrQ3JSc1B4NFNaaWZ4VzdLUWt4LUhDRE95cjNFOFczbU1KRWNUaG9ETjROaUhicFFMODFfV29Bcl8zOHdYdnAzUTAwaUJMbDZQS19seWQ4VHNpRjZWalAyQnFWYllEaFB5dnBKVlBXemYtMjRfVm0tbGl3RERZYWx2WG1FNXhiRk9zTHFWbEpjdXRUdE1JOFk",
@@ -46417,6 +46582,30 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-10-14 14:27"
+    },
+    {
+      "id": "2695dabe7d5b7fc5",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad01902a36542d986ef645752914278&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f09%2f10%2fllovizna-inunda-bypass-de-villa-maria-del-triunfo-y-restringen-el-transito-en-la-avenida-pachacutec%2f&c=14885752106282139944&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad01902a36542d986ef645752914278&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F09%2F10%2Fllovizna-inunda-bypass-de-villa-maria-del-triunfo-y-restringen-el-transito-en-la-avenida-pachacutec%2F&c=14885752106282139944&mkt=es-us",
+      "titulo": "Llovizna inunda bypass de Villa María del Triunfo y restringen el tránsito en la avenida Pachacútec",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-10",
+      "fecha_hecho": null,
+      "snippet": "El aniego obligó a restringir temporalmente el paso vehicular en la avenida Pachacútec. El nivel del agua llegó a superar la mitad de las llantas de algunos vehículos ...",
+      "temas": [
+        "Alcantarillado"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Villa María del Triunfo"
+      ],
+      "score": 3,
+      "query": "bing:aniego Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-14 19:06"
     },
     {
       "id": "9fd9ed79c5a13dd2",
@@ -51168,6 +51357,28 @@
       "agregado": "2026-10-14 14:27"
     },
     {
+      "id": "fdbf59086c7ede66",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0190443d1436cb4a430b0fe9da33f&url=https%3a%2f%2fgestion.pe%2fperu%2fpolitica%2fsedapal-designan-nuevo-presidente-del-directorio-tras-anuncio-de-reestructuracion-noticia%2f&c=8301890042631091685&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0190443d1436cb4a430b0fe9da33f&url=https%3A%2F%2Fgestion.pe%2Fperu%2Fpolitica%2Fsedapal-designan-nuevo-presidente-del-directorio-tras-anuncio-de-reestructuracion-noticia%2F&c=8301890042631091685&mkt=es-us",
+      "titulo": "Sedapal: designan nuevo presidente del directorio tras anuncio de reestructuración",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-05",
+      "fecha_hecho": null,
+      "snippet": "La designación se produce mientras Sedapal inicia una nueva etapa enfocada en mejorar la eficiencia de su gestión y la calidad del servicio.",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:Sedapal",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-14 19:06"
+    },
+    {
       "id": "742e7e4b13c79fe6",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTU9BczA0Z3pLWEt2TVhjVzl0aDJNVW1OSUQ4dUhLR0VIbDN5SHo1c3o0S3NXcTRwLXFscFBlXzZIUno0Z0QzMHFyaHBWNmg2Uzh3ckRoaVd0eEVOTFluOHgwbG1sZC1IQlVsWXMzcnk1ZnpUUV9NZm5RUGJkVm9uMlNrWXI5dklkSmhLcEZlRlQ5a28zd2dQeGFtellabGFRYVlUMkdFbTdLTC1YZmVpbWRYNm5sNkNMZm5JcjNISnlPa0hvQU1vb9IB4wFBVV95cUxNd3ozcXRoZVVObnU4YjJOR2gxS1NlZm9wZ0J3MW9CV0tFQ3RBbWpUSWlVWmJma3pZdXlENl9ob0lLNEQwWjFEbXRIOURQZXk2cVlpcC1qX0hyaFdJUTcwdllPdElzUV9tMzhHSG1yQnprNzdBeWZLNkxqM2hWLV83aGJ5bVFGdElGVE9sSWxFR1paXzkybGMxZENtVWl0d2hxZ21fd0dxdzBlVm9UWF8yTzZGVjFmb1MtTjNkM0FVcXlrMFhDOW1RQTBzVFNRU2k4WVEtdE9mOFpTZk5jOUVMWXFEdw?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTU9BczA0Z3pLWEt2TVhjVzl0aDJNVW1OSUQ4dUhLR0VIbDN5SHo1c3o0S3NXcTRwLXFscFBlXzZIUno0Z0QzMHFyaHBWNmg2Uzh3ckRoaVd0eEVOTFluOHgwbG1sZC1IQlVsWXMzcnk1ZnpUUV9NZm5RUGJkVm9uMlNrWXI5dklkSmhLcEZlRlQ5a28zd2dQeGFtellabGFRYVlUMkdFbTdLTC1YZmVpbWRYNm5sNkNMZm5JcjNISnlPa0hvQU1vb9IB4wFBVV95cUxNd3ozcXRoZVVObnU4YjJOR2gxS1NlZm9wZ0J3MW9CV0tFQ3RBbWpUSWlVWmJma3pZdXlENl9ob0lLNEQwWjFEbXRIOURQZXk2cVlpcC1qX0hyaFdJUTcwdllPdElzUV9tMzhHSG1yQnprNzdBeWZLNkxqM2hWLV83aGJ5bVFGdElGVE9sSWxFR1paXzkybGMxZENtVWl0d2hxZ21fd0dxdzBlVm9UWF8yTzZGVjFmb1MtTjNkM0FVcXlrMFhDOW1RQTBzVFNRU2k4WVEtdE9mOFpTZk5jOUVMWXFEdw",
@@ -54334,5 +54545,5 @@
       "descartar": false
     }
   ],
-  "n": 2315
+  "n": 2324
 }
