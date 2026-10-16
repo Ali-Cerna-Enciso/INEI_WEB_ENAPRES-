@@ -1,6 +1,6 @@
 {
   "mes": "2026-01",
-  "actualizado": "2026-10-16 04:29",
+  "actualizado": "2026-10-16 11:51",
   "items": [
     {
       "id": "8e0e04fef25e5005",
@@ -428,6 +428,28 @@
       "agregado": "2026-09-18 12:27",
       "tipo_fuente": "Noticias/reportes",
       "descartar": false
+    },
+    {
+      "id": "a30ab1e97084843b",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2560024964ce7ab8986e20f271f26&url=https%3a%2f%2fwww.telemundo.com%2fnoticias%2fnoticias-telemundo%2finmigracion%2flas-amenazas-de-muerte-no-bastan-el-caso-de-dos-periodistas-peruanos-m-rcna256581&c=13956002127180541753&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2560024964ce7ab8986e20f271f26&url=https%3A%2F%2Fwww.telemundo.com%2Fnoticias%2Fnoticias-telemundo%2Finmigracion%2Flas-amenazas-de-muerte-no-bastan-el-caso-de-dos-periodistas-peruanos-m-rcna256581&c=13956002127180541753&mkt=es-us",
+      "titulo": "\"Las amenazas de muerte no bastan\": el caso de dos periodistas peruanos muestra el endurecimiento del sistema de asilo",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-01-30",
+      "fecha_hecho": null,
+      "snippet": "Dos reporteros peruanos huyeron a Estados Unidos en 2023 luego de recibir amenazas de muerte y ser hostigados por su trabajo, pero la Junta de Apelaciones de Inmigración concluyó que no sufrieron ...",
+      "temas": [
+        "Amenazas e intimidaciones"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:\"amenazas de muerte\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-16 11:51"
     },
     {
       "id": "4e90f236ad486f49",
@@ -6290,6 +6312,29 @@
       "agregado": "2026-10-16 04:29"
     },
     {
+      "id": "8756767f91e420af",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad255e9c67c49b78c1332ccede4791a&url=https%3a%2f%2fwww.msn.com%2fes-xl%2fnoticias%2fother%2fper%25C3%25BA-reglamenta-ley-para-luchar-contra-extorsi%25C3%25B3n-y-sicariato%2far-AA1UtLTG&c=9098951137123133570&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad255e9c67c49b78c1332ccede4791a&url=https%3A%2F%2Fwww.msn.com%2Fes-xl%2Fnoticias%2Fother%2Fper%25C3%25BA-reglamenta-ley-para-luchar-contra-extorsi%25C3%25B3n-y-sicariato%2Far-AA1UtLTG&c=9098951137123133570&mkt=es-us",
+      "titulo": "Perú reglamenta ley para luchar contra extorsión y sicariato",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-01-18",
+      "fecha_hecho": null,
+      "snippet": "El Gobierno de Transición de Perú, que preside José Jerí, aprobó este domingo (18.01.2026) el reglamento de la nueva ley contra los delitos de extorsión y sicariato con lo que, aseguró, el Estado ...",
+      "temas": [
+        "Extorsión",
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 5,
+      "query": "bing:sicariato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-16 11:51"
+    },
+    {
       "id": "94ae5cdd005c8103",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aae1794c8b6469aa878ae5018d579a2&url=https%3a%2f%2fwww.telesurtv.net%2fperu-aprueba-ley-extorsion-sicariato%2f&c=11445771162653073536&mkt=es-us",
       "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aae1794c8b6469aa878ae5018d579a2&url=https%3A%2F%2Fwww.telesurtv.net%2Fperu-aprueba-ley-extorsion-sicariato%2F&c=11445771162653073536&mkt=es-us",
@@ -9999,5 +10044,5 @@
       "descartar": false
     }
   ],
-  "n": 443
+  "n": 445
 }
