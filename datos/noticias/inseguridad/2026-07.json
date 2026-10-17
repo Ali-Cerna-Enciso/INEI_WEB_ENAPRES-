@@ -1,6 +1,6 @@
 {
   "mes": "2026-07",
-  "actualizado": "2026-10-16 18:45",
+  "actualizado": "2026-10-17 04:00",
   "items": [
     {
       "id": "1afe8ca6c5860d94",
@@ -1458,6 +1458,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-16 18:45"
+    },
+    {
+      "id": "82e6879102bf58f8",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad33924081c409182dd6b1041f641a1&url=https%3a%2f%2fperu21.pe%2fpoliciales%2fmatan-sicario-de-los-pulpos-asi-fue-ejecutado-c-pekeno-video%2f&c=2506841691615170560&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad33924081c409182dd6b1041f641a1&url=https%3A%2F%2Fperu21.pe%2Fpoliciales%2Fmatan-sicario-de-los-pulpos-asi-fue-ejecutado-c-pekeno-video%2F&c=2506841691615170560&mkt=es-us",
+      "titulo": "MATAN A SICARIO DE 'LOS PULPOS': Así fue ejecutado 'C-Pekeño' (VIDEO)",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-07-26",
+      "fecha_hecho": null,
+      "snippet": "Le llegó el karma. Treinta balazos le pusieron fin a la vida de Minner Ramiro Sánchez Uriol, conocido como alias “C-Pekeño”, quien era señalado por la Policía Nacional como integrante de la ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:\"Los Pulpos\" Trujillo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-17 04:00"
     },
     {
       "id": "e0925cfb8de76bf4",
@@ -8450,5 +8472,5 @@
       "descartar": false
     }
   ],
-  "n": 370
+  "n": 371
 }

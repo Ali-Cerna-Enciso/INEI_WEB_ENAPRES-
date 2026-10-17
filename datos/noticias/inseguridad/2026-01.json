@@ -1,6 +1,6 @@
 {
   "mes": "2026-01",
-  "actualizado": "2026-10-16 18:45",
+  "actualizado": "2026-10-17 04:00",
   "items": [
     {
       "id": "8e0e04fef25e5005",
@@ -494,6 +494,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-16 18:45"
+    },
+    {
+      "id": "54082f90c5c302de",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad33922afeb46e0a42270260b194045&url=https%3a%2f%2fwww.telemundo.com%2fnoticias%2fnoticias-telemundo%2finmigracion%2flas-amenazas-de-muerte-no-bastan-el-caso-de-dos-periodistas-peruanos-m-rcna256581&c=13956002127180541753&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad33922afeb46e0a42270260b194045&url=https%3A%2F%2Fwww.telemundo.com%2Fnoticias%2Fnoticias-telemundo%2Finmigracion%2Flas-amenazas-de-muerte-no-bastan-el-caso-de-dos-periodistas-peruanos-m-rcna256581&c=13956002127180541753&mkt=es-us",
+      "titulo": "\"Las amenazas de muerte no bastan\": el caso de dos periodistas peruanos muestra el endurecimiento del sistema de asilo",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-01-30",
+      "fecha_hecho": null,
+      "snippet": "Dos reporteros peruanos huyeron a Estados Unidos en 2023 luego de recibir amenazas de muerte y ser hostigados por su trabajo, pero la Junta de Apelaciones de Inmigración concluyó que no sufrieron ...",
+      "temas": [
+        "Amenazas e intimidaciones"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:\"amenazas de muerte\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-17 04:00"
     },
     {
       "id": "4e90f236ad486f49",
@@ -10157,5 +10179,5 @@
       "descartar": false
     }
   ],
-  "n": 450
+  "n": 451
 }
