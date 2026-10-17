@@ -1,6 +1,6 @@
 {
   "mes": "2026-08",
-  "actualizado": "2026-10-17 04:02",
+  "actualizado": "2026-10-17 10:48",
   "items": [
     {
       "id": "bb9b57aa4ebf0c95",
@@ -2060,6 +2060,30 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-10-17 04:02"
+    },
+    {
+      "id": "5719475f24d84661",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad398ace807482e95d429dd584810cb&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f08%2f26%2ffenomeno-el-nino-epsel-intensifica-limpieza-y-ya-intervino-mas-de-300-km-de-alcantarillado-en-chiclayo%2f&c=16753412348295781182&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad398ace807482e95d429dd584810cb&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F08%2F26%2Ffenomeno-el-nino-epsel-intensifica-limpieza-y-ya-intervino-mas-de-300-km-de-alcantarillado-en-chiclayo%2F&c=16753412348295781182&mkt=es-us",
+      "titulo": "Fenómeno El Niño: EPSEL intensifica limpieza y ya intervino más de 300 km de alcantarillado en Chiclayo",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-26",
+      "fecha_hecho": null,
+      "snippet": "El Ministerio de Vivienda tendría a su cargo la operación y mantenimiento de los sistemas de evacuación pluvial de Chiclayo, como parte de una respuesta coordinada Por Marlon Carrasco Freitas Ante la ...",
+      "temas": [
+        "Alcantarillado"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Chiclayo"
+      ],
+      "score": 3,
+      "query": "bing:alcantarillado Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-17 10:48"
     },
     {
       "id": "c8924b0d4a406124",
@@ -4593,6 +4617,28 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-10-17 04:02"
+    },
+    {
+      "id": "7e64219fdd201cc7",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad398b69ef6464bbf1f1a8fdab94631&url=https%3a%2f%2fgestion.pe%2fperu%2fsismos-en-peru-estan-preparadas-las-redes-de-agua-y-saneamiento-noticia%2f&c=16114097099455607576&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad398b69ef6464bbf1f1a8fdab94631&url=https%3A%2F%2Fgestion.pe%2Fperu%2Fsismos-en-peru-estan-preparadas-las-redes-de-agua-y-saneamiento-noticia%2F&c=16114097099455607576&mkt=es-us",
+      "titulo": "Sismos en Perú: ¿están preparadas las redes de agua y saneamiento?",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-21",
+      "fecha_hecho": null,
+      "snippet": "Cuando ocurre un evento extremo, mantener operativo el servicio de agua potable y saneamiento depende de más factores que la disponibilidad del recurso. Las redes encargadas de transportarlo deben ...",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:\"agua y saneamiento\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-17 10:48"
     },
     {
       "id": "288c8e8ce8f1d39d",
@@ -11604,5 +11650,5 @@
       "descartar": false
     }
   ],
-  "n": 492
+  "n": 494
 }
