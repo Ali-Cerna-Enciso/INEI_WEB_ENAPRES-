@@ -1,6 +1,6 @@
 {
   "mes": "2026-10",
-  "actualizado": "2026-10-18 11:03",
+  "actualizado": "2026-10-18 13:07",
   "items": [
     {
       "id": "f2079c4384ae7dc5",
@@ -104,6 +104,52 @@
       "agregado": "2026-10-18 11:03"
     },
     {
+      "id": "7c2c6be9450968af",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad50aca0fbd4edc8a5fa393b6547792&url=https%3a%2f%2fwww.swissinfo.ch%2fspa%2fper%25c3%25ba-detiene-a-trece-miembros-de-una-organizaci%25c3%25b3n-criminal-vinculada-a-la-miner%25c3%25ada-ilegal%2f92235436&c=16760725980138849886&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad50aca0fbd4edc8a5fa393b6547792&url=https%3A%2F%2Fwww.swissinfo.ch%2Fspa%2Fper%25c3%25ba-detiene-a-trece-miembros-de-una-organizaci%25c3%25b3n-criminal-vinculada-a-la-miner%25c3%25ada-ilegal%2F92235436&c=16760725980138849886&mkt=es-us",
+      "titulo": "Perú detiene a trece miembros de una organización criminal vinculada a la minería ilegal",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-18",
+      "fecha_hecho": null,
+      "snippet": "Lima, 18 oct (EFE).- Fuerzas especiales de la Policía y el Ejército de Perú detuvieron a 13 presuntos integrantes de la organización criminal 'Los Guardianes de la Pampa', investigados por homicidio y ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 2,
+      "query": "bing:homicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-18 13:07"
+    },
+    {
+      "id": "a690d05c60197067",
+      "url": "https://diariocorreo.pe/peru/intervienen-a-1494-extranjeros-en-operativo-nacional-inmigrantes-extorsion-inseguridad-noticia/",
+      "url_canon": "https://diariocorreo.pe/peru/intervienen-a-1494-extranjeros-en-operativo-nacional-inmigrantes-extorsion-inseguridad-noticia",
+      "titulo": "Operativo nacional: Intervienen a 1,494 extranjeros en 17 regiones",
+      "fuente": "DiarioCorreo",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "feeds",
+      "fecha_pub": "2026-10-18",
+      "fecha_hecho": null,
+      "snippet": "Agentes señalaron que al menos 280 personas son infractoras de las normas migratorias. Mayoría de intervenidos son venezolanos",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 2,
+      "query": "feed:DiarioCorreo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-18 13:07"
+    },
+    {
       "id": "2eb2f6624e529d4e",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNWg5dnJuX2FyOUlKQ0V5QmxMWlVhcXctOFVEUmx1N0xha0RYVVpzVzZnQkRaNDdlbmJ6NzhJZmNFYWVyZUptbXlPSHJmR1A4UDZJb2hwQ1RyR05XLXFpdWUzRHFnbW9WMXRZRjUzc3Jibi1EZWtVUGVnYWpfNFMzLXkxQ1FYTF9aazFUb1VLMjVWU214cXhoNzhPZkpDZkFNZm9jUTJWb24tYVB2cUVOZEpoN2dVU0ExTmxLQ1oxR01IaGE4NVUxRU5B0gHeAUFVX3lxTE9DZ3Y0OEcwZDh3N0xPcFVSVnlkekJXR2V0eWM3NnRvWEVBQjh0ZXI5cXRoTWJscmRLXzRNS1VPZVdBNXY3WU91Mkp1dGY4dm5uTjFrSENMUlJZYi1sNW5iQ3RWVzhqeGVXamdPTFBEU1AyV0dtOEF6VDlKVGdkanhfc3Y4Z3ZwM1dWZ1FiLTd0d0RtQUp2ZG1RYXJVUWtUOEQyZ25lWWN1dXpKcUVnWlpub3d1R1Y4RWFqeXVyTzNsZW50TmxHRVR4Z0FRR1hPQ2dqUVk0bXRyTnJ3cWdnQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNWg5dnJuX2FyOUlKQ0V5QmxMWlVhcXctOFVEUmx1N0xha0RYVVpzVzZnQkRaNDdlbmJ6NzhJZmNFYWVyZUptbXlPSHJmR1A4UDZJb2hwQ1RyR05XLXFpdWUzRHFnbW9WMXRZRjUzc3Jibi1EZWtVUGVnYWpfNFMzLXkxQ1FYTF9aazFUb1VLMjVWU214cXhoNzhPZkpDZkFNZm9jUTJWb24tYVB2cUVOZEpoN2dVU0ExTmxLQ1oxR01IaGE4NVUxRU5B0gHeAUFVX3lxTE9DZ3Y0OEcwZDh3N0xPcFVSVnlkekJXR2V0eWM3NnRvWEVBQjh0ZXI5cXRoTWJscmRLXzRNS1VPZVdBNXY3WU91Mkp1dGY4dm5uTjFrSENMUlJZYi1sNW5iQ3RWVzhqeGVXamdPTFBEU1AyV0dtOEF6VDlKVGdkanhfc3Y4Z3ZwM1dWZ1FiLTd0d0RtQUp2ZG1RYXJVUWtUOEQyZ25lWWN1dXpKcUVnWlpub3d1R1Y4RWFqeXVyTzNsZW50TmxHRVR4Z0FRR1hPQ2dqUVk0bXRyTnJ3cWdnQQ",
@@ -148,6 +194,31 @@
       "agregado": "2026-10-18 11:03"
     },
     {
+      "id": "ffbc441c80e266b1",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNS1ZVUlVqWlNGWWRWSGR5TGFGbGhScWgzd1hpYWJvMmNMM0V0akE0MUEwaHBpSlUwalpzc1NidEZOQjFhcTY1bnFrWDJfY2MwWkgzT3NNVE4tSXRTbWlHeEZST19JUEpGbUlWSTh6dVVQUlo2NVlGLUN2Wm5nZGVUb1Q4SzVlZnFoVG1zbFJaSVQ5WVpBWUo3cEZxN3pQcHBWMHV6RmxaWGk5RENNVjJkbDJwRE9iMlg5VlFqczBES2FXUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNS1ZVUlVqWlNGWWRWSGR5TGFGbGhScWgzd1hpYWJvMmNMM0V0akE0MUEwaHBpSlUwalpzc1NidEZOQjFhcTY1bnFrWDJfY2MwWkgzT3NNVE4tSXRTbWlHeEZST19JUEpGbUlWSTh6dVVQUlo2NVlGLUN2Wm5nZGVUb1Q4SzVlZnFoVG1zbFJaSVQ5WVpBWUo3cEZxN3pQcHBWMHV6RmxaWGk5RENNVjJkbDJwRE9iMlg5VlFqczBES2FXUQ",
+      "titulo": "La policía desmantela red de extorsión ‘Al Qaeda’ que amenazaba a transportistas en Lima y Callao - Uruguay Al Día",
+      "fuente": "Uruguay Al Día",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-10-18",
+      "fecha_hecho": null,
+      "snippet": "La policía desmantela red de extorsión ‘Al Qaeda’ que amenazaba a transportistas en Lima y Callao Uruguay Al Día",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Callao",
+        "Lima"
+      ],
+      "score": 3,
+      "query": "extorsión Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-18 13:06"
+    },
+    {
       "id": "9828a6cf592dc18e",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRFprVGd3dTdzZHRuZk9sZHA5RlBfVGJ5V1hUYmdpbU5YUmcwV1BIaHNEWGVNdDAzVmRqZHZsQmlHMkFUcW5aYTdHRU1FVjl4aEFqTUZmcGx3WVVSMVVBWFF0d0pzT0hWODNtLTVXMmt5YnBFUURiR0JVdFZSSEN3TlhXUFFMM04xWFdkRHJlOGhxMnJCNi1HWl9YZG5DZF9HaXFzSTNTT01hWTM4anZtdUJScEtQZ2p0Zzk2OWF5NDA5RVg1SGtvck1n?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRFprVGd3dTdzZHRuZk9sZHA5RlBfVGJ5V1hUYmdpbU5YUmcwV1BIaHNEWGVNdDAzVmRqZHZsQmlHMkFUcW5aYTdHRU1FVjl4aEFqTUZmcGx3WVVSMVVBWFF0d0pzT0hWODNtLTVXMmt5YnBFUURiR0JVdFZSSEN3TlhXUFFMM04xWFdkRHJlOGhxMnJCNi1HWl9YZG5DZF9HaXFzSTNTT01hWTM4anZtdUJScEtQZ2p0Zzk2OWF5NDA5RVg1SGtvck1n",
@@ -181,12 +252,11 @@
       "fecha_hecho": null,
       "snippet": "El excongresista Jorge Montoya sostuvo que se requieren entre tres y cuatro meses, como mínimo, para que las medidas contra la criminalidad organizada produzcan una reducción sustancial de delitos como la extorsión y el ",
       "temas": [
-        "Extorsión",
-        "Homicidio / sicariato"
+        "Extorsión"
       ],
       "descartar": false,
       "ubigeo": [],
-      "score": 3,
+      "score": 2,
       "query": "feed:Andina",
       "area": "inseguridad",
       "cluster_id": null,
@@ -327,6 +397,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-18 11:03"
+    },
+    {
+      "id": "4a4643de8c91cfeb",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdFhxR3lqRzNSbjM4MkdRejVnZVM0aTRnNFY1b2U1T1RWMU96NlhRbFhubWQ5WVllNllnRmJVd1QtaFF2SHgwNEVjRFRVWVZycUxYV3JDY0pYQ1ZTV09PcVllQkdTWGNvR3lETTNEY3o1OWw4N1F0dTk0TjQtWkQ1RS1tYm1HVUhTX2FDdmw2UElLVFUzclM3dkdhVjMtcWRPVDVTZXJLMzhpYnFrdFR2Q0ZoLU4teDgzR1Z6bDBaT2t3OHA0RzRDWnk5VdIB0AFBVV95cUxQYXpFdnNxc1hueGNRSnMybWh2RDF6MWxzOEFVMXhEUnVQdkFUWVB4emhROVd2M0I4cUxLcWNLRWNDMENRSjJWYlg1cWgzbktGZHNHR0FNMm9YeWJudk4yN2VGb1NQbjFyeVlCQWlyc1oxWmJjczd2eFBZWmpPTkZFa0NmZVJBVkQ3dDRBMDdaUmFsbEo2aWd6UXBkazcwRjVRTUZyQ2FVVnRRdEthUjBfYjR6RVYwd0tCSjJJWW5aOU5NdEp3R1lWZjhGdUF1RUx2?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdFhxR3lqRzNSbjM4MkdRejVnZVM0aTRnNFY1b2U1T1RWMU96NlhRbFhubWQ5WVllNllnRmJVd1QtaFF2SHgwNEVjRFRVWVZycUxYV3JDY0pYQ1ZTV09PcVllQkdTWGNvR3lETTNEY3o1OWw4N1F0dTk0TjQtWkQ1RS1tYm1HVUhTX2FDdmw2UElLVFUzclM3dkdhVjMtcWRPVDVTZXJLMzhpYnFrdFR2Q0ZoLU4teDgzR1Z6bDBaT2t3OHA0RzRDWnk5VdIB0AFBVV95cUxQYXpFdnNxc1hueGNRSnMybWh2RDF6MWxzOEFVMXhEUnVQdkFUWVB4emhROVd2M0I4cUxLcWNLRWNDMENRSjJWYlg1cWgzbktGZHNHR0FNMm9YeWJudk4yN2VGb1NQbjFyeVlCQWlyc1oxWmJjczd2eFBZWmpPTkZFa0NmZVJBVkQ3dDRBMDdaUmFsbEo2aWd6UXBkazcwRjVRTUZyQ2FVVnRRdEthUjBfYjR6RVYwd0tCSjJJWW5aOU5NdEp3R1lWZjhGdUF1RUx2",
+      "titulo": "Dictan prisión preventiva contra médico por el feminicidio de enfermera en Bagua Grande - América TV",
+      "fuente": "América TV",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-10-18",
+      "fecha_hecho": null,
+      "snippet": "Dictan prisión preventiva contra médico por el feminicidio de enfermera en Bagua Grande América TV",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "feminicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-18 13:06"
     },
     {
       "id": "6802de2903534ba9",
@@ -742,6 +834,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-18 11:03"
+    },
+    {
+      "id": "0ceba6e9c6abbe20",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad50adf84114e2aaa67d8b10dfc3fa1&url=https%3a%2f%2fdiariocorreo.pe%2fedicion%2fla-libertad%2foperaciones-militares-contra-los-pulpos-y-la-jauria-trujillo-la-libertad-peru-noticia%2f&c=16674506189847730601&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad50adf84114e2aaa67d8b10dfc3fa1&url=https%3A%2F%2Fdiariocorreo.pe%2Fedicion%2Fla-libertad%2Foperaciones-militares-contra-los-pulpos-y-la-jauria-trujillo-la-libertad-peru-noticia%2F&c=16674506189847730601&mkt=es-us",
+      "titulo": "Operaciones militares contra “Los Pulpos” y “La Jauría”",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-17",
+      "fecha_hecho": null,
+      "snippet": "Así lo planteó el ministro de Defensa tras sostener que las organizaciones criminales ya superaron la capacidad de fuego de la PNP ...",
+      "temas": [
+        "Asalto a mano armada"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 2,
+      "query": "bing:\"Los Pulpos\" Trujillo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-18 13:07"
     },
     {
       "id": "7e5ee5a2afb7df21",
@@ -1557,6 +1671,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-18 11:03"
+    },
+    {
+      "id": "2277728d0282a369",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad50ac9c1df43b7b3e7945de607f48a&url=https%3a%2f%2fwww.msn.com%2fes-ve%2fnoticias%2fotras%2fsomos-1610-2026-per%25C3%25BA-exigen-justicia-por-asesinato-del-joven-rapero-truko%2fvi-AA2epCo9&c=6102796202604496123&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad50ac9c1df43b7b3e7945de607f48a&url=https%3A%2F%2Fwww.msn.com%2Fes-ve%2Fnoticias%2Fotras%2Fsomos-1610-2026-per%25C3%25BA-exigen-justicia-por-asesinato-del-joven-rapero-truko%2Fvi-AA2epCo9&c=6102796202604496123&mkt=es-us",
+      "titulo": "Somos 16/10/2026 | Perú: Exigen justicia por asesinato del joven rapero TRuKO",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-16",
+      "fecha_hecho": null,
+      "snippet": "En Perú, los familiares y amigos de Mauricio Ruíz, un joven cantante de hip hop conocido como TRuKO, exigen justicia a un año de haber sido asesinado por un policía vestido de civil durante las protes ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 2,
+      "query": "bing:asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-18 13:07"
     },
     {
       "id": "d14895e6527cb678",
@@ -2958,6 +3094,28 @@
       "agregado": "2026-10-18 11:03"
     },
     {
+      "id": "d9ba3592a7aef46e",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad50aca0fbd4edc8a5fa393b6547792&url=https%3a%2f%2frpp.pe%2flima%2fjudiciales%2flima-sera-sede-del-primer-congreso-sobre-condenas-injustas-y-error-judicial-sabado-17-de-octubre-noticia-1712950&c=8222093208449036548&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad50aca0fbd4edc8a5fa393b6547792&url=https%3A%2F%2Frpp.pe%2Flima%2Fjudiciales%2Flima-sera-sede-del-primer-congreso-sobre-condenas-injustas-y-error-judicial-sabado-17-de-octubre-noticia-1712950&c=8222093208449036548&mkt=es-us",
+      "titulo": "Condenas injustas en Perú: realizarán congreso con testimonio de hombre acusado de homicidio",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-16",
+      "fecha_hecho": null,
+      "snippet": "El evento contará con el relato de Henry Zuñiga Canahuire, hombre víctima de un error judicial, según el abogado penalista Juan Ortíz Benites.",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:homicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-18 13:07"
+    },
+    {
       "id": "fb3337383243020f",
       "url": "https://rpp.pe/lima/policiales/cercado-taxista-es-asesinado-cuando-iba-a-trasladar-a-unos-pasajeros-en-la-avenida-colonial-noticia-1713062",
       "url_canon": "https://rpp.pe/lima/policiales/cercado-taxista-es-asesinado-cuando-iba-a-trasladar-a-unos-pasajeros-en-la-avenida-colonial-noticia-1713062",
@@ -4276,6 +4434,31 @@
       "agregado": "2026-10-18 11:03"
     },
     {
+      "id": "3c9e4ed3be5b48f5",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad50ada62d947bcb0439ed86208ec25&url=https%3a%2f%2fwww.expreso.com.pe%2factualidad%2foperativo-policial-en-los-olivos-agentes-abaten-a-delincuente-y-dejan-herido-a-su-complice-tras-frustrar-asalto-a-mano-armada-todos-los-detalles-noticia%2f1322974%2f&c=15590329643182295678&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad50ada62d947bcb0439ed86208ec25&url=https%3A%2F%2Fwww.expreso.com.pe%2Factualidad%2Foperativo-policial-en-los-olivos-agentes-abaten-a-delincuente-y-dejan-herido-a-su-complice-tras-frustrar-asalto-a-mano-armada-todos-los-detalles-noticia%2F1322974%2F&c=15590329643182295678&mkt=es-us",
+      "titulo": "Operativo policial en Los Olivos: agentes abaten a delincuente y dejan herido a su cómplice tras frustrar asalto a mano armada | Todos los detalles",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-15",
+      "fecha_hecho": null,
+      "snippet": "La Policía abate a un presunto delincuente y deja herido a su cómplice en un tiroteo en el límite de Puente Piedra y Los Olivos.",
+      "temas": [
+        "Asalto a mano armada"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Los Olivos",
+        "Puente Piedra"
+      ],
+      "score": 3,
+      "query": "bing:\"mano armada\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-18 13:07"
+    },
+    {
       "id": "0ac28e30f16d783e",
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVXJtbGlRLTBhMWZqNUdzR0tHRk1IVnBVdlVZNy1FZklNZHZ6NjN4UTUxZmxiZlBPSi1vYzlEY3VraWNLOEpfQzNPRUxQSm1KNzNBVUtqWmVZc0JFei1FeHhzbS15cktrVXVEb21UOVAzMC1ZZnAwb2thalRYMFppM29JbjB1VG0yckxvT2J4Y3FOS3V2U0JaNk51MG1KR01mdHE5MWZDR3pndXpxaU5tYl9yeHNUUnRDWjVMaGdHYlFLR1EzdHZ1RnB4dkVtQUVyMEx4NXo5WFJkT3BaZDVXTW1LR1hUVy14dnd3QnZmdk1LS1dQeEE?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVXJtbGlRLTBhMWZqNUdzR0tHRk1IVnBVdlVZNy1FZklNZHZ6NjN4UTUxZmxiZlBPSi1vYzlEY3VraWNLOEpfQzNPRUxQSm1KNzNBVUtqWmVZc0JFei1FeHhzbS15cktrVXVEb21UOVAzMC1ZZnAwb2thalRYMFppM29JbjB1VG0yckxvT2J4Y3FOS3V2U0JaNk51MG1KR01mdHE5MWZDR3pndXpxaU5tYl9yeHNUUnRDWjVMaGdHYlFLR1EzdHZ1RnB4dkVtQUVyMEx4NXo5WFJkT3BaZDVXTW1LR1hUVy14dnd3QnZmdk1LS1dQeEE",
@@ -5066,6 +5249,28 @@
       "agregado": "2026-10-18 11:03"
     },
     {
+      "id": "edd7f219cb8348d6",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad50aca0fbd4edc8a5fa393b6547792&url=https%3a%2f%2fes-us.noticias.yahoo.com%2ffalso-tasa-homicidios-per%25C3%25BA-14-172328027.html&c=122694740443112944&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad50aca0fbd4edc8a5fa393b6547792&url=https%3A%2F%2Fes-us.noticias.yahoo.com%2Ffalso-tasa-homicidios-per%25C3%25BA-14-172328027.html&c=122694740443112944&mkt=es-us",
+      "titulo": "Es falso que la tasa de homicidios en el Perú sea de 14 por cada 100,000 habitantes, como dijo Alejandro Aguinaga",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-15",
+      "fecha_hecho": null,
+      "snippet": "Durante una sesión del Pleno del Senado de la República, Alejandro Aguinaga, senador de Fuerza Popular, hizo referencia a la actual tasa de homicidios en el Perú. Textualmente, Aguinaga indicó lo sigu ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:homicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-18 13:07"
+    },
+    {
       "id": "bfe672cc35366b0a",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY0toeDc2ODFhdjM5STA4dGNSdXU3VDlKZDQySEQwY2hIMkxfQ2U4TWtBanFOV0swdHRDTjV6OEZLLWpHcXhTODU5YnFETGRnUFUwYWVBOHdVY2ZMeXg3SEJseXZjVG00ZmZFY1RIeF9YV2VGVnc2SFNUbDVzVkk1QldVSmVJTXJ6Y2Y0eGVCakNXTVFNMEVQcnBsNG40MFBHUmpJemV1N3VIczdtSVRVSkU5Wm1JTTA0d2FZMnVyMlZodw?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY0toeDc2ODFhdjM5STA4dGNSdXU3VDlKZDQySEQwY2hIMkxfQ2U4TWtBanFOV0swdHRDTjV6OEZLLWpHcXhTODU5YnFETGRnUFUwYWVBOHdVY2ZMeXg3SEJseXZjVG00ZmZFY1RIeF9YV2VGVnc2SFNUbDVzVkk1QldVSmVJTXJ6Y2Y0eGVCakNXTVFNMEVQcnBsNG40MFBHUmpJemV1N3VIczdtSVRVSkU5Wm1JTTA0d2FZMnVyMlZodw",
@@ -5262,6 +5467,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-18 11:03"
+    },
+    {
+      "id": "3427bebcae792deb",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad50ac9c1df43b7b3e7945de607f48a&url=https%3a%2f%2fwww.msn.com%2fes-ve%2fnoticias%2fother%2fen-per%25C3%25BA-familiares-y-amigos-exigen-justicia-por-el-asesinato-de-un-joven-cantante%2fvi-AA2emqVD&c=9558473852662741099&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad50ac9c1df43b7b3e7945de607f48a&url=https%3A%2F%2Fwww.msn.com%2Fes-ve%2Fnoticias%2Fother%2Fen-per%25C3%25BA-familiares-y-amigos-exigen-justicia-por-el-asesinato-de-un-joven-cantante%2Fvi-AA2emqVD&c=9558473852662741099&mkt=es-us",
+      "titulo": "En Perú, familiares y amigos exigen justicia por el asesinato de un joven cantante",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-15",
+      "fecha_hecho": null,
+      "snippet": "En Perú, familiares y amigos de Mauricio Ruiz, conocido como Trvko, exigen justicia a un año de su asesinato durante las protestas. El caso reaviva los reclamos por verdad y responsabilidad policial.",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-18 13:07"
     },
     {
       "id": "5dca551e9e6ccb10",
@@ -6084,6 +6311,31 @@
       "agregado": "2026-10-18 11:03"
     },
     {
+      "id": "73f14a1f0297767b",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad50ac9c1df43b7b3e7945de607f48a&url=https%3a%2f%2felcomercio.pe%2fperu%2fadrian-solis-la-pieza-clave-implicada-en-el-asesinato-de-china-polo-capturado-pero-no-podra-ser-extraditado-al-peru-noticia%2f&c=12656103020938758657&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad50ac9c1df43b7b3e7945de607f48a&url=https%3A%2F%2Felcomercio.pe%2Fperu%2Fadrian-solis-la-pieza-clave-implicada-en-el-asesinato-de-china-polo-capturado-pero-no-podra-ser-extraditado-al-peru-noticia%2F&c=12656103020938758657&mkt=es-us",
+      "titulo": "Adrián Solís, la pieza clave implicada en el asesinato de ‘China Polo’: capturado, pero no podrá ser extraditado al Perú",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-15",
+      "fecha_hecho": null,
+      "snippet": "Adrián Solís Ruiz, señalado como cabecilla de la organización criminal contratada para asesinar a la candidata al Gobierno Regional de Áncash, fue detenido el pasado 9 de octubre. Fuentes policiales e ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Áncash",
+        "Ancash"
+      ],
+      "score": 3,
+      "query": "bing:asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-18 13:07"
+    },
+    {
       "id": "5b7479830af5223e",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad255ebd6af4ec7ba204ea797d44846&url=https%3a%2f%2fperu21.pe%2fpoliciales%2fcallao-adolescente-de-13-anos-acusado-de-asesinar-chofer-fue-entregado-su-familia%2f&c=4615754472673542043&mkt=es-us",
       "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad255ebd6af4ec7ba204ea797d44846&url=https%3A%2F%2Fperu21.pe%2Fpoliciales%2Fcallao-adolescente-de-13-anos-acusado-de-asesinar-chofer-fue-entregado-su-familia%2F&c=4615754472673542043&mkt=es-us",
@@ -6764,6 +7016,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-18 11:03"
+    },
+    {
+      "id": "27d92a9d00b12857",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad50aceb2f940feb650e9ec36456244&url=https%3a%2f%2felpopular.pe%2factualidad%2f2026%2f10%2f14%2falerta-de-estafa-onpe-advierte-sobre-un-falso-link-de-los-s165-para-miembros-de-mesa-revisa-aqui-el-enlace-oficial-1139236&c=11726756986308688719&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad50aceb2f940feb650e9ec36456244&url=https%3A%2F%2Felpopular.pe%2Factualidad%2F2026%2F10%2F14%2Falerta-de-estafa-onpe-advierte-sobre-un-falso-link-de-los-s165-para-miembros-de-mesa-revisa-aqui-el-enlace-oficial-1139236&c=11726756986308688719&mkt=es-us",
+      "titulo": "¡ALERTA DE ESTAFA! ONPE advierte sobre un FALSO LINK de los S/165 para miembros de mesa: REVISA AQUÍ el enlace oficial",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-14",
+      "fecha_hecho": null,
+      "snippet": "La ONPE alertó sobre una página falsa que difunde información sobre los S/165 para miembros de mesa y recomendó consultar únicamente sus canales oficiales.",
+      "temas": [
+        "Estafa"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:estafa Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-18 13:07"
     },
     {
       "id": "6e44f5a6401174dc",
@@ -8487,6 +8761,30 @@
       "agregado": "2026-10-18 11:03"
     },
     {
+      "id": "336c3d28fa119ba3",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad50abc92e242339c12a27d67be6f8d&url=https%3a%2f%2fwww.elnacional.com%2f2026%2f10%2fdetienen-en-lima-a-seis-venezolanos-senalados-como-miembros-de-banda-dedicada-a-extorsiones%2f&c=13032147639358645021&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad50abc92e242339c12a27d67be6f8d&url=https%3A%2F%2Fwww.elnacional.com%2F2026%2F10%2Fdetienen-en-lima-a-seis-venezolanos-senalados-como-miembros-de-banda-dedicada-a-extorsiones%2F&c=13032147639358645021&mkt=es-us",
+      "titulo": "Detienen en Lima a seis venezolanos señalados como miembros de banda dedicada a extorsiones",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-14",
+      "fecha_hecho": null,
+      "snippet": "El Ministerio de Interior de Perú anunció la detención de seis venezolanos por la extorsión de unidades de transporte público en Lima.",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:extorsión Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-18 13:07"
+    },
+    {
       "id": "d0f0790db0ebb357",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOazNiSkhnWE9vZHR3cXBFVHAxel8wY0o2cGJHTXh3LWtjUERiT0l4SXNWdGlNUC1hZVlGX3JMWlo5NVBlMkRrc0tBbGhqU3R2dHJZem5COWNTTUU3QkhadWhoSXpIa21ZLWx4dWJPeXlvODM1YUZibFA2UVVVTndEZGt5bkNJaWJ6Z29sTXBjZUVxc2JnREhjTFFUd1N0bl9QTzVINmRicTRjRjZTZW40TVlEajE2ZXBsVUVVaWRuR0xybGVERDJXbXRGMDRwelpMSnNj?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOazNiSkhnWE9vZHR3cXBFVHAxel8wY0o2cGJHTXh3LWtjUERiT0l4SXNWdGlNUC1hZVlGX3JMWlo5NVBlMkRrc0tBbGhqU3R2dHJZem5COWNTTUU3QkhadWhoSXpIa21ZLWx4dWJPeXlvODM1YUZibFA2UVVVTndEZGt5bkNJaWJ6Z29sTXBjZUVxc2JnREhjTFFUd1N0bl9QTzVINmRicTRjRjZTZW40TVlEajE2ZXBsVUVVaWRuR0xybGVERDJXbXRGMDRwelpMSnNj",
@@ -9722,6 +10020,28 @@
       "agregado": "2026-10-18 04:17"
     },
     {
+      "id": "91946370f515cb79",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad50ac9c1df43b7b3e7945de607f48a&url=https%3a%2f%2fwww.eltribuno.com%2fpoliciales%2f2026-10-13-18-23-0-triple-crimen-de-florencio-varela-detuvieron-en-peru-a-papa-el-narco-vinculado-con-el-asesinato-de-las-jovenes&c=12932372110703188530&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad50ac9c1df43b7b3e7945de607f48a&url=https%3A%2F%2Fwww.eltribuno.com%2Fpoliciales%2F2026-10-13-18-23-0-triple-crimen-de-florencio-varela-detuvieron-en-peru-a-papa-el-narco-vinculado-con-el-asesinato-de-las-jovenes&c=12932372110703188530&mkt=es-us",
+      "titulo": "Triple crimen de Florencio Varela: detuvieron en Perú a “Papá”, el narco vinculado con el asesinato de las jóvenes",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-13",
+      "fecha_hecho": null,
+      "snippet": "Luis Alan Valverde Rodríguez, tío de “Pequeño Jota”, tenía un pedido de captura internacional por su presunta participación en el asesinato de Morena Verdi, Brenda Loreley del Castillo y Lara Morena G ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-18 13:07"
+    },
+    {
       "id": "aff909bdf7641e37",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNkhzdURGc0Z5U2o2ZXpqUmkxMkFfeWxwZ2dGdWVUTVdIVndrSWlLRjNNLXFqSElhSHV3MWgxaTk1RFo0UndNNGNaeG0zWko4bVJ1cmFFTDhTc0FtNEhnRHM2Qm1iTjAwVDA0MmM5NjJDcm1XbUxUS3NWZlE1RFp4Q2tTcEF3MlhKMkwxVVhjZVpqcVFRLVFIdFZJX2dKdjh2ZzRNZzZfU3E5dw?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNkhzdURGc0Z5U2o2ZXpqUmkxMkFfeWxwZ2dGdWVUTVdIVndrSWlLRjNNLXFqSElhSHV3MWgxaTk1RFo0UndNNGNaeG0zWko4bVJ1cmFFTDhTc0FtNEhnRHM2Qm1iTjAwVDA0MmM5NjJDcm1XbUxUS3NWZlE1RFp4Q2tTcEF3MlhKMkwxVVhjZVpqcVFRLVFIdFZJX2dKdjh2ZzRNZzZfU3E5dw",
@@ -10412,6 +10732,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-18 11:03"
+    },
+    {
+      "id": "fb901aa2e71904ac",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad50ac209474ceba1d8ffcf5f480fff&url=https%3a%2f%2flarepublica.pe%2fsociedad%2f2026%2f10%2f13%2fperu-registra-una-denuncia-por-secuestro-cada-93-minutos-septiembre-alcanzo-el-pico-de-2026-1163279&c=11686767648526026119&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad50ac209474ceba1d8ffcf5f480fff&url=https%3A%2F%2Flarepublica.pe%2Fsociedad%2F2026%2F10%2F13%2Fperu-registra-una-denuncia-por-secuestro-cada-93-minutos-septiembre-alcanzo-el-pico-de-2026-1163279&c=11686767648526026119&mkt=es-us",
+      "titulo": "Perú registra una denuncia por secuestro cada hora y media: septiembre alcanzó su pico de 2026",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-13",
+      "fecha_hecho": null,
+      "snippet": "El Ministerio Público recibió 463 denuncias por secuestro durante septiembre, el registro mensual más alto del año. Entre enero y ese mes, los casos sumaron 3.910. El incremento se refleja en raptos d ...",
+      "temas": [
+        "Secuestro"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:secuestro Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-18 13:07"
     },
     {
       "id": "b2c1ccd510c920c1",
@@ -11496,6 +11838,30 @@
       "agregado": "2026-10-18 11:03"
     },
     {
+      "id": "c1a643cac99e42ad",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad50acc555743779d278423b06e531b&url=https%3a%2f%2fwww.abc.com.py%2finternacionales%2f2026%2f10%2f13%2fla-policia-peruana-detiene-a-presunto-autor-intelectual-de-triple-feminicidio-en-argentina%2f&c=6694867713356535236&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad50acc555743779d278423b06e531b&url=https%3A%2F%2Fwww.abc.com.py%2Finternacionales%2F2026%2F10%2F13%2Fla-policia-peruana-detiene-a-presunto-autor-intelectual-de-triple-feminicidio-en-argentina%2F&c=6694867713356535236&mkt=es-us",
+      "titulo": "La Policía peruana detiene a presunto autor intelectual de triple feminicidio en Argentina",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-13",
+      "fecha_hecho": null,
+      "snippet": "Lima, 13 oct (EFE).- La Policía Nacional del Perú (PNP) detuvo a un ciudadano peruano identificado como Luis Alan Valverde Rodríguez, quien contaba con una alerta roja de búsqueda internacional de la ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:feminicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-18 13:07"
+    },
+    {
       "id": "9ef7e65338985871",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNc1IwaGhZcl8tWTVLc3pSRzFRMGNHNXVyRHR1Wmh1b2VudC12bWhzdmZ3UlNaa0dFTlc2dkxqY3IydHpkRGlsY0hZNGVIcHJsVjVob3F3QWhoOWVpek9UOWVYNU0tdE5obVlMMlFWSXVNMXJtQUxUUmhHUGpGMm1ibHdsNXZNZUJaRW1pYl9XMUhIVHJQdnJOSzdZNVVScWxXOFhFUXI3N09XZUgtSFVETmlsR1FJRFlUY2xLUngyRFg?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNc1IwaGhZcl8tWTVLc3pSRzFRMGNHNXVyRHR1Wmh1b2VudC12bWhzdmZ3UlNaa0dFTlc2dkxqY3IydHpkRGlsY0hZNGVIcHJsVjVob3F3QWhoOWVpek9UOWVYNU0tdE5obVlMMlFWSXVNMXJtQUxUUmhHUGpGMm1ibHdsNXZNZUJaRW1pYl9XMUhIVHJQdnJOSzdZNVVScWxXOFhFUXI3N09XZUgtSFVETmlsR1FJRFlUY2xLUngyRFg",
@@ -12534,6 +12900,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-18 11:03"
+    },
+    {
+      "id": "5c17a3418b3bb8e0",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad50abc92e242339c12a27d67be6f8d&url=https%3a%2f%2fwww.el-carabobeno.com%2fdetenidos-6-venezolanos-en-peru-como-presuntos-miembros-de-banda-dedicada-a-extorsiones%2f&c=9201127489710056165&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad50abc92e242339c12a27d67be6f8d&url=https%3A%2F%2Fwww.el-carabobeno.com%2Fdetenidos-6-venezolanos-en-peru-como-presuntos-miembros-de-banda-dedicada-a-extorsiones%2F&c=9201127489710056165&mkt=es-us",
+      "titulo": "Detenidos 6 venezolanos en Perú como presuntos miembros de banda dedicada a extorsiones",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-13",
+      "fecha_hecho": null,
+      "snippet": "Seis hombres de nacionalidad venezolana fueron detenidos este martes en Perú por presuntamente integrar una banda criminal dedicada a la extorsión de autobuses de transporte urbano en la capital, Lima ...",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:extorsión Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-18 13:07"
     },
     {
       "id": "50d4fd5f508c6e58",
@@ -13688,6 +14078,28 @@
       "agregado": "2026-10-17 12:54"
     },
     {
+      "id": "ceb705ec553e227f",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad50acc555743779d278423b06e531b&url=https%3a%2f%2fdiariocorreo.pe%2fperu%2fcapturan-en-huachipa-a-tio-de-pequeno-j-acusado-por-triple-feminicidio-en-argentina-noticia%2f&c=2833745093833328369&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad50acc555743779d278423b06e531b&url=https%3A%2F%2Fdiariocorreo.pe%2Fperu%2Fcapturan-en-huachipa-a-tio-de-pequeno-j-acusado-por-triple-feminicidio-en-argentina-noticia%2F&c=2833745093833328369&mkt=es-us",
+      "titulo": "Capturan en Huachipa a tío de ‘Pequeño J’, acusado por triple feminicidio en Argentina",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-13",
+      "fecha_hecho": null,
+      "snippet": "Luis Alan Valverde Rodríguez, alias ‘Papá’, tenía una notificación roja de Interpol por homicidio agravado. Es señalado como presunto cabecilla de una organización vinculada al narcotráfico y será som ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:feminicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-18 13:07"
+    },
+    {
       "id": "9277bc57a531db66",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORTdaSE5RRVljRFVIOUJ5MWJjR2ZvRnRudmFnNDFDaU4xdjU1Qk13c0xBbkN1MkF2R1I4Mk4zUkZfN1dsTlNmODZWTE1nd0tRZFhHOTIxUWVyZWRXbmNXcnduOUtPbnJ5d2xsN2lheWxzM1FEUEZrYVpaaVd0RzlZOG1fUVRKT1JJVzhiVk5BMUVyMTRfb2FDUGRn?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORTdaSE5RRVljRFVIOUJ5MWJjR2ZvRnRudmFnNDFDaU4xdjU1Qk13c0xBbkN1MkF2R1I4Mk4zUkZfN1dsTlNmODZWTE1nd0tRZFhHOTIxUWVyZWRXbmNXcnduOUtPbnJ5d2xsN2lheWxzM1FEUEZrYVpaaVd0RzlZOG1fUVRKT1JJVzhiVk5BMUVyMTRfb2FDUGRn",
@@ -14091,6 +14503,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-17 04:00"
+    },
+    {
+      "id": "61120e133e0b9fc9",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad50aceb2f940feb650e9ec36456244&url=https%3a%2f%2felpopular.pe%2factualidad%2fnoticias-peru%2f2026%2f10%2f13%2falerta-por-estafa-digital-reportar-clonacion-de-redes-sociales-de-restaurante-foto-241969&c=13080593819038997520&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad50aceb2f940feb650e9ec36456244&url=https%3A%2F%2Felpopular.pe%2Factualidad%2Fnoticias-peru%2F2026%2F10%2F13%2Falerta-por-estafa-digital-reportar-clonacion-de-redes-sociales-de-restaurante-foto-241969&c=13080593819038997520&mkt=es-us",
+      "titulo": "Alerta por estafa digital: reportar clonación de redes sociales de restaurante",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-13",
+      "fecha_hecho": null,
+      "snippet": "Perfiles falsos envían solicitudes de amistad y mensajes privados a los usuarios para solicitar transferencias.",
+      "temas": [
+        "Estafa"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:estafa Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-18 13:07"
     },
     {
       "id": "d00749f15ea3cbce",
@@ -18283,6 +18717,30 @@
       "agregado": "2026-10-18 11:03"
     },
     {
+      "id": "538c91f26a2c8095",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad50aceb2f940feb650e9ec36456244&url=https%3a%2f%2fojo.pe%2fpolicial%2falerta-por-estafa-digital-clonan-redes-de-la-cevicheria-rico-piura-y-el-paisa-para-realizar-estafas-noticia%2f&c=13472294105928663993&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad50aceb2f940feb650e9ec36456244&url=https%3A%2F%2Fojo.pe%2Fpolicial%2Falerta-por-estafa-digital-clonan-redes-de-la-cevicheria-rico-piura-y-el-paisa-para-realizar-estafas-noticia%2F&c=13472294105928663993&mkt=es-us",
+      "titulo": "Alerta por estafa digital: “Clonan redes de la cevichería ‘Rico Piura’ y ‘El Paisa’ para realizar estafas”",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-12",
+      "fecha_hecho": null,
+      "snippet": "Múltiples cuentas falsas en TikTok, Facebook e Instagram clonan contenido original para solicitar “yapeos” y falsas donaciones a sus más de 5 millones de seguidores.",
+      "temas": [
+        "Estafa"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Piura"
+      ],
+      "score": 3,
+      "query": "bing:estafa Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-18 13:07"
+    },
+    {
       "id": "c4f9b9a8e69df29d",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbHpiWm1sNjVPb3FwUXQ3SDgxS3Q0R1VUc1NRLXJiV0RwTHN4TE1sUzFmWUlYcGE3VmpVSktPTE9hMGFQR1ZUcHlEdXphcV9qQ09lelV3ODBRbzFhUlNnbEFMOW5pNklGSXpsR0psQnMzYlpyMWhZMVNyQndLTDZuZ0k3dFhlM1pLbUtPMUpZWnF3TGNBZ1paM01xenZya0VjbTRUaW1jbnVCZW9HRm4wZ0ltWlp6TkljamdfRDl0R2RMMFoweVBwY3g4VEHSAdQBQVVfeXFMTXdRbFNHcVF0WW1RbG1QOWJJNktUTlJnX1ZpeEcyeVR3T1QyU3dEUEsxNjNtT0NJd1ZOQThOeElkNy03b0ZHa2tiWlhpaVZTS1Y0ay1jOEs3eDdvU2QzV2labW5WMU9MSnZiLTZLSDBSN1g3YldBMzh6NmJSc1AtOXFzM1ZSNDhiamgwbG5CMS1mcUlLUkktV0lyRmZrSDl6U3poRTR6YzRzQTRMTjlWOUlSd3ZKNi1jTTlfU1JZTkRSdW9XTTBNV3cxSVFIY1doUEFCaEc?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbHpiWm1sNjVPb3FwUXQ3SDgxS3Q0R1VUc1NRLXJiV0RwTHN4TE1sUzFmWUlYcGE3VmpVSktPTE9hMGFQR1ZUcHlEdXphcV9qQ09lelV3ODBRbzFhUlNnbEFMOW5pNklGSXpsR0psQnMzYlpyMWhZMVNyQndLTDZuZ0k3dFhlM1pLbUtPMUpZWnF3TGNBZ1paM01xenZya0VjbTRUaW1jbnVCZW9HRm4wZ0ltWlp6TkljamdfRDl0R2RMMFoweVBwY3g4VEHSAdQBQVVfeXFMTXdRbFNHcVF0WW1RbG1QOWJJNktUTlJnX1ZpeEcyeVR3T1QyU3dEUEsxNjNtT0NJd1ZOQThOeElkNy03b0ZHa2tiWlhpaVZTS1Y0ay1jOEs3eDdvU2QzV2labW5WMU9MSnZiLTZLSDBSN1g3YldBMzh6NmJSc1AtOXFzM1ZSNDhiamgwbG5CMS1mcUlLUkktV0lyRmZrSDl6U3poRTR6YzRzQTRMTjlWOUlSd3ZKNi1jTTlfU1JZTkRSdW9XTTBNV3cxSVFIY1doUEFCaEc",
@@ -19772,6 +20230,28 @@
       "agregado": "2026-10-18 11:03"
     },
     {
+      "id": "d7932d453efbc813",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad50ac9c1df43b7b3e7945de607f48a&url=https%3a%2f%2fwww.univision.com%2flocal%2fmiami-wltv%2ffamilia-busca-repatriar-a-peru-a-mujer-asesinada-presuntamente-por-su-hijo-en-tamarac-video&c=2278958858788462333&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad50ac9c1df43b7b3e7945de607f48a&url=https%3A%2F%2Fwww.univision.com%2Flocal%2Fmiami-wltv%2Ffamilia-busca-repatriar-a-peru-a-mujer-asesinada-presuntamente-por-su-hijo-en-tamarac-video&c=2278958858788462333&mkt=es-us",
+      "titulo": "Familia busca repatriar a Perú a mujer asesinada presuntamente por su hijo en Tamarac",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-11",
+      "fecha_hecho": null,
+      "snippet": "La familia de una mujer peruana asesinada a puñaladas en Tamarac, Florida, busca trasladar su cuerpo a Perú para sepultarla junto a su madre, fallecida semanas atrás. Su hijo, Manuel Antonio Farfán Ca ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-18 13:07"
+    },
+    {
       "id": "8fdeec387e934aa5",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OS0FMZUQ2c084ZldTUmY4d3lSV2poeXd0cUpNV3pIRTdQVEdMSU8tYmlIWnd6UXNJZkU1WTU4UTlaZjI5SDV2Vjdic2U0RDd6VUZNdVlrdlFfOGlHaFAtTk5NRFNvdFdMUFVPUHJHTGVLVFhWX2JIM0VxQWYzelE?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OS0FMZUQ2c084ZldTUmY4d3lSV2poeXd0cUpNV3pIRTdQVEdMSU8tYmlIWnd6UXNJZkU1WTU4UTlaZjI5SDV2Vjdic2U0RDd6VUZNdVlrdlFfOGlHaFAtTk5NRFNvdFdMUFVPUHJHTGVLVFhWX2JIM0VxQWYzelE",
@@ -20364,6 +20844,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-18 04:17"
+    },
+    {
+      "id": "4368eff70bae8651",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad50ac9c1df43b7b3e7945de607f48a&url=https%3a%2f%2felcomercio.pe%2ftecnologia%2fecologia%2fdemetrio-pacheco-defensor-ambiental-en-peru-el-estado-podria-haber-evitado-el-asesinato-de-mi-hijo-entrevista-noticia%2f&c=16565705716063802398&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad50ac9c1df43b7b3e7945de607f48a&url=https%3A%2F%2Felcomercio.pe%2Ftecnologia%2Fecologia%2Fdemetrio-pacheco-defensor-ambiental-en-peru-el-estado-podria-haber-evitado-el-asesinato-de-mi-hijo-entrevista-noticia%2F&c=16565705716063802398&mkt=es-us",
+      "titulo": "Demetrio Pacheco, defensor ambiental en Perú: “El Estado podría haber evitado el asesinato de mi hijo” | ENTREVISTA",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-11",
+      "fecha_hecho": null,
+      "snippet": "Demetrio Pacheco es defensor ambiental en Madre de Dios, en la Amazonía de Perú, donde protege una porción de bosque nativo. En septiembre de 2020, su hijo Roberto Carlos Pacheco Villanueva fue asesin ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Madre de Dios"
+      ],
+      "score": 3,
+      "query": "bing:asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-18 13:07"
     },
     {
       "id": "131c4ee251efe398",
@@ -24116,6 +24620,30 @@
       "agregado": "2026-10-18 11:03"
     },
     {
+      "id": "677cd450705ad120",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad50aceb2f940feb650e9ec36456244&url=https%3a%2f%2fwww.diariolibre.com%2frevista%2fmusica%2f2026%2f10%2f10%2fasi-estafaron-a-una-fan-de-bts-en-peru%2f3685224&c=9321056562312422110&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad50aceb2f940feb650e9ec36456244&url=https%3A%2F%2Fwww.diariolibre.com%2Frevista%2Fmusica%2F2026%2F10%2F10%2Fasi-estafaron-a-una-fan-de-bts-en-peru%2F3685224&c=9321056562312422110&mkt=es-us",
+      "titulo": "Una fan de BTS en Perú denuncia estafa y amenazas de revendedores en Lima",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-09",
+      "fecha_hecho": null,
+      "snippet": "La madre levantó una denuncia en la comisaría, y la adolescente publicó su caso en sus redes sociales, tras lo cual recibió una amenaza en video de los presuntos estafadores ...",
+      "temas": [
+        "Estafa"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 2,
+      "query": "bing:estafa Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-18 13:07"
+    },
+    {
       "id": "82acdb51af284626",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZzdrMS1CeFAyQlVXeVhweTh5Q2RvMEtWTTl5VG0wNFdnLWRLdk5jTF8yQUVNdGVWbjN1TWt1U0JpdEZINXdqem5rRTNyWktwdVY5ZXFiNEdTelJ5T2dIbWFYODU4RjN1dzhVc0FzSEc0cmtpN0VoSFJHajV2M1JMZ1ZzYWRfUUk0LXA5RWMyQ2xPYjRNZGlDUUNlOGdfZUc2akhqT3ZQY21EZFREZTFCNmlBc0lPRnBVQ2xrb25scklEWjRUS3dZ0gHiAUFVX3lxTE0tUDFJS3FyWHJKU0dDOWhGZUs1eWtwSDhlaEhBR0QwS29uTURIR250cy1xdGNUR1lYSjhNb05HU1JpS1YwRlpvWUpLM3lZMHJ4cjJHcUpUc01pWjVFblJaRmNtS3ZPYkM0Ykl6MnVwdjVYSEJnaWlHZ0sybWNKRkRVSUV1eHRjOVpLRURyX0tXX09SRFdhQUZ6VzBLaGdMU3RONHhVRU14V1lUanZLRVl3XzVucV9oNG4yNmNWV3dZcndNa21hTkdIdjVVN0p5NmZSU2VHdmQ3VFVqdDI0R21JQWc?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZzdrMS1CeFAyQlVXeVhweTh5Q2RvMEtWTTl5VG0wNFdnLWRLdk5jTF8yQUVNdGVWbjN1TWt1U0JpdEZINXdqem5rRTNyWktwdVY5ZXFiNEdTelJ5T2dIbWFYODU4RjN1dzhVc0FzSEc0cmtpN0VoSFJHajV2M1JMZ1ZzYWRfUUk0LXA5RWMyQ2xPYjRNZGlDUUNlOGdfZUc2akhqT3ZQY21EZFREZTFCNmlBc0lPRnBVQ2xrb25scklEWjRUS3dZ0gHiAUFVX3lxTE0tUDFJS3FyWHJKU0dDOWhGZUs1eWtwSDhlaEhBR0QwS29uTURIR250cy1xdGNUR1lYSjhNb05HU1JpS1YwRlpvWUpLM3lZMHJ4cjJHcUpUc01pWjVFblJaRmNtS3ZPYkM0Ykl6MnVwdjVYSEJnaWlHZ0sybWNKRkRVSUV1eHRjOVpLRURyX0tXX09SRFdhQUZ6VzBLaGdMU3RONHhVRU14V1lUanZLRVl3XzVucV9oNG4yNmNWV3dZcndNa21hTkdIdjVVN0p5NmZSU2VHdmQ3VFVqdDI0R21JQWc",
@@ -26226,6 +26754,30 @@
       "agregado": "2026-10-18 11:03"
     },
     {
+      "id": "051b1070d0cf792d",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad50aceb2f940feb650e9ec36456244&url=https%3a%2f%2fwww.ultimahora.com%2fen-peru-una-army-denuncia-estafa-y-amenazas-de-revendedores-para-concierto-en-lima&c=1988328218678987281&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad50aceb2f940feb650e9ec36456244&url=https%3A%2F%2Fwww.ultimahora.com%2Fen-peru-una-army-denuncia-estafa-y-amenazas-de-revendedores-para-concierto-en-lima&c=1988328218678987281&mkt=es-us",
+      "titulo": "En Perú, una “army” denuncia estafa y amenazas de revendedores para concierto en Lima",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-09",
+      "fecha_hecho": null,
+      "snippet": "Una adolescente peruana denunció haber sido estafada por revendedores por un monto total de USD 1.750 (más de G. 9 millones), al intentar comprar entradas para uno de los conciertos de la boyband surc ...",
+      "temas": [
+        "Estafa"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:estafa Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-18 13:07"
+    },
+    {
       "id": "9822fa79e9be038b",
       "url": "https://elcomercio.pe/opinion/colaboradores/el-comando-unificado-y-los-limites-de-la-mano-dura-por-jorge-celiz-kuong-fuerzas-armadas-pnp-crimen-organizado-noticia/",
       "url_canon": "https://elcomercio.pe/opinion/colaboradores/el-comando-unificado-y-los-limites-de-la-mano-dura-por-jorge-celiz-kuong-fuerzas-armadas-pnp-crimen-organizado-noticia",
@@ -27884,6 +28436,31 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-18 11:03"
+    },
+    {
+      "id": "094f9208fab6f44c",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad50ac209474ceba1d8ffcf5f480fff&url=https%3a%2f%2fcanaln.pe%2factualidad%2fsenador-hugo-ccahuana-denuncia-asalto-armado-y-secuestro-su-personal-madre-dios-n495550&c=12392384703042848250&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad50ac209474ceba1d8ffcf5f480fff&url=https%3A%2F%2Fcanaln.pe%2Factualidad%2Fsenador-hugo-ccahuana-denuncia-asalto-armado-y-secuestro-su-personal-madre-dios-n495550&c=12392384703042848250&mkt=es-us",
+      "titulo": "Senador Hugo Ccahuana denuncia asalto armado y secuestro de su personal en Madre de Dios",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-08",
+      "fecha_hecho": null,
+      "snippet": "El senador de Juntos por el Perú, Hugo Ccahuana, denunció que fue víctima de un asalto armado cuando regresaba de una labor de fiscalización en la provincia del Manu, en la región Madre de Dios.",
+      "temas": [
+        "Secuestro",
+        "Asalto a mano armada"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Madre de Dios"
+      ],
+      "score": 5,
+      "query": "bing:secuestro Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-18 13:07"
     },
     {
       "id": "80b32d704491b8e1",
@@ -30551,6 +31128,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-18 11:03"
+    },
+    {
+      "id": "7bdc037332aaf050",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad50aca0fbd4edc8a5fa393b6547792&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f10%2f08%2floco-joe-fue-capturado-en-argentina-con-el-dni-de-un-hombre-asesinado-en-lima-era-buscado-por-homicidio-calificado-en-peru%2f&c=5751389601613760350&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad50aca0fbd4edc8a5fa393b6547792&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F10%2F08%2Floco-joe-fue-capturado-en-argentina-con-el-dni-de-un-hombre-asesinado-en-lima-era-buscado-por-homicidio-calificado-en-peru%2F&c=5751389601613760350&mkt=es-us",
+      "titulo": "‘Loco Joe’ fue capturado en Argentina con el DNI de un hombre asesinado en Lima: era buscado por homicidio calificado en Perú",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-07",
+      "fecha_hecho": null,
+      "snippet": "Joe Luis Marín, señalado como cabecilla de ‘Los Chimbotanos’, fue ubicado en Puerto Iguazú durante un operativo conjunto entre autoridades de Perú y Argentina ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:homicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-18 13:07"
     },
     {
       "id": "6e97e0c69b41ed83",
@@ -39226,6 +39827,28 @@
       "agregado": "2026-10-18 11:03"
     },
     {
+      "id": "79b5dcfb7e663ed4",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad50ade7d8f4d20baa33ae5f3f7ae30&url=https%3a%2f%2fwww.biobiochile.cl%2fnoticias%2finternacional%2famerica-latina%2f2026%2f10%2f05%2fpolicia-de-peru-investiga-preseunto-plan-con-amenazas-de-muerte-a-la-presidenta-keiko-fujimori.shtml&c=180210873443896334&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad50ade7d8f4d20baa33ae5f3f7ae30&url=https%3A%2F%2Fwww.biobiochile.cl%2Fnoticias%2Finternacional%2Famerica-latina%2F2026%2F10%2F05%2Fpolicia-de-peru-investiga-preseunto-plan-con-amenazas-de-muerte-a-la-presidenta-keiko-fujimori.shtml&c=180210873443896334&mkt=es-us",
+      "titulo": "Policía de Perú investiga presunto plan con amenazas de muerte a la presidenta Keiko Fujimori",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-05",
+      "fecha_hecho": null,
+      "snippet": "La Dirección contra el Terrorismo (Dircote) de la Policía Nacional de Perú activó este lunes “de manera inmediata” una ...",
+      "temas": [
+        "Amenazas e intimidaciones"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:\"amenazas de muerte\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-18 13:07"
+    },
+    {
       "id": "df8310cc13050f62",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONFN6Q2FpNlJBUTBfQk9pRGZEdmxqWlk2RjhKdkF1SDZ3NTZZQm1GNVlkUlRlRkpDaWVIa1ZjZU1fTGdpN21vUk9fc2FTTEJOT0YzU3Q0cUhEakdYQXhhSlNDTWxfcHdjbnFjWEprTElvYmVjSG1TMzBhaU54S1JUaG5jTldoM0RHRzAwRE9lVDdJT1cwWGxhczdUVnEyMmRZS3V0WjN5SHM2M2s?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONFN6Q2FpNlJBUTBfQk9pRGZEdmxqWlk2RjhKdkF1SDZ3NTZZQm1GNVlkUlRlRkpDaWVIa1ZjZU1fTGdpN21vUk9fc2FTTEJOT0YzU3Q0cUhEakdYQXhhSlNDTWxfcHdjbnFjWEprTElvYmVjSG1TMzBhaU54S1JUaG5jTldoM0RHRzAwRE9lVDdJT1cwWGxhczdUVnEyMmRZS3V0WjN5SHM2M2s",
@@ -46878,6 +47501,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-18 11:03"
+    },
+    {
+      "id": "238fec7f2174dede",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad50ae1971e44bfb408e931e761a652&url=https%3a%2f%2fhaitiantimes.com%2fes%2f2026%2f10%2f04%2fSerie-de-sobrevivientes-de-la-masacre-de-perejil-dominicano-y-haitiano%2f&c=8198596231506418851&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad50ae1971e44bfb408e931e761a652&url=https%3A%2F%2Fhaitiantimes.com%2Fes%2F2026%2F10%2F04%2FSerie-de-sobrevivientes-de-la-masacre-de-perejil-dominicano-y-haitiano%2F&c=8198596231506418851&mkt=es-us",
+      "titulo": "Dónde está nuestra justicia?” Mientras los sobrevivientes de la Masacre de Perejil se acercan a sus últimos años, los haitianos se preguntan si alguna vez llegarán las ...",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-04",
+      "fecha_hecho": null,
+      "snippet": "En sus últimos días, los últimos sobrevivientes de la Masacre de Perejil de 1937 que mató a más de 20,000 personas en la República Dominicana aún esperan justicia y reparaciones.",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:\"masacre\" Trujillo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-18 13:07"
     },
     {
       "id": "61ea8cfb36b7bde4",
@@ -63388,5 +64033,5 @@
       "agregado": "2026-10-02 13:01"
     }
   ],
-  "n": 2764
+  "n": 2792
 }
