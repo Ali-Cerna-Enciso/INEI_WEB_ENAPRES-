@@ -1,6 +1,6 @@
 {
   "mes": "2026-07",
-  "actualizado": "2026-10-18 18:26",
+  "actualizado": "2026-10-19 05:32",
   "items": [
     {
       "id": "bcbc1d8bcd603fca",
@@ -2160,6 +2160,31 @@
       "agregado": "2026-10-16 04:31"
     },
     {
+      "id": "4e5bb97360ece604",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5f1a7d9cb4fca83af42850d6b5e84&url=https%3a%2f%2felcomercio.pe%2frespuestas%2fa-que-hora%2fsedapal-anuncia-corte-de-agua-hoy-estos-son-los-distritos-afectados-y-las-horas-de-restriccion-tdpe-noticia%2f&c=14950598501625783059&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5f1a7d9cb4fca83af42850d6b5e84&url=https%3A%2F%2Felcomercio.pe%2Frespuestas%2Fa-que-hora%2Fsedapal-anuncia-corte-de-agua-hoy-estos-son-los-distritos-afectados-y-las-horas-de-restriccion-tdpe-noticia%2F&c=14950598501625783059&mkt=es-us",
+      "titulo": "CORTE DE AGUA: horarios y zonas afectadas en Lima HOY, viernes 31 de julio",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-07-30",
+      "fecha_hecho": null,
+      "snippet": "El Servicio de Agua Potable y Alcantarillado de Lima (Sedapal) anunció un nuevo corte de agua programado en Lima para la primera semana de julio. La entidad responsable del suministro de agua dio a ...",
+      "temas": [
+        "Agua por red pública",
+        "Alcantarillado"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 5,
+      "query": "bing:\"corte de agua\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-19 05:32"
+    },
+    {
       "id": "d5a641cbe24417e8",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE40WVluYWxPMm1oSVo4aHNGZzh4X3dFN243d0FzZmZ0TS1GSm0tQklFNGVfYlY3Q1d0UGR0MkhDZV90OWlYREx0Ung3QnJwc1NfWFRBYWZwQUFKUXRFaHVacjFGQQ?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE40WVluYWxPMm1oSVo4aHNGZzh4X3dFN243d0FzZmZ0TS1GSm0tQklFNGVfYlY3Q1d0UGR0MkhDZV90OWlYREx0Ung3QnJwc1NfWFRBYWZwQUFKUXRFaHVacjFGQQ",
@@ -3849,6 +3874,28 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-10-18 18:26"
+    },
+    {
+      "id": "ad83478972b65446",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5f1b47cd84aa1ac70e64478c4de23&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f07%2f20%2fsunass-desvio-de-fondos-para-agua-y-alcantarillado-sera-castigado-con-mas-de-275-millones-de-soles%2f&c=11918309926335494003&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5f1b47cd84aa1ac70e64478c4de23&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F07%2F20%2Fsunass-desvio-de-fondos-para-agua-y-alcantarillado-sera-castigado-con-mas-de-275-millones-de-soles%2F&c=11918309926335494003&mkt=es-us",
+      "titulo": "Sunass: desvío de fondos para agua y alcantarillado será castigado con más de 2,75 millones de soles",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-07-20",
+      "fecha_hecho": null,
+      "snippet": "El regulador peruano ha dispuesto también el endurecimiento de sanciones contra la designación irregular en directorios de empresas de agua Por Esteban Salazar Herrada La Superintendencia Nacional de ...",
+      "temas": [
+        "Alcantarillado"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:alcantarillado Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-19 05:32"
     },
     {
       "id": "f09ab2abfe866c53",
@@ -7817,5 +7864,5 @@
       "descartar": false
     }
   ],
-  "n": 335
+  "n": 337
 }
