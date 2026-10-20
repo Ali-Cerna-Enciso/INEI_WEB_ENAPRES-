@@ -1,6 +1,6 @@
 {
   "mes": "2026-09",
-  "actualizado": "2026-10-20 12:23",
+  "actualizado": "2026-10-20 14:20",
   "items": [
     {
       "id": "4cca0f6932b1eef7",
@@ -8685,6 +8685,28 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-10-20 12:23"
+    },
+    {
+      "id": "3e660f2ebda3bab4",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad7becc662b4891bdba6abe6908259f&url=https%3a%2f%2flarepublica.pe%2fopinion%2f2026%2f09%2f28%2f40-del-presupuesto-se-tienen-que-ir-en-agua-y-desague-no-en-planillas-promete-candidato-de-somos-peru-a-lurin-bernardo-silva-hnews-808668&c=18344659212913558031&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad7becc662b4891bdba6abe6908259f&url=https%3A%2F%2Flarepublica.pe%2Fopinion%2F2026%2F09%2F28%2F40-del-presupuesto-se-tienen-que-ir-en-agua-y-desague-no-en-planillas-promete-candidato-de-somos-peru-a-lurin-bernardo-silva-hnews-808668&c=18344659212913558031&mkt=es-us",
+      "titulo": "“40 % (del presupuesto) se tienen que ir en agua y desagüe, no en planillas”, promete candidato de Somos Perú a Lurín Bernardo Silva",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-27",
+      "fecha_hecho": null,
+      "snippet": "¿Por qué quiere ser alcalde de Lurín? Esa es una pregunta importante, porque mucha gente dice \"quiero al distrito\" o \"quiero hacer el bien\" sin más. Hay que entender que la política en el Perú es dura ...",
+      "temas": [
+        "Alcantarillado"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:desagüe Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-20 14:20"
     },
     {
       "id": "8cde263eecbc9458",
@@ -25049,6 +25071,30 @@
       "agregado": "2026-10-19 15:41"
     },
     {
+      "id": "6bc15ad62d53280a",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad7bed06157480a87faa01397109cfb&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f09%2f22%2fsedapal-programa-cortes-temporales-de-agua-para-el-23-de-septiembre-en-varios-distritos-de-lima%2f&c=16750243215551204038&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad7bed06157480a87faa01397109cfb&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F09%2F22%2Fsedapal-programa-cortes-temporales-de-agua-para-el-23-de-septiembre-en-varios-distritos-de-lima%2F&c=16750243215551204038&mkt=es-us",
+      "titulo": "Sedapal programa cortes temporales de agua para hoy, 23 de septiembre, en varios distritos de Lima",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-22",
+      "fecha_hecho": null,
+      "snippet": "La suspensión del abastecimiento se aplicará por labores de mantenimiento en reservorios y empalmes, con horarios de inicio entre las 8:00 a. m. y la 1:00 p. m., según cada zona afectada ...",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:Sedapal",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-20 14:20"
+    },
+    {
       "id": "c0fe764960371eda",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObkRsNXRHNGhjbXNuNFdTemo4c2ZSbHBteTd5UG5ndXZuNGZuX3VTcXVGV25HZncwRmRyLXBMaXRVbnpUQjhxZjRqUzdwS1k2eWhPZGZtRGRLWmF6WjlRTlZvTkl0dzV2VVFLa2VXajM3LVdwaUF5X3F5UzlMTmI4M3ZhdVFPV1pSQTFHX05aUGtKRFZiQjd2S0tKZXE4Vk1pbm94RTU4Vk91Z2JDWEVVempCak5HUW1NV3BmSDFqX0toc05SY1h2Z2VpT3RnRFXSAeMBQVVfeXFMUHc4SDdIdHEwZFBzdk1uV3pZdk4zQm4xMHhHaWFSWUNKVXVpVU9MVmpYaHdnNGFrSGZBeWtkSWR0LWRCVE1EalJZWWhSM0NveC1DZGR6NHBpeTlUOE9RWjc2WGZZRHFMQ0ExQlg5NTI4d040eHN1ODkxcjVUVmMyazcxZlpiUHlRZy1PeFZiY2hPSXVpbnE2QlRTVEpKaVpCN3VGRm91b1V0T3dLNWRqV3VUal9EQnhKXzRfMk9rOGozU3ZWdTJhYkZjbWVuSGZIdDIwZmR3dlN0eVNJVGFIeXpDTE0?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObkRsNXRHNGhjbXNuNFdTemo4c2ZSbHBteTd5UG5ndXZuNGZuX3VTcXVGV25HZncwRmRyLXBMaXRVbnpUQjhxZjRqUzdwS1k2eWhPZGZtRGRLWmF6WjlRTlZvTkl0dzV2VVFLa2VXajM3LVdwaUF5X3F5UzlMTmI4M3ZhdVFPV1pSQTFHX05aUGtKRFZiQjd2S0tKZXE4Vk1pbm94RTU4Vk91Z2JDWEVVempCak5HUW1NV3BmSDFqX0toc05SY1h2Z2VpT3RnRFXSAeMBQVVfeXFMUHc4SDdIdHEwZFBzdk1uV3pZdk4zQm4xMHhHaWFSWUNKVXVpVU9MVmpYaHdnNGFrSGZBeWtkSWR0LWRCVE1EalJZWWhSM0NveC1DZGR6NHBpeTlUOE9RWjc2WGZZRHFMQ0ExQlg5NTI4d040eHN1ODkxcjVUVmMyazcxZlpiUHlRZy1PeFZiY2hPSXVpbnE2QlRTVEpKaVpCN3VGRm91b1V0T3dLNWRqV3VUal9EQnhKXzRfMk9rOGozU3ZWdTJhYkZjbWVuSGZIdDIwZmR3dlN0eVNJVGFIeXpDTE0",
@@ -29115,6 +29161,31 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-10-20 12:23"
+    },
+    {
+      "id": "ef2d8757431e5f75",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad7bed06157480a87faa01397109cfb&url=https%3a%2f%2flarepublica.pe%2fservicios%2f2026%2f09%2f21%2fcorte-de-agua-hoy-21-de-septiembre-sedapal-suspende-el-servicio-en-ate-sjl-y-pueblo-libre-por-varias-horas-1448979&c=8506962417044161861&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad7bed06157480a87faa01397109cfb&url=https%3A%2F%2Flarepublica.pe%2Fservicios%2F2026%2F09%2F21%2Fcorte-de-agua-hoy-21-de-septiembre-sedapal-suspende-el-servicio-en-ate-sjl-y-pueblo-libre-por-varias-horas-1448979&c=8506962417044161861&mkt=es-us",
+      "titulo": "Corte de agua hoy, 21 de septiembre: Sedapal suspende el servicio en Ate, SJL y Pueblo Libre por varias horas",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-21",
+      "fecha_hecho": null,
+      "snippet": "Sedapal programó cortes de agua para hoy, 21 de septiembre, en sectores de Ate, San Juan de Lurigancho y Pueblo Libre. Revisa las zonas afectadas y horarios de reposición del servicio.",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "San Juan de Lurigancho",
+        "Ate"
+      ],
+      "score": 3,
+      "query": "bing:Sedapal",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-20 14:20"
     },
     {
       "id": "e46c7ee88c11de15",
@@ -39516,6 +39587,31 @@
       "agregado": "2026-10-20 12:23"
     },
     {
+      "id": "5d49d4d5c9a9339c",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad7becbab15497297188c149bc2a9e4&url=https%3a%2f%2frpp.pe%2fperu%2factualidad%2fcorte-de-luz-en-lima-y-callao-del-sabado-19-al-20-de-septiembre-distritos-afectados-y-horarios-noticia-1708215&c=18337992567152061685&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad7becbab15497297188c149bc2a9e4&url=https%3A%2F%2Frpp.pe%2Fperu%2Factualidad%2Fcorte-de-luz-en-lima-y-callao-del-sabado-19-al-20-de-septiembre-distritos-afectados-y-horarios-noticia-1708215&c=18337992567152061685&mkt=es-us",
+      "titulo": "Anuncian corte de luz en Lima y Callao del 19 al 20 de septiembre: distritos afectados y horarios",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-18",
+      "fecha_hecho": null,
+      "snippet": "Revisa los horarios y las zonas afectadas por los cortes de luz programados en diferentes distritos de Lima y Callao durante este fin de semana.",
+      "temas": [
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Callao",
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:\"corte de luz\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-20 14:20"
+    },
+    {
       "id": "93e5c6f047a45265",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaFNwclE0ZG5uTnpBcjBLVDE0bGdYM3EtQlZ1YW11a0pyZEtJa3NHWkVYR1ZKZmRlYTZ6UHBrN1pIUkJkRXZtQUpES2NmZ29DMElENTYzMWVPTWxJT3EzME5way1JM0NJUmtjZk1LUGRVdzh4YlJ3M1FCdWk4bktHYmE3MldRQzVWOTgycDdzdmd1dWl3clpYdXYzb1cycUJ4Wl9nSTU3X0hybEdJVFhwTm5vLXFPQlhqR1l0UjduN2dkMzkwTHNyV09R?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaFNwclE0ZG5uTnpBcjBLVDE0bGdYM3EtQlZ1YW11a0pyZEtJa3NHWkVYR1ZKZmRlYTZ6UHBrN1pIUkJkRXZtQUpES2NmZ29DMElENTYzMWVPTWxJT3EzME5way1JM0NJUmtjZk1LUGRVdzh4YlJ3M1FCdWk4bktHYmE3MldRQzVWOTgycDdzdmd1dWl3clpYdXYzb1cycUJ4Wl9nSTU3X0hybEdJVFhwTm5vLXFPQlhqR1l0UjduN2dkMzkwTHNyV09R",
@@ -43840,6 +43936,28 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-10-20 04:50"
+    },
+    {
+      "id": "49b64bd26d7f1350",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad7bedfecdf492abf5348dc25cdcd05&url=https%3a%2f%2felcomercio.pe%2fdeporte-total%2frunning%2fcorro-por-el-agua-mas-de-1300-corredores-se-unieron-en-evento-solidario-por-el-acceso-al-agua-y-banos-dignos-noticia%2f&c=8767683404336343319&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad7bedfecdf492abf5348dc25cdcd05&url=https%3A%2F%2Felcomercio.pe%2Fdeporte-total%2Frunning%2Fcorro-por-el-agua-mas-de-1300-corredores-se-unieron-en-evento-solidario-por-el-acceso-al-agua-y-banos-dignos-noticia%2F&c=8767683404336343319&mkt=es-us",
+      "titulo": "Más de 1.300 corredores se unieron en evento solidario por el acceso al agua y baños dignos",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-15",
+      "fecha_hecho": null,
+      "snippet": "Más de 1.300 personas se pusieron en movimiento por una causa que fue más allá del deporte. La carrera solidaria Corro por el Agua reunió el pasado domingo 13 de setiembre a corredores, familias y ciu ...",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:\"acceso al agua\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-20 14:20"
     },
     {
       "id": "f9cc4b7943710104",
@@ -60110,5 +60228,5 @@
       "descartar": false
     }
   ],
-  "n": 2559
+  "n": 2564
 }
