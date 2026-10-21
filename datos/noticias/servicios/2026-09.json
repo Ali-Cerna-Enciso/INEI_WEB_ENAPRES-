@@ -1,6 +1,6 @@
 {
   "mes": "2026-09",
-  "actualizado": "2026-10-21 04:51",
+  "actualizado": "2026-10-21 12:27",
   "items": [
     {
       "id": "4cca0f6932b1eef7",
@@ -8729,6 +8729,28 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-10-21 04:51"
+    },
+    {
+      "id": "a226058786397915",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8f5d7dbb34e83926dfc0c7ba1f233&url=https%3a%2f%2flarepublica.pe%2fopinion%2f2026%2f09%2f28%2f40-del-presupuesto-se-tienen-que-ir-en-agua-y-desague-no-en-planillas-promete-candidato-de-somos-peru-a-lurin-bernardo-silva-hnews-808668&c=18344659212913558031&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8f5d7dbb34e83926dfc0c7ba1f233&url=https%3A%2F%2Flarepublica.pe%2Fopinion%2F2026%2F09%2F28%2F40-del-presupuesto-se-tienen-que-ir-en-agua-y-desague-no-en-planillas-promete-candidato-de-somos-peru-a-lurin-bernardo-silva-hnews-808668&c=18344659212913558031&mkt=es-us",
+      "titulo": "“40 % (del presupuesto) se tienen que ir en agua y desagüe, no en planillas”, promete candidato de Somos Perú a Lurín Bernardo Silva",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-27",
+      "fecha_hecho": null,
+      "snippet": "¿Por qué quiere ser alcalde de Lurín? Esa es una pregunta importante, porque mucha gente dice \"quiero al distrito\" o \"quiero hacer el bien\" sin más. Hay que entender que la política en el Perú es dura ...",
+      "temas": [
+        "Alcantarillado"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:desagüe Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-21 12:27"
     },
     {
       "id": "8cde263eecbc9458",
@@ -19942,6 +19964,30 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-10-21 04:51"
+    },
+    {
+      "id": "0e2408069a56c1fa",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8f5e36c1f4eec9c7a983e13d98cc6&url=https%3a%2f%2fdiariocorreo.pe%2fedicion%2fla-libertad%2fhidrandina-detecta-y-erradica-509-conexiones-clandestinas-que-ponen-en-riesgo-a-familias-la-libertad-peru-noticia%2f&c=11633541843318035626&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8f5e36c1f4eec9c7a983e13d98cc6&url=https%3A%2F%2Fdiariocorreo.pe%2Fedicion%2Fla-libertad%2Fhidrandina-detecta-y-erradica-509-conexiones-clandestinas-que-ponen-en-riesgo-a-familias-la-libertad-peru-noticia%2F&c=11633541843318035626&mkt=es-us",
+      "titulo": "La Libertad: Hidrandina detecta y erradica 509 conexiones clandestinas que ponen en riesgo a familias",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-24",
+      "fecha_hecho": null,
+      "snippet": "Empresa realiza operativos de control todos los meses y acumuló 66 intervenciones entre enero y agosto de 2026 ...",
+      "temas": [
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "La Libertad"
+      ],
+      "score": 3,
+      "query": "bing:Hidrandina",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-21 12:27"
     },
     {
       "id": "6cb7964d147ca67c",
@@ -60513,5 +60559,5 @@
       "descartar": false
     }
   ],
-  "n": 2576
+  "n": 2578
 }

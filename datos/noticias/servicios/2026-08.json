@@ -1,6 +1,6 @@
 {
   "mes": "2026-08",
-  "actualizado": "2026-10-21 04:51",
+  "actualizado": "2026-10-21 12:27",
   "items": [
     {
       "id": "bb9b57aa4ebf0c95",
@@ -2308,6 +2308,30 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-10-17 18:19"
+    },
+    {
+      "id": "2b5826f44d4149dc",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8f5e2a39d4948acfa33216ccf2e9d&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f08%2f26%2ffenomeno-el-nino-epsel-intensifica-limpieza-y-ya-intervino-mas-de-300-km-de-alcantarillado-en-chiclayo%2f&c=16753412348295781182&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8f5e2a39d4948acfa33216ccf2e9d&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F08%2F26%2Ffenomeno-el-nino-epsel-intensifica-limpieza-y-ya-intervino-mas-de-300-km-de-alcantarillado-en-chiclayo%2F&c=16753412348295781182&mkt=es-us",
+      "titulo": "Fenómeno El Niño: EPSEL intensifica limpieza y ya intervino más de 300 km de alcantarillado en Chiclayo",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-26",
+      "fecha_hecho": null,
+      "snippet": "El Ministerio de Vivienda tendría a su cargo la operación y mantenimiento de los sistemas de evacuación pluvial de Chiclayo, como parte de una respuesta coordinada Por Marlon Carrasco Freitas Ante la ...",
+      "temas": [
+        "Alcantarillado"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Chiclayo"
+      ],
+      "score": 3,
+      "query": "bing:alcantarillado Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-21 12:27"
     },
     {
       "id": "c8924b0d4a406124",
@@ -12402,5 +12426,5 @@
       "descartar": false
     }
   ],
-  "n": 528
+  "n": 529
 }
