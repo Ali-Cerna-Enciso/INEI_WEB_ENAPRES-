@@ -1,6 +1,6 @@
 {
   "mes": "2026-10",
-  "actualizado": "2026-10-21 12:24",
+  "actualizado": "2026-10-21 14:20",
   "items": [
     {
       "id": "8c0f6c7a33b01d5f",
@@ -69,6 +69,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-21 12:24"
+    },
+    {
+      "id": "876a95049be38768",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNajl0NkFVOV9MSHJhMEY0XzQxNXdSRWx1dDFaTzVTZTRyR2FPaHQwM2JJd2pGUUtIRFlDMlo2MGFhMDItU2I5OFlWN0ZXOTFmRkR6WmM1eXFZOVZXWTBqRlRFY2xhMlFteS0xWUFfN3pBc0Vld1FnMUwwcUN0cTk0QWF0T3d1Y3BRdE9pU3dWYzlCLTExNzVNNS13?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNajl0NkFVOV9MSHJhMEY0XzQxNXdSRWx1dDFaTzVTZTRyR2FPaHQwM2JJd2pGUUtIRFlDMlo2MGFhMDItU2I5OFlWN0ZXOTFmRkR6WmM1eXFZOVZXWTBqRlRFY2xhMlFteS0xWUFfN3pBc0Vld1FnMUwwcUN0cTk0QWF0T3d1Y3BRdE9pU3dWYzlCLTExNzVNNS13",
+      "titulo": "¡Siguen las extorsiones a músicos! Dejan granada de guerra en bus de la orquesta Amor Rebelde en Chiclayo - Perú 21",
+      "fuente": "Perú 21",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-10-21",
+      "fecha_hecho": null,
+      "snippet": "¡Siguen las extorsiones a músicos! Dejan granada de guerra en bus de la orquesta Amor Rebelde en Chiclayo Perú 21",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Chiclayo"
+      ],
+      "score": 3,
+      "query": "extorsión Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-21 14:20"
     },
     {
       "id": "85e4057205e381f4",
@@ -259,6 +283,29 @@
       "agregado": "2026-10-21 12:24"
     },
     {
+      "id": "d99122eaeafa48ee",
+      "url": "https://andina.pe/agencia/noticia-policia-captura-a-banda-ligada-al-tren-aragua-dedicados-al-secuestro-y-extorsion-1096796.aspx",
+      "url_canon": "https://andina.pe/agencia/noticia-policia-captura-a-banda-ligada-al-tren-aragua-dedicados-al-secuestro-y-extorsion-1096796.aspx",
+      "titulo": "Policía captura a banda ligada al Tren de Aragua dedicados al secuestro y la extorsión",
+      "fuente": "Andina",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "feeds",
+      "fecha_pub": "2026-10-21",
+      "fecha_hecho": null,
+      "snippet": "En un certero golpe contra el crimen organizado, la Policía Nacional del Perú desarticuló a la presunta banda criminal “Los NG de Villa”, también conocida como “Los Yankys”, facción del Tren de Aragua, dedicada al secues",
+      "temas": [
+        "Extorsión",
+        "Secuestro"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 5,
+      "query": "feed:Andina",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-21 14:20"
+    },
+    {
       "id": "333ebd57a9027c13",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTDZPdFBOUVA1NU15NmF1MDNrSEt6RHBTU1pSUzg3d3dqMWZkUTd3ekdpNGtwVHB5U2R4S0hBNDIxQkRaRFVpbDkyUDhhMUNVaWhTZUhPelJzaGtWTWFZNExWMERpOExEZkJtb3Zld2pWUlpyTGFGczh3dlY0UXJqcS1BOXpDREZzZWJrYkUyS1NUVm1SREMxUmRVMi1MVXdid3dTMzBRbFZ3c3ZwNmZSNFNlYjVqaExSUG5fNEZTNDdQRFRKRTd0dndkWFNCYkxhT2lQSmVCQ2dqbVVaRXRwV0pn?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTDZPdFBOUVA1NU15NmF1MDNrSEt6RHBTU1pSUzg3d3dqMWZkUTd3ekdpNGtwVHB5U2R4S0hBNDIxQkRaRFVpbDkyUDhhMUNVaWhTZUhPelJzaGtWTWFZNExWMERpOExEZkJtb3Zld2pWUlpyTGFGczh3dlY0UXJqcS1BOXpDREZzZWJrYkUyS1NUVm1SREMxUmRVMi1MVXdid3dTMzBRbFZ3c3ZwNmZSNFNlYjVqaExSUG5fNEZTNDdQRFRKRTd0dndkWFNCYkxhT2lQSmVCQ2dqbVVaRXRwV0pn",
@@ -301,6 +348,29 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-21 12:23"
+    },
+    {
+      "id": "81dfde4b7cdb1011",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa0hsZTFzaDJ4NGlPWUxudEt6M21XUm1qcjZJV042OEFrWWExZzY2azk4WWRDaEhqck0xSHB0Skhkbk1jNjlTQzZfeE9TUHhMQVZSTzlvd0lOeUc0aXdsYk9OTmJNM0RyakV6MEhWRzNmVUQ5aFdjYXFyVkNWV09UN2dMQnlvNVp4d3JQWllRR0QtOUZhdXVRVjdFcHN2SlVSTEozQmFHak1vaW8ybGs5RDJnNHJjQUtYVl9sNUluaVAzSW5aLTFVU2NXNUp5a2RQYl9SRA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa0hsZTFzaDJ4NGlPWUxudEt6M21XUm1qcjZJV042OEFrWWExZzY2azk4WWRDaEhqck0xSHB0Skhkbk1jNjlTQzZfeE9TUHhMQVZSTzlvd0lOeUc0aXdsYk9OTmJNM0RyakV6MEhWRzNmVUQ5aFdjYXFyVkNWV09UN2dMQnlvNVp4d3JQWllRR0QtOUZhdXVRVjdFcHN2SlVSTEozQmFHak1vaW8ybGs5RDJnNHJjQUtYVl9sNUluaVAzSW5aLTFVU2NXNUp5a2RQYl9SRA",
+      "titulo": "PNP captura a seis integrantes de banda ligada al Tren de Aragua dedicados al secuestro y la extorsión - El Peruano",
+      "fuente": "El Peruano",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-10-21",
+      "fecha_hecho": null,
+      "snippet": "PNP captura a seis integrantes de banda ligada al Tren de Aragua dedicados al secuestro y la extorsión El Peruano",
+      "temas": [
+        "Extorsión",
+        "Secuestro"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 5,
+      "query": "secuestro Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-21 14:20"
     },
     {
       "id": "94d33337565adafc",
@@ -389,6 +459,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-21 12:23"
+    },
+    {
+      "id": "beebb91a9fb9ecbc",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVllZWHVFbmx4ZDR6MGZpVWdpLWQ1WHVmZ3BlU19HMm5WQ3B3TWloN3ByNDJCQmtza2oxZkR5MTRFMlRiRlV5TktPc1k4akpkZ3JjejA5MkRKT1I1Y3lYVDhQWm9TU3pIYXpXOE9UZXY1aFZLMDFHTTVXTUFxWW9xT1B1b3M2SEMzaF82MVNyWWdRZFphb01QTXp5ejZZendsTndsM3RWLW54Vlg0UFZ6M25FZEVxZHR2NEZ1QWVEVmRqYjJqV19rSGs4YzJrQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVllZWHVFbmx4ZDR6MGZpVWdpLWQ1WHVmZ3BlU19HMm5WQ3B3TWloN3ByNDJCQmtza2oxZkR5MTRFMlRiRlV5TktPc1k4akpkZ3JjejA5MkRKT1I1Y3lYVDhQWm9TU3pIYXpXOE9UZXY1aFZLMDFHTTVXTUFxWW9xT1B1b3M2SEMzaF82MVNyWWdRZFphb01QTXp5ejZZendsTndsM3RWLW54Vlg0UFZ6M25FZEVxZHR2NEZ1QWVEVmRqYjJqV19rSGs4YzJrQQ",
+      "titulo": "Madres de familia de colegio de Los Olivos denuncian extorsión de menor a alumnos: les exige cupos de S/10 - Exitosa Noticias",
+      "fuente": "Exitosa Noticias",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-10-21",
+      "fecha_hecho": null,
+      "snippet": "Madres de familia de colegio de Los Olivos denuncian extorsión de menor a alumnos: les exige cupos de S/10 Exitosa Noticias",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Los Olivos"
+      ],
+      "score": 3,
+      "query": "extorsión Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-21 14:20"
     },
     {
       "id": "6778ae4ba7b3e68f",
@@ -528,6 +622,28 @@
       "agregado": "2026-10-21 12:23"
     },
     {
+      "id": "a83888de689222a4",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad91074cb9f468f95017ff421855cf8&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f10%2f21%2fjalador-es-asesinado-a-balazos-en-sjm-los-mexicanos-estarian-detras-de-este-nuevo-ataque-en-atocongo%2f&c=14451703180953269375&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad91074cb9f468f95017ff421855cf8&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F10%2F21%2Fjalador-es-asesinado-a-balazos-en-sjm-los-mexicanos-estarian-detras-de-este-nuevo-ataque-en-atocongo%2F&c=14451703180953269375&mkt=es-us",
+      "titulo": "Jalador es asesinado a balazos en SJM: ‘Los Mexicanos’ estarían detrás de este nuevo ataque en Atocongo",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-21",
+      "fecha_hecho": null,
+      "snippet": "La víctima llevaba tiempo trabajando como jalador en los exteriores del terminal Atocongo cuando fue atacada por dos sujetos que se desplazaban en una motocicleta ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-21 14:20"
+    },
+    {
       "id": "377f75c8fa0df641",
       "url": "https://diariocorreo.pe/edicion/huanuco/huanuco-dictan-12-meses-de-prision-preventiva-para-mujer-implicada-en-asesinato-de-transportista-noticia/",
       "url_canon": "https://diariocorreo.pe/edicion/huanuco/huanuco-dictan-12-meses-de-prision-preventiva-para-mujer-implicada-en-asesinato-de-transportista-noticia",
@@ -575,6 +691,53 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-21 12:24"
+    },
+    {
+      "id": "98ce94305021c980",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNXpQVWdwQjJCRGVhNkhaY3l2U1ZWZWs4aXhYQzNnQUJDWGd2R2puLXAzaGozUTF4clZyaEJWUjMwMHJoZnRUMWtGOUVUWUV0UVVfRFlzNzY3LVM2OHFnenJHdjM1bkJxVnV2LU15bC04NVBjVzZFdDZKRllES1pWSWNjVm9pRnNFdzJMOWdvYWxBVU91akZXd3Q1bFdNNzZXTnY3YWdSZG9TVDN3MXA3eEttNmd3QlhIREhCTDd2QdIB2gFBVV95cUxPNWwyN0Y5WUtUMmg4UGFheWZQaHRXNGRPREtrYXA4YmZQVmdnaU8wc3BBX3NIaVFFYnN5Z1FieUdSUE1fOUNjTmwwUVluZmZZR3gxTWljWE9iODZoREEwNVkwMGo1bEJnNGVGdjJqNHNicTROY09KdjVoSTliU0NQblEzdEFHQXhJMlIzTlRTNlhNSjZSNDU3ZXU0OEhTdUdwMW9mano4eUNTYnFhR19NMmtVVThVdkVyeGRib2hGa3ZvM003cF92Y0E0U252S2t4dXowODBfUXU3UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNXpQVWdwQjJCRGVhNkhaY3l2U1ZWZWs4aXhYQzNnQUJDWGd2R2puLXAzaGozUTF4clZyaEJWUjMwMHJoZnRUMWtGOUVUWUV0UVVfRFlzNzY3LVM2OHFnenJHdjM1bkJxVnV2LU15bC04NVBjVzZFdDZKRllES1pWSWNjVm9pRnNFdzJMOWdvYWxBVU91akZXd3Q1bFdNNzZXTnY3YWdSZG9TVDN3MXA3eEttNmd3QlhIREhCTDd2QdIB2gFBVV95cUxPNWwyN0Y5WUtUMmg4UGFheWZQaHRXNGRPREtrYXA4YmZQVmdnaU8wc3BBX3NIaVFFYnN5Z1FieUdSUE1fOUNjTmwwUVluZmZZR3gxTWljWE9iODZoREEwNVkwMGo1bEJnNGVGdjJqNHNicTROY09KdjVoSTliU0NQblEzdEFHQXhJMlIzTlRTNlhNSjZSNDU3ZXU0OEhTdUdwMW9mano4eUNTYnFhR19NMmtVVThVdkVyeGRib2hGa3ZvM003cF92Y0E0U252S2t4dXowODBfUXU3UQ",
+      "titulo": "Extorsionador se hace pasar por delivery y dispara contra una pollería del Callao - Infobae",
+      "fuente": "Infobae",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-10-21",
+      "fecha_hecho": null,
+      "snippet": "Extorsionador se hace pasar por delivery y dispara contra una pollería del Callao Infobae",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Callao"
+      ],
+      "score": 3,
+      "query": "extorsión Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-21 14:20"
+    },
+    {
+      "id": "60b02a1dcaad7e25",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9107276ea4d8592a23cfef7318a29&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f10%2f21%2fdirectivos-de-empresas-moviles-podrian-ir-5-anos-a-la-carcel-por-no-bloquear-lineas-usadas-en-delitos-el-plan-que-cocina-el-congreso%2f&c=17200167980749148740&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9107276ea4d8592a23cfef7318a29&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F10%2F21%2Fdirectivos-de-empresas-moviles-podrian-ir-5-anos-a-la-carcel-por-no-bloquear-lineas-usadas-en-delitos-el-plan-que-cocina-el-congreso%2F&c=17200167980749148740&mkt=es-us",
+      "titulo": "Directivos de empresas móviles podrían ir 5 años a la cárcel por no bloquear líneas usadas en delitos: el plan que cocina el Congreso",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-21",
+      "fecha_hecho": null,
+      "snippet": "Operadoras bajo presión: el Parlamento busca castigar con cárcel a quienes no bloqueen celulares usados en crímenes como la extorsión y sicariato. ¿Qué han dicho los gremios privados?",
+      "temas": [
+        "Extorsión",
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:sicariato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-21 14:20"
     },
     {
       "id": "a8ae9078d0b81bfb",
@@ -739,6 +902,50 @@
       "agregado": "2026-10-21 04:48"
     },
     {
+      "id": "01045fae4e6d0b45",
+      "url": "https://diariocorreo.pe/edicion/ica/chincha-extorsionadores-exigian-s100-mil-soles-a-empresaria-y-la-mataron-a-balazos-noticia/",
+      "url_canon": "https://diariocorreo.pe/edicion/ica/chincha-extorsionadores-exigian-s100-mil-soles-a-empresaria-y-la-mataron-a-balazos-noticia",
+      "titulo": "Chincha: extorsionadores exigían S/100 mil soles a empresaria y la mataron a balazos",
+      "fuente": "DiarioCorreo",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "feeds",
+      "fecha_pub": "2026-10-21",
+      "fecha_hecho": null,
+      "snippet": "",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "feed:DiarioCorreo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-21 14:20"
+    },
+    {
+      "id": "4642d40b7daa98c6",
+      "url": "https://diariocorreo.pe/edicion/ica/chincha-caen-los-malayos-del-sur-nueva-generacion-con-arma-de-fuego-drogas-y-municiones-noticia/",
+      "url_canon": "https://diariocorreo.pe/edicion/ica/chincha-caen-los-malayos-del-sur-nueva-generacion-con-arma-de-fuego-drogas-y-municiones-noticia",
+      "titulo": "Chincha: caen “Los malayos del sur nueva generación” con arma de fuego, drogas y municiones",
+      "fuente": "DiarioCorreo",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "feeds",
+      "fecha_pub": "2026-10-21",
+      "fecha_hecho": null,
+      "snippet": "",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 2,
+      "query": "feed:DiarioCorreo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-21 14:20"
+    },
+    {
       "id": "30c94eaa887a9461",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNV3ZmcWxaZkxQaUJvaGEzRWZzMXJXY0RtazlPNy0xaEdVMXV4X2xFc1hYeF84WVJTS3U4Z2N2dVlWcG9JSks0MjNNODA0bmlHbm9jTkZpMTVnWG85bHFuSXI1X19CTS1FQXlJVWNOUzZCVldfM2NwYk9HNDQxUHRIZk5mcEtSdw?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNV3ZmcWxaZkxQaUJvaGEzRWZzMXJXY0RtazlPNy0xaEdVMXV4X2xFc1hYeF84WVJTS3U4Z2N2dVlWcG9JSks0MjNNODA0bmlHbm9jTkZpMTVnWG85bHFuSXI1X19CTS1FQXlJVWNOUzZCVldfM2NwYk9HNDQxUHRIZk5mcEtSdw",
@@ -761,6 +968,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-21 12:23"
+    },
+    {
+      "id": "f71c8ca1609aff32",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUTRZRVZiVEZTcFhhX3NfTElmSkJ4eGl2dndtdWpfY3hfZjBvSzNDcmVUcE9Ra0NQS3VRc3VQRkNRTmJmLUx2dTFJdlU5OUl1NmVVSkFfanBqNVRFSHpXM0g0WUdobHRIUDV1SHFtekwzU1RDV296RVpoWTJjX3hKYTVkaXFtemlaUXExTkx5Q3ljRUlSUGZhWjRHWkhsU1E1djVZVXdWS3JMQWNRdzF3WVNSa0ZBcjE1WHlIek96eTQ2cV9lNGFWYXJ4Q2dBWXp0eTlyTjhWMTdPRmxMS3ctQVM4OFBKUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUTRZRVZiVEZTcFhhX3NfTElmSkJ4eGl2dndtdWpfY3hfZjBvSzNDcmVUcE9Ra0NQS3VRc3VQRkNRTmJmLUx2dTFJdlU5OUl1NmVVSkFfanBqNVRFSHpXM0g0WUdobHRIUDV1SHFtekwzU1RDV296RVpoWTJjX3hKYTVkaXFtemlaUXExTkx5Q3ljRUlSUGZhWjRHWkhsU1E1djVZVXdWS3JMQWNRdzF3WVNSa0ZBcjE1WHlIek96eTQ2cV9lNGFWYXJ4Q2dBWXp0eTlyTjhWMTdPRmxMS3ctQVM4OFBKUQ",
+      "titulo": "Capturan a seis venezolanos implicados en el intento de secuestro de empresario en Chorrillos: sujeto disparó a su cómplice - Exitosa Noticias",
+      "fuente": "Exitosa Noticias",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-10-21",
+      "fecha_hecho": null,
+      "snippet": "Capturan a seis venezolanos implicados en el intento de secuestro de empresario en Chorrillos: sujeto disparó a su cómplice Exitosa Noticias",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Chorrillos"
+      ],
+      "score": 2,
+      "query": "secuestro Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-21 14:20"
     },
     {
       "id": "6217f6d433741426",
@@ -853,6 +1084,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-21 12:23"
+    },
+    {
+      "id": "1685e599327b6f8a",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRkNZLXJ2YnludmhabEh6bGdIZkdzU25uODg2b1hqR01lSHp4djhvNVgxTTkzcGJNd28ydmJjdHR0Nm1CQ2syc1liQ0xOZ2k1MDBRN3l4bjVZZlo1eE5IY2hhU2FvVmpYRzY2SlB0LW5YZzlTMzJhOFkxS19RLXFvclp1LU5WNG80TWxvLVhYRm9Ta2p5azB1c0ppTDFwNE5nbzFNbHJOa1R0Z0RiSGNfQU9ybjhzaXo3bXgw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRkNZLXJ2YnludmhabEh6bGdIZkdzU25uODg2b1hqR01lSHp4djhvNVgxTTkzcGJNd28ydmJjdHR0Nm1CQ2syc1liQ0xOZ2k1MDBRN3l4bjVZZlo1eE5IY2hhU2FvVmpYRzY2SlB0LW5YZzlTMzJhOFkxS19RLXFvclp1LU5WNG80TWxvLVhYRm9Ta2p5azB1c0ppTDFwNE5nbzFNbHJOa1R0Z0RiSGNfQU9ybjhzaXo3bXgw",
+      "titulo": "!Tras el asesinato del payasito “Lamparita”! Capturan a presunto líder de “Los Pulpos de Palermo” - Perú 21",
+      "fuente": "Perú 21",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-10-21",
+      "fecha_hecho": null,
+      "snippet": "!Tras el asesinato del payasito “Lamparita”! Capturan a presunto líder de “Los Pulpos de Palermo” Perú 21",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-21 14:20"
     },
     {
       "id": "0cb33f09a7dda7e4",
@@ -1467,6 +1720,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-20 19:02"
+    },
+    {
+      "id": "7b923e9088893cb9",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZDlEcXpUSXJqWDk5X1JCTnh2aFZYUm9TYmJjek9qNWdTOXBxaHB4RnZxODF5RHYwRnZwWDhFTGVKQnMyWC04TzRRQ01tNW1tTDF6LTZ3M21kVFpRZ0RGcTVCVEV3S0Z4YUdXY08xVGdESFFZX2NMZG1nRlpMWWJnUi1tdGt1bmNCV1hKZDV6UDFQVWhEVjZGQVg3YXhWS19wYjVpeU1rRVBKd2ctTGk5WkhlcTh0ajFGS19TTDA2d0lhTjE3M044bURB?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZDlEcXpUSXJqWDk5X1JCTnh2aFZYUm9TYmJjek9qNWdTOXBxaHB4RnZxODF5RHYwRnZwWDhFTGVKQnMyWC04TzRRQ01tNW1tTDF6LTZ3M21kVFpRZ0RGcTVCVEV3S0Z4YUdXY08xVGdESFFZX2NMZG1nRlpMWWJnUi1tdGt1bmNCV1hKZDV6UDFQVWhEVjZGQVg3YXhWS19wYjVpeU1rRVBKd2ctTGk5WkhlcTh0ajFGS19TTDA2d0lhTjE3M044bURB",
+      "titulo": "Pacasmayo: sicarios asesinan a balazos a empresario de 41 años 'Chino Guayo' en plena vía pública - Exitosa Noticias",
+      "fuente": "Exitosa Noticias",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-10-20",
+      "fecha_hecho": null,
+      "snippet": "Pacasmayo: sicarios asesinan a balazos a empresario de 41 años 'Chino Guayo' en plena vía pública Exitosa Noticias",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "sicariato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-21 14:20"
     },
     {
       "id": "4c0e68fd8f70a313",
@@ -2126,6 +2401,28 @@
       "agregado": "2026-10-21 04:49"
     },
     {
+      "id": "03ab5eabe4889115",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad91069a7344315882d2c26316b4403&url=https%3a%2f%2fwww.msn.com%2fes-co%2fnoticias%2fother%2fel-tenebroso-negocio-del-gota-a-gota-que-se-mueve-entre-pereira-y-brasil-redes-sicariales-bajo-investigaci%25C3%25B3n%2far-AA2fG9Ap&c=11484695612207567352&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad91069a7344315882d2c26316b4403&url=https%3A%2F%2Fwww.msn.com%2Fes-co%2Fnoticias%2Fother%2Fel-tenebroso-negocio-del-gota-a-gota-que-se-mueve-entre-pereira-y-brasil-redes-sicariales-bajo-investigaci%25C3%25B3n%2Far-AA2fG9Ap&c=11484695612207567352&mkt=es-us",
+      "titulo": "El tenebroso negocio del gota a gota que se mueve entre Pereira y Brasil. Redes sicariales bajo investigación",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-20",
+      "fecha_hecho": null,
+      "snippet": "Una investigación de la Policía de Pereira dejó al descubierto el tenebroso negocio que se mueve en medio de los préstamos gota a gota. La macabra modalidad que se abrió paso en el país por cuenta de ...",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:\"gota a gota\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-21 14:20"
+    },
+    {
       "id": "5d1bc9e911d04fe3",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZkhGWHpsWERNMVpCQm56UFFQWU1JdGc2R0VEMWpGQVJhRnBnelhsWVk2TWVWMjgxSWczUVhIY2V3dkgybUZscldWS1h3N2k3eG9vdTRUUEVwcEdyMFF2ZnR2eGNXa1JPWGlkYkZxRzJ2OFBmX19UdUZucDdXOWV2d2x3UVpHZTd0bldCVTdXWVlkeGZRRGFVLVJCQnhPbjVKSlhGWmtyeVBReGU5SFFhS3RDTl9vSjNGZHRSeEJCVm40UTJoS0g3MGNPNW9YSG9Bd1A5Ukd2dkpSZUdtRjgwZdIB9AFBVV95cUxPOWNwLUtLdDVibEUyOWNpUDlTbENRNFI4T2dhT215U2pOc2JDWEF4OVdxVl91amdoOWluRUN6SW9JS0FqamsyQndZeGtlV09FS3R4T2p4ZWNCR29Fb3NnU1VzUHEyNkhSNjMwVFQ2QUhYS1lqYjRQa3dwcG04ZXM2UFhVUnA3TTFycExxM3BIdmxjYnU3TVBZLUpVYnM2MXpoZzZiY2E2Mzd4ZVBpU0xLVmpQbEswaFh5R2xTWndUSUZJRTlRVnFmbllzMVVBLURocFVScWM3MTVVWUlDdXdZSmRvQnY4YWNOOENZOWxFaHp2eVg0?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZkhGWHpsWERNMVpCQm56UFFQWU1JdGc2R0VEMWpGQVJhRnBnelhsWVk2TWVWMjgxSWczUVhIY2V3dkgybUZscldWS1h3N2k3eG9vdTRUUEVwcEdyMFF2ZnR2eGNXa1JPWGlkYkZxRzJ2OFBmX19UdUZucDdXOWV2d2x3UVpHZTd0bldCVTdXWVlkeGZRRGFVLVJCQnhPbjVKSlhGWmtyeVBReGU5SFFhS3RDTl9vSjNGZHRSeEJCVm40UTJoS0g3MGNPNW9YSG9Bd1A5Ukd2dkpSZUdtRjgwZdIB9AFBVV95cUxPOWNwLUtLdDVibEUyOWNpUDlTbENRNFI4T2dhT215U2pOc2JDWEF4OVdxVl91amdoOWluRUN6SW9JS0FqamsyQndZeGtlV09FS3R4T2p4ZWNCR29Fb3NnU1VzUHEyNkhSNjMwVFQ2QUhYS1lqYjRQa3dwcG04ZXM2UFhVUnA3TTFycExxM3BIdmxjYnU3TVBZLUpVYnM2MXpoZzZiY2E2Mzd4ZVBpU0xLVmpQbEswaFh5R2xTWndUSUZJRTlRVnFmbllzMVVBLURocFVScWM3MTVVWUlDdXdZSmRvQnY4YWNOOENZOWxFaHp2eVg0",
@@ -2212,6 +2509,31 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-20 12:20"
+    },
+    {
+      "id": "0b0f166ee5e568a5",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad91074cb9f468f95017ff421855cf8&url=https%3a%2f%2flarepublica.pe%2fsociedad%2f2026%2f10%2f21%2fdetienen-a-policia-en-retiro-de-70-anos-por-asesinato-de-madre-de-familia-en-la-victoria-1534176&c=2315340505906477228&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad91074cb9f468f95017ff421855cf8&url=https%3A%2F%2Flarepublica.pe%2Fsociedad%2F2026%2F10%2F21%2Fdetienen-a-policia-en-retiro-de-70-anos-por-asesinato-de-madre-de-familia-en-la-victoria-1534176&c=2315340505906477228&mkt=es-us",
+      "titulo": "Detienen a policía en retiro de 70 años por asesinato de madre de familia en La Victoria",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-20",
+      "fecha_hecho": null,
+      "snippet": "Manuel Florián Ramos Venegas, de 70 años, fue capturado en Independencia horas después del ataque. Testigos lo identificaron y se buscan esclarecer las circunstancias del hecho a través de cámaras de ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Independencia",
+        "La Victoria"
+      ],
+      "score": 3,
+      "query": "bing:asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-21 14:20"
     },
     {
       "id": "c985b6f1e4f864f9",
@@ -2699,6 +3021,29 @@
       "agregado": "2026-10-21 04:48"
     },
     {
+      "id": "aa7353bebac4d0a2",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNXdjMTlPdXBjVDJXRVY1cDBScERXR0tPV01SV1E2QmJJMXpPVWNLSVU1V0d0QUJXYnJMUDVPaXRVOEV3akY0UFR5SFBIbm1GbmxCQk9YT2p3aEJxODVmeDYxYmNyZnNoWU5nRU5KMkFMNW5ELUtuQ21mM2tsb2hnTmNINjJ3R3NBNV9iaGl0VzVLZVNYdlNnODRzNDNSY1NKdERKMmprNjNZTEVTal90OWlZSjFrOHhkbWJBMnNueTU?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNXdjMTlPdXBjVDJXRVY1cDBScERXR0tPV01SV1E2QmJJMXpPVWNLSVU1V0d0QUJXYnJMUDVPaXRVOEV3akY0UFR5SFBIbm1GbmxCQk9YT2p3aEJxODVmeDYxYmNyZnNoWU5nRU5KMkFMNW5ELUtuQ21mM2tsb2hnTmNINjJ3R3NBNV9iaGl0VzVLZVNYdlNnODRzNDNSY1NKdERKMmprNjNZTEVTal90OWlZSjFrOHhkbWJBMnNueTU",
+      "titulo": "Caen presuntos integrantes de banda dedicada al secuestro y extorsión a prestamistas - www.apnoticias.pe",
+      "fuente": "www.apnoticias.pe",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-10-20",
+      "fecha_hecho": null,
+      "snippet": "Caen presuntos integrantes de banda dedicada al secuestro y extorsión a prestamistas www.apnoticias.pe",
+      "temas": [
+        "Extorsión",
+        "Secuestro"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 5,
+      "query": "extorsión Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-21 14:20"
+    },
+    {
       "id": "f872b45868df7cdd",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVXg2YWU3OVFOTDVQRFJlUDBQQnhqNGoyWEZEQXBYTVcyTXFYYmpvaHJhblVWdUNmSnBnZVV1TkJPNFd5MDU4TXo0QnkxUU1TS3ZnSUpGUS1HWjFIYmZteGxtcFhCMTF1SUUyY0VETk00WGd4RlhGQ1JWM3g0bmJhQW1FR2Jad240OU5EZWdNMi1wSGtNaEoySDdmVmF2RGJqQ3gzS3k2WHVTQVJLZnJCSF9JcHAzblNHUGVTWnVkVEltd2IyMWY1T3R3d0ZjcTBmdFRJbVdaNl9GcHN6ZC1XQnBaMk9FM2NROTVfSNIBhwJBVV95cUxOM1dqYTdwN0RwcmxFWGFxampzTFdFQlFzczR3X0ladmJRNTE1N2d0N04zX0xhMGVZSDZZUUtLTGQyd1dZTGkzMEhhb2JjYnM2bkNHQV9BWm1DbXc3YmhtdzN6YTZKaF8yNmducGF1U045aW5KSjN0QlNKX3J4SzhKeGxLaUQxZG5Ga08tRF9XdzJ1RXIxTjRGNE1TZ05tS0NDaHhqY0hlbkZLU1RiX3hIY1gtWGdHRS10QnZ0NTQ5UUJHRDJsemZKYzdoSDY2b3BtNnlkNDlreGhMeXJDbVNROXpRTEUtOExrMEtvZHlWUEtiZHhJWnk4Mzh4RlE1RXAyeWU2aE1scw?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVXg2YWU3OVFOTDVQRFJlUDBQQnhqNGoyWEZEQXBYTVcyTXFYYmpvaHJhblVWdUNmSnBnZVV1TkJPNFd5MDU4TXo0QnkxUU1TS3ZnSUpGUS1HWjFIYmZteGxtcFhCMTF1SUUyY0VETk00WGd4RlhGQ1JWM3g0bmJhQW1FR2Jad240OU5EZWdNMi1wSGtNaEoySDdmVmF2RGJqQ3gzS3k2WHVTQVJLZnJCSF9JcHAzblNHUGVTWnVkVEltd2IyMWY1T3R3d0ZjcTBmdFRJbVdaNl9GcHN6ZC1XQnBaMk9FM2NROTVfSNIBhwJBVV95cUxOM1dqYTdwN0RwcmxFWGFxampzTFdFQlFzczR3X0ladmJRNTE1N2d0N04zX0xhMGVZSDZZUUtLTGQyd1dZTGkzMEhhb2JjYnM2bkNHQV9BWm1DbXc3YmhtdzN6YTZKaF8yNmducGF1U045aW5KSjN0QlNKX3J4SzhKeGxLaUQxZG5Ga08tRF9XdzJ1RXIxTjRGNE1TZ05tS0NDaHhqY0hlbkZLU1RiX3hIY1gtWGdHRS10QnZ0NTQ5UUJHRDJsemZKYzdoSDY2b3BtNnlkNDlreGhMeXJDbVNROXpRTEUtOExrMEtvZHlWUEtiZHhJWnk4Mzh4RlE1RXAyeWU2aE1scw",
@@ -2789,6 +3134,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-21 04:49"
+    },
+    {
+      "id": "6898316c10550819",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad91069a7344315882d2c26316b4403&url=https%3a%2f%2fwww.infobae.com%2fcolombia%2f2026%2f10%2f21%2fautoridades-en-colombia-investigan-una-red-de-prestamos-gota-a-gota-que-conectaria-a-pereira-con-brasil-movio-mas-de-122000-reales%2f&c=16340980408369697256&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad91069a7344315882d2c26316b4403&url=https%3A%2F%2Fwww.infobae.com%2Fcolombia%2F2026%2F10%2F21%2Fautoridades-en-colombia-investigan-una-red-de-prestamos-gota-a-gota-que-conectaria-a-pereira-con-brasil-movio-mas-de-122000-reales%2F&c=16340980408369697256&mkt=es-us",
+      "titulo": "Autoridades en Colombia investigan una red de préstamos ‘gota a gota’ que conectaría a Pereira con Brasil: movió más de 122.000 reales",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-20",
+      "fecha_hecho": null,
+      "snippet": "Dos requeridos por la justicia brasileña fueron ubicados en la capital de Risaralda por presunta usura, lavado de activos y asociación criminal. Las pesquisas siguen cuantiosas transferencias y posibl ...",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:\"gota a gota\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-21 14:20"
     },
     {
       "id": "6154691850c4d036",
@@ -3020,6 +3387,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-19 13:51"
+    },
+    {
+      "id": "50a468236abd70c7",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcTYtTGlYcnJISUVTODlGLU9MMVFXS19fNjM2aGVON0NyaFlCZzVSUVBhaFZHVUltVUlsTWFyRWhtRnQ0WnppS2p0NTFYM1JiaWx4MlMzNERjUnRSbk9KcHZzTGM0ejRUanI2b3RvMXlFN2ptT3JKbHdWaEViNUdBb3ZZemV3T1RjMGxibdIBkgFBVV95cUxQSDlFSzM4cTk2RUlHaExkN2RPWE9hUkZ0Um14VF9adGNLLU8yYlR1QUluUnk0NE9KVkdKRUNyRmZWcW5SMVFMNWFmT3RoZXdNakVpOUREUExCVk9fd0hQLXQ4WkxkcENaYjRkNXQ3dGNhU3FCVEtzbDZtSVBxUjFHS092UUM5X080eDkwdm14cVFoQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcTYtTGlYcnJISUVTODlGLU9MMVFXS19fNjM2aGVON0NyaFlCZzVSUVBhaFZHVUltVUlsTWFyRWhtRnQ0WnppS2p0NTFYM1JiaWx4MlMzNERjUnRSbk9KcHZzTGM0ejRUanI2b3RvMXlFN2ptT3JKbHdWaEViNUdBb3ZZemV3T1RjMGxibdIBkgFBVV95cUxQSDlFSzM4cTk2RUlHaExkN2RPWE9hUkZ0Um14VF9adGNLLU8yYlR1QUluUnk0NE9KVkdKRUNyRmZWcW5SMVFMNWFmT3RoZXdNakVpOUREUExCVk9fd0hQLXQ4WkxkcENaYjRkNXQ3dGNhU3FCVEtzbDZtSVBxUjFHS092UUM5X080eDkwdm14cVFoQQ",
+      "titulo": "‘Gota a gota’: del alivio al terror - El Siglo Panamá",
+      "fuente": "El Siglo Panamá",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-10-19",
+      "fecha_hecho": null,
+      "snippet": "‘Gota a gota’: del alivio al terror El Siglo Panamá",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "\"gota a gota\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-21 14:20"
     },
     {
       "id": "713c84635a0942fd",
@@ -3787,6 +4176,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-21 04:49"
+    },
+    {
+      "id": "69347dbbd14e6c88",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad910671ecb45e1b9fc04c716b33e76&url=https%3a%2f%2fgestion.pe%2fperu%2fpolitica%2fgobierno-anuncia-compra-de-tecnologia-para-la-fortalecer-inteligencia-policial-antes-de-fin-de-ano-noticia%2f&c=16597777441123170582&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad910671ecb45e1b9fc04c716b33e76&url=https%3A%2F%2Fgestion.pe%2Fperu%2Fpolitica%2Fgobierno-anuncia-compra-de-tecnologia-para-la-fortalecer-inteligencia-policial-antes-de-fin-de-ano-noticia%2F&c=16597777441123170582&mkt=es-us",
+      "titulo": "Extorsiones a transportistas: Gobierno anuncia compra de tecnología para la fortalecer inteligencia policial",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-19",
+      "fecha_hecho": null,
+      "snippet": "El ministro César Astudillo anunció que la compra de tecnología para la PNP, antes de fin de año, se realizará mediante una contratación de Estado a Estado.",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:extorsión Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-21 14:20"
     },
     {
       "id": "59753add4eea8c28",
@@ -5152,6 +5563,29 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-19 05:29"
+    },
+    {
+      "id": "59491f5652803870",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdUtBOG9uUmdxS3ZSWEprbUNoVmVKd0MwU0xlVVNzM252RUN3S1JLWkhVTWNKUWluaEtYWGhzQnFxVGg3MVprYW9zM2l2WVIxdXpfcVNmalp3WFo1M1d0R3pYVHFEUGxfMnQtVWZpclRzc3A4aE5udWg1eFc1WEFXWEZRVnJFU2FWOG5JMDBSVUdIajgwV1BJa19vejQ3a0QzU2l3aUk5eHdoa1Bzc09TV09ZYlpjXzZYZXdTRmVGUnREOVA1SUhKLUhJQ0c3aHJiSW5aNERFczU?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdUtBOG9uUmdxS3ZSWEprbUNoVmVKd0MwU0xlVVNzM252RUN3S1JLWkhVTWNKUWluaEtYWGhzQnFxVGg3MVprYW9zM2l2WVIxdXpfcVNmalp3WFo1M1d0R3pYVHFEUGxfMnQtVWZpclRzc3A4aE5udWg1eFc1WEFXWEZRVnJFU2FWOG5JMDBSVUdIajgwV1BJa19vejQ3a0QzU2l3aUk5eHdoa1Bzc09TV09ZYlpjXzZYZXdTRmVGUnREOVA1SUhKLUhJQ0c3aHJiSW5aNERFczU",
+      "titulo": "Así funcionan los secuestros \"gota a gota\" ¿Cuál es la diferencia con los préstamos informales? - La Hora",
+      "fuente": "La Hora",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-10-18",
+      "fecha_hecho": null,
+      "snippet": "Así funcionan los secuestros \"gota a gota\" ¿Cuál es la diferencia con los préstamos informales? La Hora",
+      "temas": [
+        "Extorsión",
+        "Secuestro"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 5,
+      "query": "\"gota a gota\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-21 14:20"
     },
     {
       "id": "cb932a0845234457",
@@ -6910,6 +7344,28 @@
       "agregado": "2026-10-20 14:17"
     },
     {
+      "id": "93d41990f95d1aa7",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad91074cb9f468f95017ff421855cf8&url=https%3a%2f%2fwww.msn.com%2fes-ve%2fnoticias%2fother%2fsomos-16-10-2026-per%25C3%25BA-exigen-justicia-por-asesinato-del-joven-rapero-truko%2fvi-AA2epCo9&c=8639666919154680157&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad91074cb9f468f95017ff421855cf8&url=https%3A%2F%2Fwww.msn.com%2Fes-ve%2Fnoticias%2Fother%2Fsomos-16-10-2026-per%25C3%25BA-exigen-justicia-por-asesinato-del-joven-rapero-truko%2Fvi-AA2epCo9&c=8639666919154680157&mkt=es-us",
+      "titulo": "Somos 16/10/2026 | Perú: Exigen justicia por asesinato del joven rapero TRuKO",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-16",
+      "fecha_hecho": null,
+      "snippet": "En Perú, los familiares y amigos de Mauricio Ruíz, un joven cantante de hip hop conocido como TRuKO, exigen justicia a un año de haber sido asesinado por un policía vestido de civil durante las protes ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 2,
+      "query": "bing:asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-21 14:20"
+    },
+    {
       "id": "d14895e6527cb678",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQNjlqSG9IWGRxamNjaGlSY1BNMEIza0lIVjBFNkxnbHdTQ2oxLWFrZUtXdU53MUF4dUt6NFZoa3M4R0FzcHdZRmI1dWdRdjZrTXJROUMzSHJ1bzRPTUY0Q0FyZ2NQbTRNYUlZeU1hS1hqQWczQjJ6MG9neTBDQ2t0bkpOc2xXaTQwOTBuR0JSYlY1cWhVTE1JNTZhbjgwUkJSS3FSZkN0LTFEWVUzMEwyWWdOdzNaN3ZGT1lhdzhtNm5BTG9pNUtxTEFLdC1tMG9LSXd2UnlEUG5VbkhTbUpCeXlabTlwOHRtaDF0MDZSR2dwdDdx0gGPAkFVX3lxTE0yY253VmlkXzRuNTFvam92NVZwNVRYQmJ3a19jWURnWFRFeGNPc0stcjJwM3ZvbHdnNzFzNVZkWm5ZQk44RkNTWmJKcjJFMV9QVUhueWFGeEp3OFQzUUJuWTlzckRDRFg1MjJKWm02RVRxT3JUR2p5a3FFS0hQLTc3U2ZOZVhqWGlwZFp3NjBhdi1UWWxFTzRyeEoyWkFuSmJZU3ZmbU43LS00NXdaeGk0bmw4eE1ucmtXaFRwcTUzTzlmbVZ0anFJSTRnUnROSjJwN0xSSDNtT01Dd1FhcHRPN1VjalhaYlFHRTFfS0N3Zmk2YXRIQlAxTTRiSTczdXRXcVB4Z3htYlh1X0dMOE0?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQNjlqSG9IWGRxamNjaGlSY1BNMEIza0lIVjBFNkxnbHdTQ2oxLWFrZUtXdU53MUF4dUt6NFZoa3M4R0FzcHdZRmI1dWdRdjZrTXJROUMzSHJ1bzRPTUY0Q0FyZ2NQbTRNYUlZeU1hS1hqQWczQjJ6MG9neTBDQ2t0bkpOc2xXaTQwOTBuR0JSYlY1cWhVTE1JNTZhbjgwUkJSS3FSZkN0LTFEWVUzMEwyWWdOdzNaN3ZGT1lhdzhtNm5BTG9pNUtxTEFLdC1tMG9LSXd2UnlEUG5VbkhTbUpCeXlabTlwOHRtaDF0MDZSR2dwdDdx0gGPAkFVX3lxTE0yY253VmlkXzRuNTFvam92NVZwNVRYQmJ3a19jWURnWFRFeGNPc0stcjJwM3ZvbHdnNzFzNVZkWm5ZQk44RkNTWmJKcjJFMV9QVUhueWFGeEp3OFQzUUJuWTlzckRDRFg1MjJKWm02RVRxT3JUR2p5a3FFS0hQLTc3U2ZOZVhqWGlwZFp3NjBhdi1UWWxFTzRyeEoyWkFuSmJZU3ZmbU43LS00NXdaeGk0bmw4eE1ucmtXaFRwcTUzTzlmbVZ0anFJSTRnUnROSjJwN0xSSDNtT01Dd1FhcHRPN1VjalhaYlFHRTFfS0N3Zmk2YXRIQlAxTTRiSTczdXRXcVB4Z3htYlh1X0dMOE0",
@@ -8666,6 +9122,28 @@
       "agregado": "2026-10-21 12:24"
     },
     {
+      "id": "3ff9b9412b76c4d7",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad91075dee54fe4aec0031344a3cc2d&url=https%3a%2f%2frpp.pe%2flima%2fjudiciales%2flima-sera-sede-del-primer-congreso-sobre-condenas-injustas-y-error-judicial-sabado-17-de-octubre-noticia-1712950&c=8222093208449036548&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad91075dee54fe4aec0031344a3cc2d&url=https%3A%2F%2Frpp.pe%2Flima%2Fjudiciales%2Flima-sera-sede-del-primer-congreso-sobre-condenas-injustas-y-error-judicial-sabado-17-de-octubre-noticia-1712950&c=8222093208449036548&mkt=es-us",
+      "titulo": "Condenas injustas en Perú: realizarán congreso con testimonio de hombre acusado de homicidio",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-16",
+      "fecha_hecho": null,
+      "snippet": "El evento contará con el relato de Henry Zuñiga Canahuire, hombre víctima de un error judicial, según el abogado penalista Juan Ortíz Benites.",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:homicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-21 14:20"
+    },
+    {
       "id": "8ef9b78066e5f669",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSWdWQjFGcHBrMlU3RTl4Wi1xYlp1Qjk0ek9nOXpOT1F0RDVuSjRyTE9zUnBwcmc0TXJFMm55Y1VWQzN4V1lSaU1DV2dIQnp1VjNydjV4TXFoWFFwTzF5WWhfb0xyYmRUY243c2dpOXVTeDVZR3EyU3d4Y3UtVExXa1RsZ0liQm5JZTdhNzdXWm9MS28?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSWdWQjFGcHBrMlU3RTl4Wi1xYlp1Qjk0ek9nOXpOT1F0RDVuSjRyTE9zUnBwcmc0TXJFMm55Y1VWQzN4V1lSaU1DV2dIQnp1VjNydjV4TXFoWFFwTzF5WWhfb0xyYmRUY243c2dpOXVTeDVZR3EyU3d4Y3UtVExXa1RsZ0liQm5JZTdhNzdXWm9MS28",
@@ -10368,6 +10846,31 @@
       "agregado": "2026-10-21 04:49"
     },
     {
+      "id": "ac8e19c82d439167",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad910857ab340349f485dd6780a9f56&url=https%3a%2f%2fwww.expreso.com.pe%2factualidad%2foperativo-policial-en-los-olivos-agentes-abaten-a-delincuente-y-dejan-herido-a-su-complice-tras-frustrar-asalto-a-mano-armada-todos-los-detalles-noticia%2f1322974%2f&c=15590329643182295678&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad910857ab340349f485dd6780a9f56&url=https%3A%2F%2Fwww.expreso.com.pe%2Factualidad%2Foperativo-policial-en-los-olivos-agentes-abaten-a-delincuente-y-dejan-herido-a-su-complice-tras-frustrar-asalto-a-mano-armada-todos-los-detalles-noticia%2F1322974%2F&c=15590329643182295678&mkt=es-us",
+      "titulo": "Operativo policial en Los Olivos: agentes abaten a delincuente y dejan herido a su cómplice tras frustrar asalto a mano armada | Todos los detalles",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-15",
+      "fecha_hecho": null,
+      "snippet": "La Policía abate a un presunto delincuente y deja herido a su cómplice en un tiroteo en el límite de Puente Piedra y Los Olivos.",
+      "temas": [
+        "Asalto a mano armada"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Los Olivos",
+        "Puente Piedra"
+      ],
+      "score": 3,
+      "query": "bing:\"mano armada\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-21 14:20"
+    },
+    {
       "id": "0ac28e30f16d783e",
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVXJtbGlRLTBhMWZqNUdzR0tHRk1IVnBVdlVZNy1FZklNZHZ6NjN4UTUxZmxiZlBPSi1vYzlEY3VraWNLOEpfQzNPRUxQSm1KNzNBVUtqWmVZc0JFei1FeHhzbS15cktrVXVEb21UOVAzMC1ZZnAwb2thalRYMFppM29JbjB1VG0yckxvT2J4Y3FOS3V2U0JaNk51MG1KR01mdHE5MWZDR3pndXpxaU5tYl9yeHNUUnRDWjVMaGdHYlFLR1EzdHZ1RnB4dkVtQUVyMEx4NXo5WFJkT3BaZDVXTW1LR1hUVy14dnd3QnZmdk1LS1dQeEE?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVXJtbGlRLTBhMWZqNUdzR0tHRk1IVnBVdlVZNy1FZklNZHZ6NjN4UTUxZmxiZlBPSi1vYzlEY3VraWNLOEpfQzNPRUxQSm1KNzNBVUtqWmVZc0JFei1FeHhzbS15cktrVXVEb21UOVAzMC1ZZnAwb2thalRYMFppM29JbjB1VG0yckxvT2J4Y3FOS3V2U0JaNk51MG1KR01mdHE5MWZDR3pndXpxaU5tYl9yeHNUUnRDWjVMaGdHYlFLR1EzdHZ1RnB4dkVtQUVyMEx4NXo5WFJkT3BaZDVXTW1LR1hUVy14dnd3QnZmdk1LS1dQeEE",
@@ -11378,6 +11881,28 @@
       "agregado": "2026-10-21 12:24"
     },
     {
+      "id": "ac7a2c77ae425677",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad91075dee54fe4aec0031344a3cc2d&url=https%3a%2f%2fes-us.noticias.yahoo.com%2ffalso-tasa-homicidios-per%25C3%25BA-14-172328027.html&c=122694740443112944&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad91075dee54fe4aec0031344a3cc2d&url=https%3A%2F%2Fes-us.noticias.yahoo.com%2Ffalso-tasa-homicidios-per%25C3%25BA-14-172328027.html&c=122694740443112944&mkt=es-us",
+      "titulo": "Es falso que la tasa de homicidios en el Perú sea de 14 por cada 100,000 habitantes, como dijo Alejandro Aguinaga",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-15",
+      "fecha_hecho": null,
+      "snippet": "Durante una sesión del Pleno del Senado de la República, Alejandro Aguinaga, senador de Fuerza Popular, hizo referencia a la actual tasa de homicidios en el Perú. Textualmente, Aguinaga indicó lo sigu ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:homicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-21 14:20"
+    },
+    {
       "id": "bfe672cc35366b0a",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY0toeDc2ODFhdjM5STA4dGNSdXU3VDlKZDQySEQwY2hIMkxfQ2U4TWtBanFOV0swdHRDTjV6OEZLLWpHcXhTODU5YnFETGRnUFUwYWVBOHdVY2ZMeXg3SEJseXZjVG00ZmZFY1RIeF9YV2VGVnc2SFNUbDVzVkk1QldVSmVJTXJ6Y2Y0eGVCakNXTVFNMEVQcnBsNG40MFBHUmpJemV1N3VIczdtSVRVSkU5Wm1JTTA0d2FZMnVyMlZodw?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY0toeDc2ODFhdjM5STA4dGNSdXU3VDlKZDQySEQwY2hIMkxfQ2U4TWtBanFOV0swdHRDTjV6OEZLLWpHcXhTODU5YnFETGRnUFUwYWVBOHdVY2ZMeXg3SEJseXZjVG00ZmZFY1RIeF9YV2VGVnc2SFNUbDVzVkk1QldVSmVJTXJ6Y2Y0eGVCakNXTVFNMEVQcnBsNG40MFBHUmpJemV1N3VIczdtSVRVSkU5Wm1JTTA0d2FZMnVyMlZodw",
@@ -11794,6 +12319,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-21 04:49"
+    },
+    {
+      "id": "17a3602a100dcbea",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad91074cb9f468f95017ff421855cf8&url=https%3a%2f%2fwww.msn.com%2fes-ve%2fnoticias%2fother%2fen-per%25C3%25BA-familiares-y-amigos-exigen-justicia-por-el-asesinato-de-un-joven-cantante%2fvi-AA2emqVD&c=9558473852662741099&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad91074cb9f468f95017ff421855cf8&url=https%3A%2F%2Fwww.msn.com%2Fes-ve%2Fnoticias%2Fother%2Fen-per%25C3%25BA-familiares-y-amigos-exigen-justicia-por-el-asesinato-de-un-joven-cantante%2Fvi-AA2emqVD&c=9558473852662741099&mkt=es-us",
+      "titulo": "En Perú, familiares y amigos exigen justicia por el asesinato de un joven cantante",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-15",
+      "fecha_hecho": null,
+      "snippet": "En Perú, familiares y amigos de Mauricio Ruiz, conocido como Trvko, exigen justicia a un año de su asesinato durante las protestas. El caso reaviva los reclamos por verdad y responsabilidad policial.",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-21 14:20"
     },
     {
       "id": "5dca551e9e6ccb10",
@@ -15907,6 +16454,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-21 04:49"
+    },
+    {
+      "id": "36dc846ae976af00",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad910671ecb45e1b9fc04c716b33e76&url=https%3a%2f%2fwww.elnacional.com%2f2026%2f10%2fdetienen-en-lima-a-seis-venezolanos-senalados-como-miembros-de-banda-dedicada-a-extorsiones%2f&c=13032147639358645021&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad910671ecb45e1b9fc04c716b33e76&url=https%3A%2F%2Fwww.elnacional.com%2F2026%2F10%2Fdetienen-en-lima-a-seis-venezolanos-senalados-como-miembros-de-banda-dedicada-a-extorsiones%2F&c=13032147639358645021&mkt=es-us",
+      "titulo": "Detienen en Lima a seis venezolanos señalados como miembros de banda dedicada a extorsiones",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-14",
+      "fecha_hecho": null,
+      "snippet": "El Ministerio de Interior de Perú anunció la detención de seis venezolanos por la extorsión de unidades de transporte público en Lima.",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:extorsión Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-21 14:20"
     },
     {
       "id": "d0f0790db0ebb357",
@@ -28460,6 +29031,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-21 04:49"
+    },
+    {
+      "id": "605735505c055954",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad91074cb9f468f95017ff421855cf8&url=https%3a%2f%2fwww.univision.com%2flocal%2fmiami-wltv%2ffamilia-busca-repatriar-a-peru-a-mujer-asesinada-presuntamente-por-su-hijo-en-tamarac-video&c=2278958858788462333&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad91074cb9f468f95017ff421855cf8&url=https%3A%2F%2Fwww.univision.com%2Flocal%2Fmiami-wltv%2Ffamilia-busca-repatriar-a-peru-a-mujer-asesinada-presuntamente-por-su-hijo-en-tamarac-video&c=2278958858788462333&mkt=es-us",
+      "titulo": "Familia busca repatriar a Perú a mujer asesinada presuntamente por su hijo en Tamarac",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-11",
+      "fecha_hecho": null,
+      "snippet": "La familia de una mujer peruana asesinada a puñaladas en Tamarac, Florida, busca trasladar su cuerpo a Perú para sepultarla junto a su madre, fallecida semanas atrás. Su hijo, Manuel Antonio Farfán Ca ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-21 14:20"
     },
     {
       "id": "8fdeec387e934aa5",
@@ -41246,6 +41839,30 @@
       "agregado": "2026-10-19 19:30"
     },
     {
+      "id": "f89a3adbbbe6576a",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad91074cb9f468f95017ff421855cf8&url=https%3a%2f%2flancasteronline.com%2flavoz%2flatinoamerica-y-caribe%2fpresidenta-de-per-crea-grupo-lite-contra-el-crimen-mientras-siguen-asesinatos-de-transportistas%2farticle_d948921a-c4e0-5731-b29f-1c29207757d8.html&c=5947070197844254911&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad91074cb9f468f95017ff421855cf8&url=https%3A%2F%2Flancasteronline.com%2Flavoz%2Flatinoamerica-y-caribe%2Fpresidenta-de-per-crea-grupo-lite-contra-el-crimen-mientras-siguen-asesinatos-de-transportistas%2Farticle_d948921a-c4e0-5731-b29f-1c29207757d8.html&c=5947070197844254911&mkt=es-us",
+      "titulo": "Presidenta de Perú crea grupo élite contra el crimen mientras siguen asesinatos de transportistas",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-07",
+      "fecha_hecho": null,
+      "snippet": "LIMA (AP) — La presidenta peruana Keiko Fujimori anunció el miércoles la creación de un grupo élite de policías y militares en un esfuerzo por rescatar a los peruanos “del ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-21 14:20"
+    },
+    {
       "id": "6163a80aedb32f94",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOV0NtT3hMemxTbWRldTJDQ3EyTVVGTTEzVW9ZcTZkUVQ4WUwwdW13UzdjeXZUQzg3U3FtWXNSRFI2RlFpTzc1M1Z1OWFjODhyV1N2eW9VanVKWUdadERMTnVEUmZhczVjZWpWMi0tS3pyZlNsZzk0VXpvRE1IUkFWbUhPOEp2MkNGNUV4SEowT0NwT0xwQUdCTEtrR1hpcXlvdHRFYXZlLTZHbWtJb1BSX0IyR0wtZUpGNm56Z0FnSHRYTzlKcjV1WXd5cjlGdHRvalVDdDFJT08zaUw3dUExeUFhcDMxdzV0Z1JFa2FLeEk?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOV0NtT3hMemxTbWRldTJDQ3EyTVVGTTEzVW9ZcTZkUVQ4WUwwdW13UzdjeXZUQzg3U3FtWXNSRFI2RlFpTzc1M1Z1OWFjODhyV1N2eW9VanVKWUdadERMTnVEUmZhczVjZWpWMi0tS3pyZlNsZzk0VXpvRE1IUkFWbUhPOEp2MkNGNUV4SEowT0NwT0xwQUdCTEtrR1hpcXlvdHRFYXZlLTZHbWtJb1BSX0IyR0wtZUpGNm56Z0FnSHRYTzlKcjV1WXd5cjlGdHRvalVDdDFJT08zaUw3dUExeUFhcDMxdzV0Z1JFa2FLeEk",
@@ -49180,6 +49797,28 @@
       "agregado": "2026-10-21 12:24"
     },
     {
+      "id": "2d689320368d6320",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad910895a584a6e840623b3032f2681&url=https%3a%2f%2fwww.msn.com%2fes-cl%2fnoticias%2fother%2fpolic%25C3%25ADa-de-per%25C3%25BA-investiga-presunto-plan-con-amenazas-de-muerte-a-la-presidenta-keiko-fujimori%2far-AA2dCZle&c=4076516740697307772&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad910895a584a6e840623b3032f2681&url=https%3A%2F%2Fwww.msn.com%2Fes-cl%2Fnoticias%2Fother%2Fpolic%25C3%25ADa-de-per%25C3%25BA-investiga-presunto-plan-con-amenazas-de-muerte-a-la-presidenta-keiko-fujimori%2Far-AA2dCZle&c=4076516740697307772&mkt=es-us",
+      "titulo": "Policía de Perú investiga presunto plan con amenazas de muerte a la presidenta Keiko Fujimori",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-05",
+      "fecha_hecho": null,
+      "snippet": "La Dirección contra el Terrorismo (Dircote) de la Policía Nacional de Perú activó este lunes “de manera inmediata” una investigación tras la difusión de material audiovisual que contiene presuntas ame ...",
+      "temas": [
+        "Amenazas e intimidaciones"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:\"amenazas de muerte\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-21 14:20"
+    },
+    {
       "id": "df8310cc13050f62",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONFN6Q2FpNlJBUTBfQk9pRGZEdmxqWlk2RjhKdkF1SDZ3NTZZQm1GNVlkUlRlRkpDaWVIa1ZjZU1fTGdpN21vUk9fc2FTTEJOT0YzU3Q0cUhEakdYQXhhSlNDTWxfcHdjbnFjWEprTElvYmVjSG1TMzBhaU54S1JUaG5jTldoM0RHRzAwRE9lVDdJT1cwWGxhczdUVnEyMmRZS3V0WjN5SHM2M2s?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONFN6Q2FpNlJBUTBfQk9pRGZEdmxqWlk2RjhKdkF1SDZ3NTZZQm1GNVlkUlRlRkpDaWVIa1ZjZU1fTGdpN21vUk9fc2FTTEJOT0YzU3Q0cUhEakdYQXhhSlNDTWxfcHdjbnFjWEprTElvYmVjSG1TMzBhaU54S1JUaG5jTldoM0RHRzAwRE9lVDdJT1cwWGxhczdUVnEyMmRZS3V0WjN5SHM2M2s",
@@ -50036,6 +50675,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-21 12:24"
+    },
+    {
+      "id": "0e5c885c4bd1a380",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad910895a584a6e840623b3032f2681&url=https%3a%2f%2fnoticiassin.com%2fmundo%2f2026%2f10%2f05%2fdircote-investiga-amenazas-contra-keiko-fujimori-2136023%2f&c=5121399148972421314&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad910895a584a6e840623b3032f2681&url=https%3A%2F%2Fnoticiassin.com%2Fmundo%2F2026%2F10%2F05%2Fdircote-investiga-amenazas-contra-keiko-fujimori-2136023%2F&c=5121399148972421314&mkt=es-us",
+      "titulo": "Policía antiterrorista de Perú investiga posible instigación a matar a presidenta Fujimori",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-05",
+      "fecha_hecho": null,
+      "snippet": "La Policía antiterrorista de Perú investiga amenazas de muerte contra la presidenta Fujimori tras un video difundido. Fujimori asegura no tener miedo.",
+      "temas": [
+        "Amenazas e intimidaciones"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:\"amenazas de muerte\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-21 14:20"
     },
     {
       "id": "dd104b412426ac8b",
@@ -50919,6 +51580,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-21 04:49"
+    },
+    {
+      "id": "46ed09c1e580eef9",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad91074cb9f468f95017ff421855cf8&url=https%3a%2f%2fwww.noticiascaracol.com%2fmundo%2fmujer-vinculada-al-asesinato-de-candidata-peruana-murio-en-accidente-de-autobus-en-venezuela-cb20&c=847002866826589999&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad91074cb9f468f95017ff421855cf8&url=https%3A%2F%2Fwww.noticiascaracol.com%2Fmundo%2Fmujer-vinculada-al-asesinato-de-candidata-peruana-murio-en-accidente-de-autobus-en-venezuela-cb20&c=847002866826589999&mkt=es-us",
+      "titulo": "Mujer vinculada al asesinato de candidata peruana murió en accidente de autobús en Venezuela",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-05",
+      "fecha_hecho": null,
+      "snippet": "Alexandra Toro Montezuma, vinculada al asesinato de la candidata peruana Susy Aponte, murió en un accidente de autobús en Venezuela mientras huía junto a su pareja, según medios locales.",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-21 14:20"
     },
     {
       "id": "da5f6e377fb58626",
@@ -74268,5 +74951,5 @@
       "agregado": "2026-10-02 13:01"
     }
   ],
-  "n": 3238
+  "n": 3268
 }
