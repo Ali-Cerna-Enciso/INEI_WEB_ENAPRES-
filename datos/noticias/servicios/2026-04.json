@@ -1,6 +1,6 @@
 {
   "mes": "2026-04",
-  "actualizado": "2026-10-21 19:12",
+  "actualizado": "2026-10-22 04:51",
   "items": [
     {
       "id": "e82b01a5eca5be1b",
@@ -9403,6 +9403,29 @@
       "agregado": "2026-10-21 19:12"
     },
     {
+      "id": "2987416cec6894cd",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9dc9d3fba40db9c4a18e9c33fc18e&url=https%3a%2f%2fgestion.pe%2feconomia%2fagua-y-desague-los-millones-que-se-dejaron-de-invertir-en-obras-de-saneamiento-en-el-peru-como-esta-la-brecha-noticia%2f&c=7617185666064963885&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9dc9d3fba40db9c4a18e9c33fc18e&url=https%3A%2F%2Fgestion.pe%2Feconomia%2Fagua-y-desague-los-millones-que-se-dejaron-de-invertir-en-obras-de-saneamiento-en-el-peru-como-esta-la-brecha-noticia%2F&c=7617185666064963885&mkt=es-us",
+      "titulo": "Los millones que se dejaron de invertir en obras de agua y desagüe: así va la brecha en Perú",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-04-02",
+      "fecha_hecho": null,
+      "snippet": "En menos de dos semanas, el Perú tendrá que elegir al nuevo Gobierno que tome acción sobre pendientes clave para el país. Uno de estos temas urgentes es, sin duda, llevar agua y saneamiento a la ...",
+      "temas": [
+        "Agua por red pública",
+        "Alcantarillado"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 4,
+      "query": "bing:desagüe Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-22 04:51"
+    },
+    {
       "id": "23ac45bfba733bae",
       "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQWHBmYlNKYVM2cWNqMjdya2pJQUtuenZZa3FtOEN0bmlIZnNSOC1MNlhjVXpTUUN4WDJSZ0V5NFN1ZFNWM19vcDIyX0VpanRwZUpGdDhPcjhPN1J2RWtwLTVQREpzdFB5T2pha2ZZSzFUMXYzN3BneXJqWmxsSXlsclZHbHpjalVMZndTS2RuMGlxQl8teW9xTU94cVl4RHFjeUxMOGFSVk5aTnVWMXQ4ejV5dWVFTFd5a0NxdF9JN2VRUUdlQ3pUZkdwYWM3MHRPS1hxbjBYNXBzdUo4NTF1ejZYWWR2V0lkX08wUGRlXzhHdDJJckkwOVhyRlkxZDNTdVlHWUhxdTF1ZEZiQ1dad2ZDOWxpYXhFQ2FyQ0stWkhpdWNpTjRFZ1hpVFhtNmZ2SHo4?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQWHBmYlNKYVM2cWNqMjdya2pJQUtuenZZa3FtOEN0bmlIZnNSOC1MNlhjVXpTUUN4WDJSZ0V5NFN1ZFNWM19vcDIyX0VpanRwZUpGdDhPcjhPN1J2RWtwLTVQREpzdFB5T2pha2ZZSzFUMXYzN3BneXJqWmxsSXlsclZHbHpjalVMZndTS2RuMGlxQl8teW9xTU94cVl4RHFjeUxMOGFSVk5aTnVWMXQ4ejV5dWVFTFd5a0NxdF9JN2VRUUdlQ3pUZkdwYWM3MHRPS1hxbjBYNXBzdUo4NTF1ejZYWWR2V0lkX08wUGRlXzhHdDJJckkwOVhyRlkxZDNTdVlHWUhxdTF1ZEZiQ1dad2ZDOWxpYXhFQ2FyQ0stWkhpdWNpTjRFZ1hpVFhtNmZ2SHo4",
@@ -9615,5 +9638,5 @@
       "descartar": false
     }
   ],
-  "n": 411
+  "n": 412
 }
