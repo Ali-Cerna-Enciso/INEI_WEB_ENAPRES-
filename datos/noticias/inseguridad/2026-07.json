@@ -1,6 +1,6 @@
 {
   "mes": "2026-07",
-  "actualizado": "2026-10-22 04:49",
+  "actualizado": "2026-10-22 12:21",
   "items": [
     {
       "id": "1afe8ca6c5860d94",
@@ -1832,6 +1832,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-22 04:49"
+    },
+    {
+      "id": "ff2cdcd202c09514",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada46309d95450d8ecc74355eaa9506&url=https%3a%2f%2fperu21.pe%2fpoliciales%2fmatan-sicario-de-los-pulpos-asi-fue-ejecutado-c-pekeno-video%2f&c=2506841691615170560&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada46309d95450d8ecc74355eaa9506&url=https%3A%2F%2Fperu21.pe%2Fpoliciales%2Fmatan-sicario-de-los-pulpos-asi-fue-ejecutado-c-pekeno-video%2F&c=2506841691615170560&mkt=es-us",
+      "titulo": "MATAN A SICARIO DE 'LOS PULPOS': Así fue ejecutado 'C-Pekeño' (VIDEO)",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-07-26",
+      "fecha_hecho": null,
+      "snippet": "Le llegó el karma. Treinta balazos le pusieron fin a la vida de Minner Ramiro Sánchez Uriol, conocido como alias “C-Pekeño”, quien era señalado por la Policía Nacional como integrante de la ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:\"Los Pulpos\" Trujillo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-22 12:21"
     },
     {
       "id": "e0925cfb8de76bf4",
@@ -6621,6 +6643,32 @@
       "agregado": "2026-10-22 04:49"
     },
     {
+      "id": "09c4613b5731b58b",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada4617c9334173a3add7a18a94394f&url=https%3a%2f%2fwww.abc.com.py%2finternacionales%2f2025%2f12%2f22%2fperu-anuncia-un-subsistema-de-justicia-para-enfrentar-extorsion-sicariato-y-secuestro%2f&c=15021620673450360077&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada4617c9334173a3add7a18a94394f&url=https%3A%2F%2Fwww.abc.com.py%2Finternacionales%2F2025%2F12%2F22%2Fperu-anuncia-un-subsistema-de-justicia-para-enfrentar-extorsion-sicariato-y-secuestro%2F&c=15021620673450360077&mkt=es-us",
+      "titulo": "Perú anuncia un \"subsistema de justicia\" para enfrentar extorsión, sicariato y secuestro",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-07-12",
+      "fecha_hecho": null,
+      "snippet": "Lima, 22 dic (EFE).- El Gobierno de Perú creará un \"subsistema de justicia\" que se dedicará a combatir los casos de extorsión, sicariato y secuestro, con el objetivo de tener una respuesta más rápida ...",
+      "temas": [
+        "Extorsión",
+        "Secuestro",
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 7,
+      "query": "bing:sicariato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-22 12:21"
+    },
+    {
       "id": "96b908d4506a9558",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX2E5TGhYbDRDaTdNVTNXa1BWWkdfS3oteGgwZE9rU3hQR05mVVpVQ0VNZFg2UXVPNXVrVTVqTzVfUWVNenZVdkg3RWRJLWJwbXdUc25rTXdsT2dINlREeFFCTGE4Y0wzRWlRTVRGWEZ5RkxmRFdUakFhNjdBUElSTnZKNGhjSGVPS05Qdk5zbVEwQm5Ya3RYZnFKbmVBX1oybFVxWTREakJWOHpTU3B0dXgzUXZRRkVXcFJWemRhM2o?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX2E5TGhYbDRDaTdNVTNXa1BWWkdfS3oteGgwZE9rU3hQR05mVVpVQ0VNZFg2UXVPNXVrVTVqTzVfUWVNenZVdkg3RWRJLWJwbXdUc25rTXdsT2dINlREeFFCTGE4Y0wzRWlRTVRGWEZ5RkxmRFdUakFhNjdBUElSTnZKNGhjSGVPS05Qdk5zbVEwQm5Ya3RYZnFKbmVBX1oybFVxWTREakJWOHpTU3B0dXgzUXZRRkVXcFJWemRhM2o",
@@ -9292,5 +9340,5 @@
       "descartar": false
     }
   ],
-  "n": 405
+  "n": 407
 }
