@@ -1,6 +1,6 @@
 {
   "mes": "2026-08",
-  "actualizado": "2026-10-22 14:15",
+  "actualizado": "2026-10-22 19:08",
   "items": [
     {
       "id": "d9d4232fbcb587d1",
@@ -2871,6 +2871,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-22 14:15"
+    },
+    {
+      "id": "1880fcb241ea9226",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adaa552712f4c5aae819707d0e97572&url=https%3a%2f%2fwww.msn.com%2fes-cl%2fnoticias%2fmundo%2fper%25C3%25BA-liberan-a-empresario-v%25C3%25ADctima-de-sangriento-secuestro-cometido-por-los-pulpos%2far-AA2bijd5&c=11964817493354298258&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adaa552712f4c5aae819707d0e97572&url=https%3A%2F%2Fwww.msn.com%2Fes-cl%2Fnoticias%2Fmundo%2Fper%25C3%25BA-liberan-a-empresario-v%25C3%25ADctima-de-sangriento-secuestro-cometido-por-los-pulpos%2Far-AA2bijd5&c=11964817493354298258&mkt=es-us",
+      "titulo": "Perú: liberan a empresario víctima de sangriento secuestro cometido por Los Pulpos",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-31",
+      "fecha_hecho": null,
+      "snippet": "El ministro de Defensa de Perú, Rafael Belaúnde, anunció este lunes que el empresario minero secuestrado el domingo en la ciudad de Trujillo mediante un falso operativo policial fue liberado, a la vez ...",
+      "temas": [
+        "Secuestro"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 3,
+      "query": "bing:secuestro Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-22 19:08"
     },
     {
       "id": "f4f3fbb978366b24",
@@ -25495,6 +25519,28 @@
       "agregado": "2026-10-22 14:15"
     },
     {
+      "id": "6b2b05081d9c3787",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adaa55cc6bb455fa7df35648006c42d&url=https%3a%2f%2frpp.pe%2fperu%2factualidad%2fel-numero-de-presos-por-feminicidio-en-el-peru-se-multiplico-por-seis-en-la-ultima-decada-informe-noticia-1700934&c=16529491939722550603&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adaa55cc6bb455fa7df35648006c42d&url=https%3A%2F%2Frpp.pe%2Fperu%2Factualidad%2Fel-numero-de-presos-por-feminicidio-en-el-peru-se-multiplico-por-seis-en-la-ultima-decada-informe-noticia-1700934&c=16529491939722550603&mkt=es-us",
+      "titulo": "El número de presos por feminicidio en el Perú se multiplicó por seis en la última década [Informe]",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-10",
+      "fecha_hecho": null,
+      "snippet": "Cifras obtenidas por RPP revelan que, en los últimos diez años, el número de personas presas por feminicidio o por tentativa de feminicidio se multiplicó por seis. Los números también evidencian que ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:feminicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-22 19:08"
+    },
+    {
       "id": "0b6c0c5a8f0a8d14",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOekNGekctTzhMM2ExZUg4RGMxakpMSmdJekxFdzN1X240WEtoYkhpLTBfNk5keU9EWWlhdTRJcmx2UDBzMHRjOGJqNmpNTVhzdlloMEp5d0p1eE9xemw4bTVRQi1iclVwT2RmcFRhTUJmNFJ2MGd0Y1M1b2lmZEZGODdnRDVJeHF3WXNsZVNpVWt2MXpxQVhiN0o2QTZJQi1KZGJVcDJZUmZlWFI1ZTZPM1RDQklyUDk4ZDUtNUI4UkU3MnVGRVFHQ3FWUEhoSVU?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOekNGekctTzhMM2ExZUg4RGMxakpMSmdJekxFdzN1X240WEtoYkhpLTBfNk5keU9EWWlhdTRJcmx2UDBzMHRjOGJqNmpNTVhzdlloMEp5d0p1eE9xemw4bTVRQi1iclVwT2RmcFRhTUJmNFJ2MGd0Y1M1b2lmZEZGODdnRDVJeHF3WXNsZVNpVWt2MXpxQVhiN0o2QTZJQi1KZGJVcDJZUmZlWFI1ZTZPM1RDQklyUDk4ZDUtNUI4UkU3MnVGRVFHQ3FWUEhoSVU",
@@ -27227,5 +27273,5 @@
       "descartar": true
     }
   ],
-  "n": 1161
+  "n": 1163
 }
