@@ -1,6 +1,6 @@
 {
   "mes": "2026-01",
-  "actualizado": "2026-10-23 04:45",
+  "actualizado": "2026-10-23 12:21",
   "items": [
     {
       "id": "8e0e04fef25e5005",
@@ -936,6 +936,28 @@
       "agregado": "2026-10-23 04:45"
     },
     {
+      "id": "00baf6c3c8c57d66",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adb977831cc44ac9fb5e092c758f4e1&url=https%3a%2f%2fwww.telemundo.com%2fnoticias%2fnoticias-telemundo%2finmigracion%2flas-amenazas-de-muerte-no-bastan-el-caso-de-dos-periodistas-peruanos-m-rcna256581&c=13956002127180541753&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adb977831cc44ac9fb5e092c758f4e1&url=https%3A%2F%2Fwww.telemundo.com%2Fnoticias%2Fnoticias-telemundo%2Finmigracion%2Flas-amenazas-de-muerte-no-bastan-el-caso-de-dos-periodistas-peruanos-m-rcna256581&c=13956002127180541753&mkt=es-us",
+      "titulo": "\"Las amenazas de muerte no bastan\": el caso de dos periodistas peruanos muestra el endurecimiento del sistema de asilo",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-01-30",
+      "fecha_hecho": null,
+      "snippet": "Dos reporteros peruanos huyeron a Estados Unidos en 2023 luego de recibir amenazas de muerte y ser hostigados por su trabajo, pero la Junta de Apelaciones de Inmigración concluyó que no sufrieron ...",
+      "temas": [
+        "Amenazas e intimidaciones"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:\"amenazas de muerte\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-23 12:21"
+    },
+    {
       "id": "4e90f236ad486f49",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdmN0X3J4WjNRd3dlYmJ3NDlGWFZnYjRrRWZTTnV6dXpMNFpBczBWZDViZ0ZsTU12RXNMVlpQb2RZM0t0b29ab0dzd0xiQnNEeHF6REFqRDFRMUlfTWg5RGttMXgwZDJaYWdCa01BX1NPRkYxMDM3d3NhaGVFZXJjbTVaR0pzZG5YQzhQYUpOaEdNU0NEazBHSVJ5a3ZsY0t2YzlLQldzamk1dVBONFptcG00R3pVXzAyMlVCZDYyWV83SHpJMHVBdUV2N3lwNXYzVG9wdmFqNGp5Y1RiNlE?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdmN0X3J4WjNRd3dlYmJ3NDlGWFZnYjRrRWZTTnV6dXpMNFpBczBWZDViZ0ZsTU12RXNMVlpQb2RZM0t0b29ab0dzd0xiQnNEeHF6REFqRDFRMUlfTWg5RGttMXgwZDJaYWdCa01BX1NPRkYxMDM3d3NhaGVFZXJjbTVaR0pzZG5YQzhQYUpOaEdNU0NEazBHSVJ5a3ZsY0t2YzlLQldzamk1dVBONFptcG00R3pVXzAyMlVCZDYyWV83SHpJMHVBdUV2N3lwNXYzVG9wdmFqNGp5Y1RiNlE",
@@ -1030,6 +1052,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-21 14:20"
+    },
+    {
+      "id": "4417e2a4d461efb8",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adb97585b634b83bd006f069a8f80ae&url=https%3a%2f%2flarepublica.pe%2fsociedad%2f2026%2f01%2f29%2fpuno-detienen-a-cinco-extranjeros-que-se-dedicarian-a-realizar-prestamos-gota-a-gota-1630699&c=9615367685747688504&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adb97585b634b83bd006f069a8f80ae&url=https%3A%2F%2Flarepublica.pe%2Fsociedad%2F2026%2F01%2F29%2Fpuno-detienen-a-cinco-extranjeros-que-se-dedicarian-a-realizar-prestamos-gota-a-gota-1630699&c=9615367685747688504&mkt=es-us",
+      "titulo": "Puno: detienen a cinco extranjeros que se dedicarían a realizar préstamos “gota a gota”",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-01-29",
+      "fecha_hecho": null,
+      "snippet": "La madrugada de hoy 29 de enero, la Policía Nacional del Perú desarticuló en Puno a la presunta organización criminal “Los Credinorte”, dedicada a la extorsión bajo la modalidad conocida como “gota a ...",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Puno"
+      ],
+      "score": 3,
+      "query": "bing:\"gota a gota\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-23 12:21"
     },
     {
       "id": "18b3a5acd10bd05e",
@@ -5587,6 +5633,28 @@
       "agregado": "2026-10-23 04:45"
     },
     {
+      "id": "a7a597d71637caf4",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adb97644eb246a58abe4b3f1942a063&url=https%3a%2f%2fwww.infobae.com%2fcolombia%2f2026%2f01%2f20%2fhomicidio-de-colombiano-en-peru-dejo-tres-capturados-abandonaron-el-cuerpo-en-via-publica%2f&c=7896637594865265644&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adb97644eb246a58abe4b3f1942a063&url=https%3A%2F%2Fwww.infobae.com%2Fcolombia%2F2026%2F01%2F20%2Fhomicidio-de-colombiano-en-peru-dejo-tres-capturados-abandonaron-el-cuerpo-en-via-publica%2F&c=7896637594865265644&mkt=es-us",
+      "titulo": "Homicidio de colombiano en Perú dejó tres capturados: abandonaron el cuerpo en vía pública",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-01-20",
+      "fecha_hecho": null,
+      "snippet": "La víctima fue identificada como Andrés Camilo Soto Huérfano, luego de las pesquisas que dejaron las detenciones de dos hombres y una mujer Por Sebastián Vargas Rueda La Policía Nacional del Perú (PNP ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:homicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-23 12:21"
+    },
+    {
       "id": "da1c83da7bbadf9b",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNHRET2ZQbllhMjJieGFHRWJ5cmJSWlVMdVBjaTZpRzBzQVUwT1p5RHdUeFZvdEpNWFl1VE10ZTlHZjd6X3h5eVVmQTY5Rm1OOTZVNGZidjBJRkdFMjdaTUgtb0szdFk1UExVb1E3R2VkbVY5UHRuRlZKRDRtMjVycm45WEl1eVd2bU9nWk5iSWtHRjh4LU1YMm1tOGdSTlR0S0pYTTUtUU5Ib2FMNWZKX3A3YUlSMjVXeDhDWmxNY3R4RnFEOWo0?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNHRET2ZQbllhMjJieGFHRWJ5cmJSWlVMdVBjaTZpRzBzQVUwT1p5RHdUeFZvdEpNWFl1VE10ZTlHZjd6X3h5eVVmQTY5Rm1OOTZVNGZidjBJRkdFMjdaTUgtb0szdFk1UExVb1E3R2VkbVY5UHRuRlZKRDRtMjVycm45WEl1eVd2bU9nWk5iSWtHRjh4LU1YMm1tOGdSTlR0S0pYTTUtUU5Ib2FMNWZKX3A3YUlSMjVXeDhDWmxNY3R4RnFEOWo0",
@@ -7997,6 +8065,29 @@
       "agregado": "2026-10-23 04:45"
     },
     {
+      "id": "beb575ccaf1043c4",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adb976147f7496b9a5473a84901c11e&url=https%3a%2f%2fwww.msn.com%2fes-xl%2fnoticias%2fother%2fper%25C3%25BA-reglamenta-ley-para-luchar-contra-extorsi%25C3%25B3n-y-sicariato%2far-AA1UtLTG&c=9098951137123133570&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adb976147f7496b9a5473a84901c11e&url=https%3A%2F%2Fwww.msn.com%2Fes-xl%2Fnoticias%2Fother%2Fper%25C3%25BA-reglamenta-ley-para-luchar-contra-extorsi%25C3%25B3n-y-sicariato%2Far-AA1UtLTG&c=9098951137123133570&mkt=es-us",
+      "titulo": "Perú reglamenta ley para luchar contra extorsión y sicariato",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-01-18",
+      "fecha_hecho": null,
+      "snippet": "El Gobierno de Transición de Perú, que preside José Jerí, aprobó este domingo (18.01.2026) el reglamento de la nueva ley contra los delitos de extorsión y sicariato con lo que, aseguró, el Estado ...",
+      "temas": [
+        "Extorsión",
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 5,
+      "query": "bing:sicariato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-23 12:21"
+    },
+    {
       "id": "94ae5cdd005c8103",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aae1794c8b6469aa878ae5018d579a2&url=https%3a%2f%2fwww.telesurtv.net%2fperu-aprueba-ley-extorsion-sicariato%2f&c=11445771162653073536&mkt=es-us",
       "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aae1794c8b6469aa878ae5018d579a2&url=https%3A%2F%2Fwww.telesurtv.net%2Fperu-aprueba-ley-extorsion-sicariato%2F&c=11445771162653073536&mkt=es-us",
@@ -9513,6 +9604,29 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-23 04:45"
+    },
+    {
+      "id": "e68756204d8ced1c",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adb976147f7496b9a5473a84901c11e&url=https%3a%2f%2fwww.telesurtv.net%2fperu-aprueba-ley-extorsion-sicariato%2f&c=11445771162653073536&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adb976147f7496b9a5473a84901c11e&url=https%3A%2F%2Fwww.telesurtv.net%2Fperu-aprueba-ley-extorsion-sicariato%2F&c=11445771162653073536&mkt=es-us",
+      "titulo": "Perú aprueba ley para hacer frente a la extorsión y el sicariato",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-01-18",
+      "fecha_hecho": null,
+      "snippet": "Según el Ejecutivo, con esta medida el Estado cambiará «de la defensiva a la ofensiva contra la delincuencia y el crimen organizado» en Perú. La norma se hizo oficial por la publicación de un decreto ...",
+      "temas": [
+        "Extorsión",
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 5,
+      "query": "bing:sicariato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-23 12:21"
     },
     {
       "id": "393c773b64e303ac",
@@ -12143,5 +12257,5 @@
       "descartar": false
     }
   ],
-  "n": 538
+  "n": 543
 }
