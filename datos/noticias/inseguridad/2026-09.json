@@ -1,6 +1,6 @@
 {
   "mes": "2026-09",
-  "actualizado": "2026-10-24 13:09",
+  "actualizado": "2026-10-24 18:25",
   "items": [
     {
       "id": "0ff24c6cde4e21d6",
@@ -7474,6 +7474,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-24 13:09"
+    },
+    {
+      "id": "504203df615549be",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3e3eebb14cff84b7014e5bdf8686&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f09%2f29%2fperu-extradita-a-eeuu-a-ciudadano-acusado-de-conseguir-prestamos-por-us40-millones-con-documentos-financieros-y-tributarios-falsos%2f&c=10649501405057400435&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3e3eebb14cff84b7014e5bdf8686&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F09%2F29%2Fperu-extradita-a-eeuu-a-ciudadano-acusado-de-conseguir-prestamos-por-us40-millones-con-documentos-financieros-y-tributarios-falsos%2F&c=10649501405057400435&mkt=es-us",
+      "titulo": "Perú extradita a EE.UU. a ciudadano acusado de conseguir préstamos por US$40 millones con documentos financieros y tributarios falsos",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-29",
+      "fecha_hecho": null,
+      "snippet": "Hugo Villanueva fue detenido en Lima en 2025 y trasladado a Houston, donde enfrenta cargos por conspiración, fraude bancario y lavado de dinero ...",
+      "temas": [
+        "Fraude bancario"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 2,
+      "query": "bing:\"fraude bancario\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-24 18:25"
     },
     {
       "id": "921aff29ad73decd",
@@ -26928,6 +26952,28 @@
       "agregado": "2026-10-24 13:09"
     },
     {
+      "id": "19f6d80f5b3e0858",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3e2971184490afb1895869ada4fc&url=https%3a%2f%2fwww.elheraldo.co%2fmundo%2f2026%2f09%2f26%2fautoridades-electorales-de-peru-reportan-83-casos-de-amenazas-amenazas-extorsiones-y-ataques-contra-candidatos%2f&c=13615452434678858476&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3e2971184490afb1895869ada4fc&url=https%3A%2F%2Fwww.elheraldo.co%2Fmundo%2F2026%2F09%2F26%2Fautoridades-electorales-de-peru-reportan-83-casos-de-amenazas-amenazas-extorsiones-y-ataques-contra-candidatos%2F&c=13615452434678858476&mkt=es-us",
+      "titulo": "Autoridades electorales de Perú reportan 83 casos de amenazas, extorsiones y ataques contra candidatos",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-26",
+      "fecha_hecho": null,
+      "snippet": "Las autoridades electorales de Perú reportaron que se han presentado 83 casos de amenazas, extorsiones y ataques contra candidatos en las elecciones regionales y municipales que se celebrarán el ...",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:extorsión Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-24 18:25"
+    },
+    {
       "id": "55e4bf529570369e",
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPOHdxY2Rjc0VxNjI5amlRbmEzVEhSZWU2dDcwNmlPZm5PU1BuODdRZXl6OXRGdEtWVHI0empzakl4VE5CVGRzUDRLS2xCbHY5YXNZMVJVUldOT0o2UGpRWmFVQ2YwSFlvYU5idDdVS2dTUGMxbkdIRXYwLWxPbl8yNUNybkZieTNoODR2V0gyMXNReW1YelE3Z1lXY2VhaDJHQnNGamF6VDVUOTdkUkVqQjl3LTRfYnpWNVRNYU12M0FNc3hGbnhJZDlyZTE0enBvbXhCWFIxU2Y3VFl6LXY4dzBhSEc3WG1SYkJJQXlVX25VNFZtbHZfOXgyRzRlZ2dyQlJv0gGDAkFVX3lxTE84d3FjZGNzRXE2MjlqaVFuYTNUSFJlZTZ0NzA2aU9mbk9TUG44N1FleXo5dEZ0S1ZUcjR6anNqSXhUTkJUZHNQNEtLbEJsdjlhc1kxUlVSV05PSjZQalFaYVVDZjBIWW9hTmJ0N1VLZ1NQYzFuR0hFdjAtbE9uXzI1Q3JuRmJ5M2g4NHZXSDIxc1F5bVh6UTdnWVdjZWFoMkdCc0ZqYXpUNVQ5N2RSRWpCOXctNF9ielY1VE1hTXYzQU1zeEZueElkOXJlMTR6cG9teEJYUjFTZjdUWXotdjh3MGFIRzdYbVJiQklBeVVfblU0Vm1sdl85eDJHNGVnZ3JCUm8?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPOHdxY2Rjc0VxNjI5amlRbmEzVEhSZWU2dDcwNmlPZm5PU1BuODdRZXl6OXRGdEtWVHI0empzakl4VE5CVGRzUDRLS2xCbHY5YXNZMVJVUldOT0o2UGpRWmFVQ2YwSFlvYU5idDdVS2dTUGMxbkdIRXYwLWxPbl8yNUNybkZieTNoODR2V0gyMXNReW1YelE3Z1lXY2VhaDJHQnNGamF6VDVUOTdkUkVqQjl3LTRfYnpWNVRNYU12M0FNc3hGbnhJZDlyZTE0enBvbXhCWFIxU2Y3VFl6LXY4dzBhSEc3WG1SYkJJQXlVX25VNFZtbHZfOXgyRzRlZ2dyQlJv0gGDAkFVX3lxTE84d3FjZGNzRXE2MjlqaVFuYTNUSFJlZTZ0NzA2aU9mbk9TUG44N1FleXo5dEZ0S1ZUcjR6anNqSXhUTkJUZHNQNEtLbEJsdjlhc1kxUlVSV05PSjZQalFaYVVDZjBIWW9hTmJ0N1VLZ1NQYzFuR0hFdjAtbE9uXzI1Q3JuRmJ5M2g4NHZXSDIxc1F5bVh6UTdnWVdjZWFoMkdCc0ZqYXpUNVQ5N2RSRWpCOXctNF9ielY1VE1hTXYzQU1zeEZueElkOXJlMTR6cG9teEJYUjFTZjdUWXotdjh3MGFIRzdYbVJiQklBeVVfblU0Vm1sdl85eDJHNGVnZ3JCUm8",
@@ -29961,6 +30007,30 @@
       "agregado": "2026-10-24 13:09"
     },
     {
+      "id": "38944c031a9717a1",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3e2e1cb14645990205b7cb928fea&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f09%2f26%2fperu-registra-un-secuestro-cada-90-minutos-cifras-podrian-superar-los-5000-casos-al-cierre-de-2026-segun-analista-de-datos%2f&c=5382944679154568784&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3e2e1cb14645990205b7cb928fea&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F09%2F26%2Fperu-registra-un-secuestro-cada-90-minutos-cifras-podrian-superar-los-5000-casos-al-cierre-de-2026-segun-analista-de-datos%2F&c=5382944679154568784&mkt=es-us",
+      "titulo": "Perú registra un secuestro cada 90 minutos: cifras podrían superar los 5.000 casos al cierre de 2026, según analista de datos",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-25",
+      "fecha_hecho": null,
+      "snippet": "Las denuncias por secuestro alcanzaron un promedio de 430 casos mensuales hasta agosto, una cifra que genera preocupación ante los tres casos registrados en Lima en apenas 48 horas Por Valeria Mendoza ...",
+      "temas": [
+        "Secuestro"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:secuestro Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-24 18:25"
+    },
+    {
       "id": "f4c4652e525fb280",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRlZ5S09tOTBITzM4VW5pOWx1UkVYYmx3MjBXNFZPcFpUOElaN3pUVC1ZcGZRZnVOLUxzcHZlVlRMNU1WdVlfQ3FyUTY0ejdSalAtMy1NVDJXU0M2dEhaeTlIemhSWFlpVmJKRHN4THluTkhHaTVsV3NDamxqbUlMQ19ONUtfLVJBVUxBRE9jSDIzNGRwOXlzZ21PNzNLQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRlZ5S09tOTBITzM4VW5pOWx1UkVYYmx3MjBXNFZPcFpUOElaN3pUVC1ZcGZRZnVOLUxzcHZlVlRMNU1WdVlfQ3FyUTY0ejdSalAtMy1NVDJXU0M2dEhaeTlIemhSWFlpVmJKRHN4THluTkhHaTVsV3NDamxqbUlMQ19ONUtfLVJBVUxBRE9jSDIzNGRwOXlzZ21PNzNLQQ",
@@ -31142,6 +31212,29 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-24 13:09"
+    },
+    {
+      "id": "3646251675546780",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3e33b7194d23ae5d8b6f56ff87f7&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f09%2f26%2fgremios-de-construccion-civil-convocan-a-marcha-este-22-de-octubre-por-aumentos-salariales-y-contra-el-sicariato-y-extorsiones%2f&c=6356363626893500671&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3e33b7194d23ae5d8b6f56ff87f7&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F09%2F26%2Fgremios-de-construccion-civil-convocan-a-marcha-este-22-de-octubre-por-aumentos-salariales-y-contra-el-sicariato-y-extorsiones%2F&c=6356363626893500671&mkt=es-us",
+      "titulo": "Gremios de construcción civil convocan a marcha este 22 de octubre por aumentos salariales y contra el sicariato y extorsiones",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-25",
+      "fecha_hecho": null,
+      "snippet": "El acuerdo fue tomado durante una Asamblea Nacional de Delegados, donde los gremios aprobaron su Pliego Nacional de Reclamos 2027 y plantearon cambios en Conafovicer ...",
+      "temas": [
+        "Extorsión",
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 5,
+      "query": "bing:sicariato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-24 18:25"
     },
     {
       "id": "7ba8810d47d6985b",
@@ -36541,6 +36634,28 @@
       "agregado": "2026-10-24 13:09"
     },
     {
+      "id": "c3a9429a4b930d23",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3e3854a4435a91ee2cc28686edb4&url=https%3a%2f%2flarepublica.pe%2ftag%2ffeminicidio-en-peru&c=10626586956824942732&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3e3854a4435a91ee2cc28686edb4&url=https%3A%2F%2Flarepublica.pe%2Ftag%2Ffeminicidio-en-peru&c=10626586956824942732&mkt=es-us",
+      "titulo": "Feminicidio en Perú",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-24",
+      "fecha_hecho": null,
+      "snippet": "De acuerdo al Observatorio de la Criminalidad del Ministerio Público 119 feminicidios ocurrieron en 2024, 67 en el 2025 y un caso hasta febrero del presente año. Esto confirma que este delito continúa ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:feminicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-24 18:25"
+    },
+    {
       "id": "76aa7ce706f47791",
       "url": "https://diariocorreo.pe/edicion/la-libertad/fbi-da-golpe-en-trujillo-y-captura-a-los-tiguerones-trux-noticia/",
       "url_canon": "https://diariocorreo.pe/edicion/la-libertad/fbi-da-golpe-en-trujillo-y-captura-a-los-tiguerones-trux-noticia",
@@ -38378,6 +38493,29 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-24 11:06"
+    },
+    {
+      "id": "b4fe57193e1f2dd1",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3e2971184490afb1895869ada4fc&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f09%2f24%2felecciones-en-peru-amenazas-y-extorsiones-elevan-la-tension-antes-de-los-comicios-regionales%2f&c=6662221052999808266&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3e2971184490afb1895869ada4fc&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F09%2F24%2Felecciones-en-peru-amenazas-y-extorsiones-elevan-la-tension-antes-de-los-comicios-regionales%2F&c=6662221052999808266&mkt=es-us",
+      "titulo": "Elecciones en Perú: Amenazas y extorsiones elevan la tensión antes de los comicios regionales",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-24",
+      "fecha_hecho": null,
+      "snippet": "El asesinato de Susy Aponte Polo en Caraz y las denuncias de otros aspirantes encendieron las alertas sobre la seguridad durante la campaña ...",
+      "temas": [
+        "Extorsión",
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 5,
+      "query": "bing:extorsión Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-24 18:25"
     },
     {
       "id": "75d10ceb8daa8fae",
@@ -45249,6 +45387,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-24 13:09"
+    },
+    {
+      "id": "4d2c34acaac95e21",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3e33b7194d23ae5d8b6f56ff87f7&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f09%2f22%2fquien-mato-a-la-china-polo-lo-que-revelan-los-videos-el-arma-y-la-ruta-del-dinero-en-la-investigacion-por-sicariato%2f&c=6961133139782413161&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3e33b7194d23ae5d8b6f56ff87f7&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F09%2F22%2Fquien-mato-a-la-china-polo-lo-que-revelan-los-videos-el-arma-y-la-ruta-del-dinero-en-la-investigacion-por-sicariato%2F&c=6961133139782413161&mkt=es-us",
+      "titulo": "¿Quién mató a la ‘China’ Polo? lo que revelan los videos, el arma y la ruta del dinero en la investigación por sicariato",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-22",
+      "fecha_hecho": null,
+      "snippet": "Susy Aponte Polo fue asesinada el ultimo sábado cuando se encontraba en una actividad política en un mercado de Caraz. Su asesino e implicados estarán detenidos por 15 días hasta dar con el verdadero ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:sicariato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-24 18:25"
     },
     {
       "id": "1117de6a7cf49a49",
@@ -60492,6 +60652,28 @@
       "agregado": "2026-10-24 13:09"
     },
     {
+      "id": "22909139e55c21bb",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3e359ab94b908c5ee9a9d1420093&url=https%3a%2f%2fwww.teletica.com%2fnacional%2fx_417671&c=12218587845080239901&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3e359ab94b908c5ee9a9d1420093&url=https%3A%2F%2Fwww.teletica.com%2Fnacional%2Fx_417671&c=12218587845080239901&mkt=es-us",
+      "titulo": "Perú: Matan a periodista y candidata a elecciones cuando realizaba video de campaña",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-20",
+      "fecha_hecho": null,
+      "snippet": "Una periodista y candidata a las elecciones regionales en Perú fue asesinada a balazos este sábado (19.09.2026) mientras realizaba un acto de campaña en un mercado, informaron autoridades. Susy Aponte ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-24 18:25"
+    },
+    {
       "id": "eced63ef033187b0",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab35dabd7734673a5d3533e6660636f&url=https%3a%2f%2fwww.cnnchile.com%2fmundo%2fperu-fiscalia-investiga-como-presunto-sicariato-el-asesinato-de-la-periodista-y-candidata-susy-aponte%2f&c=3328407075709758930&mkt=es-us",
       "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab35dabd7734673a5d3533e6660636f&url=https%3A%2F%2Fwww.cnnchile.com%2Fmundo%2Fperu-fiscalia-investiga-como-presunto-sicariato-el-asesinato-de-la-periodista-y-candidata-susy-aponte%2F&c=3328407075709758930&mkt=es-us",
@@ -62590,6 +62772,31 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-24 13:09"
+    },
+    {
+      "id": "ab06b50fac380ca1",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3e33b7194d23ae5d8b6f56ff87f7&url=https%3a%2f%2fwww.cnnchile.com%2fmundo%2fperu-fiscalia-investiga-como-presunto-sicariato-el-asesinato-de-la-periodista-y-candidata-susy-aponte%2f&c=3328407075709758930&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3e33b7194d23ae5d8b6f56ff87f7&url=https%3A%2F%2Fwww.cnnchile.com%2Fmundo%2Fperu-fiscalia-investiga-como-presunto-sicariato-el-asesinato-de-la-periodista-y-candidata-susy-aponte%2F&c=3328407075709758930&mkt=es-us",
+      "titulo": "Perú: Fiscalía investiga como presunto sicariato el asesinato de la periodista y candidata Susy Aponte",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-20",
+      "fecha_hecho": null,
+      "snippet": "(EFE)- La Fiscalía de Perú investiga el asesinato de la periodista y candidata a gobernadora regional de Áncash, Susy Aponte, como presunto sicariato (homicidio por encargo) y confirmó este domingo qu ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Áncash",
+        "Ancash"
+      ],
+      "score": 3,
+      "query": "bing:sicariato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-24 18:25"
     },
     {
       "id": "b58d68501226fae3",
@@ -68617,6 +68824,28 @@
       "agregado": "2026-10-24 13:09"
     },
     {
+      "id": "37c02c35d5209f85",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3e33b7194d23ae5d8b6f56ff87f7&url=https%3a%2f%2fwww.eltiempo.com%2fmundo%2flatinoamerica%2fen-video-quedo-sicariato-de-periodista-y-candidata-china-polo-en-peru-capturan-a-dos-venezolanos-3587472&c=1628223440457492387&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3e33b7194d23ae5d8b6f56ff87f7&url=https%3A%2F%2Fwww.eltiempo.com%2Fmundo%2Flatinoamerica%2Fen-video-quedo-sicariato-de-periodista-y-candidata-china-polo-en-peru-capturan-a-dos-venezolanos-3587472&c=1628223440457492387&mkt=es-us",
+      "titulo": "En video quedó sicariato de periodista y candidata ‘China Polo’ en Perú: capturan a dos venezolanos",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-20",
+      "fecha_hecho": null,
+      "snippet": "El Ministerio Público de Perú dio un giro en las líneas de investigación sobre el homicidio de la periodista y aspirante política Susy Aponte Polo, conocida en el ámbito regional como ‘La China Polo’.",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:sicariato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-24 18:25"
+    },
+    {
       "id": "7250f6a92ec93576",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab14f9893c0479693b55bb99095bcb5&url=https%3a%2f%2fwww.msn.com%2fes-co%2fnoticias%2fotras%2fen-video-qued%25C3%25B3-sicariato-de-periodista-y-candidata-china-polo-en-per%25C3%25BA-capturan-a-dos-venezolanos%2far-AA2cCvGK&c=2367135242717331683&mkt=es-us",
       "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab14f9893c0479693b55bb99095bcb5&url=https%3A%2F%2Fwww.msn.com%2Fes-co%2Fnoticias%2Fotras%2Fen-video-qued%25C3%25B3-sicariato-de-periodista-y-candidata-china-polo-en-per%25C3%25BA-capturan-a-dos-venezolanos%2Far-AA2cCvGK&c=2367135242717331683&mkt=es-us",
@@ -73027,6 +73256,32 @@
       "agregado": "2026-10-06 15:23"
     },
     {
+      "id": "ad07ab32b28785fc",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3e4a322747a1a4605d263008ab60&url=https%3a%2f%2fvanguardia.com.mx%2fnoticias%2finternacional%2fasesinan-a-tiros-en-peru-a-la-candidata-susy-aponte-polo-la-china-polo-en-un-acto-de-campana-en-ancash-NG23619646&c=16514519004828898228&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3e4a322747a1a4605d263008ab60&url=https%3A%2F%2Fvanguardia.com.mx%2Fnoticias%2Finternacional%2Fasesinan-a-tiros-en-peru-a-la-candidata-susy-aponte-polo-la-china-polo-en-un-acto-de-campana-en-ancash-NG23619646&c=16514519004828898228&mkt=es-us",
+      "titulo": "Asesinan a tiros en Perú a la candidata Susy Aponte Polo, “La China Polo”, en un acto de campaña en Áncash",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-20",
+      "fecha_hecho": null,
+      "snippet": "La periodista había denunciado amenazas de muerte antes del ataque en Caraz; la policía detuvo a un sospechoso ciudadano venezolano e investiga sicariato.",
+      "temas": [
+        "Homicidio / sicariato",
+        "Amenazas e intimidaciones"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Áncash",
+        "Ancash"
+      ],
+      "score": 4,
+      "query": "bing:\"amenazas de muerte\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-24 18:25"
+    },
+    {
       "id": "fb3912824622f9f0",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab0bb0eb46248d182f622250b95d094&url=https%3a%2f%2fwww.razon.com.mx%2fmundo%2f2026%2f09%2f20%2fasesinan-a-periodista-y-candidata-china-polo-durante-acto-de-campana-en-peru%2f&c=12185786241104358471&mkt=es-us",
       "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab0bb0eb46248d182f622250b95d094&url=https%3A%2F%2Fwww.razon.com.mx%2Fmundo%2F2026%2F09%2F20%2Fasesinan-a-periodista-y-candidata-china-polo-durante-acto-de-campana-en-peru%2F&c=12185786241104358471&mkt=es-us",
@@ -76548,6 +76803,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-24 13:09"
+    },
+    {
+      "id": "63e2ca26797995b4",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3e3a236b4584878c23897eb45ec3&url=https%3a%2f%2fwww.meganoticias.cl%2fnacional%2f532049-pdi-detiene-a-mujer-vinculada-a-presunta-estafa-piramidal-con-1500-victimas-9-09-2026.html&c=5779597272939679306&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3e3a236b4584878c23897eb45ec3&url=https%3A%2F%2Fwww.meganoticias.cl%2Fnacional%2F532049-pdi-detiene-a-mujer-vinculada-a-presunta-estafa-piramidal-con-1500-victimas-9-09-2026.html&c=5779597272939679306&mkt=es-us",
+      "titulo": "PDI detiene a mujer vinculada a presunta estafa piramidal con 1.500 víctimas",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-19",
+      "fecha_hecho": null,
+      "snippet": "Cuando se disponía a abordar un vuelo con destino a Perú, fue detenida en el Aeropuerto, una mujer investigada por su presunta participación en un esquema de estafa piramidal que habría provocado pérd ...",
+      "temas": [
+        "Estafa"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:estafa Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-24 18:25"
     },
     {
       "id": "69208693a29e6a49",
@@ -83501,6 +83778,32 @@
       "agregado": "2026-10-24 13:09"
     },
     {
+      "id": "7d0254986df1c07a",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3e4a322747a1a4605d263008ab60&url=https%3a%2f%2fwww.emol.com%2fnoticias%2fInternacional%2f2026%2f09%2f19%2f1211903%2fcandidata-elecciones-peru-asesinada.html&c=3608055942998572668&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3e4a322747a1a4605d263008ab60&url=https%3A%2F%2Fwww.emol.com%2Fnoticias%2FInternacional%2F2026%2F09%2F19%2F1211903%2Fcandidata-elecciones-peru-asesinada.html&c=3608055942998572668&mkt=es-us",
+      "titulo": "Candidata a elecciones regionales de Perú es asesinada: Días antes informó que recibía amenazas de muerte",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-19",
+      "fecha_hecho": null,
+      "snippet": "La candidata peruana al gobierno regional de Áncash, Susy Aponte, una periodista conocida como la 'China Polo', fue asesinada este sábado cuando recorría la ciudad andina de Caraz en plena campaña ...",
+      "temas": [
+        "Homicidio / sicariato",
+        "Amenazas e intimidaciones"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Áncash",
+        "Ancash"
+      ],
+      "score": 5,
+      "query": "bing:\"amenazas de muerte\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-24 18:25"
+    },
+    {
       "id": "db29450bbcc608c8",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOajQzLWpZUTk5eEJkOUNNT2JYOEx3cDR5Zi1QcDZFbU9WaXd3THlqR1VZYWVjX1JIdDZ6UmNMVEJtNGs4YUx1WUpQZzVGT2dtNENrQ0hRQUFwNXhiZnFHLVNRbDFjMG1LRXhoQWJ2WU1SMGVyQ1NUZEtHTWo2QW5paG1fNXZBc29Ia2R1cTFieU0xM1R0ZVNZN0FreXBFZUlORThNZ0E2WFgwYkFsel9PdnhLcG1rZUMydDg5TjRibkhtM2gxSUs2aNIB3AFBVV95cUxNSWZVSjJob0ZuR1Rqall0QUYwSXhFaTVfWEc1enRHUlM2RFI4OUhyb0dGNzg0cy0wbEVjd1QxSHdBUk1xRTYtWnZuQk16TFF6T1hLQ0FZaVlkUGR2dVp4X2k4bTlOUEVlQXBxUlpVdmsteC1xenk1OUJoMzFsRHdneHhMZzFuTHdQM0JORUNqUmpZM2RrMmJSd2N3bmEzRHVWQ1c5bXdRZXV5NnBvcXQwYnhLdGY2b01VWUxqbEpud2dCTEkzZmNxU1BfTlNVMjNEQ3lyMlMwdzhXMWFu?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOajQzLWpZUTk5eEJkOUNNT2JYOEx3cDR5Zi1QcDZFbU9WaXd3THlqR1VZYWVjX1JIdDZ6UmNMVEJtNGs4YUx1WUpQZzVGT2dtNENrQ0hRQUFwNXhiZnFHLVNRbDFjMG1LRXhoQWJ2WU1SMGVyQ1NUZEtHTWo2QW5paG1fNXZBc29Ia2R1cTFieU0xM1R0ZVNZN0FreXBFZUlORThNZ0E2WFgwYkFsel9PdnhLcG1rZUMydDg5TjRibkhtM2gxSUs2aNIB3AFBVV95cUxNSWZVSjJob0ZuR1Rqall0QUYwSXhFaTVfWEc1enRHUlM2RFI4OUhyb0dGNzg0cy0wbEVjd1QxSHdBUk1xRTYtWnZuQk16TFF6T1hLQ0FZaVlkUGR2dVp4X2k4bTlOUEVlQXBxUlpVdmsteC1xenk1OUJoMzFsRHdneHhMZzFuTHdQM0JORUNqUmpZM2RrMmJSd2N3bmEzRHVWQ1c5bXdRZXV5NnBvcXQwYnhLdGY2b01VWUxqbEpud2dCTEkzZmNxU1BfTlNVMjNEQ3lyMlMwdzhXMWFu",
@@ -88512,6 +88815,32 @@
       "agregado": "2026-10-24 13:09"
     },
     {
+      "id": "8d1f46c92caa4866",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3e4a322747a1a4605d263008ab60&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f09%2f19%2fquien-fue-la-china-polo-periodista-y-candidata-al-gore-ancash-asesinada-tras-denunciar-amenazas-de-muerte%2f&c=12628909325458181723&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3e4a322747a1a4605d263008ab60&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F09%2F19%2Fquien-fue-la-china-polo-periodista-y-candidata-al-gore-ancash-asesinada-tras-denunciar-amenazas-de-muerte%2F&c=12628909325458181723&mkt=es-us",
+      "titulo": "¿Quién fue la China Polo?: Periodista y candidata al Gore Áncash asesinada tras denunciar amenazas de muerte",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-18",
+      "fecha_hecho": null,
+      "snippet": "Susy Aponte Polo fue atacada a balazos en Caraz durante una actividad electoral. La Fiscalía investiga el caso como presunto feminicidio ...",
+      "temas": [
+        "Homicidio / sicariato",
+        "Amenazas e intimidaciones"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Áncash",
+        "Ancash"
+      ],
+      "score": 4,
+      "query": "bing:\"amenazas de muerte\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-24 18:25"
+    },
+    {
       "id": "9eddfed3bf32561c",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbHVIV2xmS3pLeHlTLUFrVEhGSmFRbVdUY2RUSWo5cG5XY3h0VzI0OVhNS09QUUdyNkdrY2dJRUFwOVN2X1Q1bk4teVRBbTNVekxRN1ZmOUljeDI0aE41UWlWNk9qR0tpYnZiRU9MaXlpeWdjc05ETU1VbjF6SGsybmhnU0RkTHNrNlQ5Y3F6Snh1YXZaNHdOM2p4WEVUemVxYXJfMG1Fcy1NeV93dlFPYXo4WWU3OGF2REdPMUxiRHc5NXRTbVR1QmRJaFdkMEpYR3hlTWV4eHA?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbHVIV2xmS3pLeHlTLUFrVEhGSmFRbVdUY2RUSWo5cG5XY3h0VzI0OVhNS09QUUdyNkdrY2dJRUFwOVN2X1Q1bk4teVRBbTNVekxRN1ZmOUljeDI0aE41UWlWNk9qR0tpYnZiRU9MaXlpeWdjc05ETU1VbjF6SGsybmhnU0RkTHNrNlQ5Y3F6Snh1YXZaNHdOM2p4WEVUemVxYXJfMG1Fcy1NeV93dlFPYXo4WWU3OGF2REdPMUxiRHc5NXRTbVR1QmRJaFdkMEpYR3hlTWV4eHA",
@@ -93214,6 +93543,30 @@
       "agregado": "2026-10-24 13:09"
     },
     {
+      "id": "b5e322c6ad756ff6",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3e4b52d941eea6f16118721b7cc2&url=https%3a%2f%2fcanaln.pe%2factualidad%2fjoyce-bereche-maco-dueno-camioneta-vinculada-al-secuestro-llego-trujillo-detenido-yurimaguas-n495112&c=17228339589153930192&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3e4b52d941eea6f16118721b7cc2&url=https%3A%2F%2Fcanaln.pe%2Factualidad%2Fjoyce-bereche-maco-dueno-camioneta-vinculada-al-secuestro-llego-trujillo-detenido-yurimaguas-n495112&c=17228339589153930192&mkt=es-us",
+      "titulo": "Caso Jenss Lara: Joyce Bereche fue detenido en Yurimaguas y llegó a Trujillo",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-17",
+      "fecha_hecho": null,
+      "snippet": "Joyce Bereche Maco, señalado por la Policía como presunto responsable logístico de la organización criminal Los Pulpos, será trasladado desde Tarapoto hacia Trujillo para responder ante las autoridade ...",
+      "temas": [
+        "Asalto a mano armada"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 2,
+      "query": "bing:\"Los Pulpos\" Trujillo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-24 18:25"
+    },
+    {
       "id": "e7c94b9b98bfa6e1",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPR1BsTEViaXExd3FSeHJnLTNXWV9fUi1oTU5KV2wxUEhNNXB4dmF1aUE4V2F3NE9jMEVoVzVQaHhVQ1drUTk4cWE0Z252dEI5MjRZclVuU3JpcHM3OFhNeXNyRzdJV3ctOWxTdG50RzBDOS05YUVOTF81OEwyVW5LQk0wSUhid0VEYndydzZLNzgxTmttNU83MDNHNlpUOHpZWW9DUzVGSXJ5NEJseTdKUzVVLU1jbUpZM1BYMlpn?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPR1BsTEViaXExd3FSeHJnLTNXWV9fUi1oTU5KV2wxUEhNNXB4dmF1aUE4V2F3NE9jMEVoVzVQaHhVQ1drUTk4cWE0Z252dEI5MjRZclVuU3JpcHM3OFhNeXNyRzdJV3ctOWxTdG50RzBDOS05YUVOTF81OEwyVW5LQk0wSUhid0VEYndydzZLNzgxTmttNU83MDNHNlpUOHpZWW9DUzVGSXJ5NEJseTdKUzVVLU1jbUpZM1BYMlpn",
@@ -94895,6 +95248,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-24 13:09"
+    },
+    {
+      "id": "b5b7b539c1292c76",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3e4b52d941eea6f16118721b7cc2&url=https%3a%2f%2flarepublica.pe%2fpolitica%2f2026%2f09%2f15%2flos-pulpos-usaron-un-dron-para-seguir-a-jenns-lara-y-secuestrarlo-hnews-961605&c=4733711677412399058&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3e4b52d941eea6f16118721b7cc2&url=https%3A%2F%2Flarepublica.pe%2Fpolitica%2F2026%2F09%2F15%2Flos-pulpos-usaron-un-dron-para-seguir-a-jenns-lara-y-secuestrarlo-hnews-961605&c=4733711677412399058&mkt=es-us",
+      "titulo": "“Los Pulpos” usaron un dron para seguir a Jenns Lara y secuestrarlo",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-16",
+      "fecha_hecho": null,
+      "snippet": "Para registrar el desplazamiento detallado del empresario Jenns Lara Tantaquilla, y así fijar el punto donde sería plagiado, los miembros de la banda Los Pulpos utilizaron un dron. Durante la ...",
+      "temas": [
+        "Asalto a mano armada"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 2,
+      "query": "bing:\"Los Pulpos\" Trujillo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-24 18:25"
     },
     {
       "id": "9726f19bc278d665",
@@ -99019,6 +99394,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-24 13:09"
+    },
+    {
+      "id": "9f6b90853d4f82f9",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3e4b52d941eea6f16118721b7cc2&url=https%3a%2f%2felcomercio.pe%2fperu%2fmasacre-y-secuestro-en-trujillo-quien-es-jhonsson-pulpo-el-profugo-senalado-como-cabecilla-de-los-pulpos-noticia%2f&c=7744509930786389889&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3e4b52d941eea6f16118721b7cc2&url=https%3A%2F%2Felcomercio.pe%2Fperu%2Fmasacre-y-secuestro-en-trujillo-quien-es-jhonsson-pulpo-el-profugo-senalado-como-cabecilla-de-los-pulpos-noticia%2F&c=7744509930786389889&mkt=es-us",
+      "titulo": "Masacre en Trujillo: ¿quién es Jhonsson Pulpo, cabecilla de Los Pulpos?",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-16",
+      "fecha_hecho": null,
+      "snippet": "Jhonsson Smit Cruz Torres asumió desde muy joven el liderazgo de la organización criminal que encabezó su padre, Jhon Cruz Arce. Hoy permanece prófugo, tiene una condena de cadena perpetua y el Minist ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 3,
+      "query": "bing:\"Los Pulpos\" Trujillo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-24 18:25"
     },
     {
       "id": "97f7c32a80064469",
@@ -113308,6 +113707,30 @@
       "agregado": "2026-10-24 13:09"
     },
     {
+      "id": "77da46dafa2a9fda",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3e4b52d941eea6f16118721b7cc2&url=https%3a%2f%2flarepublica.pe%2fsociedad%2f2026%2f09%2f14%2fcontinuan-las-amenazas-de-los-pulpos-en-trujillo-todo-va-a-seguir-igual-tienen-que-seguir-pagando-792022&c=16068694694955696398&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3e4b52d941eea6f16118721b7cc2&url=https%3A%2F%2Flarepublica.pe%2Fsociedad%2F2026%2F09%2F14%2Fcontinuan-las-amenazas-de-los-pulpos-en-trujillo-todo-va-a-seguir-igual-tienen-que-seguir-pagando-792022&c=16068694694955696398&mkt=es-us",
+      "titulo": "Continúan las amenazas de Los Pulpos en Trujillo: “Todo va a seguir igual. Tienen que seguir pagando”",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-14",
+      "fecha_hecho": null,
+      "snippet": "Tras la caída de Johnson Cruz, líder de Los Pulpos, las cosas siguen igual en Trujillo. La organización criminal continúa sembrando terror y reiteró su postura ...",
+      "temas": [
+        "Asalto a mano armada"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 2,
+      "query": "bing:\"Los Pulpos\" Trujillo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-24 18:25"
+    },
+    {
       "id": "d7bc4c11c2797209",
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPSTh1UDZ3SHptTWp5c3dpaUpTWUFTU2VWYkF3MW80RVBqMjN2c0E1S0VhU2Z1d3JsX2xLbGNMTnEzbUVrQXhlVGtta3A0MHc3MnVrN05aaVRId2JhM1QyaXNNYmY3amlTNzZ5Zk9oNU0zRUdQeTNqT29Xa3Z6RGRDVjdHVERXQlV6bG9jY3V2ZTBkeTFpXzJ4bWVvTWt5WTV3a2kzeDhRYzdCN2lXMXFzYm4taDJEVDFZbG9MbE9IbnlQRDZSQ2ZKel9HSU5OMjdBbmhkQ0s2d0o0Um1JUW95V3p3VERjNVVQRFNfd1FJcW9VaUtMbzRTbEMwWdIBlgJBVV95cUxQdHlQc0ZKYy1YSGk4S2xvTkNDM01WODhicTVNejNuYk5INjZJTXg2Q1pldFduTGh3RDlGR0NicGdHZXp0TXJyT2tXekg3MksxbTBqY2h3UTB1SUQ2bWoyV25HSmdIbVhpODg4UkQteVJBanRsOTN2dWUzYVlfRElXTW5JZWZ2dndqY1dhZWlabmhKWlhiLVpyWDUtQWJKMFZlbDdXTS1uTHJVTlQ5WVc0NUVyQkZScUQ2VEw2TXJ2UWg5dG9zNzBjWlZHcGt3b1l3N0R1ZUM5SzFZTldIMW5SU1c4clZkWWFmb2JQVFJKYWE2Z2s0ZmtObkxPYlJ3Z1pUVWlDN2pvN0g3U0o2MTlaelAxZEtLdw?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPSTh1UDZ3SHptTWp5c3dpaUpTWUFTU2VWYkF3MW80RVBqMjN2c0E1S0VhU2Z1d3JsX2xLbGNMTnEzbUVrQXhlVGtta3A0MHc3MnVrN05aaVRId2JhM1QyaXNNYmY3amlTNzZ5Zk9oNU0zRUdQeTNqT29Xa3Z6RGRDVjdHVERXQlV6bG9jY3V2ZTBkeTFpXzJ4bWVvTWt5WTV3a2kzeDhRYzdCN2lXMXFzYm4taDJEVDFZbG9MbE9IbnlQRDZSQ2ZKel9HSU5OMjdBbmhkQ0s2d0o0Um1JUW95V3p3VERjNVVQRFNfd1FJcW9VaUtMbzRTbEMwWdIBlgJBVV95cUxQdHlQc0ZKYy1YSGk4S2xvTkNDM01WODhicTVNejNuYk5INjZJTXg2Q1pldFduTGh3RDlGR0NicGdHZXp0TXJyT2tXekg3MksxbTBqY2h3UTB1SUQ2bWoyV25HSmdIbVhpODg4UkQteVJBanRsOTN2dWUzYVlfRElXTW5JZWZ2dndqY1dhZWlabmhKWlhiLVpyWDUtQWJKMFZlbDdXTS1uTHJVTlQ5WVc0NUVyQkZScUQ2VEw2TXJ2UWg5dG9zNzBjWlZHcGt3b1l3N0R1ZUM5SzFZTldIMW5SU1c4clZkWWFmb2JQVFJKYWE2Z2s0ZmtObkxPYlJ3Z1pUVWlDN2pvN0g3U0o2MTlaelAxZEtLdw",
@@ -116836,6 +117259,28 @@
       "agregado": "2026-10-24 13:09"
     },
     {
+      "id": "40bdf81a917a33ba",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3e2971184490afb1895869ada4fc&url=https%3a%2f%2fgestion.pe%2fperu%2finseguridad-en-peru-extorsion-se-expande-pero-los-presos-apenas-crecen-solo-475-mas-desde-2024-segun-observatorio-del-crimen-y-la-violencia-noticia%2f&c=15561443827417433364&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3e2971184490afb1895869ada4fc&url=https%3A%2F%2Fgestion.pe%2Fperu%2Finseguridad-en-peru-extorsion-se-expande-pero-los-presos-apenas-crecen-solo-475-mas-desde-2024-segun-observatorio-del-crimen-y-la-violencia-noticia%2F&c=15561443827417433364&mkt=es-us",
+      "titulo": "Extorsión se expande, pero solo hay 475 presos más que hace 2 años",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-13",
+      "fecha_hecho": null,
+      "snippet": "La evolución de la criminalidad en el Perú deja una brecha entre la dimensión que ha alcanzado el problema y la respuesta que se refleja en uno de sus principales indicadores: el número de personas ...",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:extorsión Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-24 18:25"
+    },
+    {
       "id": "a3a6f4a82f845257",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPSjZrem42dzRYZkZTQnYtVWc0UllmZ1JOZUdNSG1PVDlIRTMxQ0FqMFU4REQ5M3ZPU1k0NWRmSlZNQ2dLcUJWeEozTS1zdDhDTG1rVlVNWGtveWF2bkJtVVFLdWJfQlcwaXFkQVlkdzRlMFJTc1B5MDU1cmdkNTZlUk05WVV5ekFKODRVZkE0UFlYaVY2NzQyTWhTbHJ4QlFmUUNaaWR0eFpjWmY0eTRPWkNEMlFpNFFzc3pTeGdwRjRNdXFfUUNzREVvOUh2LWlmLXNwNUxiaWxCdEFRNXJoUkFadlB5Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPSjZrem42dzRYZkZTQnYtVWc0UllmZ1JOZUdNSG1PVDlIRTMxQ0FqMFU4REQ5M3ZPU1k0NWRmSlZNQ2dLcUJWeEozTS1zdDhDTG1rVlVNWGtveWF2bkJtVVFLdWJfQlcwaXFkQVlkdzRlMFJTc1B5MDU1cmdkNTZlUk05WVV5ekFKODRVZkE0UFlYaVY2NzQyTWhTbHJ4QlFmUUNaaWR0eFpjWmY0eTRPWkNEMlFpNFFzc3pTeGdwRjRNdXFfUUNzREVvOUh2LWlmLXNwNUxiaWxCdEFRNXJoUkFadlB5Zw",
@@ -118606,6 +119051,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-24 13:09"
+    },
+    {
+      "id": "c9e806261fd8073a",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3e2e1cb14645990205b7cb928fea&url=https%3a%2f%2felpopular.pe%2factualidad%2f2026%2f09%2f14%2fcaso-jenss-lara-pnp-identifica-al-dueno-de-la-camioneta-del-cuadruple-crimen-y-secuestro-del-empresario-minero-en-trujillo-569436&c=11664050577213705345&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3e2e1cb14645990205b7cb928fea&url=https%3A%2F%2Felpopular.pe%2Factualidad%2F2026%2F09%2F14%2Fcaso-jenss-lara-pnp-identifica-al-dueno-de-la-camioneta-del-cuadruple-crimen-y-secuestro-del-empresario-minero-en-trujillo-569436&c=11664050577213705345&mkt=es-us",
+      "titulo": "Caso Jenss Lara da GIRO INESPERADO: PNP identifica al DUEÑO de la camioneta del cuádruple crimen y secuestro del empresario minero en Trujillo",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-13",
+      "fecha_hecho": null,
+      "snippet": "La Policía Nacional del Perú identificó al propietario de la camioneta Toyota Hilux usada en un cuádruple crimen y secuestro en Trujillo. Conoce todos los detalles en la siguiente nota.",
+      "temas": [
+        "Secuestro"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 3,
+      "query": "bing:secuestro Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-24 18:25"
     },
     {
       "id": "d00e75bbe558b04c",
@@ -125367,6 +125836,30 @@
       "agregado": "2026-10-24 13:09"
     },
     {
+      "id": "7a05f1143a12d839",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3e4b52d941eea6f16118721b7cc2&url=https%3a%2f%2fdiariocorreo.pe%2fedicion%2fla-libertad%2flos-pulpos-nuevas-imagenes-revelan-ruta-del-convoy-tras-secuestro-en-trujillo-noticia%2f&c=7873465281568835376&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3e4b52d941eea6f16118721b7cc2&url=https%3A%2F%2Fdiariocorreo.pe%2Fedicion%2Fla-libertad%2Flos-pulpos-nuevas-imagenes-revelan-ruta-del-convoy-tras-secuestro-en-trujillo-noticia%2F&c=7873465281568835376&mkt=es-us",
+      "titulo": "“Los Pulpos”: Nuevas imágenes revelan ruta del convoy tras secuestro en Trujillo",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-06",
+      "fecha_hecho": null,
+      "snippet": "Nuevas imágenes de cámaras de seguridad permitieron reconstruir parte de la ruta que habría seguido la organización criminal “Los Pulpos” tras el secuestro del empresario minero Jenss Lara Tantaquilla ...",
+      "temas": [
+        "Secuestro"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 2,
+      "query": "bing:\"Los Pulpos\" Trujillo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-24 18:25"
+    },
+    {
       "id": "93073a2fcf4fd725",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac8d28da3ab456a93f13187278b7cc2&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f09%2f07%2flos-pulpos-tenian-un-cuarto-del-terror-para-sus-secuestrados-puerta-electronica-semisotano-y-balones-de-oxigeno%2f&c=2096720610791575775&mkt=es-us",
       "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac8d28da3ab456a93f13187278b7cc2&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F09%2F07%2Flos-pulpos-tenian-un-cuarto-del-terror-para-sus-secuestrados-puerta-electronica-semisotano-y-balones-de-oxigeno%2F&c=2096720610791575775&mkt=es-us",
@@ -129821,6 +130314,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-24 13:09"
+    },
+    {
+      "id": "e63f237b35e1bab9",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3e3050f248669a966143c66fbd12&url=https%3a%2f%2felcomercio.pe%2flima%2fpoliciales%2flima-norte-policia-captura-a-tres-presuntos-integrantes-de-banda-dedicada-al-secuestro-al-paso-ultimas-noticia%2f&c=4113432530470725151&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3e3050f248669a966143c66fbd12&url=https%3A%2F%2Felcomercio.pe%2Flima%2Fpoliciales%2Flima-norte-policia-captura-a-tres-presuntos-integrantes-de-banda-dedicada-al-secuestro-al-paso-ultimas-noticia%2F&c=4113432530470725151&mkt=es-us",
+      "titulo": "Policía captura a tres presuntos integrantes de banda dedicada al secuestro al paso en Lima Norte",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-06",
+      "fecha_hecho": null,
+      "snippet": "Tres presuntos integrantes de una banda dedicada al secuestro al paso bajo la modalidad del falso servicio de taxi fueron capturados por agentes de la Policía Nacional en Lima Norte. Según las ...",
+      "temas": [
+        "Secuestro"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:\"secuestro al paso\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-24 18:25"
     },
     {
       "id": "bf9eec01602f6918",
@@ -137329,6 +137846,28 @@
       "agregado": "2026-10-20 14:17"
     },
     {
+      "id": "beca096f1761f8b2",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3e2e1cb14645990205b7cb928fea&url=https%3a%2f%2fperu21.pe%2fperu%2fse-registra-un-secuestro-cada-hora-en-el-peru-segun-el-ministerio-publico%2f&c=15716964597644224784&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3e2e1cb14645990205b7cb928fea&url=https%3A%2F%2Fperu21.pe%2Fperu%2Fse-registra-un-secuestro-cada-hora-en-el-peru-segun-el-ministerio-publico%2F&c=15716964597644224784&mkt=es-us",
+      "titulo": "Se registra un secuestro cada hora en el Perú, según el Ministerio Público",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-03",
+      "fecha_hecho": null,
+      "snippet": "El reporte revela una preocupante frecuencia criminal. En el Perú se contabiliza un promedio de 428 denuncias por secuestro al mes, lo que equivale a 14 casos por día o un secuestro registrado cada ...",
+      "temas": [
+        "Secuestro"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:secuestro Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-24 18:25"
+    },
+    {
       "id": "f94dbc3584609f21",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab4460d5a6a43418d2a2807fc103666&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f09%2f04%2fpolicia-hallado-muerto-tras-masacre-en-trujillo-llevaba-brazalete-de-discoteca-donde-estuvieron-las-victimas%2f&c=10833752281486942647&mkt=es-us",
       "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab4460d5a6a43418d2a2807fc103666&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F09%2F04%2Fpolicia-hallado-muerto-tras-masacre-en-trujillo-llevaba-brazalete-de-discoteca-donde-estuvieron-las-victimas%2F&c=10833752281486942647&mkt=es-us",
@@ -138718,6 +139257,30 @@
       "agregado": "2026-10-24 13:09"
     },
     {
+      "id": "e7e5a9c7b11ee05d",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3e2971184490afb1895869ada4fc&url=https%3a%2f%2fwww.prensa-latina.cu%2f2026%2f09%2f03%2fperu-cerca-14-mil-denuncias-de-extorsiones-de-enero-a-julio-de-2026%2f&c=7236488184150021257&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3e2971184490afb1895869ada4fc&url=https%3A%2F%2Fwww.prensa-latina.cu%2F2026%2F09%2F03%2Fperu-cerca-14-mil-denuncias-de-extorsiones-de-enero-a-julio-de-2026%2F&c=7236488184150021257&mkt=es-us",
+      "titulo": "Perú: Cerca 14 mil denuncias de extorsiones de enero a julio de 2026",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-03",
+      "fecha_hecho": null,
+      "snippet": "Lima, 3 sep (Prensa Latina) Un total de 13 mil 892 casos de extorsión fueron denunciados en los primeros siete meses de 2026 en Perú, según un informe del Observatorio de Criminalidad del Ministerio ...",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:extorsión Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-24 18:25"
+    },
+    {
       "id": "da7b6f611bb8b99e",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWWlJYVJ6OEZ3MGlDLUtWdHNOckJTeWR1eEFoNS1JUDVTd2tFekwxYjFfMno2NWVXOVZCSnE0czFzaUtVeTdVOHNwNHJkUmlHYUJQX0VPSUpnemc5b2RRVThRTV8xUHZjOThxc0xiM05mQkZkbDRvaHRRVlFtbGxLdGNoWWlVUmNnN1lOVFd4V04wR25fTl9rV1JjaWR0Rm1YSVdMZ3RR?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWWlJYVJ6OEZ3MGlDLUtWdHNOckJTeWR1eEFoNS1JUDVTd2tFekwxYjFfMno2NWVXOVZCSnE0czFzaUtVeTdVOHNwNHJkUmlHYUJQX0VPSUpnemc5b2RRVThRTV8xUHZjOThxc0xiM05mQkZkbDRvaHRRVlFtbGxLdGNoWWlVUmNnN1lOVFd4V04wR25fTl9rV1JjaWR0Rm1YSVdMZ3RR",
@@ -139818,6 +140381,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-24 13:09"
+    },
+    {
+      "id": "838d52cad7dbff83",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3e2971184490afb1895869ada4fc&url=https%3a%2f%2finsightcrime.org%2fes%2fnoticias%2fcaptura-lider-de-pulpos-frenara-crisis-de-extorsion-peru%2f&c=17493288605466202093&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3e2971184490afb1895869ada4fc&url=https%3A%2F%2Finsightcrime.org%2Fes%2Fnoticias%2Fcaptura-lider-de-pulpos-frenara-crisis-de-extorsion-peru%2F&c=17493288605466202093&mkt=es-us",
+      "titulo": "La captura de Jhonsson Pulpo difícilmente frenará la crisis de extorsión en Perú",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-03",
+      "fecha_hecho": null,
+      "snippet": "Jhonsson Smit Cruz Torres, alias “Jhonsson Pulpo”, presunto líder del grupo criminal peruano Los Pulpos, fue capturado en Bolivia el 1 de septiembre. Su detención se produjo días después de que la ...",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:extorsión Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-24 18:25"
     },
     {
       "id": "e7dbbc0ede3a93b6",
@@ -147638,6 +148223,30 @@
       "agregado": "2026-10-24 13:09"
     },
     {
+      "id": "4d21faf859fe2c21",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3e4b52d941eea6f16118721b7cc2&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f09%2f01%2fla-historia-de-los-pulpos-el-clan-criminal-que-siembra-terror-en-trujillo-desde-los-90%2f&c=1378937135233006597&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3e4b52d941eea6f16118721b7cc2&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F09%2F01%2Fla-historia-de-los-pulpos-el-clan-criminal-que-siembra-terror-en-trujillo-desde-los-90%2F&c=1378937135233006597&mkt=es-us",
+      "titulo": "La historia de ‘Los Pulpos’, el clan criminal que siembra terror en Trujillo desde los 90",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-01",
+      "fecha_hecho": null,
+      "snippet": "El violento secuestro de un empresario minero volvió a encender las alarmas en Trujillo y puso nuevamente a Los Pulpos en el centro de las investigaciones. La organización lleva casi tres décadas ...",
+      "temas": [
+        "Secuestro"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 3,
+      "query": "bing:\"Los Pulpos\" Trujillo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-24 18:25"
+    },
+    {
       "id": "5c56eb6887acf9ab",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQ0RaZHlZdFRfTmsyb05YTkMzVGR0Xzc2UDdmNUFaXzJDT0lNbVBkRENkRjFWZlhCMHFYVUZqM2dfSkJ5UF9haGczOFVURXZtbElIaEdqZGNRNmk4TVNiS3hxelFaRXNJUHp4SzhjbUtYSDYwNndmZDlILWNFejFKOFJvSTR3Tk1tM2hLN3lrMzJEZFR5em1CZXh1V2dvVU9tTUhpemNkeWEzNVBwVzhKN1VwRUFlY1E1b2tvWU5NX1pIc3hGSTVPQjA3UF9JTTZBN3pxOTRlQW5mZG5VVHI3eHNnX25NOHRp0gGDAkFVX3lxTE8wemQyNkVvTnVUUTVJUXlKZE1UcC03NmI0SHl2SzNHNnNUX2pBSmptSTZKNklLUlNHN21zdkdRSDF3c1hrQlVTUV9GcUI1VHktZ2xoT2U3OGM1VTdhVk44LWQzVVA5OFJ6djVHN3VpRzNWeVdFWHM3TWhLQjlwRVctci1XU25HOHdhUFpFU1dwMlJqS1F3bzYyVllFcGdsbXo0SXo0M254VnlHa1JoNUxSZmd4bmJZazBvMFZ0SnEwcklmd3FLQk9OZXdzd3ltMDdYSTNSaG5vTG1kQVA1a0x0U21YQVItQTljSkh1TjVNVmFvVGpZNy1JU0N6elkzSEh3Tlk?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQ0RaZHlZdFRfTmsyb05YTkMzVGR0Xzc2UDdmNUFaXzJDT0lNbVBkRENkRjFWZlhCMHFYVUZqM2dfSkJ5UF9haGczOFVURXZtbElIaEdqZGNRNmk4TVNiS3hxelFaRXNJUHp4SzhjbUtYSDYwNndmZDlILWNFejFKOFJvSTR3Tk1tM2hLN3lrMzJEZFR5em1CZXh1V2dvVU9tTUhpemNkeWEzNVBwVzhKN1VwRUFlY1E1b2tvWU5NX1pIc3hGSTVPQjA3UF9JTTZBN3pxOTRlQW5mZG5VVHI3eHNnX25NOHRp0gGDAkFVX3lxTE8wemQyNkVvTnVUUTVJUXlKZE1UcC03NmI0SHl2SzNHNnNUX2pBSmptSTZKNklLUlNHN21zdkdRSDF3c1hrQlVTUV9GcUI1VHktZ2xoT2U3OGM1VTdhVk44LWQzVVA5OFJ6djVHN3VpRzNWeVdFWHM3TWhLQjlwRVctci1XU25HOHdhUFpFU1dwMlJqS1F3bzYyVllFcGdsbXo0SXo0M254VnlHa1JoNUxSZmd4bmJZazBvMFZ0SnEwcklmd3FLQk9OZXdzd3ltMDdYSTNSaG5vTG1kQVA1a0x0U21YQVItQTljSkh1TjVNVmFvVGpZNy1JU0N6elkzSEh3Tlk",
@@ -150438,6 +151047,30 @@
       "agregado": "2026-10-24 13:09"
     },
     {
+      "id": "30dc5600e5eb343c",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3e31dbfc46498c08b7630ab016c4&url=https%3a%2f%2fwww.elheraldo.hn%2fmundo%2fliberan-empresario-minero-secuestrado-trujillo-peru-BD31891231&c=14774386619390595945&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3e31dbfc46498c08b7630ab016c4&url=https%3A%2F%2Fwww.elheraldo.hn%2Fmundo%2Fliberan-empresario-minero-secuestrado-trujillo-peru-BD31891231&c=14774386619390595945&mkt=es-us",
+      "titulo": "Empresario secuestrado en Trujillo, Perú, es liberado tras pago de rescate",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-01",
+      "fecha_hecho": null,
+      "snippet": "Las autoridades informaron la captura de los presuntos responsables, incluido el supuesto autor de los disparos, vinculados con la organización criminal Los Pulpos ...",
+      "temas": [
+        "Secuestro"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 3,
+      "query": "bing:\"secuestro empresario\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-24 18:25"
+    },
+    {
       "id": "93906b3821a3c26c",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdXFxX19hd3FVSXdEREthbFFVdVN6b0cxVVIwOC1Oa1ZQcmhrTU8ybC14NlpFWl9XQm5uTEFxdGxsWXllTW1oVzlLdVJsS0NVNHJsekc1R045emc0QVlOYlBUUDZpaXNWWWZiS2FZQ0JYdXI1ZEZMcTBGeG5NRkV6V1AtU21sUUNMSUM3TFlOV0NRRklBcGtuN1h1dWpTcGo3TDROd29DNC1acmgwdGh2WUNYLWF4UDI5WEs5Ql9vUkVyUzU1SlY4WVVvQVVRZVZvQWoxNEREdEJza3pPNlBV0gH6AUFVX3lxTE9TQ3NRMzhVY3h0SklRSGZBVENfVm9ESVkwb3VGTWd2WXhoV0EwdW5UX3BwQ3EwSVVURE91WUx0VnBrbGVoTGJCSWVZeXZlNVpaSlM4WWdxOW9pQTJTTkttS2tMRHVsYlAzZUM5QlJ0c0ZZNm43cjQ5M1lIYllRdHAycXJMNjVoWEJ5ejZGQTNzRWNBRU9rUjVVQ3owb1Q1YndDZVhld1dKSWJWWnQ4cnJYZTFsblR4YjVmSElGcDU3Yjk5VHdPRm9pVkVLV1l2VXg0TjVHSHFRZ2dSZWNxLVFpSlFubkZQaDg5cjRwb1VaWGh4anlKVzVhamc?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdXFxX19hd3FVSXdEREthbFFVdVN6b0cxVVIwOC1Oa1ZQcmhrTU8ybC14NlpFWl9XQm5uTEFxdGxsWXllTW1oVzlLdVJsS0NVNHJsekc1R045emc0QVlOYlBUUDZpaXNWWWZiS2FZQ0JYdXI1ZEZMcTBGeG5NRkV6V1AtU21sUUNMSUM3TFlOV0NRRklBcGtuN1h1dWpTcGo3TDROd29DNC1acmgwdGh2WUNYLWF4UDI5WEs5Ql9vUkVyUzU1SlY4WVVvQVVRZVZvQWoxNEREdEJza3pPNlBV0gH6AUFVX3lxTE9TQ3NRMzhVY3h0SklRSGZBVENfVm9ESVkwb3VGTWd2WXhoV0EwdW5UX3BwQ3EwSVVURE91WUx0VnBrbGVoTGJCSWVZeXZlNVpaSlM4WWdxOW9pQTJTTkttS2tMRHVsYlAzZUM5QlJ0c0ZZNm43cjQ5M1lIYllRdHAycXJMNjVoWEJ5ejZGQTNzRWNBRU9rUjVVQ3owb1Q1YndDZVhld1dKSWJWWnQ4cnJYZTFsblR4YjVmSElGcDU3Yjk5VHdPRm9pVkVLV1l2VXg0TjVHSHFRZ2dSZWNxLVFpSlFubkZQaDg5cjRwb1VaWGh4anlKVzVhamc",
@@ -152649,6 +153282,29 @@
       "agregado": "2026-10-24 13:09"
     },
     {
+      "id": "294e52685c9e52f3",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3e2e1cb14645990205b7cb928fea&url=https%3a%2f%2fwww.europapress.es%2finternacional%2fnoticia-detenidas-peru-cinco-personas-secuestro-empresario-asesinato-cuatro-acompanantes-20260901173132.html&c=2100014375880904893&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add3e2e1cb14645990205b7cb928fea&url=https%3A%2F%2Fwww.europapress.es%2Finternacional%2Fnoticia-detenidas-peru-cinco-personas-secuestro-empresario-asesinato-cuatro-acompanantes-20260901173132.html&c=2100014375880904893&mkt=es-us",
+      "titulo": "Detenidas en Perú cinco personas por el secuestro de un empresario y el asesinato de sus cuatro acompañantes",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-01",
+      "fecha_hecho": null,
+      "snippet": "Las fuerzas de seguridad de Perú han detenido este martes a cinco personas presuntamente implicadas en el secuestro de un empresario y el asesinato de sus cuatro acompañantes cuando viajaban en una ...",
+      "temas": [
+        "Secuestro",
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 5,
+      "query": "bing:secuestro Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-24 18:25"
+    },
+    {
       "id": "0ce2575365f1c6e0",
       "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQS3R1elhCTXFjRW9oN0RyTEVseXJDby1jRWV0ZnduWHh0VXVoVFd0UXE4RDd4dkRRaVo5OUZabVMyaERaMjliZUI0REFwZGxxc2pVazdZME5rbnl1dU90YmRGdW5POUEyQ2pVTTJBMXRZZk9UN1RXcVptbVpvUy0tTXA0S0VWM3hVb0ROb0NieUdxeHZMbFA4UHdhclRSUkRvRlhpM0gwM0JzOUw4N3NRdENocnJFTnZfdzZzYUlTamNOMHB6Wi1oTjc0cVd1RkJLR0lZWkVVaHpnemJINEo5TGNidXVMZ05tcTZwaExmSDVBbktIV3RzMmEyVzlSSjhzQVNtcy1lT2Mtbi13dVNmQ3NTN3NNQ1FBZHRCcnczeEZIVEFJdnJhSkhHOG85OEHSAcMCQVVfeXFMT0lVOTFaWGdCSmwwYndHd2UzOENXX1JMQUhJa0xmbEFISnZiM25PLWFad3lITzlRWkc5Zkx1QkpzTWh3b1ZtWS1QaXkwOHZiMkxMbUcyNGQ4QktpcmxUSVZqajZKSVJtZjVzSi1BVW1UR3RITW1lWm5HdHMxbzhEV2NpXzNLVDBqcldZUXY1SUNxQU05SXZWa19YNENtLXNoYmdKdFMtYmxCN0RuUzlybWJ6cXdtSEpZa0VjQ0VkWUhVcDZ5bFpmX3hpb1h6ZF9nSUw3Umx2QkZ2RTdxRndlUnViQ1haRWI0STFQOU9GTDU3elhlNmxtQUZPeFpKUzNwTXJ2NmdYaXVDd3NQVUQyTUpWZDdBVk90eVROR3AyZmM1QjloaGtvR3BHZVgxQk1tUmg3MGZodkVqUHhEWlh4YjRqOTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQS3R1elhCTXFjRW9oN0RyTEVseXJDby1jRWV0ZnduWHh0VXVoVFd0UXE4RDd4dkRRaVo5OUZabVMyaERaMjliZUI0REFwZGxxc2pVazdZME5rbnl1dU90YmRGdW5POUEyQ2pVTTJBMXRZZk9UN1RXcVptbVpvUy0tTXA0S0VWM3hVb0ROb0NieUdxeHZMbFA4UHdhclRSUkRvRlhpM0gwM0JzOUw4N3NRdENocnJFTnZfdzZzYUlTamNOMHB6Wi1oTjc0cVd1RkJLR0lZWkVVaHpnemJINEo5TGNidXVMZ05tcTZwaExmSDVBbktIV3RzMmEyVzlSSjhzQVNtcy1lT2Mtbi13dVNmQ3NTN3NNQ1FBZHRCcnczeEZIVEFJdnJhSkhHOG85OEHSAcMCQVVfeXFMT0lVOTFaWGdCSmwwYndHd2UzOENXX1JMQUhJa0xmbEFISnZiM25PLWFad3lITzlRWkc5Zkx1QkpzTWh3b1ZtWS1QaXkwOHZiMkxMbUcyNGQ4QktpcmxUSVZqajZKSVJtZjVzSi1BVW1UR3RITW1lWm5HdHMxbzhEV2NpXzNLVDBqcldZUXY1SUNxQU05SXZWa19YNENtLXNoYmdKdFMtYmxCN0RuUzlybWJ6cXdtSEpZa0VjQ0VkWUhVcDZ5bFpmX3hpb1h6ZF9nSUw3Umx2QkZ2RTdxRndlUnViQ1haRWI0STFQOU9GTDU3elhlNmxtQUZPeFpKUzNwTXJ2NmdYaXVDd3NQVUQyTUpWZDdBVk90eVROR3AyZmM1QjloaGtvR3BHZVgxQk1tUmg3MGZodkVqUHhEWlh4YjRqOTQ",
@@ -153063,5 +153719,5 @@
       "descartar": false
     }
   ],
-  "n": 6533
+  "n": 6561
 }
