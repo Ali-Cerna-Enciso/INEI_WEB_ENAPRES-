@@ -1,6 +1,6 @@
 {
   "mes": "2026-04",
-  "actualizado": "2026-10-23 14:13",
+  "actualizado": "2026-10-23 19:00",
   "items": [
     {
       "id": "0cac60cdfebbc9e7",
@@ -1561,6 +1561,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-23 14:13"
+    },
+    {
+      "id": "5d3a6a2d7a526d0c",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adbf51d0f294bc5ab8723d17ab11443&url=https%3a%2f%2felcomercio.pe%2fperu%2fla-libertad%2ftrujillo-cae-presunto-sicario-de-los-pulpos-implicado-en-asesinato-y-masacre-ultimas-noticia%2f&c=17746983504205727914&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adbf51d0f294bc5ab8723d17ab11443&url=https%3A%2F%2Felcomercio.pe%2Fperu%2Fla-libertad%2Ftrujillo-cae-presunto-sicario-de-los-pulpos-implicado-en-asesinato-y-masacre-ultimas-noticia%2F&c=17746983504205727914&mkt=es-us",
+      "titulo": "Trujillo: Cae presunto sicario de Los Pulpos implicado en asesinato y masacre",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-04-28",
+      "fecha_hecho": null,
+      "snippet": "La Policía capturó en Trujillo a Óscar Romero Cóndor, presunto sicario de la banda criminal Los Pulpos, vinculado al asesinato de un ingeniero, una masacre en Florencia de Mora y al presunto plan para ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 3,
+      "query": "bing:\"Los Pulpos\" Trujillo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-23 19:00"
     },
     {
       "id": "d1013c3020caaf3e",
@@ -6910,6 +6934,28 @@
       "agregado": "2026-10-23 14:13"
     },
     {
+      "id": "ab83a3ee18d74e58",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adbf4f92c2b491fb818a79dc0941ce4&url=https%3a%2f%2fwww.perfil.com%2fnoticias%2finternacional%2felecciones-en-peru-la-escalada-de-extorsiones-instala-la-pena-de-muerte-en-el-centro-de-la-campana-a39.phtml&c=4492100025895069672&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adbf4f92c2b491fb818a79dc0941ce4&url=https%3A%2F%2Fwww.perfil.com%2Fnoticias%2Finternacional%2Felecciones-en-peru-la-escalada-de-extorsiones-instala-la-pena-de-muerte-en-el-centro-de-la-campana-a39.phtml&c=4492100025895069672&mkt=es-us",
+      "titulo": "Elecciones en Perú: la escalada de extorsiones instala la pena de muerte en el centro de la campaña",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-04-08",
+      "fecha_hecho": null,
+      "snippet": "A menos de una semana de las elecciones presidenciales en Perú, la campaña entró en su tramo final atravesada por una variable que desbordó el debate político tradicional: la inseguridad. En un país ...",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:extorsión Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-23 19:00"
+    },
+    {
       "id": "330a88bc72688062",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQVGctNk5JRFdTM1dPSXlDYjFIOERxaWoxdERESzlBcFRBT3NJa0FNUEFLUm5QeDJRQTdiQkxleF9iZGhPU25KUVpQRzJsVVh1SjVod1dfWE9vWFRUSHdIaDNlOGFMTjdjMExTbWNxSmZwZGkyTWU3MWJiYk5Lcldmd25BTl91eTU1SXJIa0FxVGs5aWtrVVM0RU50dXFLQWVtcTlkSXpmLUpWY2dhOVowU1RNaEdjd0xZX2wzWWhOdmdMMzhaSEV3QnNXYVE4eldpMDVHajRwTTQtYkFPUTZhT2xkTm41c0FGalZOY01OSQ?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQVGctNk5JRFdTM1dPSXlDYjFIOERxaWoxdERESzlBcFRBT3NJa0FNUEFLUm5QeDJRQTdiQkxleF9iZGhPU25KUVpQRzJsVVh1SjVod1dfWE9vWFRUSHdIaDNlOGFMTjdjMExTbWNxSmZwZGkyTWU3MWJiYk5Lcldmd25BTl91eTU1SXJIa0FxVGs5aWtrVVM0RU50dXFLQWVtcTlkSXpmLUpWY2dhOVowU1RNaEdjd0xZX2wzWWhOdmdMMzhaSEV3QnNXYVE4eldpMDVHajRwTTQtYkFPUTZhT2xkTm41c0FGalZOY01OSQ",
@@ -9133,5 +9179,5 @@
       "descartar": false
     }
   ],
-  "n": 403
+  "n": 405
 }
