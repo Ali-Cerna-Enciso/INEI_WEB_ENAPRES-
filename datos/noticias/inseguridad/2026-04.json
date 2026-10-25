@@ -1,6 +1,6 @@
 {
   "mes": "2026-04",
-  "actualizado": "2026-10-25 11:34",
+  "actualizado": "2026-10-25 13:26",
   "items": [
     {
       "id": "0cac60cdfebbc9e7",
@@ -1729,6 +1729,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-25 11:34"
+    },
+    {
+      "id": "3e18053ae907bb5f",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ade49e5a3f04626b6e236d0ac718bf8&url=https%3a%2f%2felcomercio.pe%2fperu%2fla-libertad%2ftrujillo-cae-presunto-sicario-de-los-pulpos-implicado-en-asesinato-y-masacre-ultimas-noticia%2f&c=17746983504205727914&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ade49e5a3f04626b6e236d0ac718bf8&url=https%3A%2F%2Felcomercio.pe%2Fperu%2Fla-libertad%2Ftrujillo-cae-presunto-sicario-de-los-pulpos-implicado-en-asesinato-y-masacre-ultimas-noticia%2F&c=17746983504205727914&mkt=es-us",
+      "titulo": "Trujillo: Cae presunto sicario de Los Pulpos implicado en asesinato y masacre",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-04-28",
+      "fecha_hecho": null,
+      "snippet": "La Policía capturó en Trujillo a Óscar Romero Cóndor, presunto sicario de la banda criminal Los Pulpos, vinculado al asesinato de un ingeniero, una masacre en Florencia de Mora y al presunto plan para ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 3,
+      "query": "bing:\"Los Pulpos\" Trujillo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-25 13:26"
     },
     {
       "id": "d1013c3020caaf3e",
@@ -9323,5 +9347,5 @@
       "descartar": false
     }
   ],
-  "n": 411
+  "n": 412
 }
