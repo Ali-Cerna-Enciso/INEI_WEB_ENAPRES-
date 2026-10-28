@@ -1,6 +1,6 @@
 {
   "mes": "2026-01",
-  "actualizado": "2026-10-28 13:33",
+  "actualizado": "2026-10-28 15:20",
   "items": [
     {
       "id": "92ea08055726643a",
@@ -2878,6 +2878,28 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-10-28 13:33"
+    },
+    {
+      "id": "fd73523b10202229",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae2591569f64bc89826b649332347f9&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f01%2f31%2fjefe-de-seguridad-de-hidrandina-desato-balacera-y-se-quito-la-vida-tras-ser-despedido-habria-sufrido-acoso-laboral%2f&c=9626318985270375536&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae2591569f64bc89826b649332347f9&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F01%2F31%2Fjefe-de-seguridad-de-hidrandina-desato-balacera-y-se-quito-la-vida-tras-ser-despedido-habria-sufrido-acoso-laboral%2F&c=9626318985270375536&mkt=es-us",
+      "titulo": "Jefe de seguridad de Hidrandina desató balacera y se quitó la vida tras ser despedido: reportan tres heridos",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-01-30",
+      "fecha_hecho": null,
+      "snippet": "La Policía Nacional confirmó que el ataque ocurrió dentro de las oficinas administrativas de Hidrandina y que los heridos fueron atendidos de emergencia en clínicas y hospitales de la ciudad Por ...",
+      "temas": [
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:Hidrandina",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-28 15:20"
     },
     {
       "id": "47a705a11eafea3e",
@@ -6771,5 +6793,5 @@
       "descartar": false
     }
   ],
-  "n": 287
+  "n": 288
 }
