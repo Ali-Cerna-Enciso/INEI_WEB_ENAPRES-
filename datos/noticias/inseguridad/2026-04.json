@@ -1,6 +1,6 @@
 {
   "mes": "2026-04",
-  "actualizado": "2026-10-29 06:15",
+  "actualizado": "2026-10-29 13:37",
   "items": [
     {
       "id": "0cac60cdfebbc9e7",
@@ -333,6 +333,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-29 06:15"
+    },
+    {
+      "id": "efd09c1632f2139a",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae3923e41bb44f78fdcef0f99c10ff5&url=https%3a%2f%2fwww.atv.pe%2fnoticia%2ffeminicidios-peru-2025-2026%2f&c=1903741488556373166&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae3923e41bb44f78fdcef0f99c10ff5&url=https%3A%2F%2Fwww.atv.pe%2Fnoticia%2Ffeminicidios-peru-2025-2026%2F&c=1903741488556373166&mkt=es-us",
+      "titulo": "Feminicidios en Perú: 134 casos en 2025 y 33 van en lo que va del 2026",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-04-30",
+      "fecha_hecho": null,
+      "snippet": "Perú registró 134 feminicidios en 2025 y suma 33 en 2026. Más de 176 mil casos de violencia atendidos en hospitales.",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:feminicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-29 13:37"
     },
     {
       "id": "cca6fc98a248d00c",
@@ -2353,6 +2375,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-29 06:15"
+    },
+    {
+      "id": "b6365202fca36dde",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae39251f1164d8bbeec269899bf2edd&url=https%3a%2f%2felcomercio.pe%2fperu%2fla-libertad%2ftrujillo-cae-presunto-sicario-de-los-pulpos-implicado-en-asesinato-y-masacre-ultimas-noticia%2f&c=17746983504205727914&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae39251f1164d8bbeec269899bf2edd&url=https%3A%2F%2Felcomercio.pe%2Fperu%2Fla-libertad%2Ftrujillo-cae-presunto-sicario-de-los-pulpos-implicado-en-asesinato-y-masacre-ultimas-noticia%2F&c=17746983504205727914&mkt=es-us",
+      "titulo": "Trujillo: Cae presunto sicario de Los Pulpos implicado en asesinato y masacre",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-04-28",
+      "fecha_hecho": null,
+      "snippet": "La Policía capturó en Trujillo a Óscar Romero Cóndor, presunto sicario de la banda criminal Los Pulpos, vinculado al asesinato de un ingeniero, una masacre en Florencia de Mora y al presunto plan para ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 3,
+      "query": "bing:\"Los Pulpos\" Trujillo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-29 13:37"
     },
     {
       "id": "d1013c3020caaf3e",
@@ -9208,6 +9254,28 @@
       "agregado": "2026-10-21 14:20"
     },
     {
+      "id": "235918a66e5e179d",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae3922fec024309b596c8c270b45b3e&url=https%3a%2f%2fwww.msn.com%2fes-es%2fnoticias%2fother%2felecciones-per%25C3%25BA-2026-aumento-de-extorsiones-avivan-pedido-de-pena-de-muerte%2far-AA20kTr6&c=14336195703473285550&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae3922fec024309b596c8c270b45b3e&url=https%3A%2F%2Fwww.msn.com%2Fes-es%2Fnoticias%2Fother%2Felecciones-per%25C3%25BA-2026-aumento-de-extorsiones-avivan-pedido-de-pena-de-muerte%2Far-AA20kTr6&c=14336195703473285550&mkt=es-us",
+      "titulo": "Elecciones Perú 2026: Aumento de extorsiones avivan pedido de pena de muerte",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-04-06",
+      "fecha_hecho": null,
+      "snippet": "A solo cinco días de las elecciones presidenciales en Perú, las últimas encuestas muestran que las propuestas radicales para combatir el crimen organizado, van capitalizando votos. La pena de muerte ...",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:extorsión Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-29 13:37"
+    },
+    {
       "id": "0981d87cd751d278",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVWhtMkE0bGZrZUwzOFFNRkRySnZWWWREMnpGcE45MGhkdlV6Yk0tTHd6a1dyb091bEE5TG52MVVfT0ZfdnJRQXBVMmRpWXY5WUF5TE5ueDB0UkxIbDh2NXBGYWV0YzhfMGhNaWFQeTl4dzFLc1BKMWVndVNxNlpDcDVaeHkwRVZ5bHVEOFN3d2pLWkdvVFd5QXpUemFRVE9uZWEzNUwtaF9jR1F1T2JwRXI1NkFtZEVWMHgwbEZhdndKcGNTcUtF0gHUAUFVX3lxTFAtaXZrbGtFSHBmQ0IyYkhxYjhDQWxzRko4WHBJVlRSc0p4VS02bFhpQTFzUVQyekZ3NHA0bnczOUowMGpIdGEyLVFQckhPYWZXd3BDeWROODVDcUhBcE1qczVza3Fwa1dfcEllUUFxSGotZUJjeVR2TGlfci1ZUEZFYlhpUzlQWlA3eDZxY2JNLTdwMWw2VWRSVm44M0RkczZSRXNlUjE2eHA3VzdYR0gyUTNrMklJUC1PZ1NrdHRCM3c3WmdxNkktRUptNE02bUNpLUFl?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVWhtMkE0bGZrZUwzOFFNRkRySnZWWWREMnpGcE45MGhkdlV6Yk0tTHd6a1dyb091bEE5TG52MVVfT0ZfdnJRQXBVMmRpWXY5WUF5TE5ueDB0UkxIbDh2NXBGYWV0YzhfMGhNaWFQeTl4dzFLc1BKMWVndVNxNlpDcDVaeHkwRVZ5bHVEOFN3d2pLWkdvVFd5QXpUemFRVE9uZWEzNUwtaF9jR1F1T2JwRXI1NkFtZEVWMHgwbEZhdndKcGNTcUtF0gHUAUFVX3lxTFAtaXZrbGtFSHBmQ0IyYkhxYjhDQWxzRko4WHBJVlRSc0p4VS02bFhpQTFzUVQyekZ3NHA0bnczOUowMGpIdGEyLVFQckhPYWZXd3BDeWROODVDcUhBcE1qczVza3Fwa1dfcEllUUFxSGotZUJjeVR2TGlfci1ZUEZFYlhpUzlQWlA3eDZxY2JNLTdwMWw2VWRSVm44M0RkczZSRXNlUjE2eHA3VzdYR0gyUTNrMklJUC1PZ1NrdHRCM3c3WmdxNkktRUptNE02bUNpLUFl",
@@ -9947,5 +10015,5 @@
       "descartar": false
     }
   ],
-  "n": 438
+  "n": 441
 }
