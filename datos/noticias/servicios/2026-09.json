@@ -1,6 +1,6 @@
 {
   "mes": "2026-09",
-  "actualizado": "2026-10-29 13:39",
+  "actualizado": "2026-10-29 15:20",
   "items": [
     {
       "id": "4cca0f6932b1eef7",
@@ -9411,6 +9411,28 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-10-29 13:39"
+    },
+    {
+      "id": "d3a7bba542ff7063",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae3aa817c054890b90daaabed1fdd21&url=https%3a%2f%2flarepublica.pe%2fopinion%2f2026%2f09%2f28%2f40-del-presupuesto-se-tienen-que-ir-en-agua-y-desague-no-en-planillas-promete-candidato-de-somos-peru-a-lurin-bernardo-silva-hnews-808668&c=18344659212913558031&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae3aa817c054890b90daaabed1fdd21&url=https%3A%2F%2Flarepublica.pe%2Fopinion%2F2026%2F09%2F28%2F40-del-presupuesto-se-tienen-que-ir-en-agua-y-desague-no-en-planillas-promete-candidato-de-somos-peru-a-lurin-bernardo-silva-hnews-808668&c=18344659212913558031&mkt=es-us",
+      "titulo": "“40 % (del presupuesto) se tienen que ir en agua y desagüe, no en planillas”, promete candidato de Somos Perú a Lurín Bernardo Silva",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-27",
+      "fecha_hecho": null,
+      "snippet": "¿Por qué quiere ser alcalde de Lurín? Esa es una pregunta importante, porque mucha gente dice \"quiero al distrito\" o \"quiero hacer el bien\" sin más. Hay que entender que la política en el Perú es dura ...",
+      "temas": [
+        "Alcantarillado"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:desagüe Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-29 15:20"
     },
     {
       "id": "8cde263eecbc9458",
@@ -21062,6 +21084,32 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-10-29 13:39"
+    },
+    {
+      "id": "387f3f2b7a34cb98",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae3aa8d1f7f4742b316d9842d74583e&url=https%3a%2f%2fdiariocorreo.pe%2fedicion%2fla-libertad%2fhidrandina-detecta-y-erradica-509-conexiones-clandestinas-que-ponen-en-riesgo-a-familias-la-libertad-peru-noticia%2f&c=11633541843318035626&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae3aa8d1f7f4742b316d9842d74583e&url=https%3A%2F%2Fdiariocorreo.pe%2Fedicion%2Fla-libertad%2Fhidrandina-detecta-y-erradica-509-conexiones-clandestinas-que-ponen-en-riesgo-a-familias-la-libertad-peru-noticia%2F&c=11633541843318035626&mkt=es-us",
+      "titulo": "La Libertad: Hidrandina detecta y erradica 509 conexiones clandestinas que ponen en riesgo a familias",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-24",
+      "fecha_hecho": null,
+      "snippet": "Hidrandina mantiene una estrategia permanente de fiscalización para combatir el hurto de energía eléctrica. Entre enero y agosto de 2026, la empresa realizó 66 operativos en Trujillo y Chimbote, donde ...",
+      "temas": [
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo",
+        "Chimbote",
+        "La Libertad"
+      ],
+      "score": 3,
+      "query": "bing:Hidrandina",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-29 15:20"
     },
     {
       "id": "6cb7964d147ca67c",
@@ -39282,6 +39330,28 @@
       "agregado": "2026-10-29 13:39"
     },
     {
+      "id": "05ca0892d5cb25cf",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae3aa957eac4a5192ca91d26b00ba1c&url=https%3a%2f%2felcomercio.pe%2feconomia%2fperu%2fcofide-anuncia-su-tercer-bono-azul-para-ampliar-el-acceso-a-agua-y-saneamiento-en-el-peru-l-ultimas-noticia%2f&c=2221719719642236792&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae3aa957eac4a5192ca91d26b00ba1c&url=https%3A%2F%2Felcomercio.pe%2Feconomia%2Fperu%2Fcofide-anuncia-su-tercer-bono-azul-para-ampliar-el-acceso-a-agua-y-saneamiento-en-el-peru-l-ultimas-noticia%2F&c=2221719719642236792&mkt=es-us",
+      "titulo": "Cofide anuncia su tercer Bono Azul para ampliar el acceso a agua y saneamiento en el Perú",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-18",
+      "fecha_hecho": null,
+      "snippet": "Cofide, el Banco de Desarrollo del Perú, anunció la emisión de su tercer Bono Azul en el mercado de capitales local, por un monto de hasta S/120 millones. La operación permitirá continuar movilizando ...",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:\"agua y saneamiento\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-29 15:20"
+    },
+    {
       "id": "eed30cf344d60151",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZ3I4b3ZkU0xBSGE3RnJtNVRzTEtQVnU3WnA3c1Q0aFgtNmdOLTJQd0gxUzJGcjl5eW11N3JvQ2xGM0pOLTh4WnpYbWUzSHM2QVY2Uk5qRXd4dDd5MjBUaUdzMGgzZlNCNFQzXzQyOXNMdFM1d19HT2FzVU5lMGhKcTNIbGJIQnpoaFdtOHhFM0NmOHZhSktwaDBVQmxPSmtyZkk5Q1d6dGJ4Mkh3Q19RYklDNDVFNzhmUlg2ZC1NT0VaZ1Z3bTc3M2hyT3lVUTdsZ09IVkMzb0ttWjQyUWpqOGR30gH2AUFVX3lxTE5VUXR4YkJPTHFPS1VMRmEtR0sxeUZjeWx1VnVLRUhiVVlyVXRrak5RVkJmeVZ0ZmRBbjU2UVAweWF3TGdFOUh6LXFDZXl4YVBuNW94aW1aM01GSjJYV2pGX1FZMWpHTVZOLUJoQlhQcE5OSTd3RS1LWDVGQ2pwaDltZGF4eFVHcTNoc29ua2VPLWhqLXpwUzFXQjdubHRCcExNVzZua3dFQjNKc28zSkJoWXRjT1JseVB3ZWo1TmhSdUpzcW94THptSWFjS3A3cE9fbnZwQ21VakN3Q2d4X01ycDJ6YU8ycWI0d2U1VldlTXNkZEQydw?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZ3I4b3ZkU0xBSGE3RnJtNVRzTEtQVnU3WnA3c1Q0aFgtNmdOLTJQd0gxUzJGcjl5eW11N3JvQ2xGM0pOLTh4WnpYbWUzSHM2QVY2Uk5qRXd4dDd5MjBUaUdzMGgzZlNCNFQzXzQyOXNMdFM1d19HT2FzVU5lMGhKcTNIbGJIQnpoaFdtOHhFM0NmOHZhSktwaDBVQmxPSmtyZkk5Q1d6dGJ4Mkh3Q19RYklDNDVFNzhmUlg2ZC1NT0VaZ1Z3bTc3M2hyT3lVUTdsZ09IVkMzb0ttWjQyUWpqOGR30gH2AUFVX3lxTE5VUXR4YkJPTHFPS1VMRmEtR0sxeUZjeWx1VnVLRUhiVVlyVXRrak5RVkJmeVZ0ZmRBbjU2UVAweWF3TGdFOUh6LXFDZXl4YVBuNW94aW1aM01GSjJYV2pGX1FZMWpHTVZOLUJoQlhQcE5OSTd3RS1LWDVGQ2pwaDltZGF4eFVHcTNoc29ua2VPLWhqLXpwUzFXQjdubHRCcExNVzZua3dFQjNKc28zSkJoWXRjT1JseVB3ZWo1TmhSdUpzcW94THptSWFjS3A3cE9fbnZwQ21VakN3Q2d4X01ycDJ6YU8ycWI0d2U1VldlTXNkZEQydw",
@@ -46846,6 +46916,28 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-10-29 13:39"
+    },
+    {
+      "id": "32fdc59e9169db3e",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae3aa932e1244cb9d35027c08db1ca9&url=https%3a%2f%2felcomercio.pe%2fdeporte-total%2frunning%2fcorro-por-el-agua-mas-de-1300-corredores-se-unieron-en-evento-solidario-por-el-acceso-al-agua-y-banos-dignos-noticia%2f&c=8767683404336343319&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae3aa932e1244cb9d35027c08db1ca9&url=https%3A%2F%2Felcomercio.pe%2Fdeporte-total%2Frunning%2Fcorro-por-el-agua-mas-de-1300-corredores-se-unieron-en-evento-solidario-por-el-acceso-al-agua-y-banos-dignos-noticia%2F&c=8767683404336343319&mkt=es-us",
+      "titulo": "Más de 1.300 corredores se unieron en evento solidario por el acceso al agua y baños dignos",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-15",
+      "fecha_hecho": null,
+      "snippet": "Más de 1.300 personas se pusieron en movimiento por una causa que fue más allá del deporte. La carrera solidaria Corro por el Agua reunió el pasado domingo 13 de setiembre a corredores, familias y ...",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:\"acceso al agua\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-29 15:20"
     },
     {
       "id": "f9cc4b7943710104",
@@ -63911,5 +64003,5 @@
       "descartar": false
     }
   ],
-  "n": 2720
+  "n": 2724
 }
