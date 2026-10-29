@@ -1,6 +1,6 @@
 {
   "mes": "2026-02",
-  "actualizado": "2026-10-28 20:09",
+  "actualizado": "2026-10-29 06:18",
   "items": [
     {
       "id": "6fd861d9251bce4b",
@@ -3027,6 +3027,28 @@
       "agregado": "2026-10-28 20:09"
     },
     {
+      "id": "c3e62ec0d885613c",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae32b737fcd4fa587662dc3daf82d97&url=https%3a%2f%2fgestion.pe%2fopinion%2fagua-y-saneamiento-en-peru-los-us-15-mil-millones-que-exige-el-sistema-y-lo-que-implica-para-las-tarifas-noticia%2f&c=11213670636521027000&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae32b737fcd4fa587662dc3daf82d97&url=https%3A%2F%2Fgestion.pe%2Fopinion%2Fagua-y-saneamiento-en-peru-los-us-15-mil-millones-que-exige-el-sistema-y-lo-que-implica-para-las-tarifas-noticia%2F&c=11213670636521027000&mkt=es-us",
+      "titulo": "Agua y saneamiento en Perú: los US$ 15 mil millones que exige el sistema y lo que implica para las tarifas",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-02-15",
+      "fecha_hecho": null,
+      "snippet": "En Gestión, valoramos profundamente la labor periodística que realizamos para mantenerlos informados. Por ello, les recordamos que no está permitido, reproducir, comercializar, distribuir, copiar ...",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:\"agua y saneamiento\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-29 06:18"
+    },
+    {
       "id": "c22885169923a6e8",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTERCczEzRWpyVzJ5NHJHaG5FbF9qVGR3SUwzZzVwV3RFTzlYcjk1Ul9lMlEwWjZaeUgyTEljS29jaE9fMldSNVkzTm83ZnRRVU1RTktacHE4ZjJ5SGNzTHdQNmJ2LXU5eVJzTjhQU2FDOG5PbWk0d3RLUDFPc19rOVNETGkzd0xuZ0VpYlhR?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTERCczEzRWpyVzJ5NHJHaG5FbF9qVGR3SUwzZzVwV3RFTzlYcjk1Ul9lMlEwWjZaeUgyTEljS29jaE9fMldSNVkzTm83ZnRRVU1RTktacHE4ZjJ5SGNzTHdQNmJ2LXU5eVJzTjhQU2FDOG5PbWk0d3RLUDFPc19rOVNETGkzd0xuZ0VpYlhR",
@@ -3212,6 +3234,28 @@
       "agregado": "2026-09-18 12:30",
       "tipo_fuente": "Noticias/reportes",
       "descartar": false
+    },
+    {
+      "id": "c348ffbf7c9b1e3e",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae32b737fcd4fa587662dc3daf82d97&url=https%3a%2f%2felcomercio.pe%2feconomia%2fsunass-impuso-multas-por-s165-millones-a-46-empresas-de-agua-potable-en-el-2025-noticia%2f&c=6990159589169572643&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae32b737fcd4fa587662dc3daf82d97&url=https%3A%2F%2Felcomercio.pe%2Feconomia%2Fsunass-impuso-multas-por-s165-millones-a-46-empresas-de-agua-potable-en-el-2025-noticia%2F&c=6990159589169572643&mkt=es-us",
+      "titulo": "Sunass impuso multas por S/16,5 millones a 46 empresas de agua potable en el 2025",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-02-13",
+      "fecha_hecho": null,
+      "snippet": "La Superintendencia Nacional de Servicios de Saneamiento (Sunass) informó que en el 2025 impuso 336 sanciones a 46 de las 50 empresas prestadoras de servicios de saneamiento (EPS) del Perú, al igual ...",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:\"agua y saneamiento\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-29 06:18"
     },
     {
       "id": "017136cd56b1cefa",
@@ -4820,5 +4864,5 @@
       "descartar": false
     }
   ],
-  "n": 210
+  "n": 212
 }
