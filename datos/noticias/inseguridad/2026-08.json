@@ -1,6 +1,6 @@
 {
   "mes": "2026-08",
-  "actualizado": "2026-10-30 06:10",
+  "actualizado": "2026-10-30 13:10",
   "items": [
     {
       "id": "d9d4232fbcb587d1",
@@ -1536,6 +1536,32 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-30 06:10"
+    },
+    {
+      "id": "7a6ea5f13fbd811a",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae4dd9538434b638c938cc2bb4f4ea1&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f08%2f31%2fel-resurgir-de-los-pulpos-asi-funciona-la-banda-criminal-que-nacio-en-el-norte-de-peru-y-llego-a-chile-y-argentina%2f&c=1056486780007467487&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae4dd9538434b638c938cc2bb4f4ea1&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F08%2F31%2Fel-resurgir-de-los-pulpos-asi-funciona-la-banda-criminal-que-nacio-en-el-norte-de-peru-y-llego-a-chile-y-argentina%2F&c=1056486780007467487&mkt=es-us",
+      "titulo": "¿El resurgir de Los Pulpos? Así funciona la banda criminal que nació en el norte de Perú y llegó a Chile y Argentina",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-31",
+      "fecha_hecho": null,
+      "snippet": "El grupo nacido en El Porvenir, en Trujillo (La Libertad), expandió extorsiones, secuestros y operaciones delictivas vinculadas a la minería ilegal hacia varios países Por Jordan Arce El nombre de Los ...",
+      "temas": [
+        "Extorsión",
+        "Secuestro"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo",
+        "La Libertad"
+      ],
+      "score": 3,
+      "query": "bing:\"Los Pulpos\" Trujillo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-30 13:10"
     },
     {
       "id": "bc86f249b6fc6a3d",
@@ -20348,6 +20374,28 @@
       "agregado": "2026-10-30 06:10"
     },
     {
+      "id": "93139a93a5524b7c",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae4dd87a06c4907888a42b6a52b3a4a&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f08%2f26%2fidentidades-sinteticas-y-tecnicas-de-fatiga-contrasenas-ya-no-frenan-el-fraude-digital-y-bancos-en-peru-encienden-las-alertas%2f&c=10172187503192527293&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae4dd87a06c4907888a42b6a52b3a4a&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F08%2F26%2Fidentidades-sinteticas-y-tecnicas-de-fatiga-contrasenas-ya-no-frenan-el-fraude-digital-y-bancos-en-peru-encienden-las-alertas%2F&c=10172187503192527293&mkt=es-us",
+      "titulo": "Identidades sintéticas y técnicas de fatiga: contraseñas ya no frenan el fraude digital y bancos en Perú encienden las alertas",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-26",
+      "fecha_hecho": null,
+      "snippet": "El crecimiento de las operaciones digitales amplió la exposición al fraude bancario, que ahora apunta a suplantar identidades digitales y tomar control de cuentas legítimas Por Esteban Salazar Herrada ...",
+      "temas": [
+        "Fraude bancario"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 2,
+      "query": "bing:\"fraude bancario\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-30 13:10"
+    },
+    {
       "id": "2c07c7b4a2a841ad",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNzJQQzYyZUFGdUhtVTZnRDNMUWsyYm4yX0dTNVR1M3MwSU1IRVNodk1iZFVZOTVmN1h6ZGtrdzdGQ0I5S05wUHU0VENydU02a1YwSWNxcTkxbVpqNkZ6ZmFxdThTTE5VZ3BBMlhKM1haek83ZEZEdHN6UW5uaFpsVGZkRlNVdFVvYzFtSXJRQjc0ZWhyOFl6UFAwSGhuWTF2Y1N6c2lQdTZiN2VTbGlQV0l4Qm9VdXJPaldxQ2xWQTVQZ1VYZFdBalVKUWpnTWxmLVJwWjdGalAwQ0ZJQmFRTUwzWjnSAf8BQVVfeXFMTm1JUmdPV3RFbHVYTldCcTdJOTFCQzQycHRlOUFxS01aUWEwczhpZU1uQVYxLUtNbEZYelJ6YVFYOTdIWTNtMzRvOWJGR1otbXluYUktVHlONWZJcHowWnRjci12d1pBcVMxMW95REt3RzlnbXAwVjJQWTdSZDhuUERZUXg5LVY4LTJ6VFhDWU9JbVNPZzlnaHk3X0U5M1BVSURqY25MaG9rMl9sb055elFjYjhmenhwNTl2TklkWFpueTlBczBoUU9rWEJ2TkJxQ002WGtNZXYyTWFBRktxcll0V0sxRnRudlNGN3Fob2hFeWtldWhBdUlkeDVhNkxR?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNzJQQzYyZUFGdUhtVTZnRDNMUWsyYm4yX0dTNVR1M3MwSU1IRVNodk1iZFVZOTVmN1h6ZGtrdzdGQ0I5S05wUHU0VENydU02a1YwSWNxcTkxbVpqNkZ6ZmFxdThTTE5VZ3BBMlhKM1haek83ZEZEdHN6UW5uaFpsVGZkRlNVdFVvYzFtSXJRQjc0ZWhyOFl6UFAwSGhuWTF2Y1N6c2lQdTZiN2VTbGlQV0l4Qm9VdXJPaldxQ2xWQTVQZ1VYZFdBalVKUWpnTWxmLVJwWjdGalAwQ0ZJQmFRTUwzWjnSAf8BQVVfeXFMTm1JUmdPV3RFbHVYTldCcTdJOTFCQzQycHRlOUFxS01aUWEwczhpZU1uQVYxLUtNbEZYelJ6YVFYOTdIWTNtMzRvOWJGR1otbXluYUktVHlONWZJcHowWnRjci12d1pBcVMxMW95REt3RzlnbXAwVjJQWTdSZDhuUERZUXg5LVY4LTJ6VFhDWU9JbVNPZzlnaHk3X0U5M1BVSURqY25MaG9rMl9sb055elFjYjhmenhwNTl2TklkWFpueTlBczBoUU9rWEJ2TkJxQ002WGtNZXYyTWFBRktxcll0V0sxRnRudlNGN3Fob2hFeWtldWhBdUlkeDVhNkxR",
@@ -23621,6 +23669,31 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-30 06:10"
+    },
+    {
+      "id": "17e55135d636fb12",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae4dd937c70471395c96d1a91710daf&url=https%3a%2f%2fwww.msn.com%2fes-co%2fnoticias%2fother%2fholand%25C3%25A9s-condenado-en-eeuu-y-per%25C3%25BA-pide-cambio-de-c%25C3%25A1rcel-por-supuestas-amenazas-de-muerte%2far-AA2aBJ3C&c=12078230844436437049&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae4dd937c70471395c96d1a91710daf&url=https%3A%2F%2Fwww.msn.com%2Fes-co%2Fnoticias%2Fother%2Fholand%25C3%25A9s-condenado-en-eeuu-y-per%25C3%25BA-pide-cambio-de-c%25C3%25A1rcel-por-supuestas-amenazas-de-muerte%2Far-AA2aBJ3C&c=12078230844436437049&mkt=es-us",
+      "titulo": "Holandés condenado en EEUU y Perú pide cambio de cárcel por supuestas amenazas de muerte",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-20",
+      "fecha_hecho": null,
+      "snippet": "LIMA (AP) — Un holandés condenado en 2023 en Estados Unidos por extorsionar a la familia de una estadounidense a la que mató en 2005 y sentenciado en Perú por asesinar a una peruana en 2010 pidió ser ...",
+      "temas": [
+        "Extorsión",
+        "Amenazas e intimidaciones"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 5,
+      "query": "bing:\"amenazas de muerte\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-30 13:10"
     },
     {
       "id": "799fc5b287526bbb",
@@ -32682,5 +32755,5 @@
       "descartar": true
     }
   ],
-  "n": 1388
+  "n": 1391
 }

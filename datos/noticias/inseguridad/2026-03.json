@@ -1,6 +1,6 @@
 {
   "mes": "2026-03",
-  "actualizado": "2026-10-30 06:10",
+  "actualizado": "2026-10-30 13:10",
   "items": [
     {
       "id": "5976149ac746b5b8",
@@ -8183,6 +8183,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-30 06:10"
+    },
+    {
+      "id": "8af9193ddc3e28b5",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae4dd7ee5d94dc988203b07be9c049f&url=https%3a%2f%2fwww.telesurtv.net%2fperu-asesinato-candidato-congresista-partido-fe%2f&c=6827531796652007799&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae4dd7ee5d94dc988203b07be9c049f&url=https%3A%2F%2Fwww.telesurtv.net%2Fperu-asesinato-candidato-congresista-partido-fe%2F&c=6827531796652007799&mkt=es-us",
+      "titulo": "Perú: asesinan a candidato a congresista por el partido Fe",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-03-25",
+      "fecha_hecho": null,
+      "snippet": "Gilbert Infante, candidato al Congreso por el partido Fe en el Perú, fue asesinado la noche de este martes en el sur de Lima, tras un brutal ataque, que se vincula a previas amenazas por sus ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-30 13:10"
     },
     {
       "id": "8671868de486eef7",
@@ -17597,5 +17621,5 @@
       "descartar": false
     }
   ],
-  "n": 784
+  "n": 785
 }
