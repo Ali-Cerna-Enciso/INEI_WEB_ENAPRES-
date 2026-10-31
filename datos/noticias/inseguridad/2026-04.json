@@ -1,6 +1,6 @@
 {
   "mes": "2026-04",
-  "actualizado": "2026-10-30 19:56",
+  "actualizado": "2026-10-31 05:45",
   "items": [
     {
       "id": "0cac60cdfebbc9e7",
@@ -465,6 +465,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-30 19:56"
+    },
+    {
+      "id": "f27f0b6f7d0cd2ea",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5c6c4bb1f4530a0b6f0862a3ff09f&url=https%3a%2f%2fwww.atv.pe%2fnoticia%2ffeminicidios-peru-2025-2026%2f&c=1903741488556373166&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5c6c4bb1f4530a0b6f0862a3ff09f&url=https%3A%2F%2Fwww.atv.pe%2Fnoticia%2Ffeminicidios-peru-2025-2026%2F&c=1903741488556373166&mkt=es-us",
+      "titulo": "Feminicidios en Perú: 134 casos en 2025 y 33 van en lo que va del 2026",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-04-30",
+      "fecha_hecho": null,
+      "snippet": "Perú registró 134 feminicidios en 2025 y suma 33 en 2026. Más de 176 mil casos de violencia atendidos en hospitales.",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:feminicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-31 05:45"
     },
     {
       "id": "cca6fc98a248d00c",
@@ -2653,6 +2675,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-30 19:56"
+    },
+    {
+      "id": "52c6c94d8a85b4cf",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5c6d7b5664617b51603e3590d385f&url=https%3a%2f%2felcomercio.pe%2fperu%2fla-libertad%2ftrujillo-cae-presunto-sicario-de-los-pulpos-implicado-en-asesinato-y-masacre-ultimas-noticia%2f&c=17746983504205727914&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5c6d7b5664617b51603e3590d385f&url=https%3A%2F%2Felcomercio.pe%2Fperu%2Fla-libertad%2Ftrujillo-cae-presunto-sicario-de-los-pulpos-implicado-en-asesinato-y-masacre-ultimas-noticia%2F&c=17746983504205727914&mkt=es-us",
+      "titulo": "Trujillo: Cae presunto sicario de Los Pulpos implicado en asesinato y masacre",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-04-28",
+      "fecha_hecho": null,
+      "snippet": "La Policía capturó en Trujillo a Óscar Romero Cóndor, presunto sicario de la banda criminal Los Pulpos, vinculado al asesinato de un ingeniero, una masacre en Florencia de Mora y al presunto plan para ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 3,
+      "query": "bing:\"Los Pulpos\" Trujillo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-31 05:45"
     },
     {
       "id": "d1013c3020caaf3e",
@@ -10269,5 +10315,5 @@
       "descartar": false
     }
   ],
-  "n": 452
+  "n": 454
 }
