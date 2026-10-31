@@ -1,6 +1,6 @@
 {
   "mes": "2026-08",
-  "actualizado": "2026-10-31 05:45",
+  "actualizado": "2026-10-31 12:23",
   "items": [
     {
       "id": "d9d4232fbcb587d1",
@@ -1640,6 +1640,32 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-31 05:45"
+    },
+    {
+      "id": "d85ef47c03f91d35",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae624033bb24c51a4ae860087c24df0&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f08%2f31%2fel-resurgir-de-los-pulpos-asi-funciona-la-banda-criminal-que-nacio-en-el-norte-de-peru-y-llego-a-chile-y-argentina%2f&c=1056486780007467487&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae624033bb24c51a4ae860087c24df0&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F08%2F31%2Fel-resurgir-de-los-pulpos-asi-funciona-la-banda-criminal-que-nacio-en-el-norte-de-peru-y-llego-a-chile-y-argentina%2F&c=1056486780007467487&mkt=es-us",
+      "titulo": "¿El resurgir de Los Pulpos? Así funciona la banda criminal que nació en el norte de Perú y llegó a Chile y Argentina",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-31",
+      "fecha_hecho": null,
+      "snippet": "El grupo nacido en El Porvenir, en Trujillo (La Libertad), expandió extorsiones, secuestros y operaciones delictivas vinculadas a la minería ilegal hacia varios países Por Jordan Arce El nombre de Los ...",
+      "temas": [
+        "Extorsión",
+        "Secuestro"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo",
+        "La Libertad"
+      ],
+      "score": 3,
+      "query": "bing:\"Los Pulpos\" Trujillo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-31 12:23"
     },
     {
       "id": "bc86f249b6fc6a3d",
@@ -4521,6 +4547,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-31 05:45"
+    },
+    {
+      "id": "1d584dfd9ec1db4c",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae623e69fdb4873984a12c15d6420e2&url=https%3a%2f%2fwww.msn.com%2fes-cl%2fnoticias%2fmundo%2fper%25C3%25BA-liberan-a-empresario-v%25C3%25ADctima-de-sangriento-secuestro-cometido-por-los-pulpos%2far-AA2bijd5&c=11964817493354298258&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae623e69fdb4873984a12c15d6420e2&url=https%3A%2F%2Fwww.msn.com%2Fes-cl%2Fnoticias%2Fmundo%2Fper%25C3%25BA-liberan-a-empresario-v%25C3%25ADctima-de-sangriento-secuestro-cometido-por-los-pulpos%2Far-AA2bijd5&c=11964817493354298258&mkt=es-us",
+      "titulo": "Perú: liberan a empresario víctima de sangriento secuestro cometido por Los Pulpos",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-31",
+      "fecha_hecho": null,
+      "snippet": "El ministro de Defensa de Perú, Rafael Belaúnde, anunció este lunes que el empresario minero secuestrado el domingo en la ciudad de Trujillo mediante un falso operativo policial fue liberado, a la vez ...",
+      "temas": [
+        "Secuestro"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 3,
+      "query": "bing:secuestro Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-31 12:23"
     },
     {
       "id": "f4f3fbb978366b24",
@@ -9948,6 +9998,30 @@
       "agregado": "2026-10-31 05:45"
     },
     {
+      "id": "f166d316deeb1ee6",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae62405eaf24052bc2a33448606d239&url=https%3a%2f%2fdiariocorreo.pe%2fpolitica%2fmasacre-en-trujillo-renzo-reggiardo-pide-al-congreso-aprobar-facultades-legislativas-para-enfrentar-delincuencia-noticia%2f&c=9134434544173010546&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae62405eaf24052bc2a33448606d239&url=https%3A%2F%2Fdiariocorreo.pe%2Fpolitica%2Fmasacre-en-trujillo-renzo-reggiardo-pide-al-congreso-aprobar-facultades-legislativas-para-enfrentar-delincuencia-noticia%2F&c=9134434544173010546&mkt=es-us",
+      "titulo": "Masacre en Trujillo: Renzo Reggiardo pide al Congreso aprobar facultades legislativas para enfrentar delincuencia",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-31",
+      "fecha_hecho": null,
+      "snippet": "Reggiardo señaló que los congresistas deben asumir responsabilidad ante la ciudadanía si continúan postergando la decisión sobre las facultades solicitadas por el Gobierno. El alcalde sostuvo que ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 3,
+      "query": "bing:\"masacre\" Trujillo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-31 12:23"
+    },
+    {
       "id": "f6b6d1e545edb4f0",
       "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNajRydzhWVFJ5RDNES2ludDhsaVZBY2dMdGtvY3g4anVPZWd1WVFKWFhUSjVNV2gxaFFHZlFvWXUyc1JVaWt5ZEZzVm5mbFdIU1BpRjB4Nk1xQThhdXRNbnFiMGp3aXZUUmhxVTZ1NU4yOWd0QVlyNFJ5V2NuMzBIbGd5SmJSWHdZNUpEcGN2UUdKNWkzRnFaMEhXOFhUY1ZFNFVNVGotYkJvYWRYdHpQZldGQlhfR010RnU0N0Q5NlN6TDhETjVsVmpUUFc2cTIwWS0ySTNyV09rOUREMkdaenp6a2FlZzg5ZWtKQ2dUekxiekZFdF85XzhqQmRwbmU0MkV5ZVFPN0h4eVFDNUHSAaICQVVfeXFMTnZUZWJHVVlQZHYxb3lMRktMdTNSU3A3alREV2JRNkFmRTNYSV9mQy1kNXJ6ZFh2OU9XSm56ZjJ0T0tGLW5LU0o3bDlFZEFEQ2ZnRFFkc2dOZEFwWHVHcVdhSktSclU5Y3dkNks1YXVyVHNEdGhqQjZReWlQRFlGYlJFX2dTaVJRczhjWmhEUzRHZXdYMTRVd0MtNmRRXzlTZ2RfWlRpbm1QN2pySkpxZVJ4WG5sYkVEdVFVcVRHSU4wb0VBX194R2FaQ3E0ZE9sc0k5M3d0X1AxSDJEOGI4RWZJRTItbU5mb2JlTWZMNUg2YW5RNU0zQ2RmVTRwN0hRZnRoRy1ONEVCS0tHaWM3NzlQWEJjODdKb1NFaGZyOWVJckE?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNajRydzhWVFJ5RDNES2ludDhsaVZBY2dMdGtvY3g4anVPZWd1WVFKWFhUSjVNV2gxaFFHZlFvWXUyc1JVaWt5ZEZzVm5mbFdIU1BpRjB4Nk1xQThhdXRNbnFiMGp3aXZUUmhxVTZ1NU4yOWd0QVlyNFJ5V2NuMzBIbGd5SmJSWHdZNUpEcGN2UUdKNWkzRnFaMEhXOFhUY1ZFNFVNVGotYkJvYWRYdHpQZldGQlhfR010RnU0N0Q5NlN6TDhETjVsVmpUUFc2cTIwWS0ySTNyV09rOUREMkdaenp6a2FlZzg5ZWtKQ2dUekxiekZFdF85XzhqQmRwbmU0MkV5ZVFPN0h4eVFDNUHSAaICQVVfeXFMTnZUZWJHVVlQZHYxb3lMRktMdTNSU3A3alREV2JRNkFmRTNYSV9mQy1kNXJ6ZFh2OU9XSm56ZjJ0T0tGLW5LU0o3bDlFZEFEQ2ZnRFFkc2dOZEFwWHVHcVdhSktSclU5Y3dkNks1YXVyVHNEdGhqQjZReWlQRFlGYlJFX2dTaVJRczhjWmhEUzRHZXdYMTRVd0MtNmRRXzlTZ2RfWlRpbm1QN2pySkpxZVJ4WG5sYkVEdVFVcVRHSU4wb0VBX194R2FaQ3E0ZE9sc0k5M3d0X1AxSDJEOGI4RWZJRTItbU5mb2JlTWZMNUg2YW5RNU0zQ2RmVTRwN0hRZnRoRy1ONEVCS0tHaWM3NzlQWEJjODdKb1NFaGZyOWVJckE",
@@ -13101,6 +13175,31 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-31 05:45"
+    },
+    {
+      "id": "843e038f50876375",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae623e69fdb4873984a12c15d6420e2&url=https%3a%2f%2fwww.eeas.europa.eu%2fdelegations%2fperu%2fperu-y-la-union-europea-refuerzan-la-lucha-contra-la-extorsion-y-el-secuestro-en-trujillo_es%3fs%3d162&c=40289185585486542&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae623e69fdb4873984a12c15d6420e2&url=https%3A%2F%2Fwww.eeas.europa.eu%2Fdelegations%2Fperu%2Fperu-y-la-union-europea-refuerzan-la-lucha-contra-la-extorsion-y-el-secuestro-en-trujillo_es%3Fs%3D162&c=40289185585486542&mkt=es-us",
+      "titulo": "Perú y la Unión Europea refuerzan la lucha contra la extorsión y el secuestro en Trujillo",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-30",
+      "fecha_hecho": null,
+      "snippet": "Especialistas de España y la Unión Europea capacitan a operadores de seguridad y justicia ante el avance y la creciente peligrosidad de estos delitos. El avance peligroso de la extorsión y el ...",
+      "temas": [
+        "Extorsión",
+        "Secuestro"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 5,
+      "query": "bing:secuestro Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-31 12:23"
     },
     {
       "id": "d6b0c68c2af018af",
@@ -16699,6 +16798,31 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-31 05:45"
+    },
+    {
+      "id": "2c97ab7cda9fa6c5",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae623e69fdb4873984a12c15d6420e2&url=https%3a%2f%2fwww.msn.com%2fes-es%2fnoticias%2fotras%2finvestigan-el-secuestro-de-un-empresario-minero-y-el-asesinato-de-sus-cuatro-acompa%25C3%25B1antes-en-trujillo-per%25C3%25BA%2far-AA2bfreF&c=534137193406128288&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae623e69fdb4873984a12c15d6420e2&url=https%3A%2F%2Fwww.msn.com%2Fes-es%2Fnoticias%2Fotras%2Finvestigan-el-secuestro-de-un-empresario-minero-y-el-asesinato-de-sus-cuatro-acompa%25C3%25B1antes-en-trujillo-per%25C3%25BA%2Far-AA2bfreF&c=534137193406128288&mkt=es-us",
+      "titulo": "Investigan el secuestro de un empresario minero y el asesinato de sus cuatro acompañantes en Trujillo (Perú)",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-30",
+      "fecha_hecho": null,
+      "snippet": "Juntos por el Perú impulsa un proyecto de ley para habilitar a Keiko Fujimori a poder cesar al comandante general de la Policía Nacional Las autoridades de Perú investigan el secuestro de un ...",
+      "temas": [
+        "Secuestro",
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 5,
+      "query": "bing:secuestro Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-31 12:23"
     },
     {
       "id": "e3b81e436403b5c3",
@@ -20784,6 +20908,28 @@
       "agregado": "2026-10-31 05:45"
     },
     {
+      "id": "705feff89860bcd7",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae623f65dbd4da2b01fa9536f6d3a79&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f08%2f26%2fidentidades-sinteticas-y-tecnicas-de-fatiga-contrasenas-ya-no-frenan-el-fraude-digital-y-bancos-en-peru-encienden-las-alertas%2f&c=10172187503192527293&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae623f65dbd4da2b01fa9536f6d3a79&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F08%2F26%2Fidentidades-sinteticas-y-tecnicas-de-fatiga-contrasenas-ya-no-frenan-el-fraude-digital-y-bancos-en-peru-encienden-las-alertas%2F&c=10172187503192527293&mkt=es-us",
+      "titulo": "Identidades sintéticas y técnicas de fatiga: contraseñas ya no frenan el fraude digital y bancos en Perú encienden las alertas",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-26",
+      "fecha_hecho": null,
+      "snippet": "El crecimiento de las operaciones digitales amplió la exposición al fraude bancario, que ahora apunta a suplantar identidades digitales y tomar control de cuentas legítimas Por Esteban Salazar Herrada ...",
+      "temas": [
+        "Fraude bancario"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 2,
+      "query": "bing:\"fraude bancario\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-31 12:23"
+    },
+    {
       "id": "2c07c7b4a2a841ad",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNzJQQzYyZUFGdUhtVTZnRDNMUWsyYm4yX0dTNVR1M3MwSU1IRVNodk1iZFVZOTVmN1h6ZGtrdzdGQ0I5S05wUHU0VENydU02a1YwSWNxcTkxbVpqNkZ6ZmFxdThTTE5VZ3BBMlhKM1haek83ZEZEdHN6UW5uaFpsVGZkRlNVdFVvYzFtSXJRQjc0ZWhyOFl6UFAwSGhuWTF2Y1N6c2lQdTZiN2VTbGlQV0l4Qm9VdXJPaldxQ2xWQTVQZ1VYZFdBalVKUWpnTWxmLVJwWjdGalAwQ0ZJQmFRTUwzWjnSAf8BQVVfeXFMTm1JUmdPV3RFbHVYTldCcTdJOTFCQzQycHRlOUFxS01aUWEwczhpZU1uQVYxLUtNbEZYelJ6YVFYOTdIWTNtMzRvOWJGR1otbXluYUktVHlONWZJcHowWnRjci12d1pBcVMxMW95REt3RzlnbXAwVjJQWTdSZDhuUERZUXg5LVY4LTJ6VFhDWU9JbVNPZzlnaHk3X0U5M1BVSURqY25MaG9rMl9sb055elFjYjhmenhwNTl2TklkWFpueTlBczBoUU9rWEJ2TkJxQ002WGtNZXYyTWFBRktxcll0V0sxRnRudlNGN3Fob2hFeWtldWhBdUlkeDVhNkxR?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNzJQQzYyZUFGdUhtVTZnRDNMUWsyYm4yX0dTNVR1M3MwSU1IRVNodk1iZFVZOTVmN1h6ZGtrdzdGQ0I5S05wUHU0VENydU02a1YwSWNxcTkxbVpqNkZ6ZmFxdThTTE5VZ3BBMlhKM1haek83ZEZEdHN6UW5uaFpsVGZkRlNVdFVvYzFtSXJRQjc0ZWhyOFl6UFAwSGhuWTF2Y1N6c2lQdTZiN2VTbGlQV0l4Qm9VdXJPaldxQ2xWQTVQZ1VYZFdBalVKUWpnTWxmLVJwWjdGalAwQ0ZJQmFRTUwzWjnSAf8BQVVfeXFMTm1JUmdPV3RFbHVYTldCcTdJOTFCQzQycHRlOUFxS01aUWEwczhpZU1uQVYxLUtNbEZYelJ6YVFYOTdIWTNtMzRvOWJGR1otbXluYUktVHlONWZJcHowWnRjci12d1pBcVMxMW95REt3RzlnbXAwVjJQWTdSZDhuUERZUXg5LVY4LTJ6VFhDWU9JbVNPZzlnaHk3X0U5M1BVSURqY25MaG9rMl9sb055elFjYjhmenhwNTl2TklkWFpueTlBczBoUU9rWEJ2TkJxQ002WGtNZXYyTWFBRktxcll0V0sxRnRudlNGN3Fob2hFeWtldWhBdUlkeDVhNkxR",
@@ -21582,6 +21728,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-29 20:11"
+    },
+    {
+      "id": "f31612f9b69ba847",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae623ef5be7468abde2f920e1a5bd3f&url=https%3a%2f%2fwww.swissinfo.ch%2fspa%2fjusticia-de-per%25c3%25ba-condena-a-cuatro-hombres-por-el-homicidio-de-l%25c3%25adder-ind%25c3%25adgena-en-2023%2f91948763&c=8869166249240707959&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae623ef5be7468abde2f920e1a5bd3f&url=https%3A%2F%2Fwww.swissinfo.ch%2Fspa%2Fjusticia-de-per%25c3%25ba-condena-a-cuatro-hombres-por-el-homicidio-de-l%25c3%25adder-ind%25c3%25adgena-en-2023%2F91948763&c=8869166249240707959&mkt=es-us",
+      "titulo": "Justicia de Perú condena a cuatro hombres por el homicidio de líder indígena en 2023",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-24",
+      "fecha_hecho": null,
+      "snippet": "Lima, 24 ago (EFE).- Un juzgado de la Corte Superior Nacional de Perú condenó este lunes a cuatro hombres a penas entre 15 y 35 años de cárcel, por el homicidio del líder indígena Quinto Inuma ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:homicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-31 12:23"
     },
     {
       "id": "e53690b5eee6d2b9",
@@ -24157,6 +24327,31 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-31 05:45"
+    },
+    {
+      "id": "4911ee4d9d12e523",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae62402c8e0438bb74dea9c3d25cbae&url=https%3a%2f%2fwww.msn.com%2fes-co%2fnoticias%2fother%2fholand%25C3%25A9s-condenado-en-eeuu-y-per%25C3%25BA-pide-cambio-de-c%25C3%25A1rcel-por-supuestas-amenazas-de-muerte%2far-AA2aBJ3C&c=12078230844436437049&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae62402c8e0438bb74dea9c3d25cbae&url=https%3A%2F%2Fwww.msn.com%2Fes-co%2Fnoticias%2Fother%2Fholand%25C3%25A9s-condenado-en-eeuu-y-per%25C3%25BA-pide-cambio-de-c%25C3%25A1rcel-por-supuestas-amenazas-de-muerte%2Far-AA2aBJ3C&c=12078230844436437049&mkt=es-us",
+      "titulo": "Holandés condenado en EEUU y Perú pide cambio de cárcel por supuestas amenazas de muerte",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-20",
+      "fecha_hecho": null,
+      "snippet": "LIMA (AP) — Un holandés condenado en 2023 en Estados Unidos por extorsionar a la familia de una estadounidense a la que mató en 2005 y sentenciado en Perú por asesinar a una peruana en 2010 pidió ser ...",
+      "temas": [
+        "Extorsión",
+        "Amenazas e intimidaciones"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 5,
+      "query": "bing:\"amenazas de muerte\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-31 12:23"
     },
     {
       "id": "799fc5b287526bbb",
@@ -28115,6 +28310,31 @@
       "agregado": "2026-10-31 05:45"
     },
     {
+      "id": "8e6f2a56457fc25a",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae624033bb24c51a4ae860087c24df0&url=https%3a%2f%2fperu21.pe%2fpoliciales%2flos-pulpos-extorsionan-candidato-de-trujillo-con-20-mil-soles%2f&c=16810966238655020033&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae624033bb24c51a4ae860087c24df0&url=https%3A%2F%2Fperu21.pe%2Fpoliciales%2Flos-pulpos-extorsionan-candidato-de-trujillo-con-20-mil-soles%2F&c=16810966238655020033&mkt=es-us",
+      "titulo": "Trujillo: Los Pulpos extorsionan a candidato de La Esperanza y le exigen S/20,000",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-12",
+      "fecha_hecho": null,
+      "snippet": "Según relató el propio candidato, los responsables de las amenazas aseguran pertenecer a la organización criminal denominada Los Pulpos - Nueva Generación. Como parte de las intimidaciones, le habrían ...",
+      "temas": [
+        "Extorsión",
+        "Amenazas e intimidaciones"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 4,
+      "query": "bing:\"Los Pulpos\" Trujillo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-31 12:23"
+    },
+    {
       "id": "ad1caaeda5a3ad7d",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMTNGM3ExeVFEZ0xmQ2RHb19kbmlEN1lVc2pPWGRiTWU1VG9FUGRjaFZRNk1kN29jU0l2UVQ1aXdjYlRRb1ZOUldqTXJNNTBWRm4zTnhETkVndEZham5Id3A1YUNjNVo3YTNRWkZTeTktV2hVMTVHcEIyd2Exd0dZMlNKQjVVcmlmQkZfMmxXa1pxLVR4QlVfVjNJb0hFVDh1Z3ozNHBlXzR0TnlhYWfSAbMBQVVfeXFMUEJnQjdhV1FJTHhDMGFyRk03aXRCNURQUjUyb0xWV2dQLTRkaWNEMlpmMDJGcllSNWQxZW81Qm1zVUdfYkpaTC1UcmpIajl5a2dIRl9SMllOLWhPTDVkUzBkVWx3dXlrV1dqa1VSRjdRZVQyd0NYSlRzX1NiYzNseEVkNzZCN1oyVngzZHlBdm5aV3RtY2hrZ0NmSVVMOVBrRUFyX21TYU1CSXBzcGpLN2JOMnc?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMTNGM3ExeVFEZ0xmQ2RHb19kbmlEN1lVc2pPWGRiTWU1VG9FUGRjaFZRNk1kN29jU0l2UVQ1aXdjYlRRb1ZOUldqTXJNNTBWRm4zTnhETkVndEZham5Id3A1YUNjNVo3YTNRWkZTeTktV2hVMTVHcEIyd2Exd0dZMlNKQjVVcmlmQkZfMmxXa1pxLVR4QlVfVjNJb0hFVDh1Z3ozNHBlXzR0TnlhYWfSAbMBQVVfeXFMUEJnQjdhV1FJTHhDMGFyRk03aXRCNURQUjUyb0xWV2dQLTRkaWNEMlpmMDJGcllSNWQxZW81Qm1zVUdfYkpaTC1UcmpIajl5a2dIRl9SMllOLWhPTDVkUzBkVWx3dXlrV1dqa1VSRjdRZVQyd0NYSlRzX1NiYzNseEVkNzZCN1oyVngzZHlBdm5aV3RtY2hrZ0NmSVVMOVBrRUFyX21TYU1CSXBzcGpLN2JOMnc",
@@ -31473,6 +31693,28 @@
       "agregado": "2026-10-31 05:45"
     },
     {
+      "id": "3ff57bdadeda8e21",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae623f16ac24400922397af861a96cf&url=https%3a%2f%2frpp.pe%2fperu%2factualidad%2fel-numero-de-presos-por-feminicidio-en-el-peru-se-multiplico-por-seis-en-la-ultima-decada-informe-noticia-1700934&c=16529491939722550603&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae623f16ac24400922397af861a96cf&url=https%3A%2F%2Frpp.pe%2Fperu%2Factualidad%2Fel-numero-de-presos-por-feminicidio-en-el-peru-se-multiplico-por-seis-en-la-ultima-decada-informe-noticia-1700934&c=16529491939722550603&mkt=es-us",
+      "titulo": "El número de presos por feminicidio en el Perú se multiplicó por seis en la última década [Informe]",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-10",
+      "fecha_hecho": null,
+      "snippet": "Cifras obtenidas por RPP revelan que, en los últimos diez años, el número de personas presas por feminicidio o por tentativa de feminicidio se multiplicó por seis. Los números también evidencian que ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:feminicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-31 12:23"
+    },
+    {
       "id": "0b6c0c5a8f0a8d14",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOekNGekctTzhMM2ExZUg4RGMxakpMSmdJekxFdzN1X240WEtoYkhpLTBfNk5keU9EWWlhdTRJcmx2UDBzMHRjOGJqNmpNTVhzdlloMEp5d0p1eE9xemw4bTVRQi1iclVwT2RmcFRhTUJmNFJ2MGd0Y1M1b2lmZEZGODdnRDVJeHF3WXNsZVNpVWt2MXpxQVhiN0o2QTZJQi1KZGJVcDJZUmZlWFI1ZTZPM1RDQklyUDk4ZDUtNUI4UkU3MnVGRVFHQ3FWUEhoSVU?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOekNGekctTzhMM2ExZUg4RGMxakpMSmdJekxFdzN1X240WEtoYkhpLTBfNk5keU9EWWlhdTRJcmx2UDBzMHRjOGJqNmpNTVhzdlloMEp5d0p1eE9xemw4bTVRQi1iclVwT2RmcFRhTUJmNFJ2MGd0Y1M1b2lmZEZGODdnRDVJeHF3WXNsZVNpVWt2MXpxQVhiN0o2QTZJQi1KZGJVcDJZUmZlWFI1ZTZPM1RDQklyUDk4ZDUtNUI4UkU3MnVGRVFHQ3FWUEhoSVU",
@@ -33359,5 +33601,5 @@
       "descartar": true
     }
   ],
-  "n": 1416
+  "n": 1426
 }
