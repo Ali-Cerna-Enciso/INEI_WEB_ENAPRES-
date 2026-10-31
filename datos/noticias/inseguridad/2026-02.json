@@ -1,6 +1,6 @@
 {
   "mes": "2026-02",
-  "actualizado": "2026-10-31 12:23",
+  "actualizado": "2026-10-31 14:19",
   "items": [
     {
       "id": "08be74dba74aeb1c",
@@ -6302,6 +6302,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-31 12:23"
+    },
+    {
+      "id": "2236161262331389",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae63f12573f44ca9302b9406921b1f2&url=https%3a%2f%2fwww.lanacion.cl%2fen-peru-cayo-venezolano-buscado-por-un-homicidio-cometido-en-quilicura%2f&c=2052008588322152914&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae63f12573f44ca9302b9406921b1f2&url=https%3A%2F%2Fwww.lanacion.cl%2Fen-peru-cayo-venezolano-buscado-por-un-homicidio-cometido-en-quilicura%2F&c=2052008588322152914&mkt=es-us",
+      "titulo": "En Perú cayó venezolano buscado por un homicidio cometido en Quilicura",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-02-10",
+      "fecha_hecho": null,
+      "snippet": "La Policía Nacional de Perú logró la detención de un hombre de nacionalidad venezolana, de 31 años, buscado por el delito de Homicidio con arma cortante un ciudadano chileno, de 36 años, en la Región ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:homicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-31 14:19"
     },
     {
       "id": "513fc4b6a14f12a3",
@@ -14302,5 +14324,5 @@
       "descartar": false
     }
   ],
-  "n": 609
+  "n": 610
 }

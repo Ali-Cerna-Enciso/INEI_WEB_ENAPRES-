@@ -1,6 +1,6 @@
 {
   "mes": "2026-01",
-  "actualizado": "2026-10-31 12:23",
+  "actualizado": "2026-10-31 14:19",
   "items": [
     {
       "id": "8e0e04fef25e5005",
@@ -1594,6 +1594,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-31 12:23"
+    },
+    {
+      "id": "0ab1e1a18fd2195e",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae63f2406d542dd87c72bf4627ce61c&url=https%3a%2f%2fwww.telemundo.com%2fnoticias%2fnoticias-telemundo%2finmigracion%2flas-amenazas-de-muerte-no-bastan-el-caso-de-dos-periodistas-peruanos-m-rcna256581&c=13956002127180541753&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae63f2406d542dd87c72bf4627ce61c&url=https%3A%2F%2Fwww.telemundo.com%2Fnoticias%2Fnoticias-telemundo%2Finmigracion%2Flas-amenazas-de-muerte-no-bastan-el-caso-de-dos-periodistas-peruanos-m-rcna256581&c=13956002127180541753&mkt=es-us",
+      "titulo": "\"Las amenazas de muerte no bastan\": el caso de dos periodistas peruanos muestra el endurecimiento del sistema de asilo",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-01-30",
+      "fecha_hecho": null,
+      "snippet": "Dos reporteros peruanos huyeron a Estados Unidos en 2023 luego de recibir amenazas de muerte y ser hostigados por su trabajo, pero la Junta de Apelaciones de Inmigración concluyó que no sufrieron ...",
+      "temas": [
+        "Amenazas e intimidaciones"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:\"amenazas de muerte\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-31 14:19"
     },
     {
       "id": "4e90f236ad486f49",
@@ -7721,6 +7743,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-31 12:23"
+    },
+    {
+      "id": "647edaaa34deb836",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae63f12573f44ca9302b9406921b1f2&url=https%3a%2f%2fwww.infobae.com%2fcolombia%2f2026%2f01%2f20%2fhomicidio-de-colombiano-en-peru-dejo-tres-capturados-abandonaron-el-cuerpo-en-via-publica%2f&c=7896637594865265644&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae63f12573f44ca9302b9406921b1f2&url=https%3A%2F%2Fwww.infobae.com%2Fcolombia%2F2026%2F01%2F20%2Fhomicidio-de-colombiano-en-peru-dejo-tres-capturados-abandonaron-el-cuerpo-en-via-publica%2F&c=7896637594865265644&mkt=es-us",
+      "titulo": "Homicidio de colombiano en Perú dejó tres capturados: abandonaron el cuerpo en vía pública",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-01-20",
+      "fecha_hecho": null,
+      "snippet": "La víctima fue identificada como Andrés Camilo Soto Huérfano, luego de las pesquisas que dejaron las detenciones de dos hombres y una mujer Por Sebastián Vargas Rueda La Policía Nacional del Perú (PNP ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:homicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-10-31 14:19"
     },
     {
       "id": "da1c83da7bbadf9b",
@@ -16322,5 +16366,5 @@
       "descartar": false
     }
   ],
-  "n": 722
+  "n": 724
 }

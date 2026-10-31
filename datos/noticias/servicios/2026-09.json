@@ -1,6 +1,6 @@
 {
   "mes": "2026-09",
-  "actualizado": "2026-10-31 12:25",
+  "actualizado": "2026-10-31 14:21",
   "items": [
     {
       "id": "4cca0f6932b1eef7",
@@ -21396,6 +21396,32 @@
       "agregado": "2026-10-30 19:59"
     },
     {
+      "id": "656d49692ca89e93",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae63facc98e4c7697ea80909c49e7f9&url=https%3a%2f%2fdiariocorreo.pe%2fedicion%2fla-libertad%2fhidrandina-detecta-y-erradica-509-conexiones-clandestinas-que-ponen-en-riesgo-a-familias-la-libertad-peru-noticia%2f&c=11633541843318035626&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae63facc98e4c7697ea80909c49e7f9&url=https%3A%2F%2Fdiariocorreo.pe%2Fedicion%2Fla-libertad%2Fhidrandina-detecta-y-erradica-509-conexiones-clandestinas-que-ponen-en-riesgo-a-familias-la-libertad-peru-noticia%2F&c=11633541843318035626&mkt=es-us",
+      "titulo": "La Libertad: Hidrandina detecta y erradica 509 conexiones clandestinas que ponen en riesgo a familias",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-24",
+      "fecha_hecho": null,
+      "snippet": "Hidrandina mantiene una estrategia permanente de fiscalización para combatir el hurto de energía eléctrica. Entre enero y agosto de 2026, la empresa realizó 66 operativos en Trujillo y Chimbote, donde ...",
+      "temas": [
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo",
+        "Chimbote",
+        "La Libertad"
+      ],
+      "score": 3,
+      "query": "bing:Hidrandina",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-31 14:21"
+    },
+    {
       "id": "6cb7964d147ca67c",
       "url": "https://inforegion.pe/huanuco-electrocentro-detecto-unos-400-casos-de-hurto-de-energia-y-estima-perdidas-de-s-120-mil/",
       "url_canon": "https://inforegion.pe/huanuco-electrocentro-detecto-unos-400-casos-de-hurto-de-energia-y-estima-perdidas-de-s-120-mil",
@@ -39788,6 +39814,28 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-10-31 12:25"
+    },
+    {
+      "id": "2b381e6325b5faa6",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae63fb5704f4e1191019f28cff343a5&url=https%3a%2f%2felcomercio.pe%2feconomia%2fperu%2fcofide-anuncia-su-tercer-bono-azul-para-ampliar-el-acceso-a-agua-y-saneamiento-en-el-peru-l-ultimas-noticia%2f&c=2221719719642236792&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae63fb5704f4e1191019f28cff343a5&url=https%3A%2F%2Felcomercio.pe%2Feconomia%2Fperu%2Fcofide-anuncia-su-tercer-bono-azul-para-ampliar-el-acceso-a-agua-y-saneamiento-en-el-peru-l-ultimas-noticia%2F&c=2221719719642236792&mkt=es-us",
+      "titulo": "Cofide anuncia su tercer Bono Azul para ampliar el acceso a agua y saneamiento en el Perú",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-18",
+      "fecha_hecho": null,
+      "snippet": "Cofide, el Banco de Desarrollo del Perú, anunció la emisión de su tercer Bono Azul en el mercado de capitales local, por un monto de hasta S/120 millones. La operación permitirá continuar movilizando ...",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:\"agua y saneamiento\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-10-31 14:21"
     },
     {
       "id": "eed30cf344d60151",
@@ -64573,5 +64621,5 @@
       "descartar": false
     }
   ],
-  "n": 2749
+  "n": 2751
 }
