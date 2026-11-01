@@ -1,6 +1,6 @@
 {
   "mes": "2026-08",
-  "actualizado": "2026-10-31 19:17",
+  "actualizado": "2026-11-01 06:39",
   "items": [
     {
       "id": "d9d4232fbcb587d1",
@@ -10120,6 +10120,30 @@
       "agregado": "2026-10-31 19:17"
     },
     {
+      "id": "26fb440a2bafa136",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae725026f594ba4afbc08db0880edba&url=https%3a%2f%2fdiariocorreo.pe%2fpolitica%2fmasacre-en-trujillo-renzo-reggiardo-pide-al-congreso-aprobar-facultades-legislativas-para-enfrentar-delincuencia-noticia%2f&c=9134434544173010546&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae725026f594ba4afbc08db0880edba&url=https%3A%2F%2Fdiariocorreo.pe%2Fpolitica%2Fmasacre-en-trujillo-renzo-reggiardo-pide-al-congreso-aprobar-facultades-legislativas-para-enfrentar-delincuencia-noticia%2F&c=9134434544173010546&mkt=es-us",
+      "titulo": "Masacre en Trujillo: Renzo Reggiardo pide al Congreso aprobar facultades legislativas para enfrentar delincuencia",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-31",
+      "fecha_hecho": null,
+      "snippet": "Reggiardo señaló que los congresistas deben asumir responsabilidad ante la ciudadanía si continúan postergando la decisión sobre las facultades solicitadas por el Gobierno. El alcalde sostuvo que ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 3,
+      "query": "bing:\"masacre\" Trujillo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-01 06:39"
+    },
+    {
       "id": "f6b6d1e545edb4f0",
       "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNajRydzhWVFJ5RDNES2ludDhsaVZBY2dMdGtvY3g4anVPZWd1WVFKWFhUSjVNV2gxaFFHZlFvWXUyc1JVaWt5ZEZzVm5mbFdIU1BpRjB4Nk1xQThhdXRNbnFiMGp3aXZUUmhxVTZ1NU4yOWd0QVlyNFJ5V2NuMzBIbGd5SmJSWHdZNUpEcGN2UUdKNWkzRnFaMEhXOFhUY1ZFNFVNVGotYkJvYWRYdHpQZldGQlhfR010RnU0N0Q5NlN6TDhETjVsVmpUUFc2cTIwWS0ySTNyV09rOUREMkdaenp6a2FlZzg5ZWtKQ2dUekxiekZFdF85XzhqQmRwbmU0MkV5ZVFPN0h4eVFDNUHSAaICQVVfeXFMTnZUZWJHVVlQZHYxb3lMRktMdTNSU3A3alREV2JRNkFmRTNYSV9mQy1kNXJ6ZFh2OU9XSm56ZjJ0T0tGLW5LU0o3bDlFZEFEQ2ZnRFFkc2dOZEFwWHVHcVdhSktSclU5Y3dkNks1YXVyVHNEdGhqQjZReWlQRFlGYlJFX2dTaVJRczhjWmhEUzRHZXdYMTRVd0MtNmRRXzlTZ2RfWlRpbm1QN2pySkpxZVJ4WG5sYkVEdVFVcVRHSU4wb0VBX194R2FaQ3E0ZE9sc0k5M3d0X1AxSDJEOGI4RWZJRTItbU5mb2JlTWZMNUg2YW5RNU0zQ2RmVTRwN0hRZnRoRy1ONEVCS0tHaWM3NzlQWEJjODdKb1NFaGZyOWVJckE?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNajRydzhWVFJ5RDNES2ludDhsaVZBY2dMdGtvY3g4anVPZWd1WVFKWFhUSjVNV2gxaFFHZlFvWXUyc1JVaWt5ZEZzVm5mbFdIU1BpRjB4Nk1xQThhdXRNbnFiMGp3aXZUUmhxVTZ1NU4yOWd0QVlyNFJ5V2NuMzBIbGd5SmJSWHdZNUpEcGN2UUdKNWkzRnFaMEhXOFhUY1ZFNFVNVGotYkJvYWRYdHpQZldGQlhfR010RnU0N0Q5NlN6TDhETjVsVmpUUFc2cTIwWS0ySTNyV09rOUREMkdaenp6a2FlZzg5ZWtKQ2dUekxiekZFdF85XzhqQmRwbmU0MkV5ZVFPN0h4eVFDNUHSAaICQVVfeXFMTnZUZWJHVVlQZHYxb3lMRktMdTNSU3A3alREV2JRNkFmRTNYSV9mQy1kNXJ6ZFh2OU9XSm56ZjJ0T0tGLW5LU0o3bDlFZEFEQ2ZnRFFkc2dOZEFwWHVHcVdhSktSclU5Y3dkNks1YXVyVHNEdGhqQjZReWlQRFlGYlJFX2dTaVJRczhjWmhEUzRHZXdYMTRVd0MtNmRRXzlTZ2RfWlRpbm1QN2pySkpxZVJ4WG5sYkVEdVFVcVRHSU4wb0VBX194R2FaQ3E0ZE9sc0k5M3d0X1AxSDJEOGI4RWZJRTItbU5mb2JlTWZMNUg2YW5RNU0zQ2RmVTRwN0hRZnRoRy1ONEVCS0tHaWM3NzlQWEJjODdKb1NFaGZyOWVJckE",
@@ -16998,6 +17022,31 @@
       "agregado": "2026-10-31 19:17"
     },
     {
+      "id": "050ba3f5290f2e99",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae724e6eb8b4222afbd439d618cb526&url=https%3a%2f%2fwww.europapress.es%2finternacional%2fnoticia-investigan-secuestro-empresario-minero-asesinato-cuatro-acompanantes-trujillo-peru-20260831075048.html&c=2047189352689112197&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae724e6eb8b4222afbd439d618cb526&url=https%3A%2F%2Fwww.europapress.es%2Finternacional%2Fnoticia-investigan-secuestro-empresario-minero-asesinato-cuatro-acompanantes-trujillo-peru-20260831075048.html&c=2047189352689112197&mkt=es-us",
+      "titulo": "Investigan el secuestro de un empresario minero y el asesinato de sus cuatro acompañantes en Trujillo (Perú)",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-30",
+      "fecha_hecho": null,
+      "snippet": "Las autoridades de Perú investigan el secuestro de un empresario minero y el asesinato de las cuatro personas que lo acompañaban en el vehículo en el que viajaba, en la ciudad Trujillo, en el noroeste ...",
+      "temas": [
+        "Secuestro",
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 5,
+      "query": "bing:\"secuestro empresario\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-01 06:39"
+    },
+    {
       "id": "e3b81e436403b5c3",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZF8tTDBDbkZuQ19STkk1eXVyT1Zja2lLNHJvZzJMZFNkclpqWmFWSEtoQTdWc3JPcFplS2FXU3pnWXVBR085ZFM1SnpnMExZaHlnWDJ3d0ZrQWZtb1VyZWljbXBNb1FyTWxNVktjdXdnUHdmbG9oSjJhaXlHRG9FUGVFSERSdW5VdGp0ekJ4QS1lMlh2RFAzSVlQbVNkSlFpbzJ4dUR5WjdrVFk4eDNSeVo5eGRob3JmM2lnUGRDc25SM1NMUUxueTRUZWdkRzlHZm9IeElWMmg?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZF8tTDBDbkZuQ19STkk1eXVyT1Zja2lLNHJvZzJMZFNkclpqWmFWSEtoQTdWc3JPcFplS2FXU3pnWXVBR085ZFM1SnpnMExZaHlnWDJ3d0ZrQWZtb1VyZWljbXBNb1FyTWxNVktjdXdnUHdmbG9oSjJhaXlHRG9FUGVFSERSdW5VdGp0ekJ4QS1lMlh2RFAzSVlQbVNkSlFpbzJ4dUR5WjdrVFk4eDNSeVo5eGRob3JmM2lnUGRDc25SM1NMUUxueTRUZWdkRzlHZm9IeElWMmg",
@@ -21145,6 +21194,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-31 19:17"
+    },
+    {
+      "id": "0e62e7844b9b7d22",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae724f201d44f2c9b1e7c270eece55a&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f08%2f26%2fidentidades-sinteticas-y-tecnicas-de-fatiga-contrasenas-ya-no-frenan-el-fraude-digital-y-bancos-en-peru-encienden-las-alertas%2f&c=10172187503192527293&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae724f201d44f2c9b1e7c270eece55a&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F08%2F26%2Fidentidades-sinteticas-y-tecnicas-de-fatiga-contrasenas-ya-no-frenan-el-fraude-digital-y-bancos-en-peru-encienden-las-alertas%2F&c=10172187503192527293&mkt=es-us",
+      "titulo": "Identidades sintéticas y técnicas de fatiga: contraseñas ya no frenan el fraude digital y bancos en Perú encienden las alertas",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-26",
+      "fecha_hecho": null,
+      "snippet": "El crecimiento de las operaciones digitales amplió la exposición al fraude bancario, que ahora apunta a suplantar identidades digitales y tomar control de cuentas legítimas Por Esteban Salazar Herrada ...",
+      "temas": [
+        "Fraude bancario"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 2,
+      "query": "bing:\"fraude bancario\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-01 06:39"
     },
     {
       "id": "2c07c7b4a2a841ad",
@@ -32077,6 +32148,28 @@
       "agregado": "2026-10-31 19:17"
     },
     {
+      "id": "e07df0af2e5380fe",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae724edc88748fb963119c96d0316fc&url=https%3a%2f%2frpp.pe%2fperu%2factualidad%2fel-numero-de-presos-por-feminicidio-en-el-peru-se-multiplico-por-seis-en-la-ultima-decada-informe-noticia-1700934&c=16529491939722550603&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae724edc88748fb963119c96d0316fc&url=https%3A%2F%2Frpp.pe%2Fperu%2Factualidad%2Fel-numero-de-presos-por-feminicidio-en-el-peru-se-multiplico-por-seis-en-la-ultima-decada-informe-noticia-1700934&c=16529491939722550603&mkt=es-us",
+      "titulo": "El número de presos por feminicidio en el Perú se multiplicó por seis en la última década [Informe]",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-10",
+      "fecha_hecho": null,
+      "snippet": "Cifras obtenidas por RPP revelan que, en los últimos diez años, el número de personas presas por feminicidio o por tentativa de feminicidio se multiplicó por seis. Los números también evidencian que ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:feminicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-01 06:39"
+    },
+    {
       "id": "0b6c0c5a8f0a8d14",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOekNGekctTzhMM2ExZUg4RGMxakpMSmdJekxFdzN1X240WEtoYkhpLTBfNk5keU9EWWlhdTRJcmx2UDBzMHRjOGJqNmpNTVhzdlloMEp5d0p1eE9xemw4bTVRQi1iclVwT2RmcFRhTUJmNFJ2MGd0Y1M1b2lmZEZGODdnRDVJeHF3WXNsZVNpVWt2MXpxQVhiN0o2QTZJQi1KZGJVcDJZUmZlWFI1ZTZPM1RDQklyUDk4ZDUtNUI4UkU3MnVGRVFHQ3FWUEhoSVU?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOekNGekctTzhMM2ExZUg4RGMxakpMSmdJekxFdzN1X240WEtoYkhpLTBfNk5keU9EWWlhdTRJcmx2UDBzMHRjOGJqNmpNTVhzdlloMEp5d0p1eE9xemw4bTVRQi1iclVwT2RmcFRhTUJmNFJ2MGd0Y1M1b2lmZEZGODdnRDVJeHF3WXNsZVNpVWt2MXpxQVhiN0o2QTZJQi1KZGJVcDJZUmZlWFI1ZTZPM1RDQklyUDk4ZDUtNUI4UkU3MnVGRVFHQ3FWUEhoSVU",
@@ -33963,5 +34056,5 @@
       "descartar": true
     }
   ],
-  "n": 1441
+  "n": 1445
 }
