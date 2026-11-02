@@ -1,6 +1,6 @@
 {
   "mes": "2026-05",
-  "actualizado": "2026-11-01 19:58",
+  "actualizado": "2026-11-02 08:04",
   "items": [
     {
       "id": "5fe29bfac629cb2e",
@@ -1571,6 +1571,30 @@
       "agregado": "2026-09-18 12:31",
       "tipo_fuente": "Noticias/reportes",
       "descartar": false
+    },
+    {
+      "id": "d180f78525267702",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae88a469b1340e8bc73b8078bcd0eeb&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f05%2f24%2faniego-inunda-colegio-de-san-juan-de-lurigancho-padres-rechazan-posible-retorno-a-clases-virtuales%2f&c=17318056060925260456&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae88a469b1340e8bc73b8078bcd0eeb&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F05%2F24%2Faniego-inunda-colegio-de-san-juan-de-lurigancho-padres-rechazan-posible-retorno-a-clases-virtuales%2F&c=17318056060925260456&mkt=es-us",
+      "titulo": "Aniego inunda colegio de San Juan de Lurigancho: Padres rechazan posible retorno a clases virtuales",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-05-24",
+      "fecha_hecho": null,
+      "snippet": "La rotura de una tubería causó una grave inundación en un colegio de Canto Grande. Los salones, patios y talleres quedaron cubiertos de lodo y agua, según reportan los docentes Por Clara Giraldo La ...",
+      "temas": [
+        "Alcantarillado"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "San Juan de Lurigancho"
+      ],
+      "score": 3,
+      "query": "bing:aniego Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-02 08:04"
     },
     {
       "id": "d8fb85b18c889d29",
@@ -8496,5 +8520,5 @@
       "descartar": false
     }
   ],
-  "n": 357
+  "n": 358
 }

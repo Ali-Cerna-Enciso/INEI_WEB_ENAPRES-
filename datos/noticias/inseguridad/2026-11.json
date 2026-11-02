@@ -1,7 +1,187 @@
 {
   "mes": "2026-11",
-  "actualizado": "2026-11-01 19:55",
+  "actualizado": "2026-11-02 08:02",
   "items": [
+    {
+      "id": "39dc698357f1e8f7",
+      "url": "https://caretas.pe/mundo/ciberataque-afecta-supermercados-en-tres-paises-de-europa/",
+      "url_canon": "https://caretas.pe/mundo/ciberataque-afecta-supermercados-en-tres-paises-de-europa",
+      "titulo": "Un ataque informático altera los congeladores en supermercados de Bélgica, Suecia y Luxemburgo",
+      "fuente": "Caretas",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "feeds",
+      "fecha_pub": "2026-11-02",
+      "fecha_hecho": null,
+      "snippet": "MADRID 2 Nov. (EUROPA PRESS) - Un nuevo ataque informático provocó esta pasada noche subidas acusadas de la temperatura en congeladores y… The post Un ataque informático altera los congeladores en supermercados de Bélgic",
+      "temas": [
+        "Delito informático"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 2,
+      "query": "feed:Caretas",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-02 08:02"
+    },
+    {
+      "id": "e84da108fb550df4",
+      "url": "https://rpp.pe/lima/policiales/trabajador-fue-baleado-durante-intento-de-asalto-en-el-cercado-de-lima-noticia-1715529",
+      "url_canon": "https://rpp.pe/lima/policiales/trabajador-fue-baleado-durante-intento-de-asalto-en-el-cercado-de-lima-noticia-1715529",
+      "titulo": "Trabajador fue baleado durante intento de asalto en el Cercado de Lima",
+      "fuente": "RPP",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "feeds",
+      "fecha_pub": "2026-11-02",
+      "fecha_hecho": null,
+      "snippet": "La víctima se encontraba esperando un taxi frente a una pollería, cuando fue interceptada por un hombre y una mujer. Esta última fue quien le disparó para arrebatarle el celular.",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 2,
+      "query": "feed:RPP",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-02 08:02"
+    },
+    {
+      "id": "84f8aa6a2e9cea5b",
+      "url": "https://rpp.pe/mundo/actualidad/ciberataques-en-rusia-y-ucrania-hackean-aplicaciones-de-alerta-con-falsas-alarmas-nucleares-noticia-1715512",
+      "url_canon": "https://rpp.pe/mundo/actualidad/ciberataques-en-rusia-y-ucrania-hackean-aplicaciones-de-alerta-con-falsas-alarmas-nucleares-noticia-1715512",
+      "titulo": "Rusia y Ucrania denuncian ciberataques a sus apps de alerta de emergencias: ambos recibieron notificaciones falsas",
+      "fuente": "RPP",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "feeds",
+      "fecha_pub": "2026-11-02",
+      "fecha_hecho": null,
+      "snippet": "Ambos países denunciaron interferencias masivas en sus aplicaciones móviles de seguridad pública, a través de alertas falsas sobre riesgos nucleares y químicos a la población.",
+      "temas": [
+        "Delito informático"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "feed:RPP",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-02 08:02"
+    },
+    {
+      "id": "cc0a15047e4f4553",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcUFzdHV3UEhDaHFGZ3RtX3pDZ1RCYkdfSnlaSUFQMF9Wb0pDa3V0QkJ5ZHU5NGIzSjNVQklxVzVJdVJLWnNLQnB5VDRuSDFDSHlneHZwQ0pKWGtSSXRkcEx0UHJDM1Q4UlpObXhFQ3BoWlVYN0JzdXh3aWN4SjU2NFk2Z1hTVVh4ZVl5RHdnZ1dZb1JnR21oY2dKNlJkSlZnWVgwNGJNaTBBdEhzaEHSAcIBQVVfeXFMUG81VVNWa01jckJNdFA0bFp2WVhyWjJPbTBvTGVpMWhsZ3gwWm5sWVhmb0JJOHBWVWN3QndOdGc5UWxldkxCYWtIcTNLejhWcFJkTmoyTm1teE52NmVNckZWRHNjZWtaZFQ0cFlTbVN4T0FGeTBjQ3IzaXRSSEFyQTFiUW1rZ2VpVndlbW5sek9JV0tyTTV6NFgzeFJHZTRRWmlRTFJ0MnJGMDhPU2V6VVVNRHNXeFUxU0dHb2oydGdNWWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcUFzdHV3UEhDaHFGZ3RtX3pDZ1RCYkdfSnlaSUFQMF9Wb0pDa3V0QkJ5ZHU5NGIzSjNVQklxVzVJdVJLWnNLQnB5VDRuSDFDSHlneHZwQ0pKWGtSSXRkcEx0UHJDM1Q4UlpObXhFQ3BoWlVYN0JzdXh3aWN4SjU2NFk2Z1hTVVh4ZVl5RHdnZ1dZb1JnR21oY2dKNlJkSlZnWVgwNGJNaTBBdEhzaEHSAcIBQVVfeXFMUG81VVNWa01jckJNdFA0bFp2WVhyWjJPbTBvTGVpMWhsZ3gwWm5sWVhmb0JJOHBWVWN3QndOdGc5UWxldkxCYWtIcTNLejhWcFJkTmoyTm1teE52NmVNckZWRHNjZWtaZFQ0cFlTbVN4T0FGeTBjQ3IzaXRSSEFyQTFiUW1rZ2VpVndlbW5sek9JV0tyTTV6NFgzeFJHZTRRWmlRTFJ0MnJGMDhPU2V6VVVNRHNXeFUxU0dHb2oydGdNWWc",
+      "titulo": "MASACRE EN PENAL EL MILAGRO - Trome.com",
+      "fuente": "Trome.com",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-02",
+      "fecha_hecho": null,
+      "snippet": "MASACRE EN PENAL EL MILAGRO Trome.com",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "\"masacre\" Trujillo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-02 08:01"
+    },
+    {
+      "id": "4076dca4325daec5",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcFNtbU96N1JOX2dWbVNDMlVnZzl1SXVSVlhpR1VrTFZpY2RRdUlMNmh6b1YtM0RGck42czhSOWF0S2NlcGJFeWRLclQ2ODdFTXEtZm0zeUVYQW5ZMzdvNWlsR2diYmFGOVg5VDNUQkkyd1lmSlozVG5CV0N2NWNNS3VKRVlFMENZRFpoOHpXRXRpaklPS1VJWWgzTHJUUTIxVW1MZjNTSHdVNnZCWG5ZdEhkSkhUSkJrZzl6TEdGUlRlalJLX1ZoM3JHcnE3RVpVT0dhLS11SW9zSzZvdnAyUUdkRkdJR1ZHNlM4?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcFNtbU96N1JOX2dWbVNDMlVnZzl1SXVSVlhpR1VrTFZpY2RRdUlMNmh6b1YtM0RGck42czhSOWF0S2NlcGJFeWRLclQ2ODdFTXEtZm0zeUVYQW5ZMzdvNWlsR2diYmFGOVg5VDNUQkkyd1lmSlozVG5CV0N2NWNNS3VKRVlFMENZRFpoOHpXRXRpaklPS1VJWWgzTHJUUTIxVW1MZjNTSHdVNnZCWG5ZdEhkSkhUSkJrZzl6TEdGUlRlalJLX1ZoM3JHcnE3RVpVT0dhLS11SW9zSzZvdnAyUUdkRkdJR1ZHNlM4",
+      "titulo": "🔴🔵 #ExitosaPerú🇵🇪🇵🇪 | En la calle Las Flores del Asentamiento Humano Villa Selva, una fémina denunció un intento de ataque a mano armada por una de las personas que estaban celebrando una fiesta en la casa continúa a la suya. El acto de represalia - Facebook",
+      "fuente": "Facebook",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-01",
+      "fecha_hecho": null,
+      "snippet": "🔴🔵 #ExitosaPerú🇵🇪🇵🇪 | En la calle Las Flores del Asentamiento Humano Villa Selva, una fémina denunció un intento de ataque a mano armada por una de las personas que estaban celebrando una fiesta en la casa continúa a la ",
+      "temas": [
+        "Asalto a mano armada"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "\"mano armada\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-02 08:01"
+    },
+    {
+      "id": "511df2f49c227f5a",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZGozbkRSamRCRkk3aDFBc3lvSElmLWJZV0pkazhrc2tfdlhhTUlPallJNEFxQzFPSy13RUhZZmlqaXJTaUlQTGFVTjZOWGRDeVJyV3ZNU2dtVzRVR0x5S3NROUdGYVRTS05xOHVEMlNPUGV5Y2oxSWRpU1c3cHJ6bXlWc3ZqV1FLWWx4TEI0WmgtQ2tLdGtVTDNSQUVlNE5UMElUOGpKWkFyX19sWl9QSkNnU3ZLWGt6XzA1dmtxOGhvNUExNFRSSk1pZjRrVzlwZ3RPQ1AyNDVOLU1YZ29XQUpvSllhcFJkX3Bn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZGozbkRSamRCRkk3aDFBc3lvSElmLWJZV0pkazhrc2tfdlhhTUlPallJNEFxQzFPSy13RUhZZmlqaXJTaUlQTGFVTjZOWGRDeVJyV3ZNU2dtVzRVR0x5S3NROUdGYVRTS05xOHVEMlNPUGV5Y2oxSWRpU1c3cHJ6bXlWc3ZqV1FLWWx4TEI0WmgtQ2tLdGtVTDNSQUVlNE5UMElUOGpKWkFyX19sWl9QSkNnU3ZLWGt6XzA1dmtxOGhvNUExNFRSSk1pZjRrVzlwZ3RPQ1AyNDVOLU1YZ29XQUpvSllhcFJkX3Bn",
+      "titulo": "🔴🔵 #ExitosaPerú🇵🇪🇵🇪 | Dos sujetos asaltaron un grifo ubicado en el cruce de las calles Távara con Samanez Ocampo en Iquitos. Para cometer el hecho utilizaron un arma blanca y se apropiaron ilícitamente de 80 soles. 📻 95.5 FM 📡 6.1 señal digital abierta - Facebook",
+      "fuente": "Facebook",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-01",
+      "fecha_hecho": null,
+      "snippet": "🔴🔵 #ExitosaPerú🇵🇪🇵🇪 | Dos sujetos asaltaron un grifo ubicado en el cruce de las calles Távara con Samanez Ocampo en Iquitos. Para cometer el hecho utilizaron un arma blanca y se apropiaron ilícitamente de 80 soles. 📻 95.",
+      "temas": [
+        "Asalto a mano armada"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Iquitos"
+      ],
+      "score": 3,
+      "query": "\"mano armada\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-02 08:01"
+    },
+    {
+      "id": "a96d746ea3def2b3",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOWpZZEk1MWdmVUhTQzY0Q1J2dWV4b21YUERTT2c2YXozM3NsOEc0S3UzVDBsUWlTRk41OURBa3hwZ0xQUWF5OWw3SFd6ZjFObkIzSTdlXy1ZYVhjeUdwcXJLODR1ZWhJOV9DZkU2cGdzUEdRc0xzRjEzalN1UjF6RUxjR2NzZFdUWk5oNkpyU0VzUUJ6cE9hbWF0SERCOTJ1cXNFLXc4ZEl6djZudXJ0RHJXX0ZuTkpSQ01LbGR6Ml9ENlNjNW0yeExVdHpwbV9XVnJqSTB2V2JXVy1BaTFCZ2RMR29FQks3eFBOSi1CbEU?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOWpZZEk1MWdmVUhTQzY0Q1J2dWV4b21YUERTT2c2YXozM3NsOEc0S3UzVDBsUWlTRk41OURBa3hwZ0xQUWF5OWw3SFd6ZjFObkIzSTdlXy1ZYVhjeUdwcXJLODR1ZWhJOV9DZkU2cGdzUEdRc0xzRjEzalN1UjF6RUxjR2NzZFdUWk5oNkpyU0VzUUJ6cE9hbWF0SERCOTJ1cXNFLXc4ZEl6djZudXJ0RHJXX0ZuTkpSQ01LbGR6Ml9ENlNjNW0yeExVdHpwbV9XVnJqSTB2V2JXVy1BaTFCZ2RMR29FQks3eFBOSi1CbEU",
+      "titulo": "“Gota a gota” judicial en las pensiones: marinos retirados denuncian descuentos por deudas que desconocen - latinanoticias.pe",
+      "fuente": "latinanoticias.pe",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-01",
+      "fecha_hecho": null,
+      "snippet": "“Gota a gota” judicial en las pensiones: marinos retirados denuncian descuentos por deudas que desconocen latinanoticias.pe",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "estafa Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-02 08:01"
+    },
+    {
+      "id": "b5f997b25883d2c0",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcmNHYWhMdWxWWWhhU0tnSVR1NVR3Slo2bzJaSHppTnJ6VXVYUDRXZnMxdU9UN0wybmcyMjE1QzBnTUdRZmJYaHI4eUVhX0d0b054ZWxDME1ueUw2WXUwVXNTeklzMlVPSVNEU0diZTdDNHNQY1UtdHk4LXFQaVR5MXN6VzV1d0FnYV93UUJRYkk0LXdPSUotdmFuZVpHSjJJcGdPay1zalFURGdQSzF0UWpra1laS2JBaUJwMlpmLUpRWlVxd3dnMnNuZGljOHdXRk0yN25zVEZ0SWQ3OWVaZTZtQkxXVUJYZjJz?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcmNHYWhMdWxWWWhhU0tnSVR1NVR3Slo2bzJaSHppTnJ6VXVYUDRXZnMxdU9UN0wybmcyMjE1QzBnTUdRZmJYaHI4eUVhX0d0b054ZWxDME1ueUw2WXUwVXNTeklzMlVPSVNEU0diZTdDNHNQY1UtdHk4LXFQaVR5MXN6VzV1d0FnYV93UUJRYkk0LXdPSUotdmFuZVpHSjJJcGdPay1zalFURGdQSzF0UWpra1laS2JBaUJwMlpmLUpRWlVxd3dnMnNuZGljOHdXRk0yN25zVEZ0SWQ3OWVaZTZtQkxXVUJYZjJz",
+      "titulo": "“Gota a gota” judicial en las pensiones: marinos retirados denuncian descuentos por deudas que desconocen - Latina Noticias",
+      "fuente": "Latina Noticias",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-01",
+      "fecha_hecho": null,
+      "snippet": "“Gota a gota” judicial en las pensiones: marinos retirados denuncian descuentos por deudas que desconocen Latina Noticias",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "\"gota a gota\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-02 08:01"
+    },
     {
       "id": "5d9ae970439116b3",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPXy1sOG5qS1Y5cnVyUUY3OHZ6SWVxYnZ0anRTSjg3OWo5UlZCN2RIaTdGdFduY1U2LUx4RXFIbm1pVWJOUnVqbFRLaFd6ZWpwUW5ob2Y0VHpLcjVmZ1pPbmZuM0ZSdDE1Zm1MR0g0Um9zOXpvTnNTeXMtVmM1WXlvR1lKbVV5U1FtZm5JMWpkY2h5c01RYi1BZEFTT1dveVVCS05rNE95dHlhSk5PUUtaY01nYzZ0TUV4b2NycjR5bURpM1FyRUJtTkI3cnplZw?oc=5&hl=en-US&gl=US&ceid=US:en",
@@ -183,6 +363,28 @@
       "agregado": "2026-11-01 13:05"
     },
     {
+      "id": "53e261796592db95",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOeUNsN1c3MXh4cUFlbklJaUhaYnp3MEs5OENnbmFTc1ZMTGQwclN5RTMyMEtZT29rV1BkZ3pLZnlxZmJSRDBPcnZESzVHRk5KWGltQXJTTU4yYU1MOGFWMGFGRG1RdHFJVk1GY3dUSVMtLWF6OE1FQThHSWkycDhfZ0p5c2VoaHdHOTdJUnlERzBkdVpJZlo0UUV2ZHE3YWZKMmdlLTZOSkhjeV9YbTlPZWlVV28xZklUd2lmbkVlckZzQUpoVGZLSE1OQ1RIQ196cm5CaVNBb2tEVUZESlQyMy1aNXdaLTFuOHktb0dvWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOeUNsN1c3MXh4cUFlbklJaUhaYnp3MEs5OENnbmFTc1ZMTGQwclN5RTMyMEtZT29rV1BkZ3pLZnlxZmJSRDBPcnZESzVHRk5KWGltQXJTTU4yYU1MOGFWMGFGRG1RdHFJVk1GY3dUSVMtLWF6OE1FQThHSWkycDhfZ0p5c2VoaHdHOTdJUnlERzBkdVpJZlo0UUV2ZHE3YWZKMmdlLTZOSkhjeV9YbTlPZWlVV28xZklUd2lmbkVlckZzQUpoVGZLSE1OQ1RIQ196cm5CaVNBb2tEVUZESlQyMy1aNXdaLTFuOHktb0dvWQ",
+      "titulo": "Surgen protestas y exigencias de mejores leyes en Camerún por el incremento de los feminicidios - Independent en Español",
+      "fuente": "Independent en Español",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-01",
+      "fecha_hecho": null,
+      "snippet": "Surgen protestas y exigencias de mejores leyes en Camerún por el incremento de los feminicidios Independent en Español",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "feminicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-02 08:01"
+    },
+    {
       "id": "664c76c2bdd68399",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc2Yzck9IaEpWc2E4Nm11eVNsdThCOF9tQ2NFY2lUMndLSlJVdTdHdTM5emxIMlpTakQ1eW5yZnh5c1huaUNXT2JRbk11a3VPbkIzM3NzdjBfc2RKQ19XZkdudy01WGlUNnl3WEh6WklONHhFTnFodF9HbFdFM2RacUV1NXlJOG81Y2tSNVdYRHRsV0RYanY2TE9SNlpwLU0zaW82RDVrNkE3ZXU1cC16M3Yxc3h1bTFHMnlzcmNtSG1jUF85QUlWeV9FVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc2Yzck9IaEpWc2E4Nm11eVNsdThCOF9tQ2NFY2lUMndLSlJVdTdHdTM5emxIMlpTakQ1eW5yZnh5c1huaUNXT2JRbk11a3VPbkIzM3NzdjBfc2RKQ19XZkdudy01WGlUNnl3WEh6WklONHhFTnFodF9HbFdFM2RacUV1NXlJOG81Y2tSNVdYRHRsV0RYanY2TE9SNlpwLU0zaW82RDVrNkE3ZXU1cC16M3Yxc3h1bTFHMnlzcmNtSG1jUF85QUlWeV9FVQ",
@@ -225,6 +427,31 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-01 13:04"
+    },
+    {
+      "id": "ea3c05d4ae2736b2",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZFliZnFfeDBrM0dkOE80Ul9wYXliN3Vxd3J0Z0t3bGpodkgxV2RRVjRVSUNHeEpZaFNRLXZwY0lNbHpGVDhhVDBXUzVnX0t4WGloSEhqTXBORnVwTWRQT0xiM2I2VG5rZ1FLTWo0NzJMRG9jbEh5NXlsV0F4TmlURmp0RDl3eUlKcXNka1dobw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZFliZnFfeDBrM0dkOE80Ul9wYXliN3Vxd3J0Z0t3bGpodkgxV2RRVjRVSUNHeEpZaFNRLXZwY0lNbHpGVDhhVDBXUzVnX0t4WGloSEhqTXBORnVwTWRQT0xiM2I2VG5rZ1FLTWo0NzJMRG9jbEh5NXlsV0F4TmlURmp0RDl3eUlKcXNka1dobw",
+      "titulo": "PNP desarticula bandas de extorsionadores en Trujillo y Piura - Canal N",
+      "fuente": "Canal N",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-01",
+      "fecha_hecho": null,
+      "snippet": "PNP desarticula bandas de extorsionadores en Trujillo y Piura Canal N",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo",
+        "Piura"
+      ],
+      "score": 3,
+      "query": "extorsión Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-02 08:01"
     },
     {
       "id": "dc2e2074873822e5",
@@ -409,6 +636,50 @@
       "agregado": "2026-11-01 19:54"
     },
     {
+      "id": "38ff600592cbbfdd",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae889a322a14057afb9f0d828b5382a&url=https%3a%2f%2fwww.infobae.com%2fvideo%2factualidad%2fejercito-desplegara-comando-de-elite-contra-extorsiones%2fVQj07EEN%2f&c=6372836802193816733&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae889a322a14057afb9f0d828b5382a&url=https%3A%2F%2Fwww.infobae.com%2Fvideo%2Factualidad%2Fejercito-desplegara-comando-de-elite-contra-extorsiones%2FVQj07EEN%2F&c=6372836802193816733&mkt=es-us",
+      "titulo": "Ejército desplegará comando de élite contra extorsiones",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-01",
+      "fecha_hecho": null,
+      "snippet": "Las Fuerzas Armadas de Perú demuestran su capacidad en operaciones urbanas. Este video exclusivo de Panorama presenta a soldados de élite participando en simulacros de combate y rescate. (Crédito: Pan ...",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:extorsión Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-02 08:02"
+    },
+    {
+      "id": "fef473a9526cbcb9",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLUJVQWlRMmxjakVNemJTSjdRMnN6ZzlaRmVWc0E3OEVpTWFWQmFyNzlqR25UaXVDNVJEamJ3eGFYM3F0STZrZnJnMUhQc2hadE5TZWZ5SmhVTmE4Mi0xSk1WUlVveHFPcVJGWlBTWk9CRVlxcW41NDNiRkVCeVhxUVRRdGlyX0FFQU9NTHRPX0lwdHRhZTloNExIN2E4emdHaDVPbjlBZzRRUdIBqgFBVV95cUxNLUJVQWlRMmxjakVNemJTSjdRMnN6ZzlaRmVWc0E3OEVpTWFWQmFyNzlqR25UaXVDNVJEamJ3eGFYM3F0STZrZnJnMUhQc2hadE5TZWZ5SmhVTmE4Mi0xSk1WUlVveHFPcVJGWlBTWk9CRVlxcW41NDNiRkVCeVhxUVRRdGlyX0FFQU9NTHRPX0lwdHRhZTloNExIN2E4emdHaDVPbjlBZzRRUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLUJVQWlRMmxjakVNemJTSjdRMnN6ZzlaRmVWc0E3OEVpTWFWQmFyNzlqR25UaXVDNVJEamJ3eGFYM3F0STZrZnJnMUhQc2hadE5TZWZ5SmhVTmE4Mi0xSk1WUlVveHFPcVJGWlBTWk9CRVlxcW41NDNiRkVCeVhxUVRRdGlyX0FFQU9NTHRPX0lwdHRhZTloNExIN2E4emdHaDVPbjlBZzRRUdIBqgFBVV95cUxNLUJVQWlRMmxjakVNemJTSjdRMnN6ZzlaRmVWc0E3OEVpTWFWQmFyNzlqR25UaXVDNVJEamJ3eGFYM3F0STZrZnJnMUhQc2hadE5TZWZ5SmhVTmE4Mi0xSk1WUlVveHFPcVJGWlBTWk9CRVlxcW41NDNiRkVCeVhxUVRRdGlyX0FFQU9NTHRPX0lwdHRhZTloNExIN2E4emdHaDVPbjlBZzRRUQ",
+      "titulo": "Detienen a sujeto peruano por asociación criminal y estafa en Tarapacá - Radio Paulina",
+      "fuente": "Radio Paulina",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-01",
+      "fecha_hecho": null,
+      "snippet": "Detienen a sujeto peruano por asociación criminal y estafa en Tarapacá Radio Paulina",
+      "temas": [
+        "Estafa"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "estafa Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-02 08:01"
+    },
+    {
       "id": "7e1d55e698db5454",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPazRQaUNwdG82N0lRYkxIdmJYd25fb1BTeTZjX0FVd0pGQkUxeEFVUmx2UG9JZFJCbFFwU01HSmFsaFNxbmo5SEFZbXBpVUhhbTU5U1lmM09Ca3hCWTlxQ3NHY09nVDc5NFNGOEZBM1VNRkY5Zmo4T0ZkVlU3ckd5TUp3Y25ZYkgxYnNkWlNuRWU3a3ZZMTVqUWo4N0xrYXZDc09YdkowOVlmQlpvallYNk0yOXfSAbQBQVVfeXFMT2s0UGlDcHRvNjdJUWJMSHZiWHduX29QU3k2Y19BVXdKRkJFMXhBVVJsdlBvSWRSQmxRcFNNR0phbGhTcW5qOUhBWW1waVVIYW01OVNZZjNPQmt4Qlk5cUNzR2NPZ1Q3OTRTRjhGQTNVTUZGOWZqOE9GZFZVN3JHeU1Kd2NuWWJIMWJzZFpTbkVlN2t2WTE1alFqODdMa2F2Q3NPWHZKMDlZZkJab2pZWDZNMjl3?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPazRQaUNwdG82N0lRYkxIdmJYd25fb1BTeTZjX0FVd0pGQkUxeEFVUmx2UG9JZFJCbFFwU01HSmFsaFNxbmo5SEFZbXBpVUhhbTU5U1lmM09Ca3hCWTlxQ3NHY09nVDc5NFNGOEZBM1VNRkY5Zmo4T0ZkVlU3ckd5TUp3Y25ZYkgxYnNkWlNuRWU3a3ZZMTVqUWo4N0xrYXZDc09YdkowOVlmQlpvallYNk0yOXfSAbQBQVVfeXFMT2s0UGlDcHRvNjdJUWJMSHZiWHduX29QU3k2Y19BVXdKRkJFMXhBVVJsdlBvSWRSQmxRcFNNR0phbGhTcW5qOUhBWW1waVVIYW01OVNZZjNPQmt4Qlk5cUNzR2NPZ1Q3OTRTRjhGQTNVTUZGOWZqOE9GZFZVN3JHeU1Kd2NuWWJIMWJzZFpTbkVlN2t2WTE1alFqODdMa2F2Q3NPWHZKMDlZZkJab2pZWDZNMjl3",
@@ -431,6 +702,28 @@
       "agregado": "2026-11-01 13:04"
     },
     {
+      "id": "62404565a4529210",
+      "url": "https://diariocorreo.pe/politica/denuncian-a-falso-asesor-por-cobrar-hasta-s15000-con-falsas-ofertas-laborales-en-el-congreso-noticia/",
+      "url_canon": "https://diariocorreo.pe/politica/denuncian-a-falso-asesor-por-cobrar-hasta-s15000-con-falsas-ofertas-laborales-en-el-congreso-noticia",
+      "titulo": "Denuncian a falso asesor por cobrar hasta S/15 mil con falsas ofertas laborales en el Congreso",
+      "fuente": "DiarioCorreo",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "feeds",
+      "fecha_pub": "2026-11-01",
+      "fecha_hecho": null,
+      "snippet": "Hernán Araníbar fue intervenido por la División de Estafas de la Dirincri. El diputado Harvey Colchado negó conocerlo y rechazó cualquier vínculo con el denunciado",
+      "temas": [
+        "Estafa"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "feed:DiarioCorreo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-02 08:02"
+    },
+    {
       "id": "7efa97dae796c86a",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRWNSRndWZXp2aWYtSzdGUFZhLWRSbHB2QWItTDBtTXdrSHpzSk5mc0I4Y0VrWmwxeXB0T0MyTTRQSFdxa2owMHBHLXJaeGVVNk80VmVWT1lVSEVfcEREVXZqM2NWMXV4OUZxeXYwNENudEJEdDhSOFJPdVBsa0U5b1d1VS11dDlCVGt5MXFibTktX0xacERJY2tqNFljWUstbFlQRE5kX1BibVVjckl4Skd4NHZTV2xkdWhHU2ZtR25zZ0VoNVZZSlFyUllFbWo2UGVnX011bUZwUUdsQTJBVlphTWXSAeQBQVVfeXFMTUVjUkZ3VmV6dmlmLUs3RlBWYS1kUmxwdkFiLUwwbU13a0h6c0pOZnNCOGNFa1psMXlwdE9DMk00UEhXcWtqMDBwRy1yWnhlVTZPNFZlVk9ZVUhFX3BERFV2ajNjVjF1eDlGcXl2MDRDbnRCRHQ4UjhST3VQbGtFOW9XdVUtdXQ5QlRreTFxYm05LV9MWnBESWNrajRZY1lLLWxZUEROZF9QYm1VY3JJeEpHeDR2U1dsZHVoR1NmbUduc2dFaDVWWUpRclJZRW1qNlBlZ19NdW1GcFFHbEEyQVZaYU1l?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRWNSRndWZXp2aWYtSzdGUFZhLWRSbHB2QWItTDBtTXdrSHpzSk5mc0I4Y0VrWmwxeXB0T0MyTTRQSFdxa2owMHBHLXJaeGVVNk80VmVWT1lVSEVfcEREVXZqM2NWMXV4OUZxeXYwNENudEJEdDhSOFJPdVBsa0U5b1d1VS11dDlCVGt5MXFibTktX0xacERJY2tqNFljWUstbFlQRE5kX1BibVVjckl4Skd4NHZTV2xkdWhHU2ZtR25zZ0VoNVZZSlFyUllFbWo2UGVnX011bUZwUUdsQTJBVlphTWXSAeQBQVVfeXFMTUVjUkZ3VmV6dmlmLUs3RlBWYS1kUmxwdkFiLUwwbU13a0h6c0pOZnNCOGNFa1psMXlwdE9DMk00UEhXcWtqMDBwRy1yWnhlVTZPNFZlVk9ZVUhFX3BERFV2ajNjVjF1eDlGcXl2MDRDbnRCRHQ4UjhST3VQbGtFOW9XdVUtdXQ5QlRreTFxYm05LV9MWnBESWNrajRZY1lLLWxZUEROZF9QYm1VY3JJeEpHeDR2U1dsZHVoR1NmbUduc2dFaDVWWUpRclJZRW1qNlBlZ19NdW1GcFFHbEEyQVZaYU1l",
@@ -451,6 +744,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-01 19:54"
+    },
+    {
+      "id": "20f126d4b27e6cbd",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQ3pZMjY4VXJ4NmpCZmYzOUJRT0F3d1J5VjBlTjJUamhiUXdHY1BHc0RxOEs1U2dTMHY2ZGEzYnJrSFp5WVBFblAwY2pqODZ1cTVFOVZSVXhrbTltN1VyekVUY2VQdEphMGJZR2FhZ1gxZXZHU2FrVFdmLWM4Z21iakhER3A1ZXFoanlyM3RsQ0RjS1d5VFU2OUZ3bUI0TkJLcU1oT3N4QWpXQmVtdFVKbXhfVWNscVkwSWhSSXdSNDN1aTF0alFJRlRfVm1rOXRP0gHkAUFVX3lxTE1FY1JGd1ZlenZpZi1LN0ZQVmEtZFJscHZBYi1MMG1Nd2tIenNKTmZzQjhjRWtabDF5cHRPQzJNNFBIV3FrajAwcEctclp4ZVU2TzRWZVZPWVVIRV9wRERVdmozY1YxdXg5RnF5djA0Q250QkR0OFI4Uk91UGxrRTlvV3VVLXV0OUJUa3kxcWJtOS1fTFpwRElja2o0WWNZSy1sWVBETmRfUGJtVWNySXhKR3g0dlNXbGR1aEdTZm1HbnNnRWg1VllKUXJSWUVtajZQZWdfTXVtRnBRR2xBMkFWWmFNZQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQ3pZMjY4VXJ4NmpCZmYzOUJRT0F3d1J5VjBlTjJUamhiUXdHY1BHc0RxOEs1U2dTMHY2ZGEzYnJrSFp5WVBFblAwY2pqODZ1cTVFOVZSVXhrbTltN1VyekVUY2VQdEphMGJZR2FhZ1gxZXZHU2FrVFdmLWM4Z21iakhER3A1ZXFoanlyM3RsQ0RjS1d5VFU2OUZ3bUI0TkJLcU1oT3N4QWpXQmVtdFVKbXhfVWNscVkwSWhSSXdSNDN1aTF0alFJRlRfVm1rOXRP0gHkAUFVX3lxTE1FY1JGd1ZlenZpZi1LN0ZQVmEtZFJscHZBYi1MMG1Nd2tIenNKTmZzQjhjRWtabDF5cHRPQzJNNFBIV3FrajAwcEctclp4ZVU2TzRWZVZPWVVIRV9wRERVdmozY1YxdXg5RnF5djA0Q250QkR0OFI4Uk91UGxrRTlvV3VVLXV0OUJUa3kxcWJtOS1fTFpwRElja2o0WWNZSy1sWVBETmRfUGJtVWNySXhKR3g0dlNXbGR1aEdTZm1HbnNnRWg1VllKUXJSWUVtajZQZWdfTXVtRnBRR2xBMkFWWmFNZQ",
+      "titulo": "Chincha: encapuchados con arma de fuego roban más de 20 mil soles en celulares de alta gama - Diario Correo",
+      "fuente": "Diario Correo",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-01",
+      "fecha_hecho": null,
+      "snippet": "Chincha: encapuchados con arma de fuego roban más de 20 mil soles en celulares de alta gama Diario Correo",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 2,
+      "query": "\"mano armada\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-02 08:01"
     },
     {
       "id": "24f746b8df9967dc",
@@ -616,5 +931,5 @@
       "agregado": "2026-11-01 19:54"
     }
   ],
-  "n": 27
+  "n": 41
 }
