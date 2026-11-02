@@ -1,6 +1,6 @@
 {
   "mes": "2026-08",
-  "actualizado": "2026-11-01 14:41",
+  "actualizado": "2026-11-01 19:55",
   "items": [
     {
       "id": "d9d4232fbcb587d1",
@@ -17171,6 +17171,31 @@
       "agregado": "2026-11-01 13:05"
     },
     {
+      "id": "ba6a9f4e07898f95",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae7df6afbac4da0bb32cf467be41461&url=https%3a%2f%2fwww.europapress.es%2finternacional%2fnoticia-investigan-secuestro-empresario-minero-asesinato-cuatro-acompanantes-trujillo-peru-20260831075048.html&c=2047189352689112197&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae7df6afbac4da0bb32cf467be41461&url=https%3A%2F%2Fwww.europapress.es%2Finternacional%2Fnoticia-investigan-secuestro-empresario-minero-asesinato-cuatro-acompanantes-trujillo-peru-20260831075048.html&c=2047189352689112197&mkt=es-us",
+      "titulo": "Investigan el secuestro de un empresario minero y el asesinato de sus cuatro acompañantes en Trujillo (Perú)",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-30",
+      "fecha_hecho": null,
+      "snippet": "Las autoridades de Perú investigan el secuestro de un empresario minero y el asesinato de las cuatro personas que lo acompañaban en el vehículo en el que viajaba, en la ciudad Trujillo, en el noroeste ...",
+      "temas": [
+        "Secuestro",
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 5,
+      "query": "bing:\"secuestro empresario\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-01 19:55"
+    },
+    {
       "id": "e3b81e436403b5c3",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZF8tTDBDbkZuQ19STkk1eXVyT1Zja2lLNHJvZzJMZFNkclpqWmFWSEtoQTdWc3JPcFplS2FXU3pnWXVBR085ZFM1SnpnMExZaHlnWDJ3d0ZrQWZtb1VyZWljbXBNb1FyTWxNVktjdXdnUHdmbG9oSjJhaXlHRG9FUGVFSERSdW5VdGp0ekJ4QS1lMlh2RFAzSVlQbVNkSlFpbzJ4dUR5WjdrVFk4eDNSeVo5eGRob3JmM2lnUGRDc25SM1NMUUxueTRUZWdkRzlHZm9IeElWMmg?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZF8tTDBDbkZuQ19STkk1eXVyT1Zja2lLNHJvZzJMZFNkclpqWmFWSEtoQTdWc3JPcFplS2FXU3pnWXVBR085ZFM1SnpnMExZaHlnWDJ3d0ZrQWZtb1VyZWljbXBNb1FyTWxNVktjdXdnUHdmbG9oSjJhaXlHRG9FUGVFSERSdW5VdGp0ekJ4QS1lMlh2RFAzSVlQbVNkSlFpbzJ4dUR5WjdrVFk4eDNSeVo5eGRob3JmM2lnUGRDc25SM1NMUUxueTRUZWdkRzlHZm9IeElWMmg",
@@ -22932,6 +22957,31 @@
       "agregado": "2026-09-18 12:29",
       "tipo_fuente": "Redes sociales",
       "descartar": false
+    },
+    {
+      "id": "45748b372ae8a8a3",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae7df6dfcea4411838e83676bf88511&url=https%3a%2f%2fwww.msn.com%2fes-ar%2fnoticias%2fotras%2fun-video-del-asesinato-de-un-hombre-delante-de-una-ni%25C3%25B1a-se-grab%25C3%25B3-en-brasil-en-2026-no-en-per%25C3%25BA%2far-AA2aAJ8I&c=7741083514680932990&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae7df6dfcea4411838e83676bf88511&url=https%3A%2F%2Fwww.msn.com%2Fes-ar%2Fnoticias%2Fotras%2Fun-video-del-asesinato-de-un-hombre-delante-de-una-ni%25C3%25B1a-se-grab%25C3%25B3-en-brasil-en-2026-no-en-per%25C3%25BA%2Far-AA2aAJ8I&c=7741083514680932990&mkt=es-us",
+      "titulo": "Un video del asesinato de un hombre delante de una niña se grabó en Brasil en 2026, no en Perú",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-20",
+      "fecha_hecho": null,
+      "snippet": "Perú atraviesa una grave crisis de seguridad, agravada en 2026 por el aumento del sicariato y la extorsión, con especial impacto en el transporte público de Lima. En ese contexto, desde el 18 de ...",
+      "temas": [
+        "Extorsión",
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 4,
+      "query": "bing:asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-01 19:55"
     },
     {
       "id": "f0f9675ec4f71538",
@@ -34318,5 +34368,5 @@
       "descartar": true
     }
   ],
-  "n": 1456
+  "n": 1458
 }
