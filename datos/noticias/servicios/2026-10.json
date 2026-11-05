@@ -1,6 +1,6 @@
 {
   "mes": "2026-10",
-  "actualizado": "2026-11-05 07:57",
+  "actualizado": "2026-11-05 15:08",
   "items": [
     {
       "id": "dd548597ed8b8bea",
@@ -2614,6 +2614,31 @@
       "agregado": "2026-11-04 14:57"
     },
     {
+      "id": "65b1347c93c73a9f",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aece2361c694581aca9833f2ac91d8a&url=https%3a%2f%2felcomercio.pe%2fnoticias%2fcorte-de-agua%2f&c=11025293057955640758&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aece2361c694581aca9833f2ac91d8a&url=https%3A%2F%2Felcomercio.pe%2Fnoticias%2Fcorte-de-agua%2F&c=11025293057955640758&mkt=es-us",
+      "titulo": "corte de agua",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-30",
+      "fecha_hecho": null,
+      "snippet": "Sedapal anunció un nuevo corte de agua para distritos de Lima y Callao. En la siguiente nota podrás revisar los detalles del más reciente reporte... Conoce los distritos de Lima y Callao que tendrán ...",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Callao",
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:\"corte de agua\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-05 15:08"
+    },
+    {
       "id": "141553b33e493d4f",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd1VHNmxMZkw5bVZ5LVpkX21OVkRodUhRYW5NUnNTWnVpOG1jQlJJT0J5TUw5OFBGYkNjVE9KWmxNMVlwZU9SX2J0NVB0dWpyRUY2bTNvZ3RKd2RqY2cxOXRPcmZhWDBVdlVhS0t3TGlWSUh5dTZzZkFlY3RZVmtiUlFqaU1taVZlTDl0aHRyTC1SdmRmLVNscGxWSmpvREpnUWowT0s2QlptMDFpcndOVVRzWTNNNGhL?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd1VHNmxMZkw5bVZ5LVpkX21OVkRodUhRYW5NUnNTWnVpOG1jQlJJT0J5TUw5OFBGYkNjVE9KWmxNMVlwZU9SX2J0NVB0dWpyRUY2bTNvZ3RKd2RqY2cxOXRPcmZhWDBVdlVhS0t3TGlWSUh5dTZzZkFlY3RZVmtiUlFqaU1taVZlTDl0aHRyTC1SdmRmLVNscGxWSmpvREpnUWowT0s2QlptMDFpcndOVVRzWTNNNGhL",
@@ -3761,6 +3786,31 @@
       "agregado": "2026-11-05 07:57"
     },
     {
+      "id": "1e8fb91e3e18153e",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aece23733584149a89d94be759ffcc2&url=https%3a%2f%2flibero.pe%2ftiempoextra%2f2026%2f10%2f30%2fpluz-peru-confirma-corte-de-luz-de-10-horas-seguidas-del-30-de-octubre-1-de-noviembre-revisa-distritos-afectados-604320&c=6024706433860654193&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aece23733584149a89d94be759ffcc2&url=https%3A%2F%2Flibero.pe%2Ftiempoextra%2F2026%2F10%2F30%2Fpluz-peru-confirma-corte-de-luz-de-10-horas-seguidas-del-30-de-octubre-1-de-noviembre-revisa-distritos-afectados-604320&c=6024706433860654193&mkt=es-us",
+      "titulo": "Pluz Perú confirma CORTE DE LUZ de hasta 10 horas seguidas del 30 de octubre al 1 de noviembre: revisa los distritos afectados",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-30",
+      "fecha_hecho": null,
+      "snippet": "Del 30 de octubre al 1 de noviembre, habrá cortes de luz en distritos de Lima y Callao. Revisa las zonas afectadas y los horarios programados.",
+      "temas": [
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Callao",
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:\"corte de luz\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-05 15:08"
+    },
+    {
       "id": "5b08960af276540f",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVHg4TW16QXM0SHdJenZ1cnVHUVNST1daM1ZTb0UyZ0RnLUFCdlVUclVfaWlMbXozeGVpY0ZWZkFGTFdmb2QySTVmenhTRFRwU3RiMDhoU2EtUFAzdGV6NmVYZURrSVlSSDZYOUFtUzJFTkFSRWRQSzRzUUV0MFF4Rl9GU2NOT0gwcWh1SFFwNDg?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVHg4TW16QXM0SHdJenZ1cnVHUVNST1daM1ZTb0UyZ0RnLUFCdlVUclVfaWlMbXozeGVpY0ZWZkFGTFdmb2QySTVmenhTRFRwU3RiMDhoU2EtUFAzdGV6NmVYZURrSVlSSDZYOUFtUzJFTkFSRWRQSzRzUUV0MFF4Rl9GU2NOT0gwcWh1SFFwNDg",
@@ -4221,6 +4271,28 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-11-05 07:57"
+    },
+    {
+      "id": "f5febedc3ee07098",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aece250e1c34d3d999b91028ee346ea&url=https%3a%2f%2fandina.pe%2fagencia%2fnoticia-peru-y-argentina-evaluan-cooperacion-vivienda-agua-y-saneamiento-1097996.aspx&c=14067675437089204457&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aece250e1c34d3d999b91028ee346ea&url=https%3A%2F%2Fandina.pe%2Fagencia%2Fnoticia-peru-y-argentina-evaluan-cooperacion-vivienda-agua-y-saneamiento-1097996.aspx&c=14067675437089204457&mkt=es-us",
+      "titulo": "Perú y Argentina evalúan cooperación en vivienda, agua y saneamiento",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-30",
+      "fecha_hecho": null,
+      "snippet": "El ministro de Vivienda, Construcción y Saneamiento, Mauricio Arnillas, sostuvo una reunión con el embajador de Argentina en el Perú, Samuel Ortiz, con el propósito de fortalecer las relaciones bilate ...",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:\"agua y saneamiento\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-05 15:08"
     },
     {
       "id": "bd744f1198a04519",
@@ -5166,6 +5238,28 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-11-04 20:40"
+    },
+    {
+      "id": "2f8153cb2de6ad3f",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aece23733584149a89d94be759ffcc2&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f10%2f30%2fcorte-de-luz-31-de-octubre-en-estos-distritos-se-suspendera-el-servicio-electrico-por-hasta-12-horas%2f&c=9483871587971275896&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aece23733584149a89d94be759ffcc2&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F10%2F30%2Fcorte-de-luz-31-de-octubre-en-estos-distritos-se-suspendera-el-servicio-electrico-por-hasta-12-horas%2F&c=9483871587971275896&mkt=es-us",
+      "titulo": "Corte de luz, 31 de octubre: en estos distritos se suspenderá el servicio eléctrico por hasta 12 horas",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-30",
+      "fecha_hecho": null,
+      "snippet": "La empresa eléctrica detalló las zonas específicas que tendrán una suspensión temporal del suministro este sábado. Los horarios variarán según el distrito ...",
+      "temas": [
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:\"corte de luz\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-05 15:08"
     },
     {
       "id": "b17926332a734e95",
@@ -9097,6 +9191,29 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-11-05 07:57"
+    },
+    {
+      "id": "6a8d97b9f02a818d",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aece2459b224437bc84cc1b9db9ac95&url=https%3a%2f%2fwww.bnamericas.com%2fes%2fnoticias%2fempresa-benito-roggio-construira-obra-de-agua-y-alcantarillado-de-us37-millones-en-peru&c=16320080419847292909&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aece2459b224437bc84cc1b9db9ac95&url=https%3A%2F%2Fwww.bnamericas.com%2Fes%2Fnoticias%2Fempresa-benito-roggio-construira-obra-de-agua-y-alcantarillado-de-us37-millones-en-peru&c=16320080419847292909&mkt=es-us",
+      "titulo": "Empresa Benito Roggio construirá obra de agua y alcantarillado de US$37 millones en Perú",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-29",
+      "fecha_hecho": null,
+      "snippet": "La obra incluye nueve reservorios, 471 km de redes y 30.800 conexiones de agua potable; según la empresa, también 16 estaciones de bombeo y 23.600 ...",
+      "temas": [
+        "Agua por red pública",
+        "Alcantarillado"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 5,
+      "query": "bing:alcantarillado Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-05 15:08"
     },
     {
       "id": "113a2571411b2ff4",
@@ -21211,6 +21328,30 @@
       "agregado": "2026-11-05 07:57"
     },
     {
+      "id": "ab144d3a8f460b49",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aece2459b224437bc84cc1b9db9ac95&url=https%3a%2f%2fwww.atv.pe%2fnoticia%2flluvias-tumbes-alcantarillado%2f&c=9012636945778695810&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aece2459b224437bc84cc1b9db9ac95&url=https%3A%2F%2Fwww.atv.pe%2Fnoticia%2Flluvias-tumbes-alcantarillado%2F&c=9012636945778695810&mkt=es-us",
+      "titulo": "Tumbes: lluvias colapsan el alcantarillado y anegan calles de la ciudad",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-26",
+      "fecha_hecho": null,
+      "snippet": "Las lluvias de moderada intensidad registradas desde aproximadamente las 5:30 de la mañana de este lunes 26 de octubre en Tumbes provocaron el colapso del sistema de alcantarillado y anegaron varias ...",
+      "temas": [
+        "Alcantarillado"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Tumbes"
+      ],
+      "score": 3,
+      "query": "bing:alcantarillado Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-05 15:08"
+    },
+    {
       "id": "0eb9058ecbb8b56c",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ycmJXNHlMNDRFb3BWLXEtX1Nva3ZHM3JYdlJ4dEh0aEZWMlUxVkwzTVBuT2NZb1JTTUtzUzFULXlFZzRQSURMTjBNeFhaTnZaeUNXam50MmhZY0YtSGJoTTQzdVRRUkpzcWp4ZGRLU05XWmI5YnVOWU9NbzhyTUU?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ycmJXNHlMNDRFb3BWLXEtX1Nva3ZHM3JYdlJ4dEh0aEZWMlUxVkwzTVBuT2NZb1JTTUtzUzFULXlFZzRQSURMTjBNeFhaTnZaeUNXam50MmhZY0YtSGJoTTQzdVRRUkpzcWp4ZGRLU05XWmI5YnVOWU9NbzhyTUU",
@@ -25915,6 +26056,30 @@
       "agregado": "2026-11-05 07:57"
     },
     {
+      "id": "7d1296dc512eeadc",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aece246e01043cebf274e636e07dad1&url=https%3a%2f%2fperu21.pe%2fperu%2fcorte-de-luz-este-25-de-octubre-revisa-distritos-y-horarios-video%2f&c=17577263122126966974&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aece246e01043cebf274e636e07dad1&url=https%3A%2F%2Fperu21.pe%2Fperu%2Fcorte-de-luz-este-25-de-octubre-revisa-distritos-y-horarios-video%2F&c=17577263122126966974&mkt=es-us",
+      "titulo": "Cortes de luz de HASTA 10 HORAS este 25 de octubre: revisa la lista de distritos y horarios",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-25",
+      "fecha_hecho": null,
+      "snippet": "Pluz e Hidrandina realizarán trabajos de mantenimiento este domingo en sectores de Lima y regiones del norte. Conoce qué zonas serán afectadas y cuándo volverá la luz.",
+      "temas": [
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:Hidrandina",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-05 15:08"
+    },
+    {
       "id": "42f984725b1c9e9b",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfa1b23c194d31bcbbfa17086a92ea&url=https%3a%2f%2fwww.expreso.com.pe%2factualidad%2fcorte-de-agua-hoy-lunes-26-de-octubre-en-distritos-de-lima-zonas-y-horarios-segun-reporte-de-sedapal-recibo-medidor-tuberias-servicio-potable-alcantarillado-noticia%2f1326010%2f&c=4737810061228959417&mkt=es-us",
       "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfa1b23c194d31bcbbfa17086a92ea&url=https%3A%2F%2Fwww.expreso.com.pe%2Factualidad%2Fcorte-de-agua-hoy-lunes-26-de-octubre-en-distritos-de-lima-zonas-y-horarios-segun-reporte-de-sedapal-recibo-medidor-tuberias-servicio-potable-alcantarillado-noticia%2F1326010%2F&c=4737810061228959417&mkt=es-us",
@@ -29571,6 +29736,28 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-11-05 07:57"
+    },
+    {
+      "id": "62cae7ab088b0638",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aece246e01043cebf274e636e07dad1&url=https%3a%2f%2fwww.exitosanoticias.pe%2factualidad%2fcorte-luz-25-octubre-cuales-son-distritos-zonas-afectadas-horarios-n186753&c=17451316359768387516&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aece246e01043cebf274e636e07dad1&url=https%3A%2F%2Fwww.exitosanoticias.pe%2Factualidad%2Fcorte-luz-25-octubre-cuales-son-distritos-zonas-afectadas-horarios-n186753&c=17451316359768387516&mkt=es-us",
+      "titulo": "Corte de LUZ el 25 de octubre: ¿cuáles son los distritos, las zonas afectadas y horarios?",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-24",
+      "fecha_hecho": null,
+      "snippet": "Conoce qué distritos se verán afectados por el corte de luz programado para el domingo 25 de octubre, según Pluz Perú e Hidrandina. ¿Tu zona está en la lista?",
+      "temas": [
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:Hidrandina",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-05 15:08"
     },
     {
       "id": "f97b9777ffab97b8",
@@ -38566,6 +38753,28 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-11-05 07:57"
+    },
+    {
+      "id": "07a56ce5115122e3",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aece23733584149a89d94be759ffcc2&url=https%3a%2f%2flibero.pe%2ftiempoextra%2f2026%2f10%2f21%2fcorte-de-luz-hoy-jueves-22-de-octubre-pluz-peru-confirma-distritos-afectados-horarios-211554&c=10131156220427543815&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aece23733584149a89d94be759ffcc2&url=https%3A%2F%2Flibero.pe%2Ftiempoextra%2F2026%2F10%2F21%2Fcorte-de-luz-hoy-jueves-22-de-octubre-pluz-peru-confirma-distritos-afectados-horarios-211554&c=10131156220427543815&mkt=es-us",
+      "titulo": "Corte de luz el jueves 22 de octubre: Pluz Perú confirmó los distritos afectados por y horarios",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-22",
+      "fecha_hecho": null,
+      "snippet": "Pluz Perú programó un corte de luz para hoy, 22 de octubre, en diversos sectores. Consulta aquí qué distritos serán afectados y los horarios de suspensión. Pluz Perú ha confirmado una nueva interrupci ...",
+      "temas": [
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:\"corte de luz\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-05 15:08"
     },
     {
       "id": "19dbde314783f199",
@@ -49755,6 +49964,31 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-11-05 07:57"
+    },
+    {
+      "id": "78ee5dc743a3acd3",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aece23d12c044d181b0406156fdc56a&url=https%3a%2f%2fgestion.pe%2feconomia%2fel-nino-en-lima-y-callao-sedapal-asegura-continuidad-del-abastecimiento-de-agua-potable-noticia%2f&c=15205707985652543980&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aece23d12c044d181b0406156fdc56a&url=https%3A%2F%2Fgestion.pe%2Feconomia%2Fel-nino-en-lima-y-callao-sedapal-asegura-continuidad-del-abastecimiento-de-agua-potable-noticia%2F&c=15205707985652543980&mkt=es-us",
+      "titulo": "El Niño en Lima y Callao: Sedapal asegura continuidad del abastecimiento de agua potable",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-20",
+      "fecha_hecho": null,
+      "snippet": "La EPS informó sobre la implementación de medidas para proteger las plantas de tratamiento, fortalecer las fuentes de agua subterránea, entre otros.",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Callao",
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:Sedapal",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-05 15:08"
     },
     {
       "id": "12ecff7b8cc85315",
@@ -68715,6 +68949,28 @@
       "agregado": "2026-11-05 07:57"
     },
     {
+      "id": "7aa07ee52e712770",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aece24df03d4fb3af71aec250521426&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f10%2f15%2fel-nino-amenaza-el-acceso-al-agua-en-el-norte-del-peru-8-reservorios-tienen-menos-de-la-mitad-de-su-capacidad%2f&c=13462162162982875864&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aece24df03d4fb3af71aec250521426&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F10%2F15%2Fel-nino-amenaza-el-acceso-al-agua-en-el-norte-del-peru-8-reservorios-tienen-menos-de-la-mitad-de-su-capacidad%2F&c=13462162162982875864&mkt=es-us",
+      "titulo": "El Niño amenaza el acceso al agua en el norte del Perú: 8 reservorios tienen menos de la mitad de su capacidad",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-15",
+      "fecha_hecho": null,
+      "snippet": "La disponibilidad de agua preocupa ante la llegada de El Niño Costero: 14 de los 19 reservorios monitoreados tienen menos agua que hace un año y ocho están por debajo del 50% de su capacidad.",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:\"acceso al agua\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-05 15:08"
+    },
+    {
       "id": "9ec5d5307247e85f",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOLVlySkdPbncyOWhLY0xyTWhvWHZmQzc1T0xLOFJKMzVZbEEtZmdudlpMM3paWTBFcl9SblduOFNJQVJHU0FKa1BPblNoNkR5TGxkX2t4bmJRZXhzbEdaUURmQlpjV0VXckJ0ZWxDM0ZvMTZNWGt6aEhPRXQ4dzhwdjZlSHM2eEtmQW1kbXNWX0d2dG9kQUhLUGx5WmpTeHdrQjczbVpGTm9zenhUTlRhalRTYW5zNWF0RjZ6M2VwazVrcng3ZklZYUt0bmFYVXNQdllkYVZYNEpiVDA?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOLVlySkdPbncyOWhLY0xyTWhvWHZmQzc1T0xLOFJKMzVZbEEtZmdudlpMM3paWTBFcl9SblduOFNJQVJHU0FKa1BPblNoNkR5TGxkX2t4bmJRZXhzbEdaUURmQlpjV0VXckJ0ZWxDM0ZvMTZNWGt6aEhPRXQ4dzhwdjZlSHM2eEtmQW1kbXNWX0d2dG9kQUhLUGx5WmpTeHdrQjczbVpGTm9zenhUTlRhalRTYW5zNWF0RjZ6M2VwazVrcng3ZklZYUt0bmFYVXNQdllkYVZYNEpiVDA",
@@ -77976,6 +78232,28 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-11-05 07:57"
+    },
+    {
+      "id": "1e6a7f0f63ff2960",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aece23733584149a89d94be759ffcc2&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f10%2f13%2fcomo-prepararse-ante-un-corte-de-luz-programado-en-el-hogar-o-negocio%2f&c=10929166938997946559&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aece23733584149a89d94be759ffcc2&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F10%2F13%2Fcomo-prepararse-ante-un-corte-de-luz-programado-en-el-hogar-o-negocio%2F&c=10929166938997946559&mkt=es-us",
+      "titulo": "Cómo prepararse ante un corte de luz programado en el hogar o negocio",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-13",
+      "fecha_hecho": null,
+      "snippet": "Las distribuidoras interrumpen el suministro por mantenimiento, obras o contingencias climáticas, una situación en la que especialistas aconsejan completar la autonomía de teléfonos, tabletas, ...",
+      "temas": [
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:\"corte de luz\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-05 15:08"
     },
     {
       "id": "bc4c00dc5e1dcab9",
@@ -87899,6 +88177,30 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-11-04 14:57"
+    },
+    {
+      "id": "1f948636d725108a",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aece2361c694581aca9833f2ac91d8a&url=https%3a%2f%2felcomercio.pe%2frespuestas%2fa-que-hora%2fcorte-de-agua-en-lima-y-callao-hoy-a-que-hora-sera-el-corte-y-que-distritos-afectara-tdpe-noticia%2f&c=4479905219104636652&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aece2361c694581aca9833f2ac91d8a&url=https%3A%2F%2Felcomercio.pe%2Frespuestas%2Fa-que-hora%2Fcorte-de-agua-en-lima-y-callao-hoy-a-que-hora-sera-el-corte-y-que-distritos-afectara-tdpe-noticia%2F&c=4479905219104636652&mkt=es-us",
+      "titulo": "Corte de agua en Lima hoy, 10 de octubre: horarios y qué distritos afectará",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-10",
+      "fecha_hecho": null,
+      "snippet": "¡Atención! Sedapal anunció nuevo corte de agua en ciertos distritos de Lima. Conoce aquí la lista de zonas afectadas, horarios del corte programados y más según la entidad.",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:\"corte de agua\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-05 15:08"
     },
     {
       "id": "04237cc6288e640a",
@@ -113239,5 +113541,5 @@
       "agregado": "2026-10-02 13:04"
     }
   ],
-  "n": 4835
+  "n": 4848
 }

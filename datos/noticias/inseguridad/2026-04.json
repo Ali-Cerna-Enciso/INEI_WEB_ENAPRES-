@@ -1,6 +1,6 @@
 {
   "mes": "2026-04",
-  "actualizado": "2026-11-05 07:55",
+  "actualizado": "2026-11-05 15:06",
   "items": [
     {
       "id": "0cac60cdfebbc9e7",
@@ -861,6 +861,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-05 07:55"
+    },
+    {
+      "id": "4f72895e5328df90",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aece1b461564b338ae6bc0e7607defa&url=https%3a%2f%2fwww.atv.pe%2fnoticia%2ffeminicidios-peru-2025-2026%2f&c=1903741488556373166&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aece1b461564b338ae6bc0e7607defa&url=https%3A%2F%2Fwww.atv.pe%2Fnoticia%2Ffeminicidios-peru-2025-2026%2F&c=1903741488556373166&mkt=es-us",
+      "titulo": "Feminicidios en Perú: 134 casos en 2025 y 33 van en lo que va del 2026",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-04-30",
+      "fecha_hecho": null,
+      "snippet": "Perú registró 134 feminicidios en 2025 y suma 33 en 2026. Más de 176 mil casos de violencia atendidos en hospitales.",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:feminicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-05 15:06"
     },
     {
       "id": "cca6fc98a248d00c",
@@ -11181,5 +11203,5 @@
       "descartar": false
     }
   ],
-  "n": 492
+  "n": 493
 }
