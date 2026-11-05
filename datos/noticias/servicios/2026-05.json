@@ -1,6 +1,6 @@
 {
   "mes": "2026-05",
-  "actualizado": "2026-11-04 20:40",
+  "actualizado": "2026-11-05 07:57",
   "items": [
     {
       "id": "5fe29bfac629cb2e",
@@ -1835,6 +1835,30 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-11-04 16:23"
+    },
+    {
+      "id": "045fa4800ce51ed6",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aec7d26b5d64154995b8c5dd21e8c8f&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f05%2f24%2faniego-inunda-colegio-de-san-juan-de-lurigancho-padres-rechazan-posible-retorno-a-clases-virtuales%2f&c=17318056060925260456&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aec7d26b5d64154995b8c5dd21e8c8f&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F05%2F24%2Faniego-inunda-colegio-de-san-juan-de-lurigancho-padres-rechazan-posible-retorno-a-clases-virtuales%2F&c=17318056060925260456&mkt=es-us",
+      "titulo": "Aniego inunda colegio de San Juan de Lurigancho: Padres rechazan posible retorno a clases virtuales",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-05-24",
+      "fecha_hecho": null,
+      "snippet": "La rotura de una tubería causó una grave inundación en un colegio de Canto Grande. Los salones, patios y talleres quedaron cubiertos de lodo y agua, según reportan los docentes Por Clara Giraldo La ...",
+      "temas": [
+        "Alcantarillado"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "San Juan de Lurigancho"
+      ],
+      "score": 3,
+      "query": "bing:aniego Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-05 07:57"
     },
     {
       "id": "d8fb85b18c889d29",
@@ -5430,6 +5454,30 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-11-04 20:40"
+    },
+    {
+      "id": "468290c02b457508",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aec7d3910444a84a0408b0603eb46cf&url=https%3a%2f%2fwww.iagua.es%2fnoticias%2fredaccion-iagua%2fperu-impulsa-cajamarca-proyectos-agua-y-saneamiento-694-millones-dolares&c=3104823854735414108&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aec7d3910444a84a0408b0603eb46cf&url=https%3A%2F%2Fwww.iagua.es%2Fnoticias%2Fredaccion-iagua%2Fperu-impulsa-cajamarca-proyectos-agua-y-saneamiento-694-millones-dolares&c=3104823854735414108&mkt=es-us",
+      "titulo": "Perú impulsa en Cajamarca proyectos de agua y saneamiento por 694 millones de dólares",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-05-21",
+      "fecha_hecho": null,
+      "snippet": "La Agencia de Promoción de la Inversión Privada del Perú (PROINVERSIÓN) ha suscrito en Cajamarca el Pacto Nacional por la Infraestructura y el Desarrollo Productivo junto a los principales gremios ...",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Cajamarca"
+      ],
+      "score": 3,
+      "query": "bing:\"agua y saneamiento\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-05 07:57"
     },
     {
       "id": "a057b46c9583fd08",
@@ -9216,5 +9264,5 @@
       "descartar": false
     }
   ],
-  "n": 387
+  "n": 389
 }
