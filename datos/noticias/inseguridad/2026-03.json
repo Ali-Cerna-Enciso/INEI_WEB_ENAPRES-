@@ -1,6 +1,6 @@
 {
   "mes": "2026-03",
-  "actualizado": "2026-11-06 07:39",
+  "actualizado": "2026-11-06 14:35",
   "items": [
     {
       "id": "5976149ac746b5b8",
@@ -45,6 +45,28 @@
       "agregado": "2026-09-18 12:28",
       "tipo_fuente": "Noticias/reportes",
       "descartar": false
+    },
+    {
+      "id": "ee2a015947797d46",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee2bc93c404ea48ae2940af7c1e8e9&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f04%2f01%2fsicariato-cobra-nueva-victima-obrero-muere-a-balazos-mientras-operaba-maquinaria-pesada-en-ventanilla%2f&c=6183522145671042754&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee2bc93c404ea48ae2940af7c1e8e9&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F04%2F01%2Fsicariato-cobra-nueva-victima-obrero-muere-a-balazos-mientras-operaba-maquinaria-pesada-en-ventanilla%2F&c=6183522145671042754&mkt=es-us",
+      "titulo": "Sicariato cobra nueva víctima: obrero muere a balazos mientras operaba maquinaria pesada en Ventanilla",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-03-31",
+      "fecha_hecho": null,
+      "snippet": "El asesinato se produjo a plena luz del día en el asentamiento humano Villamoto. Testigos describen al sicario como un hombre delgado que huyó a pie tras disparar contra el obrero Por Valeria Mendoza ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:sicariato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-06 14:35"
     },
     {
       "id": "006b88cd91152b32",
@@ -4176,6 +4198,28 @@
       "agregado": "2026-11-06 07:39"
     },
     {
+      "id": "b9d08986fe37b95a",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee2bd2459d41bf9ba7d71e54ab37af&url=https%3a%2f%2fwww.latercera.com%2fnacional%2fnoticia%2fdetienen-en-chile-a-hombre-buscado-por-homicidio-en-peru-lo-vinculan-al-tren-de-aragua%2f&c=17161718325389582042&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee2bd2459d41bf9ba7d71e54ab37af&url=https%3A%2F%2Fwww.latercera.com%2Fnacional%2Fnoticia%2Fdetienen-en-chile-a-hombre-buscado-por-homicidio-en-peru-lo-vinculan-al-tren-de-aragua%2F&c=17161718325389582042&mkt=es-us",
+      "titulo": "Detienen en Chile a hombre buscado por homicidio en Perú: lo vinculan al Tren de Aragua",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-03-28",
+      "fecha_hecho": null,
+      "snippet": "Un ciudadano venezolano, requerido por la justicia peruana, fue detenido este viernes en la comuna de Maipú, en la Región Metropolitana, en un operativo desarrollado por la Brigada Investigadora del ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:homicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-06 14:35"
+    },
+    {
       "id": "e70724b84945e0df",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPaDFiQlRkdFBBaUtHZHg0cENYTk5rcVRZYmpkaUZrUU52Y2ZSdEdKcUxIVkFmdjdOanRTaW82RWhfZjlYRjNEVmk1QmNtdThERGRpR3pPcmdOSnBjWHJFMmpnV1ZYajJWM2xsT0JLZ1lkbXJJeWNSZVp6WVJjazVkaVRvOXJsMkxfajZuOTU1ZmtzbzBSb0JuUVg4QXA1S0VsUHFuaTJYazFLZzdFRjNZQ3cxN3BvZXJQallMU0lSNTM5TDVRdm1BdU1vMlpKNnNSNklVRG9ITEwtMmVIbXVoZTNCbnFLeGNscExRQndtYnN1UTlOczlOMjlLcVFPZzBDX0lvM3FR0gGgAkFVX3lxTFBUT1FGZVR4cFlTRWhHNTFZOFJFS3dRb2wtQjBfZUxzcGVzX19CdklhcmJwRXUzSjJGVEItd2VmQndZVHRoa2V5LW5JLWlqMFItQm13dlFaeVlwbGhJNUpvT0Rkal9ZMTNUV0dPN0NIS1VOMkVYbDVsczZnbUR6YVk1QnRsZ09KX3FLX1Qzd2lXc0NsZ0lobmtadUl0UXBRVnVoZFNTUGpPa08xa0lNT04tYlQzUHJJVWNlYm9jUzJucGo3SFMtclVNY092dUhhdGxtTDdiQ09qUS1VeDR5WGJpWmpoUE1FRUpybUJUeUtCaF9ZeU5qcXJuR1B2blRHM05iSkR6d0Q0YnRGdlQwd0tpVEM3R2RFcEFLeVZMdXdfSQ?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPaDFiQlRkdFBBaUtHZHg0cENYTk5rcVRZYmpkaUZrUU52Y2ZSdEdKcUxIVkFmdjdOanRTaW82RWhfZjlYRjNEVmk1QmNtdThERGRpR3pPcmdOSnBjWHJFMmpnV1ZYajJWM2xsT0JLZ1lkbXJJeWNSZVp6WVJjazVkaVRvOXJsMkxfajZuOTU1ZmtzbzBSb0JuUVg4QXA1S0VsUHFuaTJYazFLZzdFRjNZQ3cxN3BvZXJQallMU0lSNTM5TDVRdm1BdU1vMlpKNnNSNklVRG9ITEwtMmVIbXVoZTNCbnFLeGNscExRQndtYnN1UTlOczlOMjlLcVFPZzBDX0lvM3FR0gGgAkFVX3lxTFBUT1FGZVR4cFlTRWhHNTFZOFJFS3dRb2wtQjBfZUxzcGVzX19CdklhcmJwRXUzSjJGVEItd2VmQndZVHRoa2V5LW5JLWlqMFItQm13dlFaeVlwbGhJNUpvT0Rkal9ZMTNUV0dPN0NIS1VOMkVYbDVsczZnbUR6YVk1QnRsZ09KX3FLX1Qzd2lXc0NsZ0lobmtadUl0UXBRVnVoZFNTUGpPa08xa0lNT04tYlQzUHJJVWNlYm9jUzJucGo3SFMtclVNY092dUhhdGxtTDdiQ09qUS1VeDR5WGJpWmpoUE1FRUpybUJUeUtCaF9ZeU5qcXJuR1B2blRHM05iSkR6d0Q0YnRGdlQwd0tpVEM3R2RFcEFLeVZMdXdfSQ",
@@ -6817,6 +6861,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-04 16:20"
+    },
+    {
+      "id": "49feb02035de67ea",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee2bd044514cbbb46b052a8016d3ec&url=https%3a%2f%2fwww.telemundo51.com%2fnoticias%2flocal%2fsospechoso-de-asesinato-en-miami-dade-hace-30-anos-es-extraditado-tras-su-arresto-en-peru%2f2764935%2f&c=14702040607545765718&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee2bd044514cbbb46b052a8016d3ec&url=https%3A%2F%2Fwww.telemundo51.com%2Fnoticias%2Flocal%2Fsospechoso-de-asesinato-en-miami-dade-hace-30-anos-es-extraditado-tras-su-arresto-en-peru%2F2764935%2F&c=14702040607545765718&mkt=es-us",
+      "titulo": "Sospechoso de asesinato hace 30 años en Miami-Dade es extraditado a Florida desde Perú",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-03-25",
+      "fecha_hecho": null,
+      "snippet": "Un hombre acusado de un asesinato ocurrido en 1996 en Miami-Dade, que según las autoridades pasó casi tres décadas prófugo, fue extraditado al sur de Florida tras su arresto en Perú el año pasado.",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-06 14:35"
     },
     {
       "id": "364de0755638f7f3",
@@ -9597,6 +9663,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-06 07:39"
+    },
+    {
+      "id": "f9e02dc0097a694d",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee2bd044514cbbb46b052a8016d3ec&url=https%3a%2f%2fwww.telesurtv.net%2fperu-asesinato-candidato-congresista-partido-fe%2f&c=6827531796652007799&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee2bd044514cbbb46b052a8016d3ec&url=https%3A%2F%2Fwww.telesurtv.net%2Fperu-asesinato-candidato-congresista-partido-fe%2F&c=6827531796652007799&mkt=es-us",
+      "titulo": "Perú: asesinan a candidato a congresista por el partido Fe",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-03-25",
+      "fecha_hecho": null,
+      "snippet": "Gilbert Infante, candidato al Congreso por el partido Fe en el Perú, fue asesinado la noche de este martes en el sur de Lima, tras un brutal ataque, que se vincula a previas amenazas por sus ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-06 14:35"
     },
     {
       "id": "8671868de486eef7",
@@ -13298,6 +13388,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-06 07:39"
+    },
+    {
+      "id": "bf7b79375bc54d97",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee2ba6377247dda63ec5c218924ed4&url=https%3a%2f%2fperu21.pe%2feconomia%2fasbanc-el-populismo-financiero-abre-las-puertas-al-gota-gota%2f&c=3310820271252611702&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee2ba6377247dda63ec5c218924ed4&url=https%3A%2F%2Fperu21.pe%2Feconomia%2Fasbanc-el-populismo-financiero-abre-las-puertas-al-gota-gota%2F&c=3310820271252611702&mkt=es-us",
+      "titulo": "Asbanc: El populismo financiero abre las puertas al “gota a gota” y a la inseguridad",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-03-24",
+      "fecha_hecho": null,
+      "snippet": "El gremio precisó que las propuestas pasan por alto que debilitar el crédito formal tiene consecuencias directas contra la seguridad ciudadana y la inclusión financiera. Sostuvo que el Banco Central ...",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:\"gota a gota\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-06 14:35"
     },
     {
       "id": "4f1c6cdf578b560a",
@@ -18962,6 +19074,28 @@
       "agregado": "2026-11-06 07:39"
     },
     {
+      "id": "6a5403ef9b27aab3",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee2ba6377247dda63ec5c218924ed4&url=https%3a%2f%2fwww.infobae.com%2fcolombia%2f2026%2f03%2f13%2fante-los-ojos-de-su-familia-asi-cayo-en-monteria-gota-a-gota-colombiano-buscado-en-peru-con-notificacion-roja-de-la-interpol%2f&c=18426383268530225879&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee2ba6377247dda63ec5c218924ed4&url=https%3A%2F%2Fwww.infobae.com%2Fcolombia%2F2026%2F03%2F13%2Fante-los-ojos-de-su-familia-asi-cayo-en-monteria-gota-a-gota-colombiano-buscado-en-peru-con-notificacion-roja-de-la-interpol%2F&c=18426383268530225879&mkt=es-us",
+      "titulo": "Ante su familia: así cayó en Montería ‘gota a gota’ colombiano buscado en Perú con notificación roja de la Interpol",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-03-12",
+      "fecha_hecho": null,
+      "snippet": "En video quedó cuando el hombre, señalado de extorsión agravada, salía de un supermercado de cadena junto a sus seres queridos y fue interceptado por las autoridades Por Juan Sánchez Romero El general ...",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:\"gota a gota\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-06 14:35"
+    },
+    {
       "id": "d94e3b33168b3e7a",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQRXdBUVZhcEM3UWQwWUNYa1lJcUY0Z2prNUpmWXBiOVN3aVJDZUxxLWp3RWdWWldPaGFXM2pyMEZyYUVIcnAxcFZhT2IyTWllWC1CcEZ6SlBkdnlUZi1Pc3Z4YWRHWmpFS09TMXpFblJpbVdUd0tZZ3QzOXpITFk0aTdfT0I4RnJpMDVaUU1HN2FNb0FuSi1oOE5vQVI3ZTFyYXgySXdzbVdnOXo5aDZKTlZSbHl0MFA5TzA0ekVTekVTeThvZTFfNlQwel9WNzV3eEVTM3BaVXVETklfWFlNd0pnMGw1Q2NySUpqV2I2aU9RV0hzcFdveTJlb0o?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQRXdBUVZhcEM3UWQwWUNYa1lJcUY0Z2prNUpmWXBiOVN3aVJDZUxxLWp3RWdWWldPaGFXM2pyMEZyYUVIcnAxcFZhT2IyTWllWC1CcEZ6SlBkdnlUZi1Pc3Z4YWRHWmpFS09TMXpFblJpbVdUd0tZZ3QzOXpITFk0aTdfT0I4RnJpMDVaUU1HN2FNb0FuSi1oOE5vQVI3ZTFyYXgySXdzbVdnOXo5aDZKTlZSbHl0MFA5TzA0ekVTekVTeThvZTFfNlQwel9WNzV3eEVTM3BaVXVETklfWFlNd0pnMGw1Q2NySUpqV2I2aU9RV0hzcFdveTJlb0o",
@@ -20191,5 +20325,5 @@
       "descartar": false
     }
   ],
-  "n": 899
+  "n": 905
 }

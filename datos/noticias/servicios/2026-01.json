@@ -1,6 +1,6 @@
 {
   "mes": "2026-01",
-  "actualizado": "2026-11-06 07:42",
+  "actualizado": "2026-11-06 14:37",
   "items": [
     {
       "id": "92ea08055726643a",
@@ -3359,6 +3359,30 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-11-06 07:42"
+    },
+    {
+      "id": "10f09a9dbbe729f7",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee2c6413664c36adebee8c7be95d2b&url=https%3a%2f%2frpp.pe%2fperu%2fla-libertad%2ftrujillo-que-se-sabe-del-tiroteo-dentro-de-la-sede-de-hidrandina-que-dejo-un-muerto-y-tres-heridos-noticia-1673920&c=9129274079690167714&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee2c6413664c36adebee8c7be95d2b&url=https%3A%2F%2Frpp.pe%2Fperu%2Fla-libertad%2Ftrujillo-que-se-sabe-del-tiroteo-dentro-de-la-sede-de-hidrandina-que-dejo-un-muerto-y-tres-heridos-noticia-1673920&c=9129274079690167714&mkt=es-us",
+      "titulo": "Trujillo: ¿qué se sabe del tiroteo dentro de la sede de Hidrandina que dejó un muerto y tres heridos?",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-01-31",
+      "fecha_hecho": null,
+      "snippet": "Miguel Alva Cárdenas, quien trabajaba como supervisor de Seguridad Patrimonial, desató la balacera dentro de la sede de Hidrandina. De momento, se desconoce una versión oficial sobre los motivos por ...",
+      "temas": [
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 3,
+      "query": "bing:Hidrandina",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-06 14:37"
     },
     {
       "id": "450803fecadb1629",
@@ -7441,5 +7465,5 @@
       "descartar": false
     }
   ],
-  "n": 315
+  "n": 316
 }
