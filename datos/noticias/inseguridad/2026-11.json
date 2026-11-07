@@ -1,6 +1,6 @@
 {
   "mes": "2026-11",
-  "actualizado": "2026-11-06 20:04",
+  "actualizado": "2026-11-07 06:30",
   "items": [
     {
       "id": "d2016ab0b71b987f",
@@ -47,6 +47,74 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-06 07:39"
+    },
+    {
+      "id": "0e3d89c03266000a",
+      "url": "https://rpp.pe/peru/callao/ventanilla-hombre-muere-tras-recibir-ocho-disparos-a-pocos-metros-del-ovalo-pachacutec-noticia-1716460",
+      "url_canon": "https://rpp.pe/peru/callao/ventanilla-hombre-muere-tras-recibir-ocho-disparos-a-pocos-metros-del-ovalo-pachacutec-noticia-1716460",
+      "titulo": "Ventanilla: hombre muere tras recibir ocho disparos a pocos metros del óvalo Pachacútec",
+      "fuente": "RPP",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "feeds",
+      "fecha_pub": "2026-11-06",
+      "fecha_hecho": null,
+      "snippet": "La víctima se encontraba estacionado a bordo de su automóvil cuando cuatro hombres llegaron a bordo de dos motocicletas. Un par de ellos bajaron y dispararon varias veces contra él.",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 2,
+      "query": "feed:RPP",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-07 06:30"
+    },
+    {
+      "id": "534f13a03589ff3d",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxON3RWZ0tUN1FrNFZOTVlQNzZ6SXlvdnJEQXN0WE01cG1SZGJhU2x3R01MdEtzOHhVTlBkSzBXWms3a3RBNS13UTlEN1M1Y1NLeGdnTE9pX0ZfaWl3Wl96X1pEUFFUV0RDZGtMOTY5SVJWeTlxQU1WWmlNYmgzV0dBLVZ4SFhBVTdTM1VIVW5iWVVBOHVmNVNKN05pc0xFbURNNGdzRFFlaXhQOE8zRVF1QmZHQnQ3MEZ5RlVIbktIWDBNZ1FycnZGU25BUUVHcUhIX1Y1aEZNUURESURIaHk4TklheVhENUlxcFNRYTkwcnNpbmE0ZF8zMVd5cFFiMk50cXBfMGwwYm45ZGdHYzVaaEkwbG9kUFVPRld1ajVwVDQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMioAJBVV95cUxON3RWZ0tUN1FrNFZOTVlQNzZ6SXlvdnJEQXN0WE01cG1SZGJhU2x3R01MdEtzOHhVTlBkSzBXWms3a3RBNS13UTlEN1M1Y1NLeGdnTE9pX0ZfaWl3Wl96X1pEUFFUV0RDZGtMOTY5SVJWeTlxQU1WWmlNYmgzV0dBLVZ4SFhBVTdTM1VIVW5iWVVBOHVmNVNKN05pc0xFbURNNGdzRFFlaXhQOE8zRVF1QmZHQnQ3MEZ5RlVIbktIWDBNZ1FycnZGU25BUUVHcUhIX1Y1aEZNUURESURIaHk4TklheVhENUlxcFNRYTkwcnNpbmE0ZF8zMVd5cFFiMk50cXBfMGwwYm45ZGdHYzVaaEkwbG9kUFVPRld1ajVwVDQ",
+      "titulo": "Valentina Valiente Capítulo 174: Henry revela a Lupe y Valentina que Frida planeó su propio secuestro y asesinó a Beto Correa - Latina Noticias",
+      "fuente": "Latina Noticias",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-06",
+      "fecha_hecho": null,
+      "snippet": "Valentina Valiente Capítulo 174: Henry revela a Lupe y Valentina que Frida planeó su propio secuestro y asesinó a Beto Correa Latina Noticias",
+      "temas": [
+        "Secuestro"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "secuestro Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-07 06:29"
+    },
+    {
+      "id": "383c8ff563faf621",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWHV5SWUteHFTUi1yM0JmMkFZbnZWbUFmMjhrY2Ytd2UwTTdvWHR4YUl3MjZvb1JsTmZsS1hUYUk4WGN1THJVM0tUMDJodHVaUmJYaWhwOE5YSm5oVExXQXhJNm9tY1JQWUxFUkt6SzZpbEp3a3NwYUVGckZQbTdKa2JhSGFlVmxESkNyY05BN19heUZLR3FkLUxfU19Ua1N0NHlzUlpYdHNGNl9xRF9tZ2N5ZjRHWFBWR1ZLMFlYSGxHcW05R0hWckhGaUpzU3hraWlFRGhKSVFSYmfSAe8BQVVfeXFMUHZEX01rOUIwWVlKSVhiV3huVzQ2M01CY1d5YzdYN08tTmJ3ak41TlI4bEFwNTFUMnVtVHFSTlprR0p2Z0tOQjVzWWpwd29zRlp1SnBlY2p1WHBycXZkT1hVTVlNSERWRm9JNWZjd0lBR0oyMzM2VGxGY0NCS3dLaURBa0JOVjNaYjJEaHRtMVM1YWVtSUhoV0NTWkpXenNhTEFMcktzQjFrSHdzdlNMeXhEd0d5Q2NUbVVYejhfdzFmaThnVnhvR2VMQmlJSWpBZUpUSWczZDFQWXlzNlJPQ1lxVGo2THpCUC1lQm5yMlk?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWHV5SWUteHFTUi1yM0JmMkFZbnZWbUFmMjhrY2Ytd2UwTTdvWHR4YUl3MjZvb1JsTmZsS1hUYUk4WGN1THJVM0tUMDJodHVaUmJYaWhwOE5YSm5oVExXQXhJNm9tY1JQWUxFUkt6SzZpbEp3a3NwYUVGckZQbTdKa2JhSGFlVmxESkNyY05BN19heUZLR3FkLUxfU19Ua1N0NHlzUlpYdHNGNl9xRF9tZ2N5ZjRHWFBWR1ZLMFlYSGxHcW05R0hWckhGaUpzU3hraWlFRGhKSVFSYmfSAe8BQVVfeXFMUHZEX01rOUIwWVlKSVhiV3huVzQ2M01CY1d5YzdYN08tTmJ3ak41TlI4bEFwNTFUMnVtVHFSTlprR0p2Z0tOQjVzWWpwd29zRlp1SnBlY2p1WHBycXZkT1hVTVlNSERWRm9JNWZjd0lBR0oyMzM2VGxGY0NCS3dLaURBa0JOVjNaYjJEaHRtMVM1YWVtSUhoV0NTWkpXenNhTEFMcktzQjFrSHdzdlNMeXhEd0d5Q2NUbVVYejhfdzFmaThnVnhvR2VMQmlJSWpBZUpUSWczZDFQWXlzNlJPQ1lxVGo2THpCUC1lQm5yMlk",
+      "titulo": "Trujillo: Dan el último adiós a policía asesinado durante un ataque armado en Pataz - Diario Correo",
+      "fuente": "Diario Correo",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-06",
+      "fecha_hecho": null,
+      "snippet": "Trujillo: Dan el último adiós a policía asesinado durante un ataque armado en Pataz Diario Correo",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 3,
+      "query": "asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-07 06:29"
     },
     {
       "id": "bfa9858a16f61d01",
@@ -235,6 +303,28 @@
       "agregado": "2026-11-06 14:35"
     },
     {
+      "id": "ef94581a956735f1",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAtTkhTSVl1WUwtMkE4TE0xV1h3U3BGc3dsWkxUaWlwenBWMlNJbXN3RXJjSjQ1RHlaMk9WLWdGcTJNcm4xUElQQjlTZUU3aXFtcFQxQTNIOWlkbmFMdmg1OTFfVjd5RGNzM2c?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAtTkhTSVl1WUwtMkE4TE0xV1h3U3BGc3dsWkxUaWlwenBWMlNJbXN3RXJjSjQ1RHlaMk9WLWdGcTJNcm4xUElQQjlTZUU3aXFtcFQxQTNIOWlkbmFMdmg1OTFfVjd5RGNzM2c",
+      "titulo": "Policía es baleado por sicario mientras realizaba una operación bancaria - ATV.pe",
+      "fuente": "ATV.pe",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-06",
+      "fecha_hecho": null,
+      "snippet": "Policía es baleado por sicario mientras realizaba una operación bancaria ATV.pe",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "sicariato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-07 06:29"
+    },
+    {
       "id": "07eb98f68b9dca3d",
       "url": "https://diariocorreo.pe/edicion/piura/piura-lo-matan-tras-citarlo-con-enganos-para-un-trabajo-noticia/",
       "url_canon": "https://diariocorreo.pe/edicion/piura/piura-lo-matan-tras-citarlo-con-enganos-para-un-trabajo-noticia",
@@ -327,6 +417,51 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-06 07:39"
+    },
+    {
+      "id": "184b1650fa2c1dc6",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTzlheVk3Y1RnTGNwVGZQMy1fRkgyT0FMTE1oaFdVcGcxTGNMajV6RWpmbVk2WjFWWnJjTGxKdXdfMEo3ZzlDZ1RzdXBvQndFZGhDQ3M2WVhIcG1GRHlmMVlvMV9YUmJtUXdYZWdfTFFVVFBXLXlCMW5GNmY3aEJqYmRnNHVUVzJuR09IR0JJQjhGREUxdEdwU2JiTW05eXVpbkNURWFYMVZ5QdIBqgFBVV95cUxOTzlheVk3Y1RnTGNwVGZQMy1fRkgyT0FMTE1oaFdVcGcxTGNMajV6RWpmbVk2WjFWWnJjTGxKdXdfMEo3ZzlDZ1RzdXBvQndFZGhDQ3M2WVhIcG1GRHlmMVlvMV9YUmJtUXdYZWdfTFFVVFBXLXlCMW5GNmY3aEJqYmRnNHVUVzJuR09IR0JJQjhGREUxdEdwU2JiTW05eXVpbkNURWFYMVZ5QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTzlheVk3Y1RnTGNwVGZQMy1fRkgyT0FMTE1oaFdVcGcxTGNMajV6RWpmbVk2WjFWWnJjTGxKdXdfMEo3ZzlDZ1RzdXBvQndFZGhDQ3M2WVhIcG1GRHlmMVlvMV9YUmJtUXdYZWdfTFFVVFBXLXlCMW5GNmY3aEJqYmRnNHVUVzJuR09IR0JJQjhGREUxdEdwU2JiTW05eXVpbkNURWFYMVZ5QdIBqgFBVV95cUxOTzlheVk3Y1RnTGNwVGZQMy1fRkgyT0FMTE1oaFdVcGcxTGNMajV6RWpmbVk2WjFWWnJjTGxKdXdfMEo3ZzlDZ1RzdXBvQndFZGhDQ3M2WVhIcG1GRHlmMVlvMV9YUmJtUXdYZWdfTFFVVFBXLXlCMW5GNmY3aEJqYmRnNHVUVzJuR09IR0JJQjhGREUxdEdwU2JiTW05eXVpbkNURWFYMVZ5QQ",
+      "titulo": "Ofrecen cien millones de pesos por información sobre terrible masacre en Caucasia - Alerta",
+      "fuente": "Alerta",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-06",
+      "fecha_hecho": null,
+      "snippet": "Ofrecen cien millones de pesos por información sobre terrible masacre en Caucasia Alerta",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "\"masacre\" Trujillo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-07 06:29"
+    },
+    {
+      "id": "b07a5e17d7b911d7",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef0b8e3dac43bcb1048c2ad3783a64&url=https%3a%2f%2fwww.lapatria.com%2fsucesos%2fluto-en-el-norte-de-caldas-mataron-un-joven-en-peru&c=9711839682003004662&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef0b8e3dac43bcb1048c2ad3783a64&url=https%3A%2F%2Fwww.lapatria.com%2Fsucesos%2Fluto-en-el-norte-de-caldas-mataron-un-joven-en-peru&c=9711839682003004662&mkt=es-us",
+      "titulo": "Luto en el Norte de Caldas: mataron a un joven en Perú",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-06",
+      "fecha_hecho": null,
+      "snippet": "La Policía Nacional del Perú (PNP) investiga el caso como un presunto ajuste de cuentas entre bandas dedicadas a la extorsión mediante préstamos.",
+      "temas": [
+        "Extorsión",
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 5,
+      "query": "bing:extorsión Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-07 06:29"
     },
     {
       "id": "223fc0f4b9bd90b9",
@@ -448,6 +583,30 @@
       "agregado": "2026-11-06 14:35"
     },
     {
+      "id": "1739344774e41d1f",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONFJzM2xZVVJ1dW41VkhUVlMxeS1VMXpfVTJkNjJMX21pTnNPLVh0SXk0YlVWZEhPc29peUtJQmdvLTA5NDNITmZ4d19zN0lycUVKRGVDUmU1N3NnRjh4STJWRU9ZeE85OEl4WUw5SnVsbzhSMTVwNnEwWTgzc29zR0xoblUwMTdYd3pybXlEQlZ3TEVvVk5FQTlyOWlFbVo2MnpCRy0zN1o3ejA3bkF6bmxBVjEyVFNMbm8zMTYwRFpBWU5wcmV1QldabVp3ZHVCcmF2cGZCN08tTDDSAeABQVVfeXFMTXhwWkJQZEJ0VkM2QTdUZjYzVTg3Z0xmOGhZY2ExWS1zSGtJWjhxazhpQTZOblJOR2lOV3ZIRnM0YXJVZXJLM3I3dnh1bkY2VWpVNk9kMFJVYlhJRmVCYkxQUGo3MHVzR1VjS3NURVhfM2ZDV3VqS2pOcmdXZUp4UnBmNEF5eGt3Y3o4c2V3N010ZXY5NGFyTkFKLUt6UjFLcmRyb090M0ZiNTZzT1NCSDZQUFpOVGRTZkhaZEVTMmpjZlJHbnI2dE5qLUp1VkJYQVRMaVVIZGtHbjN2SkVlRzk?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONFJzM2xZVVJ1dW41VkhUVlMxeS1VMXpfVTJkNjJMX21pTnNPLVh0SXk0YlVWZEhPc29peUtJQmdvLTA5NDNITmZ4d19zN0lycUVKRGVDUmU1N3NnRjh4STJWRU9ZeE85OEl4WUw5SnVsbzhSMTVwNnEwWTgzc29zR0xoblUwMTdYd3pybXlEQlZ3TEVvVk5FQTlyOWlFbVo2MnpCRy0zN1o3ejA3bkF6bmxBVjEyVFNMbm8zMTYwRFpBWU5wcmV1QldabVp3ZHVCcmF2cGZCN08tTDDSAeABQVVfeXFMTXhwWkJQZEJ0VkM2QTdUZjYzVTg3Z0xmOGhZY2ExWS1zSGtJWjhxazhpQTZOblJOR2lOV3ZIRnM0YXJVZXJLM3I3dnh1bkY2VWpVNk9kMFJVYlhJRmVCYkxQUGo3MHVzR1VjS3NURVhfM2ZDV3VqS2pOcmdXZUp4UnBmNEF5eGt3Y3o4c2V3N010ZXY5NGFyTkFKLUt6UjFLcmRyb090M0ZiNTZzT1NCSDZQUFpOVGRTZkhaZEVTMmpjZlJHbnI2dE5qLUp1VkJYQVRMaVVIZGtHbjN2SkVlRzk",
+      "titulo": "Hombre es asesinado de varios disparos cuando iba a comprar caldo en La Esperanza en Trujillo - La República",
+      "fuente": "La República",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-06",
+      "fecha_hecho": null,
+      "snippet": "Hombre es asesinado de varios disparos cuando iba a comprar caldo en La Esperanza en Trujillo La República",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 3,
+      "query": "asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-07 06:29"
+    },
+    {
       "id": "e28b56a354bf2d6d",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01MXpyLWdWN0Ezd1NVOXhrX1A0eUQybnVhOHVHb1JFdjNwVDJmM29ha0N0b0lCUDRWWlhTRkhmMDg2dG1ORnRKX3A2ZGNKRUpaaVdhSWhrV0NRT2JKU1RKMWtuOTVtbDdGcEVQN0hGR3JWWE10QVNBU2x4TWM3ems?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01MXpyLWdWN0Ezd1NVOXhrX1A0eUQybnVhOHVHb1JFdjNwVDJmM29ha0N0b0lCUDRWWlhTRkhmMDg2dG1ORnRKX3A2ZGNKRUpaaVdhSWhrV0NRT2JKU1RKMWtuOTVtbDdGcEVQN0hGR3JWWE10QVNBU2x4TWM3ems",
@@ -468,6 +627,52 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-06 14:33"
+    },
+    {
+      "id": "932fae23d442b059",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZ3QwMjI5aG9IMnFnbzNkVHF4MHF1YmM2a3V0V19FUUNlSEFBOV9KdGtmNF9LZkRZd2JWZTVmOHpORm8xVXByZTMwd2N3cURoNUhETDRYRUZubTJIQ1Q2SHdfLXRRb3Y3OC0yRVV4UVpWZTdUb3ZCbHc3ZFBCajl1dkRPYkdTbk05U0FsaHp0bnRLYXk1d2pBMEZDcmFWSDVTY29iQXkyRkhNVnF0MmpySFd4S1BvRS1E0gHMAUFVX3lxTE1ic09sM0hyajU4U3M5NWtyMmZCS3Q3ZExVdFhELW5zeXZiUVNwRFk0Nzd2cllkRVFCamZta2NkVnIyM1BJU2xoNHlFWWNmeWp0SnJUWEc3NkF5dUF2NVNKUVJsOWN6U2VvenVURjU2WXFLcXVwd091YUxUMjVKeWxPclF0SWxkcXhRZ2U0RGlOMEV6YUhzV2sxaHVOVDFZTF9QdzhrWFZKaWxZaEVPY202VkRpOXZyTjZqM05rLU4wcFliZVhvLXphRWNiTA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZ3QwMjI5aG9IMnFnbzNkVHF4MHF1YmM2a3V0V19FUUNlSEFBOV9KdGtmNF9LZkRZd2JWZTVmOHpORm8xVXByZTMwd2N3cURoNUhETDRYRUZubTJIQ1Q2SHdfLXRRb3Y3OC0yRVV4UVpWZTdUb3ZCbHc3ZFBCajl1dkRPYkdTbk05U0FsaHp0bnRLYXk1d2pBMEZDcmFWSDVTY29iQXkyRkhNVnF0MmpySFd4S1BvRS1E0gHMAUFVX3lxTE1ic09sM0hyajU4U3M5NWtyMmZCS3Q3ZExVdFhELW5zeXZiUVNwRFk0Nzd2cllkRVFCamZta2NkVnIyM1BJU2xoNHlFWWNmeWp0SnJUWEc3NkF5dUF2NVNKUVJsOWN6U2VvenVURjU2WXFLcXVwd091YUxUMjVKeWxPclF0SWxkcXhRZ2U0RGlOMEV6YUhzV2sxaHVOVDFZTF9QdzhrWFZKaWxZaEVPY202VkRpOXZyTjZqM05rLU4wcFliZVhvLXphRWNiTA",
+      "titulo": "Extorsionadores y contrabandistas ponen en jaque a bodegueros de Sudamérica - Trome.com",
+      "fuente": "Trome.com",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-06",
+      "fecha_hecho": null,
+      "snippet": "Extorsionadores y contrabandistas ponen en jaque a bodegueros de Sudamérica Trome.com",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "extorsión Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-07 06:29"
+    },
+    {
+      "id": "02d55194e61407e8",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9xMDFrREcwdWxmeXVCcUoyNXJaaDNOUXJfQm81Q0w0Y3U0eGFfRGZ6RnpqOXJYbzdJdzVHX2FzOWVQeWhDZUFzZ1lZazhvTnhZVkt4VHl3Z3dic0Y2VGplUzFfakJWSzlNQU42UTB4TTJwZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMickFVX3lxTE9xMDFrREcwdWxmeXVCcUoyNXJaaDNOUXJfQm81Q0w0Y3U0eGFfRGZ6RnpqOXJYbzdJdzVHX2FzOWVQeWhDZUFzZ1lZazhvTnhZVkt4VHl3Z3dic0Y2VGplUzFfakJWSzlNQU42UTB4TTJwZw",
+      "titulo": "Estafa por WhatsApp: así captaban víctimas una banda de 22 integrantes que operaba en Trujillo - Buena Pepa",
+      "fuente": "Buena Pepa",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-06",
+      "fecha_hecho": null,
+      "snippet": "Estafa por WhatsApp: así captaban víctimas una banda de 22 integrantes que operaba en Trujillo Buena Pepa",
+      "temas": [
+        "Estafa"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 3,
+      "query": "estafa Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-07 06:29"
     },
     {
       "id": "51f35241a533d1e4",
@@ -560,6 +765,28 @@
       "agregado": "2026-11-06 07:39"
     },
     {
+      "id": "b9241144ba9b9c15",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZHFvTzV4ZjRvdDNwR2NIejV6eUtVOXQwT3MwY3AwN3RJTmZqOTQtb1d1ZW1ILXhqbFJ5VlhxUks1N1RxZXJOeXotdnZVT3pCVU02NTVmQjdpdVQyT00tUzlVSDNBbzJqQmlXclZNX1VWc09vYm5mUGdUSWZKSVlDQ1R5d2V6S0ZLWlhRWllKVDB3dnhRZEpLUlVLclc4TGU3c0UzNnB4UVRHS3VYX0l5T2Zyb9IBswFBVV95cUxNZHFvTzV4ZjRvdDNwR2NIejV6eUtVOXQwT3MwY3AwN3RJTmZqOTQtb1d1ZW1ILXhqbFJ5VlhxUks1N1RxZXJOeXotdnZVT3pCVU02NTVmQjdpdVQyT00tUzlVSDNBbzJqQmlXclZNX1VWc09vYm5mUGdUSWZKSVlDQ1R5d2V6S0ZLWlhRWllKVDB3dnhRZEpLUlVLclc4TGU3c0UzNnB4UVRHS3VYX0l5T2Zybw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZHFvTzV4ZjRvdDNwR2NIejV6eUtVOXQwT3MwY3AwN3RJTmZqOTQtb1d1ZW1ILXhqbFJ5VlhxUks1N1RxZXJOeXotdnZVT3pCVU02NTVmQjdpdVQyT00tUzlVSDNBbzJqQmlXclZNX1VWc09vYm5mUGdUSWZKSVlDQ1R5d2V6S0ZLWlhRWllKVDB3dnhRZEpLUlVLclc4TGU3c0UzNnB4UVRHS3VYX0l5T2Zyb9IBswFBVV95cUxNZHFvTzV4ZjRvdDNwR2NIejV6eUtVOXQwT3MwY3AwN3RJTmZqOTQtb1d1ZW1ILXhqbFJ5VlhxUks1N1RxZXJOeXotdnZVT3pCVU02NTVmQjdpdVQyT00tUzlVSDNBbzJqQmlXclZNX1VWc09vYm5mUGdUSWZKSVlDQ1R5d2V6S0ZLWlhRWllKVDB3dnhRZEpLUlVLclc4TGU3c0UzNnB4UVRHS3VYX0l5T2Zybw",
+      "titulo": "Cayó alias 'Yeko' presunto autor de la masacre de cuatro personas en Maicao - Alerta",
+      "fuente": "Alerta",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-06",
+      "fecha_hecho": null,
+      "snippet": "Cayó alias 'Yeko' presunto autor de la masacre de cuatro personas en Maicao Alerta",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "\"masacre\" Trujillo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-07 06:29"
+    },
+    {
       "id": "6463a002335a90ae",
       "url": "https://inforegion.pe/ayacucho-familias-reciben-los-restos-de-33-victimas-del-conflicto-armado-interno-tras-decadas-de-busqueda-mientras-miles-de-casos-de-desaparicion-siguen-pendientes/",
       "url_canon": "https://inforegion.pe/ayacucho-familias-reciben-los-restos-de-33-victimas-del-conflicto-armado-interno-tras-decadas-de-busqueda-mientras-miles-de-casos-de-desaparicion-siguen-pendientes",
@@ -582,6 +809,76 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-06 20:04"
+    },
+    {
+      "id": "e26317c33cd7271d",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRi1OZTE4M3RTUG8waHRQejNyRGNzc1BTQ0xyUlZ1VHhXSS0wa1YzTGNjSXAzTm94dHdrLUdiN0FyM21qSlpIcUxIdjlhNDhvR0hwUHhodWR5eS03TUlBSWZ1QkZnUFFlS0VTZWZLcVBnSU1aNENtR3puOVQ2dndxRkItSVhRbkUzS0JTRWlzRUJKOXc5bEc3Q0prZU5Da004X0JsZDgtYzlfcnV4UnhoTXhmb9IBswFBVV95cUxQRi1OZTE4M3RTUG8waHRQejNyRGNzc1BTQ0xyUlZ1VHhXSS0wa1YzTGNjSXAzTm94dHdrLUdiN0FyM21qSlpIcUxIdjlhNDhvR0hwUHhodWR5eS03TUlBSWZ1QkZnUFFlS0VTZWZLcVBnSU1aNENtR3puOVQ2dndxRkItSVhRbkUzS0JTRWlzRUJKOXc5bEc3Q0prZU5Da004X0JsZDgtYzlfcnV4UnhoTXhmbw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRi1OZTE4M3RTUG8waHRQejNyRGNzc1BTQ0xyUlZ1VHhXSS0wa1YzTGNjSXAzTm94dHdrLUdiN0FyM21qSlpIcUxIdjlhNDhvR0hwUHhodWR5eS03TUlBSWZ1QkZnUFFlS0VTZWZLcVBnSU1aNENtR3puOVQ2dndxRkItSVhRbkUzS0JTRWlzRUJKOXc5bEc3Q0prZU5Da004X0JsZDgtYzlfcnV4UnhoTXhmb9IBswFBVV95cUxQRi1OZTE4M3RTUG8waHRQejNyRGNzc1BTQ0xyUlZ1VHhXSS0wa1YzTGNjSXAzTm94dHdrLUdiN0FyM21qSlpIcUxIdjlhNDhvR0hwUHhodWR5eS03TUlBSWZ1QkZnUFFlS0VTZWZLcVBnSU1aNENtR3puOVQ2dndxRkItSVhRbkUzS0JTRWlzRUJKOXc5bEc3Q0prZU5Da004X0JsZDgtYzlfcnV4UnhoTXhmbw",
+      "titulo": "Autoridades investigan masacre en zona rural del municipio de La Plata - Alerta",
+      "fuente": "Alerta",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-06",
+      "fecha_hecho": null,
+      "snippet": "Autoridades investigan masacre en zona rural del municipio de La Plata Alerta",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "\"masacre\" Trujillo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-07 06:29"
+    },
+    {
+      "id": "aede4349fc170380",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWmV3WC1Ya0VKNHR1ZFdxejB6cDBTbFJTUUNMbF9kUUFqMUFBWWs1dzNteTBGY21aekdNRlh5UUJhM2tsbV8wLVg0VHluLV9hRHlhRWI0ampOLTdhdUdrRFRVclZEU2tzQzlrMnhZQ1ZoYk5fU0h3aGhEWUd1NlZXVUFVUEFWd3VQMkZNNTlmdmo0MUppUl9EWFMyYXFOTU1oYVVjX0R1LU82eEZNTlBMXzlJSlFydjVXTmhtNWl0SXFvNnFHdGpkbDNiMklLLWtjS21TeDBRRzZ2RmN5X2l1ZXZzU3dlVVVrcmRPYtIB8gFBVV95cUxPeDJGUEhqU0phTzNWTFdldWNDWGwtX2pJdGNuY2g1blRtUm9iaUhlbEVfNndfaHdBS3pUZnpaeURMRGJ0cUdSQ0RIQzNZV04tQWFjRjdUUUp2X3h1RDB2dHh4UkM3WVl5UEs3VlZDSEdXLWRlLUtNeG9wcm9uOVhCbEVvUjVqTkxtRWQzajQyT3FuSWRRZzZpOWFjN0pQZ0IxTndxUW5KUng0bUtuUzdBcG5Ea0JyUUZ1NmYwaTlzZjdzcVpCU3M5UEU3ZFlOOEtuZzR0ZmZSSnVmdTBCLWNUU01RRkpXdDVWaEZEUWFpOUlSQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWmV3WC1Ya0VKNHR1ZFdxejB6cDBTbFJTUUNMbF9kUUFqMUFBWWs1dzNteTBGY21aekdNRlh5UUJhM2tsbV8wLVg0VHluLV9hRHlhRWI0ampOLTdhdUdrRFRVclZEU2tzQzlrMnhZQ1ZoYk5fU0h3aGhEWUd1NlZXVUFVUEFWd3VQMkZNNTlmdmo0MUppUl9EWFMyYXFOTU1oYVVjX0R1LU82eEZNTlBMXzlJSlFydjVXTmhtNWl0SXFvNnFHdGpkbDNiMklLLWtjS21TeDBRRzZ2RmN5X2l1ZXZzU3dlVVVrcmRPYtIB8gFBVV95cUxPeDJGUEhqU0phTzNWTFdldWNDWGwtX2pJdGNuY2g1blRtUm9iaUhlbEVfNndfaHdBS3pUZnpaeURMRGJ0cUdSQ0RIQzNZV04tQWFjRjdUUUp2X3h1RDB2dHh4UkM3WVl5UEs3VlZDSEdXLWRlLUtNeG9wcm9uOVhCbEVvUjVqTkxtRWQzajQyT3FuSWRRZzZpOWFjN0pQZ0IxTndxUW5KUng0bUtuUzdBcG5Ea0JyUUZ1NmYwaTlzZjdzcVpCU3M5UEU3ZFlOOEtuZzR0ZmZSSnVmdTBCLWNUU01RRkpXdDVWaEZEUWFpOUlSQQ",
+      "titulo": "Ataque violento en vivienda deja un muerto y un herido en Trujillo: fallecido sería integrante de Los Pulpos - La República",
+      "fuente": "La República",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-06",
+      "fecha_hecho": null,
+      "snippet": "Ataque violento en vivienda deja un muerto y un herido en Trujillo: fallecido sería integrante de Los Pulpos La República",
+      "temas": [
+        "Asalto a mano armada"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 2,
+      "query": "\"Los Pulpos\" Trujillo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-07 06:29"
+    },
+    {
+      "id": "45ed0fddf580a382",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef0bb053884390970a68fb4356532d&url=https%3a%2f%2flarepublica.pe%2fsociedad%2f2026%2f11%2f06%2fataque-violento-en-vivienda-deja-un-muerto-y-un-herido-en-trujillo-fallecido-seria-integrante-de-los-pulpos-83868&c=639855211460929230&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef0bb053884390970a68fb4356532d&url=https%3A%2F%2Flarepublica.pe%2Fsociedad%2F2026%2F11%2F06%2Fataque-violento-en-vivienda-deja-un-muerto-y-un-herido-en-trujillo-fallecido-seria-integrante-de-los-pulpos-83868&c=639855211460929230&mkt=es-us",
+      "titulo": "Ataque violento en vivienda deja un muerto y un herido en Trujillo: fallecido sería integrante de Los Pulpos",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-06",
+      "fecha_hecho": null,
+      "snippet": "La víctima, conocida como 'Pato Cabezon', sería miembro de la organización criminal Los Pulpos. Los hechos sucedieron en una vivienda de la avenida Sánchez Carrión. Es el tercer ataque registrado este ...",
+      "temas": [
+        "Asalto a mano armada"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 2,
+      "query": "bing:\"Los Pulpos\" Trujillo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-07 06:29"
     },
     {
       "id": "0e6003f91f0779fc",
@@ -626,6 +923,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-06 15:54"
+    },
+    {
+      "id": "b8384aed41b27edd",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTkMtOHBoeEUyNTV0b1FjNXdQbGNTOHhBa3BENmEyMll4T0NpdDc0cm02bllkSDFDZUZnUXZFUk14dUtDM1IwNmdyWnlWUDMwbjB6ZFloSG1jazRDd3JUQ1FZVS1UTHA1S1FaNWpLc2FHdThTSm5SYmpZVXU1MU9fR01QRzlpZXQ4LWNIQ05PdHNOaTFhN29TQ2lXaVN3ZzI3Wmx5T2lkMVdSbV9OUlJkaHFhVUg1QWfSAbcBQVVfeXFMTU5DLThwaHhFMjU1dG9RYzV3UGxjUzh4QWtwRDZhMjJZeE9DaXQ3NHJtNm5ZZEgxQ2VGZ1F2RVJNeHVLQzNSMDZnclp5VlAzMG4wemRZaEhtY2s0Q3dyVENRWVUtVExwNUtRWjVqS3NhR3U4U0puUmJqWVV1NTFPX0dNUEc5aWV0OC1jSENOT3RzTmkxYTdvU0NpV2lTd2cyN1pseU9pZDFXUm1fTlJSZGhxYVVINUFn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTkMtOHBoeEUyNTV0b1FjNXdQbGNTOHhBa3BENmEyMll4T0NpdDc0cm02bllkSDFDZUZnUXZFUk14dUtDM1IwNmdyWnlWUDMwbjB6ZFloSG1jazRDd3JUQ1FZVS1UTHA1S1FaNWpLc2FHdThTSm5SYmpZVXU1MU9fR01QRzlpZXQ4LWNIQ05PdHNOaTFhN29TQ2lXaVN3ZzI3Wmx5T2lkMVdSbV9OUlJkaHFhVUg1QWfSAbcBQVVfeXFMTU5DLThwaHhFMjU1dG9RYzV3UGxjUzh4QWtwRDZhMjJZeE9DaXQ3NHJtNm5ZZEgxQ2VGZ1F2RVJNeHVLQzNSMDZnclp5VlAzMG4wemRZaEhtY2s0Q3dyVENRWVUtVExwNUtRWjVqS3NhR3U4U0puUmJqWVV1NTFPX0dNUEc5aWV0OC1jSENOT3RzTmkxYTdvU0NpV2lTd2cyN1pseU9pZDFXUm1fTlJSZGhxYVVINUFn",
+      "titulo": "Así estará conformada la Unidad de Especial para esclarecer masacres en Colombia - Alerta",
+      "fuente": "Alerta",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-06",
+      "fecha_hecho": null,
+      "snippet": "Así estará conformada la Unidad de Especial para esclarecer masacres en Colombia Alerta",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "\"masacre\" Trujillo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-07 06:29"
     },
     {
       "id": "cb527eafbc366d3a",
@@ -675,6 +994,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-06 14:35"
+    },
+    {
+      "id": "8a3b1f6ddce6ad3d",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQc0NqVkZCM0pfSHRackRyYm9pQWZCd3Bac3VBWVZaQmdoZThLLWw0UldmVTVOQmhIS1dJZ3diOHpwT0tRS0hiQVpHclJZYm1raFd0eEw2bmdIQVV0bHNyLVhwY2Fvank4RlpVMWNQSnhabDVTZDdFb29mQ0NwWU9mQ3dwQzItaTdJb1dBNUMwUEdnOGI2VVlaaUp4RVBzcHdvQmNZdUVHb2JIVXF5SllNN9IBsAFBVV95cUxQc0NqVkZCM0pfSHRackRyYm9pQWZCd3Bac3VBWVZaQmdoZThLLWw0UldmVTVOQmhIS1dJZ3diOHpwT0tRS0hiQVpHclJZYm1raFd0eEw2bmdIQVV0bHNyLVhwY2Fvank4RlpVMWNQSnhabDVTZDdFb29mQ0NwWU9mQ3dwQzItaTdJb1dBNUMwUEdnOGI2VVlaaUp4RVBzcHdvQmNZdUVHb2JIVXF5SllNNw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQc0NqVkZCM0pfSHRackRyYm9pQWZCd3Bac3VBWVZaQmdoZThLLWw0UldmVTVOQmhIS1dJZ3diOHpwT0tRS0hiQVpHclJZYm1raFd0eEw2bmdIQVV0bHNyLVhwY2Fvank4RlpVMWNQSnhabDVTZDdFb29mQ0NwWU9mQ3dwQzItaTdJb1dBNUMwUEdnOGI2VVlaaUp4RVBzcHdvQmNZdUVHb2JIVXF5SllNN9IBsAFBVV95cUxQc0NqVkZCM0pfSHRackRyYm9pQWZCd3Bac3VBWVZaQmdoZThLLWw0UldmVTVOQmhIS1dJZ3diOHpwT0tRS0hiQVpHclJZYm1raFd0eEw2bmdIQVV0bHNyLVhwY2Fvank4RlpVMWNQSnhabDVTZDdFb29mQ0NwWU9mQ3dwQzItaTdJb1dBNUMwUEdnOGI2VVlaaUp4RVBzcHdvQmNZdUVHb2JIVXF5SllNNw",
+      "titulo": "Arequipa: denuncian feminicidio en muerte de madre de 17 años que deja huérfano a bebé - Evidencia.pe",
+      "fuente": "Evidencia.pe",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-06",
+      "fecha_hecho": null,
+      "snippet": "Arequipa: denuncian feminicidio en muerte de madre de 17 años que deja huérfano a bebé Evidencia.pe",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Arequipa"
+      ],
+      "score": 3,
+      "query": "feminicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-07 06:29"
     },
     {
       "id": "08f95b81be21ab75",
@@ -985,6 +1328,30 @@
       "agregado": "2026-11-06 20:04"
     },
     {
+      "id": "f44d2d0c01e3449c",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef0bb053884390970a68fb4356532d&url=https%3a%2f%2fdiariocorreo.pe%2fedicion%2fla-libertad%2ftrujillo-envian-a-la-carcel-a-presunto-integrante-de-los-pulpos-noticia%2f&c=13562639140818404718&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef0bb053884390970a68fb4356532d&url=https%3A%2F%2Fdiariocorreo.pe%2Fedicion%2Fla-libertad%2Ftrujillo-envian-a-la-carcel-a-presunto-integrante-de-los-pulpos-noticia%2F&c=13562639140818404718&mkt=es-us",
+      "titulo": "Trujillo: Envían a la cárcel a presunto integrante de “Los Pulpos”",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-05",
+      "fecha_hecho": null,
+      "snippet": "Alias “Brunacho” fue enviado al penal El Milagro nueve meses de manera preventiva. Él es investigado por extorsión ...",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 3,
+      "query": "bing:\"Los Pulpos\" Trujillo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-07 06:29"
+    },
+    {
       "id": "bbf191a40b200817",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee2bd044514cbbb46b052a8016d3ec&url=https%3a%2f%2fdiariocorreo.pe%2fedicion%2fla-libertad%2fdan-el-ultimo-adios-a-policia-asesinado-durante-un-ataque-armado-en-pataz-la-libertad-peru-noticia%2f&c=10701041902238697546&mkt=es-us",
       "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee2bd044514cbbb46b052a8016d3ec&url=https%3A%2F%2Fdiariocorreo.pe%2Fedicion%2Fla-libertad%2Fdan-el-ultimo-adios-a-policia-asesinado-durante-un-ataque-armado-en-pataz-la-libertad-peru-noticia%2F&c=10701041902238697546&mkt=es-us",
@@ -1055,6 +1422,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-06 20:04"
+    },
+    {
+      "id": "d599704bae934f65",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef0b9a37db417c8d9c6a7a18496c5f&url=https%3a%2f%2fdiariocorreo.pe%2fedicion%2fla-libertad%2fdan-el-ultimo-adios-a-policia-asesinado-durante-un-ataque-armado-en-pataz-la-libertad-peru-noticia%2f&c=10701041902238697546&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef0b9a37db417c8d9c6a7a18496c5f&url=https%3A%2F%2Fdiariocorreo.pe%2Fedicion%2Fla-libertad%2Fdan-el-ultimo-adios-a-policia-asesinado-durante-un-ataque-armado-en-pataz-la-libertad-peru-noticia%2F&c=10701041902238697546&mkt=es-us",
+      "titulo": "Trujillo: Dan el último adiós a policía asesinado durante un ataque armado en Pataz",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-05",
+      "fecha_hecho": null,
+      "snippet": "Suboficial de tercera José Antonio Castillo Rodríguez (24) fue despedido por familiares, amigos y compañeros de trabajo ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 3,
+      "query": "bing:asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-07 06:29"
     },
     {
       "id": "adadc9315c3c1921",
@@ -1189,6 +1580,31 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-05 20:41"
+    },
+    {
+      "id": "b873899350dfc23f",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcXBwS3VrVkl3VDR4Y0pYRlQxeTMtbGNuYkd6aThqajhoVWV6TDF3VU1RaHhLOG1FN3JMTGF6SU5MZEJOYnVhUlM1UVhaQ3ZMaVRidk9IRU1BUEVQR2Z3TDREX2xnenlNb19JZXVldG15cmlkNUtQT3hwVFhlcUhKakdGTnhIeWQxWDRnSEd0d1I4bHVrTzBiUUpmazh1U3JYdlViaFlWNnQ4cHVoOU5UU1lISE54Y00?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcXBwS3VrVkl3VDR4Y0pYRlQxeTMtbGNuYkd6aThqajhoVWV6TDF3VU1RaHhLOG1FN3JMTGF6SU5MZEJOYnVhUlM1UVhaQ3ZMaVRidk9IRU1BUEVQR2Z3TDREX2xnenlNb19JZXVldG15cmlkNUtQT3hwVFhlcUhKakdGTnhIeWQxWDRnSEd0d1I4bHVrTzBiUUpmazh1U3JYdlViaFlWNnQ4cHVoOU5UU1lISE54Y00",
+      "titulo": "PNP rescata a hombre secuestrado en La Libertad gracias a escuadrón de drones - Diario La Opinión Ica",
+      "fuente": "Diario La Opinión Ica",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-05",
+      "fecha_hecho": null,
+      "snippet": "PNP rescata a hombre secuestrado en La Libertad gracias a escuadrón de drones Diario La Opinión Ica",
+      "temas": [
+        "Secuestro"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Ica",
+        "La Libertad"
+      ],
+      "score": 3,
+      "query": "secuestro Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-07 06:29"
     },
     {
       "id": "86ebc50f22e4aa9c",
@@ -1399,6 +1815,32 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-05 15:05"
+    },
+    {
+      "id": "6eff46d5d37ab3ad",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdkVDTTVpNXJ2VkdqQmZWSWJpR250MmMtczBrd1BWVG5VU2JXREhFanZjQ1pPWFIyT1lvYTBEaWxHRURHMW1uTHRLVWt1SlF4enJBZzVaNEV5MDhGOEdKMWVwMWVlXzJXbWgzQmFZczhZX1BSWkVUSGtlN1hoVkNCMll1SGxyMWs5TE9UOVJWX3VDMG1PbC1RenpGTnJwOWE0cHNyS3hsVENoT0laQUlrdWd4YUtSVEY4alFZakw4S296SWpTeHfSAcsBQVVfeXFMTmhKZE1hTkM5TEZZVWZkUVdLQ1pzdXduSzVWa0dCVDJhTjB0UVdPbjZiRFIzSGVxVXpSemQyUXZuYmQ2OE9CLWh6akVtWE1sYkNLcXJBZV8zaG9fZUpYZ2JpN2FhaEZNV1lFbkltQ1U3RHN6NGdzNzhfblN2Z3Z2UFRKbll2bmtyYm5oZ0hRU2F1NWFqVE5wd3FVRzBydmVRQmJETGcwRVdGa3Q2S2N2ajR6enlRQVlpOXFvZy1HWkRzMmRYbDdGQlp2X0U?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdkVDTTVpNXJ2VkdqQmZWSWJpR250MmMtczBrd1BWVG5VU2JXREhFanZjQ1pPWFIyT1lvYTBEaWxHRURHMW1uTHRLVWt1SlF4enJBZzVaNEV5MDhGOEdKMWVwMWVlXzJXbWgzQmFZczhZX1BSWkVUSGtlN1hoVkNCMll1SGxyMWs5TE9UOVJWX3VDMG1PbC1RenpGTnJwOWE0cHNyS3hsVENoT0laQUlrdWd4YUtSVEY4alFZakw4S296SWpTeHfSAcsBQVVfeXFMTmhKZE1hTkM5TEZZVWZkUVdLQ1pzdXduSzVWa0dCVDJhTjB0UVdPbjZiRFIzSGVxVXpSemQyUXZuYmQ2OE9CLWh6akVtWE1sYkNLcXJBZV8zaG9fZUpYZ2JpN2FhaEZNV1lFbkltQ1U3RHN6NGdzNzhfblN2Z3Z2UFRKbll2bmtyYm5oZ0hRU2F1NWFqVE5wd3FVRzBydmVRQmJETGcwRVdGa3Q2S2N2ajR6enlRQVlpOXFvZy1HWkRzMmRYbDdGQlp2X0U",
+      "titulo": "Joven de 26 años fue acribillado frente a su vivienda en San Martín de Porres - La República",
+      "fuente": "La República",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-05",
+      "fecha_hecho": null,
+      "snippet": "Joven de 26 años fue acribillado frente a su vivienda en San Martín de Porres La República",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "San Martín de Porres",
+        "San Martín",
+        "San Martin"
+      ],
+      "score": 3,
+      "query": "asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-07 06:29"
     },
     {
       "id": "b0c609da806faca5",
@@ -2144,6 +2586,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-04 07:44"
+    },
+    {
+      "id": "3e14212fe83174a2",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWkN5bXZiNjZpcUg1ZS03dEstdnl0YXpRUGxMMDJsRHc4MDRHYVlUdTRMMXBoNGtNcU55V01rSmJJVTZ5eXdTU1VfZVM0d1AwYzhzZnA2TXFLR0dyZ09TbUYtVFYxNHNUeVJUQTh5SzNrYnhrTmZjM1B4elhUWEVFNXdwVmpIOXI1UWpzRThtQUJYazR3d2g4WUF6N0JLbElXb3VJdE11enE2WkFtTHc5ME1nX2wwMldSTmVBQ1F0RG0yS1k1cmNLU3Jn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWkN5bXZiNjZpcUg1ZS03dEstdnl0YXpRUGxMMDJsRHc4MDRHYVlUdTRMMXBoNGtNcU55V01rSmJJVTZ5eXdTU1VfZVM0d1AwYzhzZnA2TXFLR0dyZ09TbUYtVFYxNHNUeVJUQTh5SzNrYnhrTmZjM1B4elhUWEVFNXdwVmpIOXI1UWpzRThtQUJYazR3d2g4WUF6N0JLbElXb3VJdE11enE2WkFtTHc5ME1nX2wwMldSTmVBQ1F0RG0yS1k1cmNLU3Jn",
+      "titulo": "Trujillo: Velan restos de policía asesinado en Pataz y su madre exige se investiguen los hechos - Noticias Trujillo",
+      "fuente": "Noticias Trujillo",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-04",
+      "fecha_hecho": null,
+      "snippet": "Trujillo: Velan restos de policía asesinado en Pataz y su madre exige se investiguen los hechos Noticias Trujillo",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 3,
+      "query": "\"Los Pulpos\" Trujillo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-07 06:29"
     },
     {
       "id": "de1d9b5f91402dca",
@@ -4512,6 +4978,30 @@
       "agregado": "2026-11-03 16:00"
     },
     {
+      "id": "43343e7a207574c0",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPOWRCamlySldiT1VFRGxqX2R4VzRlNXpVeHVqdXhkN3YxS3VGMkdyYlJ3VEpOaGNSOGdDSkM3OE1QLS1UNkVhTGI0SFgzclNxRjhhZ1UzTGVEYllRem1OOC05QU1iWW1jd1g0YW50WnBmc2RJM2thakNuaWdvWGlrV1VzcEhTYU9nR25xQUVkUWRncDlxWDBGNXdka1ZuT1hNVHMtZ3p1RV96WHE3UjNpTy1JVkdJNlU2UWNyZGUtV2NnRmQxekRxRlFEY2k1NmF5Yk43ZzgtM3JaRnJnbC1OUW0yc0RfUDkxUjY3R2FlYTFGdUhkMzJ5Umk4ZzZUd0JnWUM3NkQ0cUJZTkNBSGZr?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPOWRCamlySldiT1VFRGxqX2R4VzRlNXpVeHVqdXhkN3YxS3VGMkdyYlJ3VEpOaGNSOGdDSkM3OE1QLS1UNkVhTGI0SFgzclNxRjhhZ1UzTGVEYllRem1OOC05QU1iWW1jd1g0YW50WnBmc2RJM2thakNuaWdvWGlrV1VzcEhTYU9nR25xQUVkUWRncDlxWDBGNXdka1ZuT1hNVHMtZ3p1RV96WHE3UjNpTy1JVkdJNlU2UWNyZGUtV2NnRmQxekRxRlFEY2k1NmF5Yk43ZzgtM3JaRnJnbC1OUW0yc0RfUDkxUjY3R2FlYTFGdUhkMzJ5Umk4ZzZUd0JnWUM3NkQ0cUJZTkNBSGZr",
+      "titulo": "Mariela Céspedes, quemada viva por su expareja y arrojada a un canal: el feminicidio en Piura que vuelve a exponer la brutal violencia machista - Infobae",
+      "fuente": "Infobae",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-03",
+      "fecha_hecho": null,
+      "snippet": "Mariela Céspedes, quemada viva por su expareja y arrojada a un canal: el feminicidio en Piura que vuelve a exponer la brutal violencia machista Infobae",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Piura"
+      ],
+      "score": 3,
+      "query": "feminicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-07 06:29"
+    },
+    {
       "id": "6d4d80331a1df40c",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aea4b64cd9f4a6091f3537738f3bd10&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f11%2f03%2fmariela-cespedes-quemada-viva-por-su-expareja-y-arrojada-a-un-canal-el-feminicidio-en-piura-que-vuelve-a-exponer-la-brutal-violencia-machista%2f&c=12634021592967645876&mkt=es-us",
       "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aea4b64cd9f4a6091f3537738f3bd10&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F11%2F03%2Fmariela-cespedes-quemada-viva-por-su-expareja-y-arrojada-a-un-canal-el-feminicidio-en-piura-que-vuelve-a-exponer-la-brutal-violencia-machista%2F&c=12634021592967645876&mkt=es-us",
@@ -4726,6 +5216,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-06 20:04"
+    },
+    {
+      "id": "59c61734906eadaf",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef0b9d587440a29d42f1ff8c57de54&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f11%2f03%2fmariela-cespedes-quemada-viva-por-su-expareja-y-arrojada-a-un-canal-el-feminicidio-en-piura-que-vuelve-a-exponer-la-brutal-violencia-machista%2f&c=12634021592967645876&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef0b9d587440a29d42f1ff8c57de54&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F11%2F03%2Fmariela-cespedes-quemada-viva-por-su-expareja-y-arrojada-a-un-canal-el-feminicidio-en-piura-que-vuelve-a-exponer-la-brutal-violencia-machista%2F&c=12634021592967645876&mkt=es-us",
+      "titulo": "Mariela Céspedes, quemada viva por su expareja y arrojada a un canal: el feminicidio en Piura que vuelve a exponer la brutal violencia machista",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-03",
+      "fecha_hecho": null,
+      "snippet": "La víctima murió tras sufrir quemaduras en el 80% de su cuerpo luego de un ataque atribuido a Luis Rivera Arévalo, actualmente detenido. El crimen machista se suma a otros 13 registrados entre septiem ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Piura"
+      ],
+      "score": 3,
+      "query": "bing:feminicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-07 06:29"
     },
     {
       "id": "6cd89abda5baa390",
@@ -4986,6 +5500,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-06 20:04"
+    },
+    {
+      "id": "fa29ab00ccc4a450",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef0b9a37db417c8d9c6a7a18496c5f&url=https%3a%2f%2fcaretas.pe%2fnacional%2fla-libertad-asesinan-a-policia-mientras-patrullaba-en-pataz-pese-a-estado-de-emergencia%2f&c=13207767993896566035&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef0b9a37db417c8d9c6a7a18496c5f&url=https%3A%2F%2Fcaretas.pe%2Fnacional%2Fla-libertad-asesinan-a-policia-mientras-patrullaba-en-pataz-pese-a-estado-de-emergencia%2F&c=13207767993896566035&mkt=es-us",
+      "titulo": "La Libertad: asesinan a policía mientras patrullaba en Pataz pese a estado de emergencia",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-03",
+      "fecha_hecho": null,
+      "snippet": "El suboficial José Antonio Castillo Rodríguez recibió un disparo en la cabeza durante una intervención en el sector La Porfiria, La Libertad.",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "La Libertad"
+      ],
+      "score": 2,
+      "query": "bing:asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-07 06:29"
     },
     {
       "id": "6d4d9ea3c8375750",
@@ -5809,6 +6347,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-06 20:04"
+    },
+    {
+      "id": "7b1d74961542f373",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef0b9d587440a29d42f1ff8c57de54&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f11%2f04%2fcomo-denunciar-la-violencia-de-genero-en-peru-conoce-las-rutas-de-ayuda-y-las-penas-previstas-por-feminicidio%2f&c=4513615904677912814&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef0b9d587440a29d42f1ff8c57de54&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F11%2F04%2Fcomo-denunciar-la-violencia-de-genero-en-peru-conoce-las-rutas-de-ayuda-y-las-penas-previstas-por-feminicidio%2F&c=4513615904677912814&mkt=es-us",
+      "titulo": "Cómo denunciar la violencia de género en Perú: conoce las rutas de ayuda y las penas previstas por feminicidio",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-03",
+      "fecha_hecho": null,
+      "snippet": "La Línea 100, los Centros Emergencia Mujer y las dependencias estatales ofrecen asistencia ante hechos de agresión, cuya sanción puede alcanzar la cadena perpetua ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:feminicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-07 06:29"
     },
     {
       "id": "42601e4e0f7bc67d",
@@ -6948,6 +7508,30 @@
       "agregado": "2026-11-06 20:04"
     },
     {
+      "id": "37068cba1550d753",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef0b8e3dac43bcb1048c2ad3783a64&url=https%3a%2f%2fwww.msn.com%2fes-ar%2fnoticias%2fotras%2fpolic%25C3%25ADa-requisa-c%25C3%25A1rcel-del-norte-de-per%25C3%25BA-luego-de-pelea-entre-presos-que-dej%25C3%25B3-tres-muertos%2far-AA2gBaZM&c=7719507918272021220&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef0b8e3dac43bcb1048c2ad3783a64&url=https%3A%2F%2Fwww.msn.com%2Fes-ar%2Fnoticias%2Fotras%2Fpolic%25C3%25ADa-requisa-c%25C3%25A1rcel-del-norte-de-per%25C3%25BA-luego-de-pelea-entre-presos-que-dej%25C3%25B3-tres-muertos%2Far-AA2gBaZM&c=7719507918272021220&mkt=es-us",
+      "titulo": "Policía requisa cárcel del norte de Perú luego de pelea entre presos que dejó tres muertos",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-02",
+      "fecha_hecho": null,
+      "snippet": "LIMA (AP) — Policías y agentes penitenciarios revisaban el lunes las celdas de una cárcel en el norte de Perú, epicentro de extorsiones, para retirar objetos prohibidos luego de una pelea entre presos ...",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 2,
+      "query": "bing:extorsión Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-07 06:29"
+    },
+    {
       "id": "c56de0dccd1d45a1",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUjV2QUhJUkpnWTc1S1h0WnpGMG9nZVl4bFBFS2dhZkRQWUtqRURYTzk3amlDelFUblRIQURZRXBqZ0p0eTRJUHhaTWxwaE02cFoybmdYR0ZJVEE4akhmay1fbGNuLVJ3Tktsd1hxcE9HOUJNd29JN09jY2FHazFyNDZXd1ctd1ZLd2VKek5wUExQMkV0djFZanBGckh2OE81dHJ3a25BUVMzS3VCVTRiUnRpZHFlWGd3VDFRSW5EcFAtNDht?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUjV2QUhJUkpnWTc1S1h0WnpGMG9nZVl4bFBFS2dhZkRQWUtqRURYTzk3amlDelFUblRIQURZRXBqZ0p0eTRJUHhaTWxwaE02cFoybmdYR0ZJVEE4akhmay1fbGNuLVJ3Tktsd1hxcE9HOUJNd29JN09jY2FHazFyNDZXd1ctd1ZLd2VKek5wUExQMkV0djFZanBGckh2OE81dHJ3a25BUVMzS3VCVTRiUnRpZHFlWGd3VDFRSW5EcFAtNDht",
@@ -8037,6 +8621,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-06 15:54"
+    },
+    {
+      "id": "1eeb4caf89fcdbaf",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef0b9a37db417c8d9c6a7a18496c5f&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f11%2f02%2fincendian-casa-de-implicado-en-triple-asesinato-en-piura-mas-de-30-personas-habrian-participado%2f&c=3544210818720257743&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef0b9a37db417c8d9c6a7a18496c5f&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F11%2F02%2Fincendian-casa-de-implicado-en-triple-asesinato-en-piura-mas-de-30-personas-habrian-participado%2F&c=3544210818720257743&mkt=es-us",
+      "titulo": "Incendian casa de implicado en triple asesinato en Piura: Más de 30 personas habrían participado",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-02",
+      "fecha_hecho": null,
+      "snippet": "Residentes de la zona solicitaron mayor seguridad tras el incendio, mientras continúa la investigación por el ataque contra una camioneta ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Piura"
+      ],
+      "score": 3,
+      "query": "bing:asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-07 06:29"
     },
     {
       "id": "f3cc2486d423dd0c",
@@ -9892,6 +10500,30 @@
       "agregado": "2026-11-06 20:04"
     },
     {
+      "id": "48ff719dab0e5dd0",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef0b9a37db417c8d9c6a7a18496c5f&url=https%3a%2f%2fwww.prensa-latina.cu%2f2026%2f11%2f02%2fdenuncian-deficientes-pesquisas-de-asesinatos-de-periodistas-en-peru%2f&c=16050305014353456532&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef0b9a37db417c8d9c6a7a18496c5f&url=https%3A%2F%2Fwww.prensa-latina.cu%2F2026%2F11%2F02%2Fdenuncian-deficientes-pesquisas-de-asesinatos-de-periodistas-en-peru%2F&c=16050305014353456532&mkt=es-us",
+      "titulo": "Denuncian deficientes pesquisas de asesinatos de periodistas en Perú",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-01",
+      "fecha_hecho": null,
+      "snippet": "Lima, 2 nov (Prensa Latina) La Asociación de Periodistas de Perú (ANP) denunció hoy que las investigaciones de muertes de sus colegas se caracterizan por la negligencia y el letargo, así como la inten ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-07 06:29"
+    },
+    {
       "id": "62404565a4529210",
       "url": "https://diariocorreo.pe/politica/denuncian-a-falso-asesor-por-cobrar-hasta-s15000-con-falsas-ofertas-laborales-en-el-congreso-noticia/",
       "url_canon": "https://diariocorreo.pe/politica/denuncian-a-falso-asesor-por-cobrar-hasta-s15000-con-falsas-ofertas-laborales-en-el-congreso-noticia",
@@ -10239,5 +10871,5 @@
       "agregado": "2026-11-01 19:54"
     }
   ],
-  "n": 442
+  "n": 469
 }
