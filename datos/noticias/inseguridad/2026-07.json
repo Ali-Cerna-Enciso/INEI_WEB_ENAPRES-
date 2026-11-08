@@ -1,6 +1,6 @@
 {
   "mes": "2026-07",
-  "actualizado": "2026-11-07 14:26",
+  "actualizado": "2026-11-07 19:47",
   "items": [
     {
       "id": "1afe8ca6c5860d94",
@@ -1237,6 +1237,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-10-25 11:34"
+    },
+    {
+      "id": "a0cb05acc62b9a7d",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aefc68ce52044b282c617361d0c28cb&url=https%3a%2f%2fkaosenlared.net%2fen-peru-comunidad-amazonica-reporta-asesinato-de-menor-en-operacion-militar%2f&c=14203157718947015264&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aefc68ce52044b282c617361d0c28cb&url=https%3A%2F%2Fkaosenlared.net%2Fen-peru-comunidad-amazonica-reporta-asesinato-de-menor-en-operacion-militar%2F&c=14203157718947015264&mkt=es-us",
+      "titulo": "En Perú, comunidad amazónica reporta asesinato de menor en operación militar",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-07-27",
+      "fecha_hecho": null,
+      "snippet": "La intervención militar se ejecutó este 14 y 15 de julio en el centro poblado Bellavista Callaru, ubicado en la triple frontera con Colombia y Brasil, territorio del pueblo originario Ticuna. Según la ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-07 19:47"
     },
     {
       "id": "a858dbb3ee383d8e",
@@ -8449,6 +8471,32 @@
       "agregado": "2026-11-07 14:26"
     },
     {
+      "id": "5fcd32ad65022fd6",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aefc68a6f6e433596f9e80d5d61e1cf&url=https%3a%2f%2fwww.abc.com.py%2finternacionales%2f2025%2f12%2f22%2fperu-anuncia-un-subsistema-de-justicia-para-enfrentar-extorsion-sicariato-y-secuestro%2f&c=15021620673450360077&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aefc68a6f6e433596f9e80d5d61e1cf&url=https%3A%2F%2Fwww.abc.com.py%2Finternacionales%2F2025%2F12%2F22%2Fperu-anuncia-un-subsistema-de-justicia-para-enfrentar-extorsion-sicariato-y-secuestro%2F&c=15021620673450360077&mkt=es-us",
+      "titulo": "Perú anuncia un \"subsistema de justicia\" para enfrentar extorsión, sicariato y secuestro",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-07-12",
+      "fecha_hecho": null,
+      "snippet": "Lima, 22 dic (EFE).- El Gobierno de Perú creará un \"subsistema de justicia\" que se dedicará a combatir los casos de extorsión, sicariato y secuestro, con el objetivo de tener una respuesta más rápida ...",
+      "temas": [
+        "Extorsión",
+        "Secuestro",
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 7,
+      "query": "bing:sicariato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-07 19:47"
+    },
+    {
       "id": "96b908d4506a9558",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX2E5TGhYbDRDaTdNVTNXa1BWWkdfS3oteGgwZE9rU3hQR05mVVpVQ0VNZFg2UXVPNXVrVTVqTzVfUWVNenZVdkg3RWRJLWJwbXdUc25rTXdsT2dINlREeFFCTGE4Y0wzRWlRTVRGWEZ5RkxmRFdUakFhNjdBUElSTnZKNGhjSGVPS05Qdk5zbVEwQm5Ya3RYZnFKbmVBX1oybFVxWTREakJWOHpTU3B0dXgzUXZRRkVXcFJWemRhM2o?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX2E5TGhYbDRDaTdNVTNXa1BWWkdfS3oteGgwZE9rU3hQR05mVVpVQ0VNZFg2UXVPNXVrVTVqTzVfUWVNenZVdkg3RWRJLWJwbXdUc25rTXdsT2dINlREeFFCTGE4Y0wzRWlRTVRGWEZ5RkxmRFdUakFhNjdBUElSTnZKNGhjSGVPS05Qdk5zbVEwQm5Ya3RYZnFKbmVBX1oybFVxWTREakJWOHpTU3B0dXgzUXZRRkVXcFJWemRhM2o",
@@ -11120,5 +11168,5 @@
       "descartar": false
     }
   ],
-  "n": 477
+  "n": 479
 }
