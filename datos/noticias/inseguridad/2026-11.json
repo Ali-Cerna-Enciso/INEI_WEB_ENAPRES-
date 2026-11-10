@@ -1,7 +1,73 @@
 {
   "mes": "2026-11",
-  "actualizado": "2026-11-10 08:12",
+  "actualizado": "2026-11-10 15:01",
   "items": [
+    {
+      "id": "a6a70e6138d5a957",
+      "url": "https://elcomercio.pe/mundo/europa/nos-han-matado-el-fin-de-novaya-gazeta-el-ultimo-diario-opositor-de-rusia-que-suma-varios-periodistas-asesinados-noticia/",
+      "url_canon": "https://elcomercio.pe/mundo/europa/nos-han-matado-el-fin-de-novaya-gazeta-el-ultimo-diario-opositor-de-rusia-que-suma-varios-periodistas-asesinados-noticia",
+      "titulo": "“Nos han matado”: el fin de Nóvaya Gazeta, el último diario opositor de Rusia que suma varios periodistas asesinados",
+      "fuente": "ElComercio",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "feeds",
+      "fecha_pub": "2026-11-10",
+      "fecha_hecho": null,
+      "snippet": "El medio opositor más importante que quedaba en Rusia cierra sus puertas después de tres décadas debido a la fuerte presión del Kremlin, que lo catalogó como “agente extranjero”. El rotativo ruso tuvo entre sus principal",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "feed:ElComercio",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-10 15:01"
+    },
+    {
+      "id": "5d26c31cc346edef",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af377f123334af8ad9c8d4be6f0c63e&url=https%3a%2f%2fwww.elcomercio.com%2factualidad%2fseguridad%2fquien-era-ronald-farfan-asesinado-huaquillas-antes-mitin-politico%2f&c=707925652240663301&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af377f123334af8ad9c8d4be6f0c63e&url=https%3A%2F%2Fwww.elcomercio.com%2Factualidad%2Fseguridad%2Fquien-era-ronald-farfan-asesinado-huaquillas-antes-mitin-politico%2F&c=707925652240663301&mkt=es-us",
+      "titulo": "¿Quién era Ronald Farfán, asesinado en Huaquillas antes de un mitin político?",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-10",
+      "fecha_hecho": null,
+      "snippet": "Ronald Wilfrido Farfán Becerra fue una figura conocida de la política de Huaquillas, en la provincia de El Oro. Durante más de dos décadas participó en la vida política de este cantón fronterizo con P ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-10 15:01"
+    },
+    {
+      "id": "9378a9dc10bdbe02",
+      "url": "https://elbuho.pe/2026/11/siete-casquillos-y-una-banda-en-fuga-la-balacera-que-desperto-a-yura/",
+      "url_canon": "https://elbuho.pe/2026/11/siete-casquillos-y-una-banda-en-fuga-la-balacera-que-desperto-a-yura",
+      "titulo": "Siete casquillos y una banda en fuga: la balacera que despertó a Yura",
+      "fuente": "ElBuho",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "feeds",
+      "fecha_pub": "2026-11-10",
+      "fecha_hecho": null,
+      "snippet": "Una persecución, dos vehículos abandonados y la busqueda de sujetos que se enfrentaron a efectivos policiales.",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 2,
+      "query": "feed:ElBuho",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-10 15:01"
+    },
     {
       "id": "3ea62a1cb56bf588",
       "url": "https://diariocorreo.pe/edicion/huancayo/policia-nacional-rescata-en-huancayo-a-menor-por-la-que-pedian-unos-7-mil-soles-noticia/",
@@ -26,6 +92,75 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-10 08:12"
+    },
+    {
+      "id": "1889d919f3eba32e",
+      "url": "https://caretas.pe/sociedad/paro-de-transportistas-en-lima-hoy-protestantes-buscan-llegar-al-congreso-para-exigir-medidas-firmes-contra-la-extorsion/",
+      "url_canon": "https://caretas.pe/sociedad/paro-de-transportistas-en-lima-hoy-protestantes-buscan-llegar-al-congreso-para-exigir-medidas-firmes-contra-la-extorsion",
+      "titulo": "Paro de transportistas en Lima HOY: protestantes buscan llegar al Congreso para exigir medidas firmes contra la extorsión",
+      "fuente": "Caretas",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "feeds",
+      "fecha_pub": "2026-11-10",
+      "fecha_hecho": null,
+      "snippet": "Más de 50 empresas de transporte fueron convocadas este martes 10 de noviembre a una movilización hacia el Congreso para exigir medidas… The post Paro de transportistas en Lima HOY: protestantes buscan llegar al Congreso",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "feed:Caretas",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-10 15:01"
+    },
+    {
+      "id": "0a379faeee5ae644",
+      "url": "https://andina.pe/agencia/noticia-papa-leon-xiv-peru-consejos-para-viajar-conseguir-entradas-y-asistir-a-sus-encuentros-1099353.aspx",
+      "url_canon": "https://andina.pe/agencia/noticia-papa-leon-xiv-peru-consejos-para-viajar-conseguir-entradas-y-asistir-a-sus-encuentros-1099353.aspx",
+      "titulo": "Papa León XIV en Perú: consejos para viajar, conseguir entradas y asistir a sus encuentros",
+      "fuente": "Andina",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "feeds",
+      "fecha_pub": "2026-11-10",
+      "fecha_hecho": null,
+      "snippet": "A fin de que la visita del papa León XIV al Perú sea una experiencia grata y memorable para todos los participantes en ella, el gobierno peruano, a través de sus diversas dependencias, hace una serie de recomendaciones r",
+      "temas": [
+        "Estafa"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 2,
+      "query": "feed:Andina",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-10 15:01"
+    },
+    {
+      "id": "1d85c496b4bd366c",
+      "url": "https://elcomercio.pe/lima/transporte/paro-de-transportistas-hoy-10-de-noviembre-50-empresas-del-sector-se-movilizan-contra-extorsion-asesinato-congreso-lbposting-noticia/",
+      "url_canon": "https://elcomercio.pe/lima/transporte/paro-de-transportistas-hoy-10-de-noviembre-50-empresas-del-sector-se-movilizan-contra-extorsion-asesinato-congreso-lbposting-noticia",
+      "titulo": "Movilización de transportistas en vivo en el Congreso: choferes y cobradores protestan en contra extorsión y asesinato",
+      "fuente": "ElComercio",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "feeds",
+      "fecha_pub": "2026-11-10",
+      "fecha_hecho": null,
+      "snippet": "Movilización de transportistas al Congreso en vivo: choferes y cobradores en contra la extorsión y asesinato",
+      "temas": [
+        "Extorsión",
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 5,
+      "query": "feed:ElComercio",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-10 15:01"
     },
     {
       "id": "195865df5ca31b75",
@@ -92,6 +227,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-10 08:11"
+    },
+    {
+      "id": "40a52a74fa259105",
+      "url": "https://rpp.pe/mundo/medio-oriente/iran-niega-su-implicacion-en-los-ataques-a-los-frigorificos-de-la-distribucion-de-francia-noticia-1717046",
+      "url_canon": "https://rpp.pe/mundo/medio-oriente/iran-niega-su-implicacion-en-los-ataques-a-los-frigorificos-de-la-distribucion-de-francia-noticia-1717046",
+      "titulo": "Irán niega su implicación en los ataques a los frigoríficos de la distribución de Francia",
+      "fuente": "RPP",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "feeds",
+      "fecha_pub": "2026-11-10",
+      "fecha_hecho": null,
+      "snippet": "Irán rechaza acusaciones de Francia sobre ciberataques a cadenas de distribución. El gobierno iraní califica las afirmaciones de infundadas y advierte sobre sanciones europeas.",
+      "temas": [
+        "Delito informático"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "feed:RPP",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-10 15:01"
     },
     {
       "id": "3cca778f9110fe98",
@@ -204,6 +361,75 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-10 08:12"
+    },
+    {
+      "id": "4711a963ca1e1c44",
+      "url": "https://diariocorreo.pe/edicion/ica/chincha-cae-requisitoriado-por-violacion-sexual-de-menor-y-otro-por-hurto-agravado-noticia/",
+      "url_canon": "https://diariocorreo.pe/edicion/ica/chincha-cae-requisitoriado-por-violacion-sexual-de-menor-y-otro-por-hurto-agravado-noticia",
+      "titulo": "Chincha: cae requisitoriado por violación sexual de menor y otro por hurto agravado",
+      "fuente": "DiarioCorreo",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "feeds",
+      "fecha_pub": "2026-11-10",
+      "fecha_hecho": null,
+      "snippet": "",
+      "temas": [
+        "Ofensas sexuales"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "feed:DiarioCorreo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-10 15:01"
+    },
+    {
+      "id": "cd821dfcb9edaf2a",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af377e4daa04f4ab81c052afbb68f7c&url=https%3a%2f%2fwww.expreso.com.pe%2factualidad%2fcomando-unificado-captura-cabecilla-banda-callao-unido-extorsion-transportistas-lima-noticia%2f1330656%2f&c=4737277306959786228&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af377e4daa04f4ab81c052afbb68f7c&url=https%3A%2F%2Fwww.expreso.com.pe%2Factualidad%2Fcomando-unificado-captura-cabecilla-banda-callao-unido-extorsion-transportistas-lima-noticia%2F1330656%2F&c=4737277306959786228&mkt=es-us",
+      "titulo": "Capturan a presunto cabecilla de “Callao Unido” y dos integrantes por extorsión a transportistas",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-10",
+      "fecha_hecho": null,
+      "snippet": "Comando Unificado captura a tres presuntos integrantes de “Callao Unido”, investigados por extorsión y sicariato contra transportistas en el Callao.",
+      "temas": [
+        "Extorsión",
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Callao"
+      ],
+      "score": 4,
+      "query": "bing:extorsión Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-10 15:01"
+    },
+    {
+      "id": "4eafe71f57970a8d",
+      "url": "https://rpp.pe/mundo/europa/polonia-autor-del-ataque-en-cracovia-disparo-decenas-quizas-cientos-de-balas-revelo-la-fiscalia-noticia-1716991",
+      "url_canon": "https://rpp.pe/mundo/europa/polonia-autor-del-ataque-en-cracovia-disparo-decenas-quizas-cientos-de-balas-revelo-la-fiscalia-noticia-1716991",
+      "titulo": "Autor del ataque en Cracovia disparó \"decenas, quizás cientos\" de balas, reveló la Fiscalía",
+      "fuente": "RPP",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "feeds",
+      "fecha_pub": "2026-11-10",
+      "fecha_hecho": null,
+      "snippet": "El atentado en Cracovia dejó seis muertos y 15 heridos. El atacante, de 24 años, usó múltiples armas y tenía un arsenal en su poder. Las autoridades investigan posibles motivaciones extremistas.",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 2,
+      "query": "feed:RPP",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-10 15:01"
     },
     {
       "id": "9ee88207c1bc3edf",
@@ -481,6 +707,28 @@
       "agregado": "2026-11-10 08:12"
     },
     {
+      "id": "4a10a267e3ef55b0",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af377ea70fd4e588b7a226711571b7c&url=https%3a%2f%2fwww.msn.com%2fes-cl%2fnoticias%2fotras%2fusaba-otra-identidad-en-per%25C3%25BA-revelan-el-nombre-falso-de-carlitos-nike-pr%25C3%25B3fugo-por-crimen-de-carabinero-palma%2far-AA2h6b6i&c=14543599304973707144&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af377ea70fd4e588b7a226711571b7c&url=https%3A%2F%2Fwww.msn.com%2Fes-cl%2Fnoticias%2Fotras%2Fusaba-otra-identidad-en-per%25C3%25BA-revelan-el-nombre-falso-de-carlitos-nike-pr%25C3%25B3fugo-por-crimen-de-carabinero-palma%2Far-AA2h6b6i&c=14543599304973707144&mkt=es-us",
+      "titulo": "Usaba otra identidad en Perú: revelan el nombre falso de “Carlitos Nike”, prófugo por crimen de carabinero Palma",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-09",
+      "fecha_hecho": null,
+      "snippet": "Se espera que en abril de 2027 comience el juicio contra los cuatro imputados que permanecen detenidos en Chile por los delitos relacionados con el asesinato del suboficial mayor Daniel Palma.",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 2,
+      "query": "bing:secuestro Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-10 15:01"
+    },
+    {
       "id": "9473f5c6b91624b9",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQ3F5S3ZtTDJLUWVTNTBDNkt0aThyVFV5a2VrNFJYbnY4Mnd0NmJyUXpteWg0OWk4ZnlndlhEaFdPXzJKTkF6SjNTU3IyTE9LdXhpNlUzZ2htZkFsSkZyRjNlbkdRTGhKdERSZjRRMjlZZGN6R2p4TVpsbXF3VUt5YjFqNGp6TjM1WWFOLXZuV0tCaHlWYlVpcXVNRFJEaDNIWW5ubXQzR1k0MHF1WnBTWA?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQ3F5S3ZtTDJLUWVTNTBDNkt0aThyVFV5a2VrNFJYbnY4Mnd0NmJyUXpteWg0OWk4ZnlndlhEaFdPXzJKTkF6SjNTU3IyTE9LdXhpNlUzZ2htZkFsSkZyRjNlbkdRTGhKdERSZjRRMjlZZGN6R2p4TVpsbXF3VUt5YjFqNGp6TjM1WWFOLXZuV0tCaHlWYlVpcXVNRFJEaDNIWW5ubXQzR1k0MHF1WnBTWA",
@@ -731,6 +979,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-09 22:42"
+    },
+    {
+      "id": "2dcd71d392643d15",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af377f123334af8ad9c8d4be6f0c63e&url=https%3a%2f%2fwww.prensa-latina.cu%2f2026%2f11%2f10%2fprotesta-contra-frecuentes-asesinatos-de-choferes-en-capital-de-peru%2f&c=4743730285775987264&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af377f123334af8ad9c8d4be6f0c63e&url=https%3A%2F%2Fwww.prensa-latina.cu%2F2026%2F11%2F10%2Fprotesta-contra-frecuentes-asesinatos-de-choferes-en-capital-de-peru%2F&c=4743730285775987264&mkt=es-us",
+      "titulo": "Protesta contra frecuentes asesinatos de choferes en capital de Perú",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-09",
+      "fecha_hecho": null,
+      "snippet": "Lima, 10 nov (Prensa Latina) Caravanas de autobuses y marchas caracterizaron hoy la jornada de protesta convocada por un sector de transportistas de la capital peruana, en demanda de seguridad contra ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-10 15:01"
     },
     {
       "id": "e154817d4fc99c1e",
@@ -1489,6 +1761,28 @@
       "agregado": "2026-11-10 08:12"
     },
     {
+      "id": "2684e5c48a47914e",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af377e4daa04f4ab81c052afbb68f7c&url=https%3a%2f%2fgestion.pe%2fperu%2fgobierno-de-keiko-fujimori-establece-sanciones-por-facilitar-billeteras-digitales-para-extorsiones-noticia%2f&c=1161332834031760964&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af377e4daa04f4ab81c052afbb68f7c&url=https%3A%2F%2Fgestion.pe%2Fperu%2Fgobierno-de-keiko-fujimori-establece-sanciones-por-facilitar-billeteras-digitales-para-extorsiones-noticia%2F&c=1161332834031760964&mkt=es-us",
+      "titulo": "Gobierno establece sanciones a quienes faciliten billeteras digitales para extorsiones",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-09",
+      "fecha_hecho": null,
+      "snippet": "Los dos decretos legislativos, aprobados en el marco de las facultades delegadas, refuerzan la persecución penal contra el crimen organizado y brindan protección procesal inmediata a quienes actúen en ...",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:extorsión Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-10 15:01"
+    },
+    {
       "id": "aacb5e5be7ff487a",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQX1lYdG1CRzhSMl9VUFFfdXExMzFnRkFmTGRfYVNRN1U4S3ZLZ0VYVXdDUHRYUjhHQkxCNWlmYXpTbG56UW5peTNqODNPMU1XX1lCc0VhYi13OXA4SnJxNHpRdkhQZ2l0TFBEVzJyU21Pc0NtNHJzam9UZkVRVjdVSmMzRnR1UnpiTDVuejJuQnpuMHBTZFltVmRWU2dGTVpCekJ3ZkRDSHRUaVJra2lCMFBaTHRTQTZWUVlGZQ?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQX1lYdG1CRzhSMl9VUFFfdXExMzFnRkFmTGRfYVNRN1U4S3ZLZ0VYVXdDUHRYUjhHQkxCNWlmYXpTbG56UW5peTNqODNPMU1XX1lCc0VhYi13OXA4SnJxNHpRdkhQZ2l0TFBEVzJyU21Pc0NtNHJzam9UZkVRVjdVSmMzRnR1UnpiTDVuejJuQnpuMHBTZFltVmRWU2dGTVpCekJ3ZkRDSHRUaVJra2lCMFBaTHRTQTZWUVlGZQ",
@@ -1777,6 +2071,28 @@
       "agregado": "2026-11-10 08:12"
     },
     {
+      "id": "f7a22bdb9eb21e44",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af377e4daa04f4ab81c052afbb68f7c&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f11%2f09%2ffacultades-legislativas-cambia-la-legitima-defensa-y-aumentan-penas-contra-quienes-presten-cuentas-para-recibir-dinero-de-extorsiones%2f&c=3308300228883629617&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af377e4daa04f4ab81c052afbb68f7c&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F11%2F09%2Ffacultades-legislativas-cambia-la-legitima-defensa-y-aumentan-penas-contra-quienes-presten-cuentas-para-recibir-dinero-de-extorsiones%2F&c=3308300228883629617&mkt=es-us",
+      "titulo": "Facultades legislativas: Cambia la “legítima defensa” y aumentan penas contra quienes presten cuentas para recibir dinero de extorsiones",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-09",
+      "fecha_hecho": null,
+      "snippet": "Norma publicada por el Gobierno de Keiko Fujimori también aumenta hasta 15 años las condenas para quienes prestan, alquilan o faciliten armas para cometer crímenes ...",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:extorsión Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-10 15:01"
+    },
+    {
       "id": "92944e05349409ee",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQ3J6ekZSNGVWLWZiQzJXZmFqREZQVjdyX3FHdnBZcWxJTEp0YUpiY0NhUjJYaFlDWUN0NmVpS25YMTk0NkFhdDZMNVNrN2J4UjdZeWpMZ1lxa1lILWFpQ1dHdk5MVUJhWFlhYmMxQXRxN1pRQWw0ckFyMHFSMWpuMS1wUWJqX3BUYk9yakhKc0ZfQUNGYkVkbnVfaGxaWWNETWJEVW5qQm9RRE9IRGl2d2J4QWJLd2dtTV9YYlhoRnFfQ0F4?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQ3J6ekZSNGVWLWZiQzJXZmFqREZQVjdyX3FHdnBZcWxJTEp0YUpiY0NhUjJYaFlDWUN0NmVpS25YMTk0NkFhdDZMNVNrN2J4UjdZeWpMZ1lxa1lILWFpQ1dHdk5MVUJhWFlhYmMxQXRxN1pRQWw0ckFyMHFSMWpuMS1wUWJqX3BUYk9yakhKc0ZfQUNGYkVkbnVfaGxaWWNETWJEVW5qQm9RRE9IRGl2d2J4QWJLd2dtTV9YYlhoRnFfQ0F4",
@@ -1931,6 +2247,28 @@
       "agregado": "2026-11-09 08:32"
     },
     {
+      "id": "ace2ab068968fbe9",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af377f123334af8ad9c8d4be6f0c63e&url=https%3a%2f%2fwww.msn.com%2fes-us%2fnoticias%2fvirales%2fecuador-asesinan-a-candidato-a-alcalde-de-ciudad-fronteriza-con-per%25C3%25BA-a-dos-semanas-de-elecciones%2far-AA2h8Esu&c=16359552204977243237&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af377f123334af8ad9c8d4be6f0c63e&url=https%3A%2F%2Fwww.msn.com%2Fes-us%2Fnoticias%2Fvirales%2Fecuador-asesinan-a-candidato-a-alcalde-de-ciudad-fronteriza-con-per%25C3%25BA-a-dos-semanas-de-elecciones%2Far-AA2h8Esu&c=16359552204977243237&mkt=es-us",
+      "titulo": "Ecuador: asesinan a candidato a alcalde de ciudad fronteriza con Perú a dos semanas de elecciones",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-09",
+      "fecha_hecho": null,
+      "snippet": "QUITO (AP) — Un exalcalde y de nuevo candidato a la alcaldía de Huaquillas, una ciudad ecuatoriana en la frontera con Perú, y un postulante a concejal fueron asesinados a tiros mientras desarrollaban ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 2,
+      "query": "bing:asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-10 15:01"
+    },
+    {
       "id": "647cae5cfb76a9b5",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPU01fUmtDME9tRk5OWmRUTzF6UlFFYWQ1Wm81alhKUERhdTlOVkx4bUZyVU1OWkJOcG9KTEtMQVhuOEVQUEVVOVRaWDRfUmJiNERKRkpIYmxlbWM0Y1AxaUxySllWMjRrLVlWV0VLdndJeUxRcjhhSE5DODN1aVFqNjd2b0d4S2dOWnVySkYyUllqRUQ2QmtNaHgyUHBkTXJjOVlvODkwMEZyblhTTGxpRndfLVdMNkdDTVdmM1JUcGNZWnRySEE0d3NKVGtoMzM1ZUo2YUoxdEVsYmtQ0gHwAUFVX3lxTE9HNVZzNTFsZkVMMHBPTHhuLV92RDQya1BCOVBkWl9hcHJrSmtXNTVCU2tnY0VreERRYVFteHhGZVJEeUFmQ1pVd0U0OVNYOTVDZHNxVDFFRGFIM1BrNnFVbUI3YWdBMk9oUGtjSndFUUJYTW4tSzVZSWp1MGhHT2RzdG9meVcwMkdycWxXejZZX09JRW43NVpnS0JocFM4bENtQUlsXzdqRWlmelE0S3hpaTJGaU16MVFjQmlfRXdBQlJMRmt5UzEtWTMyV2hzRnZ3OU5ybEZmS19yZFdlcVdPNXFTdU5vY0RaUjZrd04taw?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPU01fUmtDME9tRk5OWmRUTzF6UlFFYWQ1Wm81alhKUERhdTlOVkx4bUZyVU1OWkJOcG9KTEtMQVhuOEVQUEVVOVRaWDRfUmJiNERKRkpIYmxlbWM0Y1AxaUxySllWMjRrLVlWV0VLdndJeUxRcjhhSE5DODN1aVFqNjd2b0d4S2dOWnVySkYyUllqRUQ2QmtNaHgyUHBkTXJjOVlvODkwMEZyblhTTGxpRndfLVdMNkdDTVdmM1JUcGNZWnRySEE0d3NKVGtoMzM1ZUo2YUoxdEVsYmtQ0gHwAUFVX3lxTE9HNVZzNTFsZkVMMHBPTHhuLV92RDQya1BCOVBkWl9hcHJrSmtXNTVCU2tnY0VreERRYVFteHhGZVJEeUFmQ1pVd0U0OVNYOTVDZHNxVDFFRGFIM1BrNnFVbUI3YWdBMk9oUGtjSndFUUJYTW4tSzVZSWp1MGhHT2RzdG9meVcwMkdycWxXejZZX09JRW43NVpnS0JocFM4bENtQUlsXzdqRWlmelE0S3hpaTJGaU16MVFjQmlfRXdBQlJMRmt5UzEtWTMyV2hzRnZ3OU5ybEZmS19yZFdlcVdPNXFTdU5vY0RaUjZrd04taw",
@@ -2020,6 +2358,28 @@
       "agregado": "2026-11-09 18:48"
     },
     {
+      "id": "8f592a9db0f2a9f5",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af377f123334af8ad9c8d4be6f0c63e&url=https%3a%2f%2felcomercio.pe%2fmundo%2flatinoamerica%2fecuador-asesinan-a-tomas-beltran-periodista-que-habia-denunciado-amenazas-de-muerte-en-manabi-noticia%2f&c=16420200080277258165&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af377f123334af8ad9c8d4be6f0c63e&url=https%3A%2F%2Felcomercio.pe%2Fmundo%2Flatinoamerica%2Fecuador-asesinan-a-tomas-beltran-periodista-que-habia-denunciado-amenazas-de-muerte-en-manabi-noticia%2F&c=16420200080277258165&mkt=es-us",
+      "titulo": "Ecuador: asesinan a Tomás Beltrán, periodista que había denunciado amenazas de muerte en Manabí",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-09",
+      "fecha_hecho": null,
+      "snippet": "Tomás Beltrán, director del medio digital Calcetines, había recibido amenazas de muerte tras denunciar a una alcaldesa por presunto enriquecimiento ilícito. Dos de sus colaboradores también fueron ase ...",
+      "temas": [
+        "Amenazas e intimidaciones"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-10 15:01"
+    },
+    {
       "id": "11ade46df2f968e2",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbzNIeXgwaGlfNXZIVTd2azNvSTh2azVvSmhwWFE5em1BWUFFS25NQW5haFhLNVl0X04zZEQxNTZNcm4yS0UxcW9ULWtLc3ZhMWR6MEpxT2FoOHZuNzM2TU9qVUhKVjBHN3dNd3h0SDFMX181LWJnRFFVMS1KTTJFSlFlRldDaGw5LXhWa0w1Rnh0MlR2Qm9mbW5JRHZISmFvNFZlN1FNc3VnZmtHWVZnNUc3S1NIcHhlOW5tTEphSUJXQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbzNIeXgwaGlfNXZIVTd2azNvSTh2azVvSmhwWFE5em1BWUFFS25NQW5haFhLNVl0X04zZEQxNTZNcm4yS0UxcW9ULWtLc3ZhMWR6MEpxT2FoOHZuNzM2TU9qVUhKVjBHN3dNd3h0SDFMX181LWJnRFFVMS1KTTJFSlFlRldDaGw5LXhWa0w1Rnh0MlR2Qm9mbW5JRHZISmFvNFZlN1FNc3VnZmtHWVZnNUc3S1NIcHhlOW5tTEphSUJXQQ",
@@ -2084,6 +2444,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-09 08:32"
+    },
+    {
+      "id": "dde7dec73bc585f3",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af377f123334af8ad9c8d4be6f0c63e&url=https%3a%2f%2fwww.primicias.ec%2fpolitica%2fcrimen-ronald-farfan-alcalde-huaquillas-concejal-christian-rugel-extorsion-136803%2f&c=12074751589715454350&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af377f123334af8ad9c8d4be6f0c63e&url=https%3A%2F%2Fwww.primicias.ec%2Fpolitica%2Fcrimen-ronald-farfan-alcalde-huaquillas-concejal-christian-rugel-extorsion-136803%2F&c=12074751589715454350&mkt=es-us",
+      "titulo": "Crimen de Ronald Farfán: qué se sabe del asesinato del candidato a la Alcaldía de Huaquillas",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-09",
+      "fecha_hecho": null,
+      "snippet": "'Lo responsabilizo al 'Chiricuto' si algo me pasa', dijo Ronald Farfán, candidato a la Alcaldía de Huaquillas en un video difundido 12 horas antes del ataque que terminó con su muerte y la del aspiran ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-10 15:01"
     },
     {
       "id": "cfb49e763a59901b",
@@ -2216,6 +2598,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-10 08:12"
+    },
+    {
+      "id": "8232a0060d816235",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af377f3d56a494c80203df30f44f25d&url=https%3a%2f%2fwww.msn.com%2fes-cl%2fnoticias%2fother%2fcon-identidad-falsa-encuentran-en-per%25C3%25BA-a-carlitos-nike-y-a-otro-implicado-en-homicidio-de-suboficial-daniel-palma%2far-AA2h3Shg&c=1475030344089900214&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af377f3d56a494c80203df30f44f25d&url=https%3A%2F%2Fwww.msn.com%2Fes-cl%2Fnoticias%2Fother%2Fcon-identidad-falsa-encuentran-en-per%25C3%25BA-a-carlitos-nike-y-a-otro-implicado-en-homicidio-de-suboficial-daniel-palma%2Far-AA2h3Shg&c=1475030344089900214&mkt=es-us",
+      "titulo": "Con identidad falsa: encuentran en Perú a “Carlitos Nike” y a otro implicado en homicidio de suboficial Daniel Palma",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-09",
+      "fecha_hecho": null,
+      "snippet": "Debido a las alertas de Interpol, la Policía Nacional de Perú detectó a ambos sujetos en un establecimiento penitenciario con nombres falsos.",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:homicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-10 15:01"
     },
     {
       "id": "1a0cdac122f3cb53",
@@ -2508,6 +2912,50 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-09 18:48"
+    },
+    {
+      "id": "612d68c9b79bc524",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af377f123334af8ad9c8d4be6f0c63e&url=https%3a%2f%2fwww.abc.com.py%2finternacionales%2f2026%2f11%2f10%2fasesinan-a-exalcalde-y-a-candidato-a-concejal-de-municipio-ecuatoriano-fronterizo-con-peru%2f&c=14341325998101287485&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af377f123334af8ad9c8d4be6f0c63e&url=https%3A%2F%2Fwww.abc.com.py%2Finternacionales%2F2026%2F11%2F10%2Fasesinan-a-exalcalde-y-a-candidato-a-concejal-de-municipio-ecuatoriano-fronterizo-con-peru%2F&c=14341325998101287485&mkt=es-us",
+      "titulo": "Asesinan a exalcalde y a candidato a concejal de municipio ecuatoriano fronterizo con Perú",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-09",
+      "fecha_hecho": null,
+      "snippet": "Guayaquil (Ecuador), 9 nov (EFE).- Ronald Farfán, exalcalde del municipio ecuatoriano de Huaquillas y actual candidato a ese mismo cargo, y el postulante a concejal Cristhian Rugel fueron asesinados l ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 2,
+      "query": "bing:asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-10 15:01"
+    },
+    {
+      "id": "013d52344edb536c",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af377f123334af8ad9c8d4be6f0c63e&url=https%3a%2f%2fwww.prensa-latina.cu%2f2026%2f11%2f10%2fasesinan-a-dos-candidatos-a-cargos-municipales-en-huaquillas-ecuador%2f&c=6166492746265990994&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af377f123334af8ad9c8d4be6f0c63e&url=https%3A%2F%2Fwww.prensa-latina.cu%2F2026%2F11%2F10%2Fasesinan-a-dos-candidatos-a-cargos-municipales-en-huaquillas-ecuador%2F&c=6166492746265990994&mkt=es-us",
+      "titulo": "Asesinan a dos candidatos a cargos municipales en Huaquillas, Ecuador",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-09",
+      "fecha_hecho": null,
+      "snippet": "Quito, 10 nov (Prensa Latina) Ecuador registra hoy un nuevo episodio de violenciatras el asesinato de dos candidatos a cargos municipales y una comerciante durante un ataque armado ocurrido en Huaquil ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-10 15:01"
     },
     {
       "id": "0847dc874c2d1cf6",
@@ -3062,6 +3510,31 @@
       "agregado": "2026-11-10 08:12"
     },
     {
+      "id": "1bbfea8ba9a899d6",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af377e4daa04f4ab81c052afbb68f7c&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f11%2f09%2fmas-de-50-empresas-de-transporte-publico-de-lima-suspenderan-su-servicio-manana-10-de-noviembre-por-extorsiones%2f&c=411659727779157082&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af377e4daa04f4ab81c052afbb68f7c&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F11%2F09%2Fmas-de-50-empresas-de-transporte-publico-de-lima-suspenderan-su-servicio-manana-10-de-noviembre-por-extorsiones%2F&c=411659727779157082&mkt=es-us",
+      "titulo": "Más de 50 empresas de transporte público de Lima suspenderán su servicio mañana 10 de noviembre por extorsiones",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-08",
+      "fecha_hecho": null,
+      "snippet": "La medida incluye una marcha contra las amenazas y asesinatos de conductores, que comenzará a las 7:00 a. m. cerca de la plaza de Acho y se dirigirá al Congreso, según anunció Anitra ...",
+      "temas": [
+        "Extorsión",
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 5,
+      "query": "bing:extorsión Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-10 15:01"
+    },
+    {
       "id": "518d1feee09482ad",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOGp1S2RnNHVIR2Z3Z1BBYnNpQWVmMGx2YUltd2JzUUJubjFDaHAzVTJCVlJPMW1HVG5zdTVXUlpLWEYxV080LVd1YlRyRGRQYXl1NGlhSjQxYWVJVDRueTM2SzNqT21udi1GaEg4MEpxSEFvbTNlbUxXMWJBWFNsWERJRWQ3VG1wTFcxVnU2MmZQMEFpQm9RTmk4VDUyWXVVY3VEcDdlSTZHZkYyVnc2VnpCbFNHOU9BTWxTQTEzQVlqLWR5MjRtN1g4SGZxVjFBWkhGRGtYOHTSAfMBQVVfeXFMTU1xN2FMNTFSa1RpcEpoTWkwalIxUGR3Q0pLdTl5R0Q0WXhESGg4MmVtNHBMNkpyUUZjMUgwemV4QTluanVRN0M5WjJUSl9UbnpxN2tBOWNHdWZQRF9KZjV4VVY1V3VTcTRGVmFIaEFxMWdEUE5MSmZpWlpmaFhZVndqZ3IzU0l5U3NrYk9xRW1wTTlhT2RjYmVJNGFnYk12QXBtOExjdXNpYlhORVBNV3NGWF9PZWpjaGxzakRjVkNHOTNTUE1EcEhRUk5iY1FaSUF3STVLQ0ZIaXdMNHUyOGIzY2lSZC1lUUtuck5kSUVFUFVR?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOGp1S2RnNHVIR2Z3Z1BBYnNpQWVmMGx2YUltd2JzUUJubjFDaHAzVTJCVlJPMW1HVG5zdTVXUlpLWEYxV080LVd1YlRyRGRQYXl1NGlhSjQxYWVJVDRueTM2SzNqT21udi1GaEg4MEpxSEFvbTNlbUxXMWJBWFNsWERJRWQ3VG1wTFcxVnU2MmZQMEFpQm9RTmk4VDUyWXVVY3VEcDdlSTZHZkYyVnc2VnpCbFNHOU9BTWxTQTEzQVlqLWR5MjRtN1g4SGZxVjFBWkhGRGtYOHTSAfMBQVVfeXFMTU1xN2FMNTFSa1RpcEpoTWkwalIxUGR3Q0pLdTl5R0Q0WXhESGg4MmVtNHBMNkpyUUZjMUgwemV4QTluanVRN0M5WjJUSl9UbnpxN2tBOWNHdWZQRF9KZjV4VVY1V3VTcTRGVmFIaEFxMWdEUE5MSmZpWlpmaFhZVndqZ3IzU0l5U3NrYk9xRW1wTTlhT2RjYmVJNGFnYk12QXBtOExjdXNpYlhORVBNV3NGWF9PZWpjaGxzakRjVkNHOTNTUE1EcEhRUk5iY1FaSUF3STVLQ0ZIaXdMNHUyOGIzY2lSZC1lUUtuck5kSUVFUFVR",
@@ -3151,6 +3624,29 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-09 08:32"
+    },
+    {
+      "id": "7397d129f9a3e34a",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af37806d3f74fb0a47d7713b91032ad&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f11%2f08%2fmas-de-5000-bodegas-han-sido-extorsionadas-en-peru-delincuentes-piden-ahora-cupos-de-s1000-mensuales%2f&c=3962371968810829419&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af37806d3f74fb0a47d7713b91032ad&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F11%2F08%2Fmas-de-5000-bodegas-han-sido-extorsionadas-en-peru-delincuentes-piden-ahora-cupos-de-s1000-mensuales%2F&c=3962371968810829419&mkt=es-us",
+      "titulo": "Más de 5.000 bodegas han sido extorsionadas en Perú: delincuentes piden ahora cupos de S/1.000 mensuales",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-08",
+      "fecha_hecho": null,
+      "snippet": "Las bandas dejaron de exigir pagos únicos de entre S/ 20.000 y S/ 30.000 bajo amenazas de muerte y pasaron a imponer cuotas menores y periódicas a los bodegueros ...",
+      "temas": [
+        "Extorsión",
+        "Amenazas e intimidaciones"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 4,
+      "query": "bing:\"amenazas de muerte\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-10 15:01"
     },
     {
       "id": "45ca1825e5f1c73f",
@@ -3363,6 +3859,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-10 08:12"
+    },
+    {
+      "id": "ee608a539ccded91",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af377f3d56a494c80203df30f44f25d&url=https%3a%2f%2fwww.t13.cl%2fnoticia%2fnacional%2fcaso-homicidio-suboficial-daniel-palma-crimen-sospechoso-carlitos-nike-9-11-2026&c=13779945205756832644&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af377f3d56a494c80203df30f44f25d&url=https%3A%2F%2Fwww.t13.cl%2Fnoticia%2Fnacional%2Fcaso-homicidio-suboficial-daniel-palma-crimen-sospechoso-carlitos-nike-9-11-2026&c=13779945205756832644&mkt=es-us",
+      "titulo": "Fue asesinado en centro de Santiago: El caso del homicidio del suboficial Palma, crimen cuyo sospechoso es 'Carlitos Nike'",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-08",
+      "fecha_hecho": null,
+      "snippet": "El sujeto se encontraba recluido en el Establecimiento Penitenciario de Aucallama desde 2025, en Perú, donde cumplía prisión por delitos de secuestro y extorsión.",
+      "temas": [
+        "Extorsión",
+        "Secuestro",
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 5,
+      "query": "bing:homicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-10 15:01"
     },
     {
       "id": "7f207549d0bacd7e",
@@ -3681,6 +4201,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-09 22:42"
+    },
+    {
+      "id": "bdd0e7e4ff19fc42",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af377f123334af8ad9c8d4be6f0c63e&url=https%3a%2f%2fwww.msn.com%2fes-cl%2fnoticias%2fotras%2fencuentran-a-carlitos-nike-y-a-otro-implicado-en-asesinato-del-som-palma-est%25C3%25A1n-presos-en-per%25C3%25BA%2far-AA2h44kE&c=12307272362541097107&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af377f123334af8ad9c8d4be6f0c63e&url=https%3A%2F%2Fwww.msn.com%2Fes-cl%2Fnoticias%2Fotras%2Fencuentran-a-carlitos-nike-y-a-otro-implicado-en-asesinato-del-som-palma-est%25C3%25A1n-presos-en-per%25C3%25BA%2Far-AA2h44kE&c=12307272362541097107&mkt=es-us",
+      "titulo": "Encuentran a \"Carlitos Nike\" y a otro implicado en asesinato del SOM Palma: están presos en Perú",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-08",
+      "fecha_hecho": null,
+      "snippet": "Dos de los prófugos por el asesinato del suboficial mayor (SOM) Daniel Palma están presos en Perú. Uno de ellos es el delincuente venezolano conocido como “Carlitos Nike”. Se trata de Carlos Alexander ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-10 15:01"
     },
     {
       "id": "d3568506ea01052c",
@@ -4354,6 +4896,28 @@
       "agregado": "2026-11-10 08:12"
     },
     {
+      "id": "d5b5e58529b8f259",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af377f3d56a494c80203df30f44f25d&url=https%3a%2f%2fwww.msn.com%2fes-cl%2fnoticias%2fother%2farrau-por-sospechoso-del-homicidio-del-cabo-palma-detenido-en-per%25C3%25BA-esperamos-que-pueda-ser-extraditado-en-las-pr%25C3%25B3ximas-semanas%2far-AA2h3XcX&c=5764622044740322064&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af377f3d56a494c80203df30f44f25d&url=https%3A%2F%2Fwww.msn.com%2Fes-cl%2Fnoticias%2Fother%2Farrau-por-sospechoso-del-homicidio-del-cabo-palma-detenido-en-per%25C3%25BA-esperamos-que-pueda-ser-extraditado-en-las-pr%25C3%25B3ximas-semanas%2Far-AA2h3XcX&c=5764622044740322064&mkt=es-us",
+      "titulo": "Arrau por sospechoso del homicidio del cabo Palma detenido en Perú: “Esperamos que pueda ser extraditado en las próximas semanas”",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-08",
+      "fecha_hecho": null,
+      "snippet": "Según sostuvo Arrau, este se encontraba detenido en Perú con otra identidad y ya \"se están haciendo todos los procedimientos para que pueda enfrentar la justicia en Chile\".",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:homicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-10 15:01"
+    },
+    {
       "id": "48adc4900ab4593f",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYXo5UW9sRkNjRkN6dUo1VXR3TjNSQkRBQnhFdTZGQ2NUbzlaRldOTks2dHVDcXNGMkxSaVNjYnRIRGRnYlhLczB0RDh0TFhENzNhMDJaMnlHMUczakRRMUR5TzctM0JVUG5tYjJKNUJWbnRrdWhvbmVJNHBTN0ZESnB2VlpIWUpDRXp5bjRrTi16YmcwYy01eHFaakp2M05rTnRNY3hWWGdvQjZ1eGpkbTNCSmpCQ21aZ240ckhNLUpZQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYXo5UW9sRkNjRkN6dUo1VXR3TjNSQkRBQnhFdTZGQ2NUbzlaRldOTks2dHVDcXNGMkxSaVNjYnRIRGRnYlhLczB0RDh0TFhENzNhMDJaMnlHMUczakRRMUR5TzctM0JVUG5tYjJKNUJWbnRrdWhvbmVJNHBTN0ZESnB2VlpIWUpDRXp5bjRrTi16YmcwYy01eHFaakp2M05rTnRNY3hWWGdvQjZ1eGpkbTNCSmpCQ21aZ240ckhNLUpZQQ",
@@ -4845,6 +5409,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-09 22:42"
+    },
+    {
+      "id": "cfa90b33d1c1c8c5",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af3780810814b73b55081a28fe15cdd&url=https%3a%2f%2fwww.exitosanoticias.pe%2fexitosa-peru%2ftrujillo-ataque-armado-distrito-porvenir-deja-una-persona-fallecida-herido-n187780&c=9690200138907371814&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af3780810814b73b55081a28fe15cdd&url=https%3A%2F%2Fwww.exitosanoticias.pe%2Fexitosa-peru%2Ftrujillo-ataque-armado-distrito-porvenir-deja-una-persona-fallecida-herido-n187780&c=9690200138907371814&mkt=es-us",
+      "titulo": "Trujillo: ataque armado en distrito El Porvenir deja una persona fallecida y un herido",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-07",
+      "fecha_hecho": null,
+      "snippet": "Durante la noche del último viernes se registró un ataque armado en una vivienda de El Porvenir, en Trujillo, que dejó a una persona fallecida, presuntamente vinculada a 'Los Pulpos', y a un herido.",
+      "temas": [
+        "Asalto a mano armada"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 2,
+      "query": "bing:\"Los Pulpos\" Trujillo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-10 15:01"
     },
     {
       "id": "ea2df0c3f36f55d2",
@@ -5607,6 +6195,29 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-10 08:12"
+    },
+    {
+      "id": "0d0fbd62e7a0403d",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af377ea70fd4e588b7a226711571b7c&url=https%3a%2f%2fwww.americatv.com.pe%2fnoticias%2factualidad%2fcapturan-cieneguilla-venezolana-secuestro-y-homicidio-n524267&c=12116539459319351595&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af377ea70fd4e588b7a226711571b7c&url=https%3A%2F%2Fwww.americatv.com.pe%2Fnoticias%2Factualidad%2Fcapturan-cieneguilla-venezolana-secuestro-y-homicidio-n524267&c=12116539459319351595&mkt=es-us",
+      "titulo": "Capturan en Cieneguilla a venezolana por secuestro y homicidio",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-07",
+      "fecha_hecho": null,
+      "snippet": "La ciudadana extranjera Francis Misel Hernández Terán, de 23 años de edad y conocida con el alias de 'La Señuelo', fue capturada por la Policía Nacional del Perú durante un operativo realizado en una ...",
+      "temas": [
+        "Secuestro",
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 5,
+      "query": "bing:secuestro Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-10 15:01"
     },
     {
       "id": "b0c1ddd18f06a74e",
@@ -6636,6 +7247,29 @@
       "agregado": "2026-11-10 08:12"
     },
     {
+      "id": "3777b265a8be0c9b",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af377e6fe96494d91e3f720e249e1a0&url=https%3a%2f%2fwww.lapatria.com%2fsucesos%2fluto-en-el-norte-de-caldas-mataron-un-joven-en-peru&c=9711839682003004662&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af377e6fe96494d91e3f720e249e1a0&url=https%3A%2F%2Fwww.lapatria.com%2Fsucesos%2Fluto-en-el-norte-de-caldas-mataron-un-joven-en-peru&c=9711839682003004662&mkt=es-us",
+      "titulo": "Luto en el Norte de Caldas: mataron a un joven en Perú",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-06",
+      "fecha_hecho": null,
+      "snippet": "La Policía Nacional del Perú (PNP) investiga el caso como un presunto ajuste de cuentas entre bandas dedicadas a la extorsión mediante préstamos.",
+      "temas": [
+        "Extorsión",
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 5,
+      "query": "bing:\"gota a gota\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-10 15:01"
+    },
+    {
       "id": "223fc0f4b9bd90b9",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNV2JpNE55a2U5MndmQTFpZVJfRVNPdTJiLWdGUW9QY0lfYXVxamg0V0UxSHg4ZFZoc25aNk5tbW5OWF9FYlFtRWNrelp3YXg4Ql9rbS1SeHBpb21pRkNxSGVZZlR2d3JFbmhiUDBPaFE5YVhqTWU0UWpiaDJVQlltY0Z3TXpNRGRnSVpWMnFWeDY0dGEyLWV4Wks3b2VIeUczMVhxMXhmQlY5RnpIRXd6NkxjNThERDJzY0VOWWU5N1VfTkd5N0g5S2NHNGVRaGdtU1pPLXNR0gHwAUFVX3lxTE1mNUVXVU5RU2JQbUhrZUhFQUJOZXNXSzlBWWhZZk5fNXIwVTktU29Gd0V3aDRRMy04U0NQNmlRd1dLejFzb29TSTdsTmhTNXNpS2gwNG00c3lpS012RWgwS3N6RVFzSUdLODhYWndZWVVNT0s1SG9taGhXbXhtMm9nWlhwaUJOajVZQVpOOU84UTZFMUE3dm9MNGxhUEFtWF8xdmY1bjRpTGQxZ25Id1ljallHbE9BTmtxOC16UDNiOXAwX0RYa1RHX1lKTnNPUklVZVMzbUc3MWNma3JMSDJreWJkZDlPQzZQdVpSQTVLdA?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNV2JpNE55a2U5MndmQTFpZVJfRVNPdTJiLWdGUW9QY0lfYXVxamg0V0UxSHg4ZFZoc25aNk5tbW5OWF9FYlFtRWNrelp3YXg4Ql9rbS1SeHBpb21pRkNxSGVZZlR2d3JFbmhiUDBPaFE5YVhqTWU0UWpiaDJVQlltY0Z3TXpNRGRnSVpWMnFWeDY0dGEyLWV4Wks3b2VIeUczMVhxMXhmQlY5RnpIRXd6NkxjNThERDJzY0VOWWU5N1VfTkd5N0g5S2NHNGVRaGdtU1pPLXNR0gHwAUFVX3lxTE1mNUVXVU5RU2JQbUhrZUhFQUJOZXNXSzlBWWhZZk5fNXIwVTktU29Gd0V3aDRRMy04U0NQNmlRd1dLejFzb29TSTdsTmhTNXNpS2gwNG00c3lpS012RWgwS3N6RVFzSUdLODhYWndZWVVNT0s1SG9taGhXbXhtMm9nWlhwaUJOajVZQVpOOU84UTZFMUE3dm9MNGxhUEFtWF8xdmY1bjRpTGQxZ25Id1ljallHbE9BTmtxOC16UDNiOXAwX0RYa1RHX1lKTnNPUklVZVMzbUc3MWNma3JMSDJreWJkZDlPQzZQdVpSQTVLdA",
@@ -7001,6 +7635,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-09 22:42"
+    },
+    {
+      "id": "3c4931aecd1c1838",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af377f123334af8ad9c8d4be6f0c63e&url=https%3a%2f%2fwww.infobae.com%2fvideo%2fperu%2fconductor-de-combi-es-asesinado-a-balazos-en-la-ciudad%2f2m8ieeJf%2f&c=4998323053277087334&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af377f123334af8ad9c8d4be6f0c63e&url=https%3A%2F%2Fwww.infobae.com%2Fvideo%2Fperu%2Fconductor-de-combi-es-asesinado-a-balazos-en-la-ciudad%2F2m8ieeJf%2F&c=4998323053277087334&mkt=es-us",
+      "titulo": "Conductor de combi es asesinado a balazos en la ciudad",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-06",
+      "fecha_hecho": null,
+      "snippet": "Un conductor de combi fue acribillado en un violento suceso que ha conmocionado a la ciudad. Las autoridades ya se encuentran investigando el caso. - Facebook: Mi Pamplona City ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-10 15:01"
     },
     {
       "id": "676849e2854db0b9",
@@ -7469,6 +8125,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-09 22:42"
+    },
+    {
+      "id": "599a112a5756af90",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af3780810814b73b55081a28fe15cdd&url=https%3a%2f%2flarepublica.pe%2fsociedad%2f2026%2f11%2f06%2fataque-violento-en-vivienda-deja-un-muerto-y-un-herido-en-trujillo-fallecido-seria-integrante-de-los-pulpos-83868&c=639855211460929230&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af3780810814b73b55081a28fe15cdd&url=https%3A%2F%2Flarepublica.pe%2Fsociedad%2F2026%2F11%2F06%2Fataque-violento-en-vivienda-deja-un-muerto-y-un-herido-en-trujillo-fallecido-seria-integrante-de-los-pulpos-83868&c=639855211460929230&mkt=es-us",
+      "titulo": "Ataque violento en vivienda deja un muerto y un herido en Trujillo: fallecido sería integrante de Los Pulpos",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-06",
+      "fecha_hecho": null,
+      "snippet": "La víctima, conocida como 'Pato Cabezon', sería miembro de la organización criminal Los Pulpos. Los hechos sucedieron en una vivienda de la avenida Sánchez Carrión. Es el tercer ataque registrado este ...",
+      "temas": [
+        "Asalto a mano armada"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 2,
+      "query": "bing:\"Los Pulpos\" Trujillo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-10 15:01"
     },
     {
       "id": "0e6003f91f0779fc",
@@ -8204,6 +8884,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-09 22:42"
+    },
+    {
+      "id": "6d393143cffbfdc8",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af3780810814b73b55081a28fe15cdd&url=https%3a%2f%2fdiariocorreo.pe%2fedicion%2fla-libertad%2ftrujillo-envian-a-la-carcel-a-presunto-integrante-de-los-pulpos-noticia%2f&c=13562639140818404718&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af3780810814b73b55081a28fe15cdd&url=https%3A%2F%2Fdiariocorreo.pe%2Fedicion%2Fla-libertad%2Ftrujillo-envian-a-la-carcel-a-presunto-integrante-de-los-pulpos-noticia%2F&c=13562639140818404718&mkt=es-us",
+      "titulo": "Trujillo: Envían a la cárcel a presunto integrante de “Los Pulpos”",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-05",
+      "fecha_hecho": null,
+      "snippet": "Alias “Brunacho” fue enviado al penal El Milagro nueve meses de manera preventiva. Él es investigado por extorsión ...",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 3,
+      "query": "bing:\"Los Pulpos\" Trujillo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-10 15:01"
     },
     {
       "id": "bbf191a40b200817",
@@ -12689,6 +13393,30 @@
       "agregado": "2026-11-10 08:12"
     },
     {
+      "id": "fe7e34d70982e4d4",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af377f406954ae4a823cf509da53e68&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f11%2f03%2fmariela-cespedes-quemada-viva-por-su-expareja-y-arrojada-a-un-canal-el-feminicidio-en-piura-que-vuelve-a-exponer-la-brutal-violencia-machista%2f&c=12634021592967645876&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af377f406954ae4a823cf509da53e68&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F11%2F03%2Fmariela-cespedes-quemada-viva-por-su-expareja-y-arrojada-a-un-canal-el-feminicidio-en-piura-que-vuelve-a-exponer-la-brutal-violencia-machista%2F&c=12634021592967645876&mkt=es-us",
+      "titulo": "Mariela Céspedes, quemada viva por su expareja y arrojada a un canal: el feminicidio en Piura que vuelve a exponer la brutal violencia machista",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-03",
+      "fecha_hecho": null,
+      "snippet": "La víctima murió tras sufrir quemaduras en el 80% de su cuerpo luego de un ataque atribuido a Luis Rivera Arévalo, actualmente detenido. El crimen machista se suma a otros 13 registrados entre septiem ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Piura"
+      ],
+      "score": 3,
+      "query": "bing:feminicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-10 15:01"
+    },
+    {
       "id": "6cd89abda5baa390",
       "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOamNpd09rUWxNX2FfZEVmeHR3QUN0X3d0eE1IdGIwVFhtTEFqbzcwSm8zRU5lQkJZMWEyN2JZODFITzQyWkhXbFZ5c3c3dVNKeXVDQmQ4cGZZenBSNFR4UkJtZGZnaDh4Z1VXRzN3QjhaRVlFQkFoZTF6aS1mWFdBSnpRTExzb214U3ZkWVFkblU2V0hOOF9JY0RWRTlUQ0huZk83Vi1CWnc2UEQ3VWttaEc1ODB6aTIxTWlTZG1GRm9CSzdaRG9XTVQxbng1d2prMkFUNkF6M3lDdmFZanRiQUZXU2Q5TU05YXFTeUtCZnFNeHBHZEoxZmRoenZOcUk5T2NGRHowOFZBbXA2REdPZEV1NXrSAZoCQVVfeXFMTVVweFFIRV9KdjV6MkZaVzN1SC10T29wbTJJMXpjYktzXzFQLU9IR1hqRzdEM2U0NFhaOGlySFJNYU14MHdMWmlBNWRnbTJ6NEtYNzBoUm1TTTVva19LdUM2MXFVeXpNLVM3dENlOXNHd3VUT05nN2E5VGFHNU5pU3VRYS14Wm9fbGM0QzY5Y3hOMUFHalNzZC1XR3kxSEVoeld5VUJsQVd4RG50MTYza2ZBZEUzeHY3ZHVUX2JMcllpcFJVeEp2WHVXZnNoSFo4bzJCUlF2U3ljWW1HVEl2am5oMWdWbVlVbUhUQWVFbmkweWowQl9aaFN1WVkwQmprQjZJSGF3OTlyTGd4dEZQUDVILUJoMzVURmlR?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOamNpd09rUWxNX2FfZEVmeHR3QUN0X3d0eE1IdGIwVFhtTEFqbzcwSm8zRU5lQkJZMWEyN2JZODFITzQyWkhXbFZ5c3c3dVNKeXVDQmQ4cGZZenBSNFR4UkJtZGZnaDh4Z1VXRzN3QjhaRVlFQkFoZTF6aS1mWFdBSnpRTExzb214U3ZkWVFkblU2V0hOOF9JY0RWRTlUQ0huZk83Vi1CWnc2UEQ3VWttaEc1ODB6aTIxTWlTZG1GRm9CSzdaRG9XTVQxbng1d2prMkFUNkF6M3lDdmFZanRiQUZXU2Q5TU05YXFTeUtCZnFNeHBHZEoxZmRoenZOcUk5T2NGRHowOFZBbXA2REdPZEV1NXrSAZoCQVVfeXFMTVVweFFIRV9KdjV6MkZaVzN1SC10T29wbTJJMXpjYktzXzFQLU9IR1hqRzdEM2U0NFhaOGlySFJNYU14MHdMWmlBNWRnbTJ6NEtYNzBoUm1TTTVva19LdUM2MXFVeXpNLVM3dENlOXNHd3VUT05nN2E5VGFHNU5pU3VRYS14Wm9fbGM0QzY5Y3hOMUFHalNzZC1XR3kxSEVoeld5VUJsQVd4RG50MTYza2ZBZEUzeHY3ZHVUX2JMcllpcFJVeEp2WHVXZnNoSFo4bzJCUlF2U3ljWW1HVEl2am5oMWdWbVlVbUhUQWVFbmkweWowQl9aaFN1WVkwQmprQjZJSGF3OTlyTGd4dEZQUDVILUJoMzVURmlR",
@@ -15485,6 +16213,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-08 14:42"
+    },
+    {
+      "id": "4e1ed0e97549357b",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af377f406954ae4a823cf509da53e68&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f11%2f02%2fpolicia-evito-un-presunto-feminicidio-tras-disparar-contra-el-hombre-que-retenia-a-una-mujer%2f&c=11347462161811284034&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af377f406954ae4a823cf509da53e68&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F11%2F02%2Fpolicia-evito-un-presunto-feminicidio-tras-disparar-contra-el-hombre-que-retenia-a-una-mujer%2F&c=11347462161811284034&mkt=es-us",
+      "titulo": "Policía evitó un presunto feminicidio tras disparar contra el hombre que retenía a una mujer",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-02",
+      "fecha_hecho": null,
+      "snippet": "El agente realizó un tiro selectivo después de que una mujer alertara a un patrullero sobre un ataque dentro de un inmueble ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:feminicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-10 15:01"
     },
     {
       "id": "96de1e33451b33e7",
@@ -18980,5 +19730,5 @@
       "agregado": "2026-11-01 19:54"
     }
   ],
-  "n": 824
+  "n": 857
 }
