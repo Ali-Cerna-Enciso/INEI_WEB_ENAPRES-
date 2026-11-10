@@ -1,6 +1,6 @@
 {
   "mes": "2026-11",
-  "actualizado": "2026-11-09 18:48",
+  "actualizado": "2026-11-09 22:43",
   "items": [
     {
       "id": "9ee88207c1bc3edf",
@@ -67,6 +67,51 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-09 18:48"
+    },
+    {
+      "id": "fbafd5127e20c471",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af292a8474f4a50865dfe4f926136bd&url=https%3a%2f%2fwww.chilevision.cl%2fnoticias%2fnacional%2fla-pdi-obtuvo-una-informacion-asi-se-logro-la-identificacion-del-principal-sospechoso-por-el-asesinato-del-cabo-palma%2f&c=11669265783293045408&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af292a8474f4a50865dfe4f926136bd&url=https%3A%2F%2Fwww.chilevision.cl%2Fnoticias%2Fnacional%2Fla-pdi-obtuvo-una-informacion-asi-se-logro-la-identificacion-del-principal-sospechoso-por-el-asesinato-del-cabo-palma%2F&c=11669265783293045408&mkt=es-us",
+      "titulo": "“La PDI obtuvo una información…”: Así se logró la identificación del principal sospechoso por el asesinato del cabo Palma",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-09",
+      "fecha_hecho": null,
+      "snippet": "Este lunes se informó la detención de Carlos Cortez Flores, alias “Carlitos Nike”, principal sospechoso por el asesinato del suboficial mayor Daniel Palma en 2023. El hombre estaba detenido en una cár ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-09 22:42"
+    },
+    {
+      "id": "d83fe97eed3636b9",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNN0dfVkpXZUs3VVNhQUFQMmY0Rjl4LUdfczFXcFlIa3BNM2g1NlM2X3RxdVJBMjRISGNwbGtpU2ZoU2t3Q1NaTHVvVWRKU21sRWplSmV3Nk5kWWZocFZCUGZjZk96c2ZmajN5dzcxUVpLWFJDQ01GbEdsQlV4OEpUZjgwRWc5bEFnUGZHZnk1VmJTcE1sSFV6U0kxdnJpNld4bGJQTEl6WnkzZklTZXQ1NEM5TkJpNHRPVDJQMjhVZHFGQ2JrbVZtOUh0c0NYMXFDa3M2c0p6c3VGNUNRNVhrRWZ4VkwtVzBHY1dmY2tNa2RvdnFOX1VLWGhKY3JZUmtxV3YtRnZiX1prbk1kUktB0gGjAkFVX3lxTE5vZXc3Uk1ZeWdoRHZNSWZpNjczcE9aTEtjSlFHQlNveE5mLXRWaWNMZDBZRVRfaWlVV0FQY2hRMmVVWUFFQ3ZxaVgtSy1vY2JTZFZoTV95WUtTQzM2QWRFMDhQejhEclotNW5TaEZ1bm11VEVqdE5CVENuYkNWQ29VZVNQZG9hY3I4VXRTUHh4MnAza2M1WDNsU2ZLTHFKa0NRcjFFaFZ1ZlRaR1Ewb19nWGN2ZUh5ZW1HTlJSOHc5RzFYQkc1TE1BN3JfV1pIX1FEWUZuZXBLcWRHTDhhaGI2ZDJzMl9MV1VNSFg3MERlRm9kZktxb3FRY0s2UG5ha1ZDNTZoQWxjazhDMGQ2QUg4b0d3Q21ZMjNkWURiZ094dUlCQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNN0dfVkpXZUs3VVNhQUFQMmY0Rjl4LUdfczFXcFlIa3BNM2g1NlM2X3RxdVJBMjRISGNwbGtpU2ZoU2t3Q1NaTHVvVWRKU21sRWplSmV3Nk5kWWZocFZCUGZjZk96c2ZmajN5dzcxUVpLWFJDQ01GbEdsQlV4OEpUZjgwRWc5bEFnUGZHZnk1VmJTcE1sSFV6U0kxdnJpNld4bGJQTEl6WnkzZklTZXQ1NEM5TkJpNHRPVDJQMjhVZHFGQ2JrbVZtOUh0c0NYMXFDa3M2c0p6c3VGNUNRNVhrRWZ4VkwtVzBHY1dmY2tNa2RvdnFOX1VLWGhKY3JZUmtxV3YtRnZiX1prbk1kUktB0gGjAkFVX3lxTE5vZXc3Uk1ZeWdoRHZNSWZpNjczcE9aTEtjSlFHQlNveE5mLXRWaWNMZDBZRVRfaWlVV0FQY2hRMmVVWUFFQ3ZxaVgtSy1vY2JTZFZoTV95WUtTQzM2QWRFMDhQejhEclotNW5TaEZ1bm11VEVqdE5CVENuYkNWQ29VZVNQZG9hY3I4VXRTUHh4MnAza2M1WDNsU2ZLTHFKa0NRcjFFaFZ1ZlRaR1Ewb19nWGN2ZUh5ZW1HTlJSOHc5RzFYQkc1TE1BN3JfV1pIX1FEWUZuZXBLcWRHTDhhaGI2ZDJzMl9MV1VNSFg3MERlRm9kZktxb3FRY0s2UG5ha1ZDNTZoQWxjazhDMGQ2QUg4b0d3Q21ZMjNkWURiZ094dUlCQQ",
+      "titulo": "‘Muñeca de la mafia’: así cayó en Cieneguilla venezolana buscada por secuestro y asesinato - Trome.com",
+      "fuente": "Trome.com",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-09",
+      "fecha_hecho": null,
+      "snippet": "‘Muñeca de la mafia’: así cayó en Cieneguilla venezolana buscada por secuestro y asesinato Trome.com",
+      "temas": [
+        "Secuestro",
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 5,
+      "query": "secuestro Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-09 22:42"
     },
     {
       "id": "a8a459ddc716bc23",
@@ -187,6 +232,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-09 08:32"
+    },
+    {
+      "id": "67639e4affab52bf",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af292a1aae344de9069eb91b3545c9a&url=https%3a%2f%2fwww.msn.com%2fes-cl%2fnoticias%2fotras%2fusaba-otra-identidad-en-per%25C3%25BA-revelan-el-nombre-falso-de-carlitos-nike-pr%25C3%25B3fugo-por-crimen-de-carabinero-palma%2far-AA2h6b6i&c=14543599304973707144&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af292a1aae344de9069eb91b3545c9a&url=https%3A%2F%2Fwww.msn.com%2Fes-cl%2Fnoticias%2Fotras%2Fusaba-otra-identidad-en-per%25C3%25BA-revelan-el-nombre-falso-de-carlitos-nike-pr%25C3%25B3fugo-por-crimen-de-carabinero-palma%2Far-AA2h6b6i&c=14543599304973707144&mkt=es-us",
+      "titulo": "Usaba otra identidad en Perú: revelan el nombre falso de “Carlitos Nike”, prófugo por crimen de carabinero Palma",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-09",
+      "fecha_hecho": null,
+      "snippet": "Se espera que en abril de 2027 comience el juicio contra los cuatro imputados que permanecen detenidos en Chile por los delitos relacionados con el asesinato del suboficial mayor Daniel Palma.",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 2,
+      "query": "bing:secuestro Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-09 22:42"
     },
     {
       "id": "9473f5c6b91624b9",
@@ -348,6 +415,99 @@
       "agregado": "2026-11-09 17:31"
     },
     {
+      "id": "d959366c31548289",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZVlmQS1wWDlJSXh4T0E0aTFTY3ZucmkxR3N3NktvRWRuVEVRbGU5VU1sUXY1Zi12T3loQ01HWmJkSUhra183SVR3bHJ3SVBMdXdDT1pVV19vOUxCQzRoZ0drWkcweHQtencyYlpQMlJNcFRoTXVaSzAyWmxjSG5pRFY1NHhJNVN2SFd1ZnlaczhZcEY5a2FRUUNMOGVWTUsxbGRFcHN5cmdzSjkxQWI5cjVocVh3QUxfT2pUTlRKTFF4UFR6eUh5NnA0SjlkbGFkQmtPeVFKXzVUclNjZ3fSAfgBQVVfeXFMTTVtQkZnRUZDaTZPaXdsbWxseHlNWG1CYmhudFhZUDRFZzNjMWx4OC1oUlBZc0hfZzkyTThXUTQ4emEzY01CWGxkcDFUZGdPcllBYkNWM09NUDNqbjA1c0VNS05WdUlHVHBicHNIUlYtLXZ0YUl6dXdtNVJvUlM5czFVMUtaWEdKVl94Y3dicGFYanRkZjFJb3MxLWNwUEVrMjdxQmlrVWhuUExKX3Yya1ZwT1VyNk1ZbTc3ZWstMERhWGVWb2dubi1PaDB2QXFWdWQyQk9HWndJaUZZcnE5WnZnZEZwb2k0NVRYQnhucnFuNDk1WnN6NEc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZVlmQS1wWDlJSXh4T0E0aTFTY3ZucmkxR3N3NktvRWRuVEVRbGU5VU1sUXY1Zi12T3loQ01HWmJkSUhra183SVR3bHJ3SVBMdXdDT1pVV19vOUxCQzRoZ0drWkcweHQtencyYlpQMlJNcFRoTXVaSzAyWmxjSG5pRFY1NHhJNVN2SFd1ZnlaczhZcEY5a2FRUUNMOGVWTUsxbGRFcHN5cmdzSjkxQWI5cjVocVh3QUxfT2pUTlRKTFF4UFR6eUh5NnA0SjlkbGFkQmtPeVFKXzVUclNjZ3fSAfgBQVVfeXFMTTVtQkZnRUZDaTZPaXdsbWxseHlNWG1CYmhudFhZUDRFZzNjMWx4OC1oUlBZc0hfZzkyTThXUTQ4emEzY01CWGxkcDFUZGdPcllBYkNWM09NUDNqbjA1c0VNS05WdUlHVHBicHNIUlYtLXZ0YUl6dXdtNVJvUlM5czFVMUtaWEdKVl94Y3dicGFYanRkZjFJb3MxLWNwUEVrMjdxQmlrVWhuUExKX3Yya1ZwT1VyNk1ZbTc3ZWstMERhWGVWb2dubi1PaDB2QXFWdWQyQk9HWndJaUZZcnE5WnZnZEZwb2k0NVRYQnhucnFuNDk1WnN6NEc",
+      "titulo": "Sobrino de ‘Makuko Gallardo’ y exconcursante de ‘Yo soy’ cae por extorsión: exigía S/100.000 a familia en Piura - Infobae",
+      "fuente": "Infobae",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-09",
+      "fecha_hecho": null,
+      "snippet": "Sobrino de ‘Makuko Gallardo’ y exconcursante de ‘Yo soy’ cae por extorsión: exigía S/100.000 a familia en Piura Infobae",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Piura"
+      ],
+      "score": 3,
+      "query": "extorsión Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-09 22:42"
+    },
+    {
+      "id": "7f5a9ecf927e9fcc",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdnc4bFE3dGpjOFZXczZFS2pzOXltUUhxSF85MkxUdVY1Q0tiMHBYSDctNUZGMnc5Z0VCQ3p1a3Y4WWRhSWoyaWotUm1NOE5JOEI2VDdSblR5eGxremZ1OGFGYU41eVhPY3BrU196cHN2bEJuN1QtbmZ2djd1MlF4anBZRF8xamxuREl3SlJVcHNuX2VRTGpDVTcyX0dQLURxREVmbWR0Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdnc4bFE3dGpjOFZXczZFS2pzOXltUUhxSF85MkxUdVY1Q0tiMHBYSDctNUZGMnc5Z0VCQ3p1a3Y4WWRhSWoyaWotUm1NOE5JOEI2VDdSblR5eGxremZ1OGFGYU41eVhPY3BrU196cHN2bEJuN1QtbmZ2djd1MlF4anBZRF8xamxuREl3SlJVcHNuX2VRTGpDVTcyX0dQLURxREVmbWR0Zw",
+      "titulo": "Sicarios se graban cuando asesinan a chofer de combi en San Juan de Miraflores: una pasajera resultó herida - Willax",
+      "fuente": "Willax",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-09",
+      "fecha_hecho": null,
+      "snippet": "Sicarios se graban cuando asesinan a chofer de combi en San Juan de Miraflores: una pasajera resultó herida Willax",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "San Juan de Miraflores",
+        "Miraflores"
+      ],
+      "score": 3,
+      "query": "sicariato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-09 22:42"
+    },
+    {
+      "id": "d51a155f2fd59046",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSkQxNFpoQUMwc1RIbVBTb1I4SkIzemd4QmhhZzBrWDBrWEIyRGFzMTc0eXdTcG9fVUZXZmFDNWM5UWc0WW5MemhuMTRFVE5idEVtMFZRQklVQnBjcHp5bFVjc2t4Yk9wc2d5M2NQeV9yMzFId05UWHBuc0NBWWV5akxORGpQYmRsTEhDTm9TdUxkbGp6MFlnQ2tFbGlRZ2RNellfdUV0dkRnWEtwVmVKZUo0QVVzSk5xT2N3Z2pTb20tOGdIUS02alZQakxHTENa?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSkQxNFpoQUMwc1RIbVBTb1I4SkIzemd4QmhhZzBrWDBrWEIyRGFzMTc0eXdTcG9fVUZXZmFDNWM5UWc0WW5MemhuMTRFVE5idEVtMFZRQklVQnBjcHp5bFVjc2t4Yk9wc2d5M2NQeV9yMzFId05UWHBuc0NBWWV5akxORGpQYmRsTEhDTm9TdUxkbGp6MFlnQ2tFbGlRZ2RNellfdUV0dkRnWEtwVmVKZUo0QVVzSk5xT2N3Z2pTb20tOGdIUS02alZQakxHTENa",
+      "titulo": "Secuestraron 120 kilos de carne y un ternero tras allanamientos en Corrientes - El Litoral | Novedades de Corrientes",
+      "fuente": "El Litoral | Novedades de Corrientes",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-09",
+      "fecha_hecho": null,
+      "snippet": "Secuestraron 120 kilos de carne y un ternero tras allanamientos en Corrientes El Litoral | Novedades de Corrientes",
+      "temas": [
+        "Secuestro"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "secuestro Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-09 22:42"
+    },
+    {
+      "id": "42ca0476bcbb529d",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNmw0YXQ2b1B4SFhSMldrNGtEempZN1lHaldNWGZQNE9jMDV4MURrZVhrck10cXFMR2NJR3FDenlNWHJ3SzZlOTk1eGs4dFM0VUxMYjNaY3hiaVJjQ2h4QnI5eHRPY192R3F1X25md0JUd09lVTVpSm1zNUNNTHZYMzcyTE84dTRENV9XQ2Q3WGxpN1dad3p0aUVKcTJuMi1JZi11Y3lhRzNGcGppSDNhaGM1NGpUck45X082dHNEMGxheEpCTHVUZXE0N1NucjkxZmNuckcyQjVJRXJG0gHcAUFVX3lxTE82bDRhdDZvUHhIWFIyV2s0a0R6alk3WUdqV01YZlA0T2MwNXgxRGtlWGtyTXRxcUxHY0lHcUN6eU1YcndLNmU5OTV4azh0UzRVTExiM1pjeGJpUmNDaHhCcjl4dE9jX3ZHcXVfbmZ3QlR3T2VVNWlKbXM1Q01MdlgzNzJMTzh1NEQ1X1dDZDdYbGk3V1p3enRpRUpxMm4yLUlmLXVjeWFHM0ZwamlIM2FoYzU0alRyTjlfTzZ0c0QwbGF4SkJMdVRlcTQ3U25yOTFmY25yRzJCNUlFckY?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNmw0YXQ2b1B4SFhSMldrNGtEempZN1lHaldNWGZQNE9jMDV4MURrZVhrck10cXFMR2NJR3FDenlNWHJ3SzZlOTk1eGs4dFM0VUxMYjNaY3hiaVJjQ2h4QnI5eHRPY192R3F1X25md0JUd09lVTVpSm1zNUNNTHZYMzcyTE84dTRENV9XQ2Q3WGxpN1dad3p0aUVKcTJuMi1JZi11Y3lhRzNGcGppSDNhaGM1NGpUck45X082dHNEMGxheEpCTHVUZXE0N1NucjkxZmNuckcyQjVJRXJG0gHcAUFVX3lxTE82bDRhdDZvUHhIWFIyV2s0a0R6alk3WUdqV01YZlA0T2MwNXgxRGtlWGtyTXRxcUxHY0lHcUN6eU1YcndLNmU5OTV4azh0UzRVTExiM1pjeGJpUmNDaHhCcjl4dE9jX3ZHcXVfbmZ3QlR3T2VVNWlKbXM1Q01MdlgzNzJMTzh1NEQ1X1dDZDdYbGk3V1p3enRpRUpxMm4yLUlmLXVjeWFHM0ZwamlIM2FoYzU0alRyTjlfTzZ0c0QwbGF4SkJMdVRlcTQ3U25yOTFmY25yRzJCNUlFckY",
+      "titulo": "Rescatan a empresario secuestrado en Honduras, exigían $500 mil por su liberación - Infobae",
+      "fuente": "Infobae",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-09",
+      "fecha_hecho": null,
+      "snippet": "Rescatan a empresario secuestrado en Honduras, exigían $500 mil por su liberación Infobae",
+      "temas": [
+        "Secuestro"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "\"robo de vehículo\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-09 22:42"
+    },
+    {
       "id": "e154817d4fc99c1e",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdjh1Qm9BM1g3VURrYTJYWFhydUg1WVpsZjJkSG5qTnMxdnMxUDRXdVlrdE1GbWFUREJZbHdlVTJxNklmcXNPVW1KUFdUUC11UTdVMTh1SFNBSk9oWkFsUEU0aHl1N1VHMDI0ZW1leUtHUlZmbWhMVzVuWXRQaWNPbThfdk1mRFV2cWtBM0ZkbFljSnNBcTZzZUluOEtZV0JFaGh2SURPYnFhcUo0MU9uaDhKOUtHem1aUFRKa0hhNU94clhpeWNwTjlnWF9Hb01tYzRFUnFhc3VuR1NMY2pEbA?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdjh1Qm9BM1g3VURrYTJYWFhydUg1WVpsZjJkSG5qTnMxdnMxUDRXdVlrdE1GbWFUREJZbHdlVTJxNklmcXNPVW1KUFdUUC11UTdVMTh1SFNBSk9oWkFsUEU0aHl1N1VHMDI0ZW1leUtHUlZmbWhMVzVuWXRQaWNPbThfdk1mRFV2cWtBM0ZkbFljSnNBcTZzZUluOEtZV0JFaGh2SURPYnFhcUo0MU9uaDhKOUtHem1aUFRKa0hhNU94clhpeWNwTjlnWF9Hb01tYzRFUnFhc3VuR1NMY2pEbA",
@@ -390,6 +550,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-09 17:31"
+    },
+    {
+      "id": "d329057d937f7c90",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPX3Y2QUxWeEdYRlpTT3lsUXY2eXUwUHNzSUJadUl0SlgzbFUtbjdKNTMySmphWUc0Q3FnclV4U3NfaVFWZEk4SVladHE1LTliNGM4cnYxTGpONVkyWW5MRFJOZUFhclQ5LW05Q0wzNnBMSDZMTGVhSTV6NGtlbHdhdW45VDRaZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPX3Y2QUxWeEdYRlpTT3lsUXY2eXUwUHNzSUJadUl0SlgzbFUtbjdKNTMySmphWUc0Q3FnclV4U3NfaVFWZEk4SVladHE1LTliNGM4cnYxTGpONVkyWW5MRFJOZUFhclQ5LW05Q0wzNnBMSDZMTGVhSTV6NGtlbHdhdW45VDRaZw",
+      "titulo": "Poder Judicial condena a 35 años de cárcel a Los Gallegos por trata de personas y sicariato - Willax",
+      "fuente": "Willax",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-09",
+      "fecha_hecho": null,
+      "snippet": "Poder Judicial condena a 35 años de cárcel a Los Gallegos por trata de personas y sicariato Willax",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "sicariato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-09 22:42"
     },
     {
       "id": "ab431bbca7d27b8b",
@@ -480,6 +662,28 @@
       "agregado": "2026-11-09 17:31"
     },
     {
+      "id": "5f36b7fe9d5f5b3b",
+      "url": "https://elcomercio.pe/luces/musica/milena-warton-cuestiono-sistema-legal-peruano-para-atender-denuncias-de-violencia-digital-ultimas-noticia/",
+      "url_canon": "https://elcomercio.pe/luces/musica/milena-warton-cuestiono-sistema-legal-peruano-para-atender-denuncias-de-violencia-digital-ultimas-noticia",
+      "titulo": "Milena Warton cuestionó sistema legal peruano para atender denuncias de violencia digital",
+      "fuente": "ElComercio",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "feeds",
+      "fecha_pub": "2026-11-09",
+      "fecha_hecho": null,
+      "snippet": "La cantante nacional cuestionó la respuesta del sistema legal peruano frente a los ataques digitales y convocó a otras víctimas de ciberacoso a compartir sus testimonios.",
+      "temas": [
+        "Ciberacoso"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 2,
+      "query": "feed:ElComercio",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-09 22:43"
+    },
+    {
       "id": "4a17f2045ee2184a",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUEgzaVV0ZmNfRVBLLVNIcnRIT3NLbFVCaW9hOFcxcnRqU25LNE5sWmQ1SGRzUFJVdVRpUkxlYndTMXFfcHlWWGhqVkJONUhnYUhDbFRGN3dKcmJvZXMzaG03dkFHTFBCWVBoZ3JUaUwzSFp3NkhpR0xfYXBoeW14aHFQLXJ3Y3FEVHRn?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUEgzaVV0ZmNfRVBLLVNIcnRIT3NLbFVCaW9hOFcxcnRqU25LNE5sWmQ1SGRzUFJVdVRpUkxlYndTMXFfcHlWWGhqVkJONUhnYUhDbFRGN3dKcmJvZXMzaG03dkFHTFBCWVBoZ3JUaUwzSFp3NkhpR0xfYXBoeW14aHFQLXJ3Y3FEVHRn",
@@ -566,6 +770,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-09 17:32"
+    },
+    {
+      "id": "d69a7eb8b9c3f2eb",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQb3JWTlJHbjg5UW5BX18yWE9kMi14dU5YQ0hEdEl4UEhDT29qdWZCNndnVm1Cci1LOWVFV2pNN0ZWVDRXNkV3STh5ZnpvcEhfY3lnOXJmUW5Zd2xmNDBNTFptaVYzb3VKZFlmcjRBdU1qcWJwQURtM01jbkdRU2tsOGN3ZHFBVXRJQVdSSzZQVmZzN1ZvcWp1ZDNyZ0dlSVFPZEl5c29MeWJsOG1GMVpMX2k4eURtQVdfYmgtOTV6VDEtSlJwQnJjOVRpQW1zSXB0eXVyaUhzdWVUVm5TT3c?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQb3JWTlJHbjg5UW5BX18yWE9kMi14dU5YQ0hEdEl4UEhDT29qdWZCNndnVm1Cci1LOWVFV2pNN0ZWVDRXNkV3STh5ZnpvcEhfY3lnOXJmUW5Zd2xmNDBNTFptaVYzb3VKZFlmcjRBdU1qcWJwQURtM01jbkdRU2tsOGN3ZHFBVXRJQVdSSzZQVmZzN1ZvcWp1ZDNyZ0dlSVFPZEl5c29MeWJsOG1GMVpMX2k4eURtQVdfYmgtOTV6VDEtSlJwQnJjOVRpQW1zSXB0eXVyaUhzdWVUVm5TT3c",
+      "titulo": "La Fiscalía pide cadena perpetua para el sicario que asesinó al chofer de la empresa \"Los Rojitos\" y dos pasajeras - Diario UNO",
+      "fuente": "Diario UNO",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-09",
+      "fecha_hecho": null,
+      "snippet": "La Fiscalía pide cadena perpetua para el sicario que asesinó al chofer de la empresa \"Los Rojitos\" y dos pasajeras Diario UNO",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "sicariato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-09 22:42"
     },
     {
       "id": "f1de8b3a36b7fd81",
@@ -707,6 +933,29 @@
       "agregado": "2026-11-09 17:32"
     },
     {
+      "id": "d74072856c217b0f",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af292a8474f4a50865dfe4f926136bd&url=https%3a%2f%2felcomercio.pe%2flima%2ftransporte%2fgremio-de-transportistas-anuncian-marcha-este-martes-10-de-noviembre-contra-las-extorsiones-y-asesinatos-de-choferes-ultimas-noticia%2f&c=17514323715008938524&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af292a8474f4a50865dfe4f926136bd&url=https%3A%2F%2Felcomercio.pe%2Flima%2Ftransporte%2Fgremio-de-transportistas-anuncian-marcha-este-martes-10-de-noviembre-contra-las-extorsiones-y-asesinatos-de-choferes-ultimas-noticia%2F&c=17514323715008938524&mkt=es-us",
+      "titulo": "Gremio de transportistas anuncian marcha este martes 10 de noviembre contra las extorsiones y asesinatos de choferes",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-09",
+      "fecha_hecho": null,
+      "snippet": "Anitra convocó a una movilización para este martes 10 de noviembre contra las extorsiones y los asesinatos de transportistas. Más de 50 empresas suspenderán sus servicios y marcharán desde la plaza de ...",
+      "temas": [
+        "Extorsión",
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 5,
+      "query": "bing:asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-09 22:42"
+    },
+    {
       "id": "6486671f99e55cb9",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af249d88d0e4b73a6804220871deafb&url=https%3a%2f%2fdiariocorreo.pe%2fpolitica%2fgobierno-sancionara-a-quienes-faciliten-billeteras-digitales-para-cometer-extorsiones-noticia%2f&c=1706078206029792317&mkt=es-us",
       "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af249d88d0e4b73a6804220871deafb&url=https%3A%2F%2Fdiariocorreo.pe%2Fpolitica%2Fgobierno-sancionara-a-quienes-faciliten-billeteras-digitales-para-cometer-extorsiones-noticia%2F&c=1706078206029792317&mkt=es-us",
@@ -771,6 +1020,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-09 18:48"
+    },
+    {
+      "id": "ddfe784b96c23ec3",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af2929cb3064ea2a4111567037e5717&url=https%3a%2f%2fdiariocorreo.pe%2fpolitica%2fgobierno-sancionara-a-quienes-faciliten-billeteras-digitales-para-cometer-extorsiones-noticia%2f&c=1706078206029792317&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af2929cb3064ea2a4111567037e5717&url=https%3A%2F%2Fdiariocorreo.pe%2Fpolitica%2Fgobierno-sancionara-a-quienes-faciliten-billeteras-digitales-para-cometer-extorsiones-noticia%2F&c=1706078206029792317&mkt=es-us",
+      "titulo": "Gobierno sancionará a quienes faciliten billeteras digitales para cometer extorsiones",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-09",
+      "fecha_hecho": null,
+      "snippet": "Ambos decretos legislaticos, aprobados en el marco de las facultades delegadas, buscan fortalecer las acciones penales contra el crimen organizado y ofrecer respaldo procesal inmediato a quienes se de ...",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:extorsión Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-09 22:42"
     },
     {
       "id": "82496eb64ba5a705",
@@ -927,6 +1198,28 @@
       "agregado": "2026-11-09 18:48"
     },
     {
+      "id": "dd9e4ebcac60aafb",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af2929cb3064ea2a4111567037e5717&url=https%3a%2f%2fgestion.pe%2fperu%2fgobierno-de-keiko-fujimori-establece-sanciones-por-facilitar-billeteras-digitales-para-extorsiones-noticia%2f&c=1161332834031760964&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af2929cb3064ea2a4111567037e5717&url=https%3A%2F%2Fgestion.pe%2Fperu%2Fgobierno-de-keiko-fujimori-establece-sanciones-por-facilitar-billeteras-digitales-para-extorsiones-noticia%2F&c=1161332834031760964&mkt=es-us",
+      "titulo": "Gobierno establece sanciones a quienes faciliten billeteras digitales para extorsiones",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-09",
+      "fecha_hecho": null,
+      "snippet": "Los dos decretos legislativos, aprobados en el marco de las facultades delegadas, refuerzan la persecución penal contra el crimen organizado y brindan protección procesal inmediata a quienes actúen en ...",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:extorsión Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-09 22:42"
+    },
+    {
       "id": "aacb5e5be7ff487a",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQX1lYdG1CRzhSMl9VUFFfdXExMzFnRkFmTGRfYVNRN1U4S3ZLZ0VYVXdDUHRYUjhHQkxCNWlmYXpTbG56UW5peTNqODNPMU1XX1lCc0VhYi13OXA4SnJxNHpRdkhQZ2l0TFBEVzJyU21Pc0NtNHJzam9UZkVRVjdVSmMzRnR1UnpiTDVuejJuQnpuMHBTZFltVmRWU2dGTVpCekJ3ZkRDSHRUaVJra2lCMFBaTHRTQTZWUVlGZQ?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQX1lYdG1CRzhSMl9VUFFfdXExMzFnRkFmTGRfYVNRN1U4S3ZLZ0VYVXdDUHRYUjhHQkxCNWlmYXpTbG56UW5peTNqODNPMU1XX1lCc0VhYi13OXA4SnJxNHpRdkhQZ2l0TFBEVzJyU21Pc0NtNHJzam9UZkVRVjdVSmMzRnR1UnpiTDVuejJuQnpuMHBTZFltVmRWU2dGTVpCekJ3ZkRDSHRUaVJra2lCMFBaTHRTQTZWUVlGZQ",
@@ -997,6 +1290,32 @@
       "agregado": "2026-11-09 17:31"
     },
     {
+      "id": "0764acfa9983de55",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNT2VsTDEwcjJQLUJEaDVRRTFWZEJxZzYxX1JVLTZRcnF4Mkpla3NEa0xCbDNoM0EzN0R5M191cnBoVEI2SzVjSVpTUFNLSnktT0tUVVVLSnlhNU13ZzlTci1IZFZ0X1ZCZlNSbFZCcUxhMVlENWpHQVNRVmpJYjhtdTlqYU83QXFlVXJCcUtONW9NejVHUE9vLUpJdkdmTTNLcDZEY05ab1dJTXZEV18zcFQ5d3JZc1BlZi1pbXNlcXNpZVJMWHlMeXlfRy1CSGszY2FIRlZBUW5NV1VwLWhhbUE3bFBqc0tDY24tWDlyUks5bWJWUU9aODNtOXZWblhJUU1JdUFtazlTQ19iZVFla0Y5TFlULWPSAZcCQVVfeXFMTU9lbEwxMHIyUC1CRGg1UUUxVmRCcWc2MV9SVS02UXJxeDJKZWtzRGtMQmwzaDNBMzdEeTNfdXJwaFRCNks1Y0laU1BTS0p5LU9LVFVVS0p5YTVNd2c5U3ItSGRWdF9WQmZTUmxWQnFMYTFZRDVqR0FTUVZqSWI4bXU5amFPN0FxZVVyQnFLTjVvTXo1R1BPby1KSXZHZk0zS3A2RGNOWm9XSU12RFdfM3BUOXdyWXNQZWYtaW1zZXFzaWVSTFh5THl5X0ctQkhrM2NhSEZWQVFuTVdVcC1oYW1BN2xQanNLQ2NuLVg5clJLOW1iVlFPWjgzbTl2Vm5YSVFNSXVBbWs5U0NfYmVRZWtGOUxZVC1j?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNT2VsTDEwcjJQLUJEaDVRRTFWZEJxZzYxX1JVLTZRcnF4Mkpla3NEa0xCbDNoM0EzN0R5M191cnBoVEI2SzVjSVpTUFNLSnktT0tUVVVLSnlhNU13ZzlTci1IZFZ0X1ZCZlNSbFZCcUxhMVlENWpHQVNRVmpJYjhtdTlqYU83QXFlVXJCcUtONW9NejVHUE9vLUpJdkdmTTNLcDZEY05ab1dJTXZEV18zcFQ5d3JZc1BlZi1pbXNlcXNpZVJMWHlMeXlfRy1CSGszY2FIRlZBUW5NV1VwLWhhbUE3bFBqc0tDY24tWDlyUks5bWJWUU9aODNtOXZWblhJUU1JdUFtazlTQ19iZVFla0Y5TFlULWPSAZcCQVVfeXFMTU9lbEwxMHIyUC1CRGg1UUUxVmRCcWc2MV9SVS02UXJxeDJKZWtzRGtMQmwzaDNBMzdEeTNfdXJwaFRCNks1Y0laU1BTS0p5LU9LVFVVS0p5YTVNd2c5U3ItSGRWdF9WQmZTUmxWQnFMYTFZRDVqR0FTUVZqSWI4bXU5amFPN0FxZVVyQnFLTjVvTXo1R1BPby1KSXZHZk0zS3A2RGNOWm9XSU12RFdfM3BUOXdyWXNQZWYtaW1zZXFzaWVSTFh5THl5X0ctQkhrM2NhSEZWQVFuTVdVcC1oYW1BN2xQanNLQ2NuLVg5clJLOW1iVlFPWjgzbTl2Vm5YSVFNSXVBbWs5U0NfYmVRZWtGOUxZVC1j",
+      "titulo": "Fiscalía investiga presunto feminicidio de joven de 20 años hallada sin vida en descampado de San Martín de Porres - La República",
+      "fuente": "La República",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-09",
+      "fecha_hecho": null,
+      "snippet": "Fiscalía investiga presunto feminicidio de joven de 20 años hallada sin vida en descampado de San Martín de Porres La República",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "San Martín de Porres",
+        "San Martín",
+        "San Martin"
+      ],
+      "score": 3,
+      "query": "feminicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-09 22:42"
+    },
+    {
       "id": "8da871cf337166d5",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af249e8d6ea4008acd8d71abed23942&url=https%3a%2f%2flarepublica.pe%2fsociedad%2f2026%2f11%2f09%2fjoven-de-20-anos-es-hallada-sin-vida-en-descampado-de-smp-sus-amigas-rastrearon-la-ubicacion-en-tiempo-real-que-compartio-por-whatsapp-558954&c=1542697659192933443&mkt=es-us",
       "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af249e8d6ea4008acd8d71abed23942&url=https%3A%2F%2Flarepublica.pe%2Fsociedad%2F2026%2F11%2F09%2Fjoven-de-20-anos-es-hallada-sin-vida-en-descampado-de-smp-sus-amigas-rastrearon-la-ubicacion-en-tiempo-real-que-compartio-por-whatsapp-558954&c=1542697659192933443&mkt=es-us",
@@ -1049,6 +1368,32 @@
       "agregado": "2026-11-09 18:48"
     },
     {
+      "id": "a4a5db34ccbd1764",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af292ac1b71421aa3c327469fed6802&url=https%3a%2f%2flarepublica.pe%2fsociedad%2f2026%2f11%2f09%2fjoven-de-20-anos-es-hallada-sin-vida-en-descampado-de-smp-sus-amigas-rastrearon-la-ubicacion-en-tiempo-real-que-compartio-por-whatsapp-558954&c=1542697659192933443&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af292ac1b71421aa3c327469fed6802&url=https%3A%2F%2Flarepublica.pe%2Fsociedad%2F2026%2F11%2F09%2Fjoven-de-20-anos-es-hallada-sin-vida-en-descampado-de-smp-sus-amigas-rastrearon-la-ubicacion-en-tiempo-real-que-compartio-por-whatsapp-558954&c=1542697659192933443&mkt=es-us",
+      "titulo": "Fiscalía investiga presunto feminicidio de joven de 20 años hallada sin vida en descampado de San Martín de Porres",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-09",
+      "fecha_hecho": null,
+      "snippet": "Yestelin Torres Común, estudiante de Comunicación Audiovisual, fue hallada sin vida en San Martín de Porres. La joven fue víctima de un presunto feminicidio y su amigo es el principal sospechoso.",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "San Martín de Porres",
+        "San Martín",
+        "San Martin"
+      ],
+      "score": 3,
+      "query": "bing:feminicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-09 22:42"
+    },
+    {
       "id": "c41a57b0fb8f5a63",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af249d88d0e4b73a6804220871deafb&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f11%2f09%2ffacultades-legislativas-cambia-la-legitima-defensa-y-aumentan-penas-contra-quienes-presten-cuentas-para-recibir-dinero-de-extorsiones%2f&c=3308300228883629617&mkt=es-us",
       "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af249d88d0e4b73a6804220871deafb&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F11%2F09%2Ffacultades-legislativas-cambia-la-legitima-defensa-y-aumentan-penas-contra-quienes-presten-cuentas-para-recibir-dinero-de-extorsiones%2F&c=3308300228883629617&mkt=es-us",
@@ -1093,6 +1438,28 @@
       "agregado": "2026-11-09 18:48"
     },
     {
+      "id": "cda6211d156e0a9d",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af2929cb3064ea2a4111567037e5717&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f11%2f09%2ffacultades-legislativas-cambia-la-legitima-defensa-y-aumentan-penas-contra-quienes-presten-cuentas-para-recibir-dinero-de-extorsiones%2f&c=3308300228883629617&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af2929cb3064ea2a4111567037e5717&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F11%2F09%2Ffacultades-legislativas-cambia-la-legitima-defensa-y-aumentan-penas-contra-quienes-presten-cuentas-para-recibir-dinero-de-extorsiones%2F&c=3308300228883629617&mkt=es-us",
+      "titulo": "Facultades legislativas: Cambia la “legítima defensa” y aumentan penas contra quienes presten cuentas para recibir dinero de extorsiones",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-09",
+      "fecha_hecho": null,
+      "snippet": "Norma publicada por el Gobierno de Keiko Fujimori también aumenta hasta 15 años las condenas para quienes prestan, alquilan o faciliten armas para cometer crímenes ...",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:extorsión Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-09 22:42"
+    },
+    {
       "id": "92944e05349409ee",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQ3J6ekZSNGVWLWZiQzJXZmFqREZQVjdyX3FHdnBZcWxJTEp0YUpiY0NhUjJYaFlDWUN0NmVpS25YMTk0NkFhdDZMNVNrN2J4UjdZeWpMZ1lxa1lILWFpQ1dHdk5MVUJhWFlhYmMxQXRxN1pRQWw0ckFyMHFSMWpuMS1wUWJqX3BUYk9yakhKc0ZfQUNGYkVkbnVfaGxaWWNETWJEVW5qQm9RRE9IRGl2d2J4QWJLd2dtTV9YYlhoRnFfQ0F4?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQ3J6ekZSNGVWLWZiQzJXZmFqREZQVjdyX3FHdnBZcWxJTEp0YUpiY0NhUjJYaFlDWUN0NmVpS25YMTk0NkFhdDZMNVNrN2J4UjdZeWpMZ1lxa1lILWFpQ1dHdk5MVUJhWFlhYmMxQXRxN1pRQWw0ckFyMHFSMWpuMS1wUWJqX3BUYk9yakhKc0ZfQUNGYkVkbnVfaGxaWWNETWJEVW5qQm9RRE9IRGl2d2J4QWJLd2dtTV9YYlhoRnFfQ0F4",
@@ -1113,6 +1480,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-09 08:32"
+    },
+    {
+      "id": "a4a299090b1e1781",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVFBuT2psbEJWS2h0WEQ5N3NXUXVzYkxvbEpEN2pvVUpEN2pBU0NqbFpqdGFiUm1LMlcwQmoyeVQtck9IRjdCR1RIUGhiRG4zSjVUMkhacFNfc1Q0bkY4VUMzT0djTkpQLU9ZM0U5RThsMFRSaWh3RUs4MGF4TzdreHplWV8xemFpRUNDN09FalhFOVBQb21QbFhBNjM3NEVjQmRN?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVFBuT2psbEJWS2h0WEQ5N3NXUXVzYkxvbEpEN2pvVUpEN2pBU0NqbFpqdGFiUm1LMlcwQmoyeVQtck9IRjdCR1RIUGhiRG4zSjVUMkhacFNfc1Q0bkY4VUMzT0djTkpQLU9ZM0U5RThsMFRSaWh3RUs4MGF4TzdreHplWV8xemFpRUNDN09FalhFOVBQb21QbFhBNjM3NEVjQmRN",
+      "titulo": "Exconcursante de 'Yo soy' es capturado por presunta extorsión: exigía S/50 mil a una mujer - Perú 21",
+      "fuente": "Perú 21",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-09",
+      "fecha_hecho": null,
+      "snippet": "Exconcursante de 'Yo soy' es capturado por presunta extorsión: exigía S/50 mil a una mujer Perú 21",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "extorsión Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-09 22:42"
     },
     {
       "id": "1b01522c5cf095b1",
@@ -1466,6 +1855,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-09 18:48"
+    },
+    {
+      "id": "655985eb5159eae8",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af292aaeb29473a8a9b94a9cb98893b&url=https%3a%2f%2fwww.msn.com%2fes-cl%2fnoticias%2fotras%2fcon-identidad-falsa-encuentran-en-per%25C3%25BA-a-carlitos-nike-y-a-otro-implicado-en-homicidio-de-suboficial-daniel-palma%2far-AA2h3Shg&c=16314981615947189646&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af292aaeb29473a8a9b94a9cb98893b&url=https%3A%2F%2Fwww.msn.com%2Fes-cl%2Fnoticias%2Fotras%2Fcon-identidad-falsa-encuentran-en-per%25C3%25BA-a-carlitos-nike-y-a-otro-implicado-en-homicidio-de-suboficial-daniel-palma%2Far-AA2h3Shg&c=16314981615947189646&mkt=es-us",
+      "titulo": "Con identidad falsa: encuentran en Perú a “Carlitos Nike” y a otro implicado en homicidio de suboficial Daniel Palma",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-09",
+      "fecha_hecho": null,
+      "snippet": "Debido a las alertas de Interpol, la Policía Nacional de Perú detectó a ambos sujetos en un establecimiento penitenciario con nombres falsos.",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:homicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-09 22:42"
     },
     {
       "id": "1a0cdac122f3cb53",
@@ -2194,6 +2605,31 @@
       "agregado": "2026-11-09 18:48"
     },
     {
+      "id": "8d287bd5d4dba98a",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af2929cb3064ea2a4111567037e5717&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f11%2f09%2fmas-de-50-empresas-de-transporte-publico-de-lima-suspenderan-su-servicio-manana-10-de-noviembre-por-extorsiones%2f&c=411659727779157082&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af2929cb3064ea2a4111567037e5717&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F11%2F09%2Fmas-de-50-empresas-de-transporte-publico-de-lima-suspenderan-su-servicio-manana-10-de-noviembre-por-extorsiones%2F&c=411659727779157082&mkt=es-us",
+      "titulo": "Más de 50 empresas de transporte público de Lima suspenderán su servicio mañana 10 de noviembre por extorsiones",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-08",
+      "fecha_hecho": null,
+      "snippet": "La medida incluye una marcha contra las amenazas y asesinatos de conductores, que comenzará a las 7:00 a. m. cerca de la plaza de Acho y se dirigirá al Congreso, según anunció Anitra ...",
+      "temas": [
+        "Extorsión",
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 5,
+      "query": "bing:extorsión Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-09 22:42"
+    },
+    {
       "id": "518d1feee09482ad",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOGp1S2RnNHVIR2Z3Z1BBYnNpQWVmMGx2YUltd2JzUUJubjFDaHAzVTJCVlJPMW1HVG5zdTVXUlpLWEYxV080LVd1YlRyRGRQYXl1NGlhSjQxYWVJVDRueTM2SzNqT21udi1GaEg4MEpxSEFvbTNlbUxXMWJBWFNsWERJRWQ3VG1wTFcxVnU2MmZQMEFpQm9RTmk4VDUyWXVVY3VEcDdlSTZHZkYyVnc2VnpCbFNHOU9BTWxTQTEzQVlqLWR5MjRtN1g4SGZxVjFBWkhGRGtYOHTSAfMBQVVfeXFMTU1xN2FMNTFSa1RpcEpoTWkwalIxUGR3Q0pLdTl5R0Q0WXhESGg4MmVtNHBMNkpyUUZjMUgwemV4QTluanVRN0M5WjJUSl9UbnpxN2tBOWNHdWZQRF9KZjV4VVY1V3VTcTRGVmFIaEFxMWdEUE5MSmZpWlpmaFhZVndqZ3IzU0l5U3NrYk9xRW1wTTlhT2RjYmVJNGFnYk12QXBtOExjdXNpYlhORVBNV3NGWF9PZWpjaGxzakRjVkNHOTNTUE1EcEhRUk5iY1FaSUF3STVLQ0ZIaXdMNHUyOGIzY2lSZC1lUUtuck5kSUVFUFVR?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOGp1S2RnNHVIR2Z3Z1BBYnNpQWVmMGx2YUltd2JzUUJubjFDaHAzVTJCVlJPMW1HVG5zdTVXUlpLWEYxV080LVd1YlRyRGRQYXl1NGlhSjQxYWVJVDRueTM2SzNqT21udi1GaEg4MEpxSEFvbTNlbUxXMWJBWFNsWERJRWQ3VG1wTFcxVnU2MmZQMEFpQm9RTmk4VDUyWXVVY3VEcDdlSTZHZkYyVnc2VnpCbFNHOU9BTWxTQTEzQVlqLWR5MjRtN1g4SGZxVjFBWkhGRGtYOHTSAfMBQVVfeXFMTU1xN2FMNTFSa1RpcEpoTWkwalIxUGR3Q0pLdTl5R0Q0WXhESGg4MmVtNHBMNkpyUUZjMUgwemV4QTluanVRN0M5WjJUSl9UbnpxN2tBOWNHdWZQRF9KZjV4VVY1V3VTcTRGVmFIaEFxMWdEUE5MSmZpWlpmaFhZVndqZ3IzU0l5U3NrYk9xRW1wTTlhT2RjYmVJNGFnYk12QXBtOExjdXNpYlhORVBNV3NGWF9PZWpjaGxzakRjVkNHOTNTUE1EcEhRUk5iY1FaSUF3STVLQ0ZIaXdMNHUyOGIzY2lSZC1lUUtuck5kSUVFUFVR",
@@ -2449,6 +2885,30 @@
       "agregado": "2026-11-09 18:48"
     },
     {
+      "id": "7166b037485359b4",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af292aaeb29473a8a9b94a9cb98893b&url=https%3a%2f%2fwww.t13.cl%2fnoticia%2fnacional%2fcaso-homicidio-suboficial-daniel-palma-crimen-sospechoso-carlitos-nike-9-11-2026&c=13779945205756832644&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af292aaeb29473a8a9b94a9cb98893b&url=https%3A%2F%2Fwww.t13.cl%2Fnoticia%2Fnacional%2Fcaso-homicidio-suboficial-daniel-palma-crimen-sospechoso-carlitos-nike-9-11-2026&c=13779945205756832644&mkt=es-us",
+      "titulo": "Fue asesinado en centro de Santiago: El caso del homicidio del suboficial Palma, crimen cuyo sospechoso es 'Carlitos Nike'",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-08",
+      "fecha_hecho": null,
+      "snippet": "El sujeto se encontraba recluido en el Establecimiento Penitenciario de Aucallama desde 2025, en Perú, donde cumplía prisión por delitos de secuestro y extorsión.",
+      "temas": [
+        "Extorsión",
+        "Secuestro",
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 5,
+      "query": "bing:homicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-09 22:42"
+    },
+    {
       "id": "7f207549d0bacd7e",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOaldSV3R3ZDRZYlhLMVBjN1A1OHhwY3pLdENQMjNIUzhEQjRJcnpSOE9aUVE1RTVkVEFHTTBPc21iYk9EM3FKX2c5Ul9uR2U3MmtTWjFScHkxMm03ejgtZVFlOVpQdHR3d2FIM1NSUEh6OVRFZFJBTnhHQ1dtdGUtZm1hMUpVbUZSUU8wakgzUTYzTk9FcF9yRFBpR2pmS21zbHJjWmcwTHMwOWVsbURmeUxUSDhNZnJWMGU3eVZBUktaNDVyVlFxcHRoMWJzelhmMi1IZmVFbEtzVHFXS0RxeTc1VdIB9wFBVV95cUxOMXRva1NOMDRtTnFxeVA0VDMyQmQ1SHdIUmF1d1ZjeC1obFFpSDVpdW9SVHVKM2Q4QkdVb0NZbXhHQTRxZnZJcnpzMWVBdnR4ZEJkLUhqdWN3WFJDcW9UdElYX1owd3JIZzVVcEpjLVBObjJ6YmZjMVN2cW45NjRjMWNvbDYwTE5RXzRBYjlCbmdUN05wczRHNGVMM3VTODRGek0wU1NxQTlnMU51VzlOdEI1eHhRTWRBajVuSjlhbzY0ZEtJeG5yXzRqdTdwU0V3bldDZ2hZdVdYQ0g0LU0yQ3NhMHFuYkVqRnBwYk1FVXlaVXRqbUZz?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOaldSV3R3ZDRZYlhLMVBjN1A1OHhwY3pLdENQMjNIUzhEQjRJcnpSOE9aUVE1RTVkVEFHTTBPc21iYk9EM3FKX2c5Ul9uR2U3MmtTWjFScHkxMm03ejgtZVFlOVpQdHR3d2FIM1NSUEh6OVRFZFJBTnhHQ1dtdGUtZm1hMUpVbUZSUU8wakgzUTYzTk9FcF9yRFBpR2pmS21zbHJjWmcwTHMwOWVsbURmeUxUSDhNZnJWMGU3eVZBUktaNDVyVlFxcHRoMWJzelhmMi1IZmVFbEtzVHFXS0RxeTc1VdIB9wFBVV95cUxOMXRva1NOMDRtTnFxeVA0VDMyQmQ1SHdIUmF1d1ZjeC1obFFpSDVpdW9SVHVKM2Q4QkdVb0NZbXhHQTRxZnZJcnpzMWVBdnR4ZEJkLUhqdWN3WFJDcW9UdElYX1owd3JIZzVVcEpjLVBObjJ6YmZjMVN2cW45NjRjMWNvbDYwTE5RXzRBYjlCbmdUN05wczRHNGVMM3VTODRGek0wU1NxQTlnMU51VzlOdEI1eHhRTWRBajVuSjlhbzY0ZEtJeG5yXzRqdTdwU0V3bldDZ2hZdVdYQ0g0LU0yQ3NhMHFuYkVqRnBwYk1FVXlaVXRqbUZz",
@@ -2613,6 +3073,28 @@
       "agregado": "2026-11-09 17:32"
     },
     {
+      "id": "0204fcf1f5eb701c",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af292aaeb29473a8a9b94a9cb98893b&url=https%3a%2f%2fwww.cnnchile.com%2fpais%2fencuentran-a-carlitos-nike-en-carcel-de-peru-y-con-identidad-falsa-es-buscado-por-homicidio-del-cabo-daniel-palma%2f&c=17460736177972082779&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af292aaeb29473a8a9b94a9cb98893b&url=https%3A%2F%2Fwww.cnnchile.com%2Fpais%2Fencuentran-a-carlitos-nike-en-carcel-de-peru-y-con-identidad-falsa-es-buscado-por-homicidio-del-cabo-daniel-palma%2F&c=17460736177972082779&mkt=es-us",
+      "titulo": "Encuentran a “Carlitos Nike” en cárcel de Perú y con identidad falsa: Es buscado por homicidio del cabo Daniel Palma",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-08",
+      "fecha_hecho": null,
+      "snippet": "Este fin de semana la Policía de Investigaciones (PDI) dio con el paradero de Carlos Alexander Cortez Flores, conocido como “Carlitos Nike”, en una cárcel en Perú y con una identidad falsa. El indivi ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:homicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-09 22:42"
+    },
+    {
       "id": "cf406f28d2089083",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af11c0273fc493e93b4ba0c7117246a&url=https%3a%2f%2fwww.msn.com%2fes-cl%2fnoticias%2fother%2fencuentran-a-carlitos-nike-en-c%25C3%25A1rcel-de-per%25C3%25BA-bajo-identidad-falsa-era-buscado-por-crimen-del-cabo-daniel-palma%2far-AA2h1G2U&c=12499177548897511456&mkt=es-us",
       "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af11c0273fc493e93b4ba0c7117246a&url=https%3A%2F%2Fwww.msn.com%2Fes-cl%2Fnoticias%2Fother%2Fencuentran-a-carlitos-nike-en-c%25C3%25A1rcel-de-per%25C3%25BA-bajo-identidad-falsa-era-buscado-por-crimen-del-cabo-daniel-palma%2Far-AA2h1G2U&c=12499177548897511456&mkt=es-us",
@@ -2699,6 +3181,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-09 18:48"
+    },
+    {
+      "id": "7c8ecbed09740e70",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af292a1aae344de9069eb91b3545c9a&url=https%3a%2f%2fwww.msn.com%2fes-cl%2fnoticias%2fotras%2fencuentran-a-carlitos-nike-y-a-otro-implicado-en-asesinato-del-som-palma-est%25C3%25A1n-presos-en-per%25C3%25BA%2far-AA2h44kE&c=12307272362541097107&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af292a1aae344de9069eb91b3545c9a&url=https%3A%2F%2Fwww.msn.com%2Fes-cl%2Fnoticias%2Fotras%2Fencuentran-a-carlitos-nike-y-a-otro-implicado-en-asesinato-del-som-palma-est%25C3%25A1n-presos-en-per%25C3%25BA%2Far-AA2h44kE&c=12307272362541097107&mkt=es-us",
+      "titulo": "Encuentran a \"Carlitos Nike\" y a otro implicado en asesinato del SOM Palma: están presos en Perú",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-08",
+      "fecha_hecho": null,
+      "snippet": "Dos de los prófugos por el asesinato del suboficial mayor (SOM) Daniel Palma están presos en Perú. Uno de ellos es el delincuente venezolano conocido como “Carlitos Nike”. Se trata de Carlos Alexander ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:secuestro Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-09 22:42"
     },
     {
       "id": "d3568506ea01052c",
@@ -3328,6 +3832,28 @@
       "agregado": "2026-11-09 18:48"
     },
     {
+      "id": "7d466225cb216761",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af292aaeb29473a8a9b94a9cb98893b&url=https%3a%2f%2fwww.msn.com%2fes-cl%2fnoticias%2fother%2farrau-por-sospechoso-del-homicidio-del-cabo-palma-detenido-en-per%25C3%25BA-esperamos-que-pueda-ser-extraditado-en-las-pr%25C3%25B3ximas-semanas%2far-AA2h3XcX&c=5764622044740322064&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af292aaeb29473a8a9b94a9cb98893b&url=https%3A%2F%2Fwww.msn.com%2Fes-cl%2Fnoticias%2Fother%2Farrau-por-sospechoso-del-homicidio-del-cabo-palma-detenido-en-per%25C3%25BA-esperamos-que-pueda-ser-extraditado-en-las-pr%25C3%25B3ximas-semanas%2Far-AA2h3XcX&c=5764622044740322064&mkt=es-us",
+      "titulo": "Arrau por sospechoso del homicidio del cabo Palma detenido en Perú: “Esperamos que pueda ser extraditado en las próximas semanas”",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-08",
+      "fecha_hecho": null,
+      "snippet": "Según sostuvo Arrau, este se encontraba detenido en Perú con otra identidad y ya \"se están haciendo todos los procedimientos para que pueda enfrentar la justicia en Chile\".",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:homicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-09 22:42"
+    },
+    {
       "id": "48adc4900ab4593f",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYXo5UW9sRkNjRkN6dUo1VXR3TjNSQkRBQnhFdTZGQ2NUbzlaRldOTks2dHVDcXNGMkxSaVNjYnRIRGRnYlhLczB0RDh0TFhENzNhMDJaMnlHMUczakRRMUR5TzctM0JVUG5tYjJKNUJWbnRrdWhvbmVJNHBTN0ZESnB2VlpIWUpDRXp5bjRrTi16YmcwYy01eHFaakp2M05rTnRNY3hWWGdvQjZ1eGpkbTNCSmpCQ21aZ240ckhNLUpZQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYXo5UW9sRkNjRkN6dUo1VXR3TjNSQkRBQnhFdTZGQ2NUbzlaRldOTks2dHVDcXNGMkxSaVNjYnRIRGRnYlhLczB0RDh0TFhENzNhMDJaMnlHMUczakRRMUR5TzctM0JVUG5tYjJKNUJWbnRrdWhvbmVJNHBTN0ZESnB2VlpIWUpDRXp5bjRrTi16YmcwYy01eHFaakp2M05rTnRNY3hWWGdvQjZ1eGpkbTNCSmpCQ21aZ240ckhNLUpZQQ",
@@ -3795,6 +4321,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-09 18:48"
+    },
+    {
+      "id": "1fea3e965feeed66",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af292bf8141479daaf9a28ba7f1e758&url=https%3a%2f%2fwww.exitosanoticias.pe%2fexitosa-peru%2ftrujillo-ataque-armado-distrito-porvenir-deja-una-persona-fallecida-herido-n187780&c=9690200138907371814&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af292bf8141479daaf9a28ba7f1e758&url=https%3A%2F%2Fwww.exitosanoticias.pe%2Fexitosa-peru%2Ftrujillo-ataque-armado-distrito-porvenir-deja-una-persona-fallecida-herido-n187780&c=9690200138907371814&mkt=es-us",
+      "titulo": "Trujillo: ataque armado en distrito El Porvenir deja una persona fallecida y un herido",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-07",
+      "fecha_hecho": null,
+      "snippet": "Durante la noche del último viernes se registró un ataque armado en una vivienda de El Porvenir, en Trujillo, que dejó a una persona fallecida, presuntamente vinculada a 'Los Pulpos', y a un herido.",
+      "temas": [
+        "Asalto a mano armada"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 2,
+      "query": "bing:\"Los Pulpos\" Trujillo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-09 22:42"
     },
     {
       "id": "ea2df0c3f36f55d2",
@@ -4511,6 +5061,29 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-07 12:51"
+    },
+    {
+      "id": "cb582c374c373d5c",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af292a1aae344de9069eb91b3545c9a&url=https%3a%2f%2fwww.americatv.com.pe%2fnoticias%2factualidad%2fcapturan-cieneguilla-venezolana-secuestro-y-homicidio-n524267&c=12116539459319351595&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af292a1aae344de9069eb91b3545c9a&url=https%3A%2F%2Fwww.americatv.com.pe%2Fnoticias%2Factualidad%2Fcapturan-cieneguilla-venezolana-secuestro-y-homicidio-n524267&c=12116539459319351595&mkt=es-us",
+      "titulo": "Capturan en Cieneguilla a venezolana por secuestro y homicidio",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-07",
+      "fecha_hecho": null,
+      "snippet": "La ciudadana extranjera Francis Misel Hernández Terán, de 23 años de edad y conocida con el alias de 'La Señuelo', fue capturada por la Policía Nacional del Perú durante un operativo realizado en una ...",
+      "temas": [
+        "Secuestro",
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 5,
+      "query": "bing:secuestro Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-09 22:42"
     },
     {
       "id": "b0c1ddd18f06a74e",
@@ -5494,6 +6067,29 @@
       "agregado": "2026-11-09 18:48"
     },
     {
+      "id": "2047ee6a8eb9ddc1",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af2929e20b147d6a5b3cadc9b956f98&url=https%3a%2f%2fwww.lapatria.com%2fsucesos%2fluto-en-el-norte-de-caldas-mataron-un-joven-en-peru&c=9711839682003004662&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af2929e20b147d6a5b3cadc9b956f98&url=https%3A%2F%2Fwww.lapatria.com%2Fsucesos%2Fluto-en-el-norte-de-caldas-mataron-un-joven-en-peru&c=9711839682003004662&mkt=es-us",
+      "titulo": "Luto en el Norte de Caldas: mataron a un joven en Perú",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-06",
+      "fecha_hecho": null,
+      "snippet": "La Policía Nacional del Perú (PNP) investiga el caso como un presunto ajuste de cuentas entre bandas dedicadas a la extorsión mediante préstamos.",
+      "temas": [
+        "Extorsión",
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 5,
+      "query": "bing:\"gota a gota\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-09 22:42"
+    },
+    {
       "id": "223fc0f4b9bd90b9",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNV2JpNE55a2U5MndmQTFpZVJfRVNPdTJiLWdGUW9QY0lfYXVxamg0V0UxSHg4ZFZoc25aNk5tbW5OWF9FYlFtRWNrelp3YXg4Ql9rbS1SeHBpb21pRkNxSGVZZlR2d3JFbmhiUDBPaFE5YVhqTWU0UWpiaDJVQlltY0Z3TXpNRGRnSVpWMnFWeDY0dGEyLWV4Wks3b2VIeUczMVhxMXhmQlY5RnpIRXd6NkxjNThERDJzY0VOWWU5N1VfTkd5N0g5S2NHNGVRaGdtU1pPLXNR0gHwAUFVX3lxTE1mNUVXVU5RU2JQbUhrZUhFQUJOZXNXSzlBWWhZZk5fNXIwVTktU29Gd0V3aDRRMy04U0NQNmlRd1dLejFzb29TSTdsTmhTNXNpS2gwNG00c3lpS012RWgwS3N6RVFzSUdLODhYWndZWVVNT0s1SG9taGhXbXhtMm9nWlhwaUJOajVZQVpOOU84UTZFMUE3dm9MNGxhUEFtWF8xdmY1bjRpTGQxZ25Id1ljallHbE9BTmtxOC16UDNiOXAwX0RYa1RHX1lKTnNPUklVZVMzbUc3MWNma3JMSDJreWJkZDlPQzZQdVpSQTVLdA?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNV2JpNE55a2U5MndmQTFpZVJfRVNPdTJiLWdGUW9QY0lfYXVxamg0V0UxSHg4ZFZoc25aNk5tbW5OWF9FYlFtRWNrelp3YXg4Ql9rbS1SeHBpb21pRkNxSGVZZlR2d3JFbmhiUDBPaFE5YVhqTWU0UWpiaDJVQlltY0Z3TXpNRGRnSVpWMnFWeDY0dGEyLWV4Wks3b2VIeUczMVhxMXhmQlY5RnpIRXd6NkxjNThERDJzY0VOWWU5N1VfTkd5N0g5S2NHNGVRaGdtU1pPLXNR0gHwAUFVX3lxTE1mNUVXVU5RU2JQbUhrZUhFQUJOZXNXSzlBWWhZZk5fNXIwVTktU29Gd0V3aDRRMy04U0NQNmlRd1dLejFzb29TSTdsTmhTNXNpS2gwNG00c3lpS012RWgwS3N6RVFzSUdLODhYWndZWVVNT0s1SG9taGhXbXhtMm9nWlhwaUJOajVZQVpOOU84UTZFMUE3dm9MNGxhUEFtWF8xdmY1bjRpTGQxZ25Id1ljallHbE9BTmtxOC16UDNiOXAwX0RYa1RHX1lKTnNPUklVZVMzbUc3MWNma3JMSDJreWJkZDlPQzZQdVpSQTVLdA",
@@ -5727,6 +6323,28 @@
       "agregado": "2026-11-09 17:31"
     },
     {
+      "id": "f25d41e485bff980",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQQ19OTWg1bGVCOUxyaFIybEVTMEJJRXJPa3dzWFZLTUhKOGxXdHVPWXJiYlI0UDAtUy1RVDdfSU5GVi1qZnJuSEJLS1N1WWtzR1FfXzFSbmhsY0tnQ3lQdkhzUjRuR2s4aUoxbDVmcHA1V05EQ0g4UGlVY2R4c1l1SHdQZ1RwbGVRelRadmYxOUt1al9jWG9XbGxGT1BFTFcyMmhVbVhPMFZnRFU0NXF2bzBxOTFFWFRJNjBadWstc0lkZkhUa18xUnBsQUpEU0MzcmFXRWpPV25YVWdoZmVvc2hPSV9sTktiZ0xVSVgyUVdkUnFMYXJ2Y0ZuWdIBgAJBVV95cUxPeVlYN04tNm5ONUUtOGZObEExWXA4T2RmUWF2akxlWEpXdlBfRURMTWlyXzVKcjVzcmdxcmU2ZDFZbzZYbHJmdXRqRGd4M3FxSUpydVFJX3pFV0NrM1l0cF84VFZjRVRNejNFMjFXMEMyWWFZMEtHYzdJWXZKeVRkenJXYzRmdHVQQzVWcjZKNXR5cjFldjdjVXE2M29GX2hkdzZQNXJWbFAtZkpGWG5qamdORm1yTmdkWlNNZ3JqVzVCeVVELVowUnVheHZHOXpFWHk2STR0Z2pad2NjaUExMVVnNHBYUHlMRDlJengyNnd3TTloTmd6NVkxZ0lwYVZa?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQQ19OTWg1bGVCOUxyaFIybEVTMEJJRXJPa3dzWFZLTUhKOGxXdHVPWXJiYlI0UDAtUy1RVDdfSU5GVi1qZnJuSEJLS1N1WWtzR1FfXzFSbmhsY0tnQ3lQdkhzUjRuR2s4aUoxbDVmcHA1V05EQ0g4UGlVY2R4c1l1SHdQZ1RwbGVRelRadmYxOUt1al9jWG9XbGxGT1BFTFcyMmhVbVhPMFZnRFU0NXF2bzBxOTFFWFRJNjBadWstc0lkZkhUa18xUnBsQUpEU0MzcmFXRWpPV25YVWdoZmVvc2hPSV9sTktiZ0xVSVgyUVdkUnFMYXJ2Y0ZuWdIBgAJBVV95cUxPeVlYN04tNm5ONUUtOGZObEExWXA4T2RmUWF2akxlWEpXdlBfRURMTWlyXzVKcjVzcmdxcmU2ZDFZbzZYbHJmdXRqRGd4M3FxSUpydVFJX3pFV0NrM1l0cF84VFZjRVRNejNFMjFXMEMyWWFZMEtHYzdJWXZKeVRkenJXYzRmdHVQQzVWcjZKNXR5cjFldjdjVXE2M29GX2hkdzZQNXJWbFAtZkpGWG5qamdORm1yTmdkWlNNZ3JqVzVCeVVELVowUnVheHZHOXpFWHk2STR0Z2pad2NjaUExMVVnNHBYUHlMRDlJengyNnd3TTloTmd6NVkxZ0lwYVZa",
+      "titulo": "EE. UU. acusa a 14 personas por un megafraude bancario de US$373 millones: habrían robado la identidad de casi 3.000 víctimas - La República",
+      "fuente": "La República",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-06",
+      "fecha_hecho": null,
+      "snippet": "EE. UU. acusa a 14 personas por un megafraude bancario de US$373 millones: habrían robado la identidad de casi 3.000 víctimas La República",
+      "temas": [
+        "Fraude bancario"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "\"fraude bancario\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-09 22:42"
+    },
+    {
       "id": "51f35241a533d1e4",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaGpoazRFREoxVV9uVmc4NGJ0cmxjN1RQdTdINGFZeUdmZ0lxMkxVX3JNSWdMZVR0NDR2eGFWdVNpOWtFRF8tbTZkYkc3TzQtbVBqdEduMGJwXzZqM00xcmx2Y3JZYUVKSWJVc2dacGEzaVRHZVJacHlqR0FJMk1KYXBBb2NXN0V4N2E4QlhVTHBaTXJOS19nUzVhQklveVdnT1BrNkpxbmx1RWV3OHNyWGJTc0ZHbEZQRWctSlVR?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaGpoazRFREoxVV9uVmc4NGJ0cmxjN1RQdTdINGFZeUdmZ0lxMkxVX3JNSWdMZVR0NDR2eGFWdVNpOWtFRF8tbTZkYkc3TzQtbVBqdEduMGJwXzZqM00xcmx2Y3JZYUVKSWJVc2dacGEzaVRHZVJacHlqR0FJMk1KYXBBb2NXN0V4N2E4QlhVTHBaTXJOS19nUzVhQklveVdnT1BrNkpxbmx1RWV3OHNyWGJTc0ZHbEZQRWctSlVR",
@@ -5815,6 +6433,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-09 18:48"
+    },
+    {
+      "id": "4e29f8158de12ade",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af292a8474f4a50865dfe4f926136bd&url=https%3a%2f%2fwww.infobae.com%2fvideo%2fperu%2fconductor-de-combi-es-asesinado-a-balazos-en-la-ciudad%2f2m8ieeJf%2f&c=4998323053277087334&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af292a8474f4a50865dfe4f926136bd&url=https%3A%2F%2Fwww.infobae.com%2Fvideo%2Fperu%2Fconductor-de-combi-es-asesinado-a-balazos-en-la-ciudad%2F2m8ieeJf%2F&c=4998323053277087334&mkt=es-us",
+      "titulo": "Conductor de combi es asesinado a balazos en la ciudad",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-06",
+      "fecha_hecho": null,
+      "snippet": "Un conductor de combi fue acribillado en un violento suceso que ha conmocionado a la ciudad. Las autoridades ya se encuentran investigando el caso. - Facebook: Mi Pamplona City ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-09 22:42"
     },
     {
       "id": "676849e2854db0b9",
@@ -6259,6 +6899,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-09 18:48"
+    },
+    {
+      "id": "43b61f0c95740473",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af292bf8141479daaf9a28ba7f1e758&url=https%3a%2f%2flarepublica.pe%2fsociedad%2f2026%2f11%2f06%2fataque-violento-en-vivienda-deja-un-muerto-y-un-herido-en-trujillo-fallecido-seria-integrante-de-los-pulpos-83868&c=639855211460929230&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af292bf8141479daaf9a28ba7f1e758&url=https%3A%2F%2Flarepublica.pe%2Fsociedad%2F2026%2F11%2F06%2Fataque-violento-en-vivienda-deja-un-muerto-y-un-herido-en-trujillo-fallecido-seria-integrante-de-los-pulpos-83868&c=639855211460929230&mkt=es-us",
+      "titulo": "Ataque violento en vivienda deja un muerto y un herido en Trujillo: fallecido sería integrante de Los Pulpos",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-06",
+      "fecha_hecho": null,
+      "snippet": "La víctima, conocida como 'Pato Cabezon', sería miembro de la organización criminal Los Pulpos. Los hechos sucedieron en una vivienda de la avenida Sánchez Carrión. Es el tercer ataque registrado este ...",
+      "temas": [
+        "Asalto a mano armada"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 2,
+      "query": "bing:\"Los Pulpos\" Trujillo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-09 22:42"
     },
     {
       "id": "0e6003f91f0779fc",
@@ -6970,6 +7634,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-09 18:48"
+    },
+    {
+      "id": "002ea6fe45e24c12",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af292bf8141479daaf9a28ba7f1e758&url=https%3a%2f%2fdiariocorreo.pe%2fedicion%2fla-libertad%2ftrujillo-envian-a-la-carcel-a-presunto-integrante-de-los-pulpos-noticia%2f&c=13562639140818404718&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af292bf8141479daaf9a28ba7f1e758&url=https%3A%2F%2Fdiariocorreo.pe%2Fedicion%2Fla-libertad%2Ftrujillo-envian-a-la-carcel-a-presunto-integrante-de-los-pulpos-noticia%2F&c=13562639140818404718&mkt=es-us",
+      "titulo": "Trujillo: Envían a la cárcel a presunto integrante de “Los Pulpos”",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-05",
+      "fecha_hecho": null,
+      "snippet": "Alias “Brunacho” fue enviado al penal El Milagro nueve meses de manera preventiva. Él es investigado por extorsión ...",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 3,
+      "query": "bing:\"Los Pulpos\" Trujillo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-09 22:42"
     },
     {
       "id": "bbf191a40b200817",
@@ -11407,6 +12095,30 @@
       "agregado": "2026-11-09 18:48"
     },
     {
+      "id": "2214a8af4498482d",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af292ac1b71421aa3c327469fed6802&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f11%2f03%2fmariela-cespedes-quemada-viva-por-su-expareja-y-arrojada-a-un-canal-el-feminicidio-en-piura-que-vuelve-a-exponer-la-brutal-violencia-machista%2f&c=12634021592967645876&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af292ac1b71421aa3c327469fed6802&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F11%2F03%2Fmariela-cespedes-quemada-viva-por-su-expareja-y-arrojada-a-un-canal-el-feminicidio-en-piura-que-vuelve-a-exponer-la-brutal-violencia-machista%2F&c=12634021592967645876&mkt=es-us",
+      "titulo": "Mariela Céspedes, quemada viva por su expareja y arrojada a un canal: el feminicidio en Piura que vuelve a exponer la brutal violencia machista",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-03",
+      "fecha_hecho": null,
+      "snippet": "La víctima murió tras sufrir quemaduras en el 80% de su cuerpo luego de un ataque atribuido a Luis Rivera Arévalo, actualmente detenido. El crimen machista se suma a otros 13 registrados entre septiem ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Piura"
+      ],
+      "score": 3,
+      "query": "bing:feminicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-09 22:42"
+    },
+    {
       "id": "6cd89abda5baa390",
       "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOamNpd09rUWxNX2FfZEVmeHR3QUN0X3d0eE1IdGIwVFhtTEFqbzcwSm8zRU5lQkJZMWEyN2JZODFITzQyWkhXbFZ5c3c3dVNKeXVDQmQ4cGZZenBSNFR4UkJtZGZnaDh4Z1VXRzN3QjhaRVlFQkFoZTF6aS1mWFdBSnpRTExzb214U3ZkWVFkblU2V0hOOF9JY0RWRTlUQ0huZk83Vi1CWnc2UEQ3VWttaEc1ODB6aTIxTWlTZG1GRm9CSzdaRG9XTVQxbng1d2prMkFUNkF6M3lDdmFZanRiQUZXU2Q5TU05YXFTeUtCZnFNeHBHZEoxZmRoenZOcUk5T2NGRHowOFZBbXA2REdPZEV1NXrSAZoCQVVfeXFMTVVweFFIRV9KdjV6MkZaVzN1SC10T29wbTJJMXpjYktzXzFQLU9IR1hqRzdEM2U0NFhaOGlySFJNYU14MHdMWmlBNWRnbTJ6NEtYNzBoUm1TTTVva19LdUM2MXFVeXpNLVM3dENlOXNHd3VUT05nN2E5VGFHNU5pU3VRYS14Wm9fbGM0QzY5Y3hOMUFHalNzZC1XR3kxSEVoeld5VUJsQVd4RG50MTYza2ZBZEUzeHY3ZHVUX2JMcllpcFJVeEp2WHVXZnNoSFo4bzJCUlF2U3ljWW1HVEl2am5oMWdWbVlVbUhUQWVFbmkweWowQl9aaFN1WVkwQmprQjZJSGF3OTlyTGd4dEZQUDVILUJoMzVURmlR?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOamNpd09rUWxNX2FfZEVmeHR3QUN0X3d0eE1IdGIwVFhtTEFqbzcwSm8zRU5lQkJZMWEyN2JZODFITzQyWkhXbFZ5c3c3dVNKeXVDQmQ4cGZZenBSNFR4UkJtZGZnaDh4Z1VXRzN3QjhaRVlFQkFoZTF6aS1mWFdBSnpRTExzb214U3ZkWVFkblU2V0hOOF9JY0RWRTlUQ0huZk83Vi1CWnc2UEQ3VWttaEc1ODB6aTIxTWlTZG1GRm9CSzdaRG9XTVQxbng1d2prMkFUNkF6M3lDdmFZanRiQUZXU2Q5TU05YXFTeUtCZnFNeHBHZEoxZmRoenZOcUk5T2NGRHowOFZBbXA2REdPZEV1NXrSAZoCQVVfeXFMTVVweFFIRV9KdjV6MkZaVzN1SC10T29wbTJJMXpjYktzXzFQLU9IR1hqRzdEM2U0NFhaOGlySFJNYU14MHdMWmlBNWRnbTJ6NEtYNzBoUm1TTTVva19LdUM2MXFVeXpNLVM3dENlOXNHd3VUT05nN2E5VGFHNU5pU3VRYS14Wm9fbGM0QzY5Y3hOMUFHalNzZC1XR3kxSEVoeld5VUJsQVd4RG50MTYza2ZBZEUzeHY3ZHVUX2JMcllpcFJVeEp2WHVXZnNoSFo4bzJCUlF2U3ljWW1HVEl2am5oMWdWbVlVbUhUQWVFbmkweWowQl9aaFN1WVkwQmprQjZJSGF3OTlyTGd4dEZQUDVILUJoMzVURmlR",
@@ -12756,6 +13468,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-09 18:48"
+    },
+    {
+      "id": "00be6c0d41a68eef",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af292ac1b71421aa3c327469fed6802&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f11%2f04%2fcomo-denunciar-la-violencia-de-genero-en-peru-conoce-las-rutas-de-ayuda-y-las-penas-previstas-por-feminicidio%2f&c=4513615904677912814&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af292ac1b71421aa3c327469fed6802&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F11%2F04%2Fcomo-denunciar-la-violencia-de-genero-en-peru-conoce-las-rutas-de-ayuda-y-las-penas-previstas-por-feminicidio%2F&c=4513615904677912814&mkt=es-us",
+      "titulo": "Cómo denunciar la violencia de género en Perú: conoce las rutas de ayuda y las penas previstas por feminicidio",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-03",
+      "fecha_hecho": null,
+      "snippet": "La Línea 100, los Centros Emergencia Mujer y las dependencias estatales ofrecen asistencia ante hechos de agresión, cuya sanción puede alcanzar la cadena perpetua ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:feminicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-09 22:42"
     },
     {
       "id": "42601e4e0f7bc67d",
@@ -17283,6 +18017,30 @@
       "agregado": "2026-11-09 18:48"
     },
     {
+      "id": "be5f612985a05076",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af292a8474f4a50865dfe4f926136bd&url=https%3a%2f%2fwww.prensa-latina.cu%2f2026%2f11%2f02%2fdenuncian-deficientes-pesquisas-de-asesinatos-de-periodistas-en-peru%2f&c=16050305014353456532&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af292a8474f4a50865dfe4f926136bd&url=https%3A%2F%2Fwww.prensa-latina.cu%2F2026%2F11%2F02%2Fdenuncian-deficientes-pesquisas-de-asesinatos-de-periodistas-en-peru%2F&c=16050305014353456532&mkt=es-us",
+      "titulo": "Denuncian deficientes pesquisas de asesinatos de periodistas en Perú",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-01",
+      "fecha_hecho": null,
+      "snippet": "Lima, 2 nov (Prensa Latina) La Asociación de Periodistas de Perú (ANP) denunció hoy que las investigaciones de muertes de sus colegas se caracterizan por la negligencia y el letargo, así como la inten ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-09 22:42"
+    },
+    {
       "id": "62404565a4529210",
       "url": "https://diariocorreo.pe/politica/denuncian-a-falso-asesor-por-cobrar-hasta-s15000-con-falsas-ofertas-laborales-en-el-congreso-noticia/",
       "url_canon": "https://diariocorreo.pe/politica/denuncian-a-falso-asesor-por-cobrar-hasta-s15000-con-falsas-ofertas-laborales-en-el-congreso-noticia",
@@ -17630,5 +18388,5 @@
       "agregado": "2026-11-01 19:54"
     }
   ],
-  "n": 765
+  "n": 798
 }
