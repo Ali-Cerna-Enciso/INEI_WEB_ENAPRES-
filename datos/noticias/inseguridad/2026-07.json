@@ -1,6 +1,6 @@
 {
   "mes": "2026-07",
-  "actualizado": "2026-11-13 14:52",
+  "actualizado": "2026-11-13 16:27",
   "items": [
     {
       "id": "1afe8ca6c5860d94",
@@ -9019,6 +9019,30 @@
       "agregado": "2026-11-13 14:52"
     },
     {
+      "id": "91180f0174757f2c",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af780b0ac224a63a6ec4c6757b0c0bb&url=https%3a%2f%2fdiariocorreo.pe%2fedicion%2farequipa%2fcaen-los-novios-del-gota-a-gota-en-arequipa-extranjeros-apedrearon-y-amenazaron-de-muerte-a-familia-video-noticia%2f&c=18310275483109742776&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af780b0ac224a63a6ec4c6757b0c0bb&url=https%3A%2F%2Fdiariocorreo.pe%2Fedicion%2Farequipa%2Fcaen-los-novios-del-gota-a-gota-en-arequipa-extranjeros-apedrearon-y-amenazaron-de-muerte-a-familia-video-noticia%2F&c=18310275483109742776&mkt=es-us",
+      "titulo": "Caen “Los Novios del Gota a Gota” en Arequipa: Extranjeros apedrearon y amenazaron de muerte a familia (VIDEO)",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-07-12",
+      "fecha_hecho": null,
+      "snippet": "Una pareja de ciudadanos extranjeros que se dedicaría a extorsionar a sus víctimas mediante la modalidad de préstamos “gota a gota” fue capturada la noche del sábado en el sector de Zamácola, distrito ...",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Arequipa"
+      ],
+      "score": 3,
+      "query": "bing:\"gota a gota\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-13 16:27"
+    },
+    {
       "id": "4aea8f67d95797ce",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdWZWWTBkYmFZXzN0VHJ5aTVQTERCNFdDejAzT2pwZWNaYWFpc2lpaVNiZkdqVGlzMFgzREIyY0hQQjhIa1RwSTF6U2pjTXozWFhmY1Y3RGtsYTdtY0NvdElMVGtUdEpJQUpZcDJGWVpjMXhNRFZVRE1meG9Wd2dDejZzSUxNQjhWaXQtSjVUamc0dE5pM21CS0VPb25Zd3pRUl9ETHEtTlU?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdWZWWTBkYmFZXzN0VHJ5aTVQTERCNFdDejAzT2pwZWNaYWFpc2lpaVNiZkdqVGlzMFgzREIyY0hQQjhIa1RwSTF6U2pjTXozWFhmY1Y3RGtsYTdtY0NvdElMVGtUdEpJQUpZcDJGWVpjMXhNRFZVRE1meG9Wd2dDejZzSUxNQjhWaXQtSjVUamc0dE5pM21CS0VPb25Zd3pRUl9ETHEtTlU",
@@ -11604,5 +11628,5 @@
       "descartar": false
     }
   ],
-  "n": 496
+  "n": 497
 }
