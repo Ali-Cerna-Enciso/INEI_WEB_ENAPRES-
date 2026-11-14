@@ -1,6 +1,6 @@
 {
   "mes": "2026-01",
-  "actualizado": "2026-11-13 20:35",
+  "actualizado": "2026-11-14 06:54",
   "items": [
     {
       "id": "8e0e04fef25e5005",
@@ -10011,6 +10011,28 @@
       "agregado": "2026-11-13 20:35"
     },
     {
+      "id": "5b3fef472e08dcfc",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af84bf4169b4070a93073fe353765fc&url=https%3a%2f%2fwww.infobae.com%2fcolombia%2f2026%2f01%2f20%2fhomicidio-de-colombiano-en-peru-dejo-tres-capturados-abandonaron-el-cuerpo-en-via-publica%2f&c=7896637594865265644&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af84bf4169b4070a93073fe353765fc&url=https%3A%2F%2Fwww.infobae.com%2Fcolombia%2F2026%2F01%2F20%2Fhomicidio-de-colombiano-en-peru-dejo-tres-capturados-abandonaron-el-cuerpo-en-via-publica%2F&c=7896637594865265644&mkt=es-us",
+      "titulo": "Homicidio de colombiano en Perú dejó tres capturados: abandonaron el cuerpo en vía pública",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-01-20",
+      "fecha_hecho": null,
+      "snippet": "La víctima fue identificada como Andrés Camilo Soto Huérfano, luego de las pesquisas que dejaron las detenciones de dos hombres y una mujer Por Sebastián Vargas Rueda La Policía Nacional del Perú (PNP ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:homicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-14 06:54"
+    },
+    {
       "id": "da1c83da7bbadf9b",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNHRET2ZQbllhMjJieGFHRWJ5cmJSWlVMdVBjaTZpRzBzQVUwT1p5RHdUeFZvdEpNWFl1VE10ZTlHZjd6X3h5eVVmQTY5Rm1OOTZVNGZidjBJRkdFMjdaTUgtb0szdFk1UExVb1E3R2VkbVY5UHRuRlZKRDRtMjVycm45WEl1eVd2bU9nWk5iSWtHRjh4LU1YMm1tOGdSTlR0S0pYTTUtUU5Ib2FMNWZKX3A3YUlSMjVXeDhDWmxNY3R4RnFEOWo0?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNHRET2ZQbllhMjJieGFHRWJ5cmJSWlVMdVBjaTZpRzBzQVUwT1p5RHdUeFZvdEpNWFl1VE10ZTlHZjd6X3h5eVVmQTY5Rm1OOTZVNGZidjBJRkdFMjdaTUgtb0szdFk1UExVb1E3R2VkbVY5UHRuRlZKRDRtMjVycm45WEl1eVd2bU9nWk5iSWtHRjh4LU1YMm1tOGdSTlR0S0pYTTUtUU5Ib2FMNWZKX3A3YUlSMjVXeDhDWmxNY3R4RnFEOWo0",
@@ -12574,6 +12596,31 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-13 07:48"
+    },
+    {
+      "id": "752ac9d49421d93d",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af84bf1c7574e7197951540376218d0&url=https%3a%2f%2fwww.swissinfo.ch%2fspa%2fper%25c3%25ba-reglamenta-una-nueva-ley-para-luchar-contra-los-delitos-de-extorsi%25c3%25b3n-y-sicariato%2f90797170&c=16661270379341143207&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af84bf1c7574e7197951540376218d0&url=https%3A%2F%2Fwww.swissinfo.ch%2Fspa%2Fper%25c3%25ba-reglamenta-una-nueva-ley-para-luchar-contra-los-delitos-de-extorsi%25c3%25b3n-y-sicariato%2F90797170&c=16661270379341143207&mkt=es-us",
+      "titulo": "Perú reglamenta una nueva ley para luchar contra los delitos de extorsión y sicariato",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-01-18",
+      "fecha_hecho": null,
+      "snippet": "Lima, 18 ene (EFE).- El Gobierno de Transición de Perú, que preside José Jerí, aprobó este domingo el reglamento de la nueva ley contra los delitos de extorsión y sicariato con lo que, aseguró, el ...",
+      "temas": [
+        "Extorsión",
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 5,
+      "query": "bing:sicariato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-14 06:54"
     },
     {
       "id": "6adddd7e29db8bc4",
@@ -20862,5 +20909,5 @@
       "descartar": false
     }
   ],
-  "n": 920
+  "n": 922
 }
