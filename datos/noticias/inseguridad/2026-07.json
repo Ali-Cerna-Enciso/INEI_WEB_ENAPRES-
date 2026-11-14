@@ -1,6 +1,6 @@
 {
   "mes": "2026-07",
-  "actualizado": "2026-11-13 16:27",
+  "actualizado": "2026-11-13 20:35",
   "items": [
     {
       "id": "1afe8ca6c5860d94",
@@ -8909,6 +8909,32 @@
       "agregado": "2026-11-12 16:53"
     },
     {
+      "id": "fde9fcba96979c4f",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af7bab8295f484f9b666e5466c78400&url=https%3a%2f%2fwww.abc.com.py%2finternacionales%2f2025%2f12%2f22%2fperu-anuncia-un-subsistema-de-justicia-para-enfrentar-extorsion-sicariato-y-secuestro%2f&c=15021620673450360077&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af7bab8295f484f9b666e5466c78400&url=https%3A%2F%2Fwww.abc.com.py%2Finternacionales%2F2025%2F12%2F22%2Fperu-anuncia-un-subsistema-de-justicia-para-enfrentar-extorsion-sicariato-y-secuestro%2F&c=15021620673450360077&mkt=es-us",
+      "titulo": "Perú anuncia un \"subsistema de justicia\" para enfrentar extorsión, sicariato y secuestro",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-07-12",
+      "fecha_hecho": null,
+      "snippet": "Lima, 22 dic (EFE).- El Gobierno de Perú creará un \"subsistema de justicia\" que se dedicará a combatir los casos de extorsión, sicariato y secuestro, con el objetivo de tener una respuesta más rápida ...",
+      "temas": [
+        "Extorsión",
+        "Secuestro",
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 7,
+      "query": "bing:sicariato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-13 20:35"
+    },
+    {
       "id": "96b908d4506a9558",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX2E5TGhYbDRDaTdNVTNXa1BWWkdfS3oteGgwZE9rU3hQR05mVVpVQ0VNZFg2UXVPNXVrVTVqTzVfUWVNenZVdkg3RWRJLWJwbXdUc25rTXdsT2dINlREeFFCTGE4Y0wzRWlRTVRGWEZ5RkxmRFdUakFhNjdBUElSTnZKNGhjSGVPS05Qdk5zbVEwQm5Ya3RYZnFKbmVBX1oybFVxWTREakJWOHpTU3B0dXgzUXZRRkVXcFJWemRhM2o?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX2E5TGhYbDRDaTdNVTNXa1BWWkdfS3oteGgwZE9rU3hQR05mVVpVQ0VNZFg2UXVPNXVrVTVqTzVfUWVNenZVdkg3RWRJLWJwbXdUc25rTXdsT2dINlREeFFCTGE4Y0wzRWlRTVRGWEZ5RkxmRFdUakFhNjdBUElSTnZKNGhjSGVPS05Qdk5zbVEwQm5Ya3RYZnFKbmVBX1oybFVxWTREakJWOHpTU3B0dXgzUXZRRkVXcFJWemRhM2o",
@@ -9041,6 +9067,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-13 16:27"
+    },
+    {
+      "id": "4835c7e21a89a14a",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af7baaff8d34495a4c841457f92dace&url=https%3a%2f%2fdiariocorreo.pe%2fedicion%2farequipa%2fcaen-los-novios-del-gota-a-gota-en-arequipa-extranjeros-apedrearon-y-amenazaron-de-muerte-a-familia-video-noticia%2f&c=18310275483109742776&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af7baaff8d34495a4c841457f92dace&url=https%3A%2F%2Fdiariocorreo.pe%2Fedicion%2Farequipa%2Fcaen-los-novios-del-gota-a-gota-en-arequipa-extranjeros-apedrearon-y-amenazaron-de-muerte-a-familia-video-noticia%2F&c=18310275483109742776&mkt=es-us",
+      "titulo": "Caen “Los Novios del Gota a Gota” en Arequipa: Extranjeros apedrearon y amenazaron de muerte a familia (VIDEO)",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-07-12",
+      "fecha_hecho": null,
+      "snippet": "Una pareja de ciudadanos extranjeros que se dedicaría a extorsionar a sus víctimas mediante la modalidad de préstamos “gota a gota” fue capturada la noche del sábado en el sector de Zamácola, distrito ...",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Arequipa"
+      ],
+      "score": 3,
+      "query": "bing:\"gota a gota\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-13 20:35"
     },
     {
       "id": "4aea8f67d95797ce",
@@ -11628,5 +11678,5 @@
       "descartar": false
     }
   ],
-  "n": 497
+  "n": 499
 }
