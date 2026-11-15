@@ -1,6 +1,6 @@
 {
   "mes": "2026-08",
-  "actualizado": "2026-11-14 15:00",
+  "actualizado": "2026-11-14 20:15",
   "items": [
     {
       "id": "bb9b57aa4ebf0c95",
@@ -17644,6 +17644,28 @@
       "agregado": "2026-11-14 15:00"
     },
     {
+      "id": "059a702c49300d1f",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af90797e4344a11979b0df49cd1d00c&url=https%3a%2f%2fwww.infobae.com%2fvideo%2factualidad%2fasi-se-vivio-el-apagon-en-la-rambla-san-borja%2fa9eveaVn%2f&c=18107217371874696151&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af90797e4344a11979b0df49cd1d00c&url=https%3A%2F%2Fwww.infobae.com%2Fvideo%2Factualidad%2Fasi-se-vivio-el-apagon-en-la-rambla-san-borja%2Fa9eveaVn%2F&c=18107217371874696151&mkt=es-us",
+      "titulo": "Así se vivió el apagón en La Rambla San Borja",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-12",
+      "fecha_hecho": null,
+      "snippet": "Según constató Infobae Perú, el corte de energía se produjo de forma inesperada mientras se proyectaba la película Spiderman: A Brand New Day. (Crédito: Infobae Perú) Actualidad 2:01 Min Actualidad 31 ...",
+      "temas": [
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:apagón Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-14 20:15"
+    },
+    {
       "id": "d339a850e4333ad2",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOaEUwODRBMDEteEJXZXlSSm0xNGlWRUpjcVdhRVZtSGRXVWM5aHBNdGEzV3NvWmFyRkt2amt0ZGdYU1BQZ0hEbElfWW83S3l4QlNyTjJSMXZ5S2pKTFRKMzhPbXBJd3VORldaVGM2a3pwTnVPZmlEMzJ0X1pnNW8wZUtxY21BT1p6cTRXMkhEdVdaVGQybGllTHpjazVHSzBFMjU0STNscnN0R0F2c1QzQUpMQnk0dkZzNElHYTJxd0hneHFMMGtIRmFQYmZYV3RqcmhqdU1Cd1BPOE81NGdSdWlIWHMtOVE0Mm5DVGFuNFhJdW9vbXFTMXB4WHA?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOaEUwODRBMDEteEJXZXlSSm0xNGlWRUpjcVdhRVZtSGRXVWM5aHBNdGEzV3NvWmFyRkt2amt0ZGdYU1BQZ0hEbElfWW83S3l4QlNyTjJSMXZ5S2pKTFRKMzhPbXBJd3VORldaVGM2a3pwTnVPZmlEMzJ0X1pnNW8wZUtxY21BT1p6cTRXMkhEdVdaVGQybGllTHpjazVHSzBFMjU0STNscnN0R0F2c1QzQUpMQnk0dkZzNElHYTJxd0hneHFMMGtIRmFQYmZYV3RqcmhqdU1Cd1BPOE81NGdSdWlIWHMtOVE0Mm5DVGFuNFhJdW9vbXFTMXB4WHA",
@@ -19515,5 +19537,5 @@
       "descartar": false
     }
   ],
-  "n": 850
+  "n": 851
 }

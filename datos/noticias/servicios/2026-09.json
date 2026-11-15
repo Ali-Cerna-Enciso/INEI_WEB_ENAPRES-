@@ -1,6 +1,6 @@
 {
   "mes": "2026-09",
-  "actualizado": "2026-11-14 15:00",
+  "actualizado": "2026-11-14 20:15",
   "items": [
     {
       "id": "4cca0f6932b1eef7",
@@ -10731,6 +10731,28 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-11-14 15:00"
+    },
+    {
+      "id": "b342d80058159303",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9079023ec4b34bef26832a8c98184&url=https%3a%2f%2flarepublica.pe%2fopinion%2f2026%2f09%2f28%2f40-del-presupuesto-se-tienen-que-ir-en-agua-y-desague-no-en-planillas-promete-candidato-de-somos-peru-a-lurin-bernardo-silva-hnews-808668&c=18344659212913558031&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9079023ec4b34bef26832a8c98184&url=https%3A%2F%2Flarepublica.pe%2Fopinion%2F2026%2F09%2F28%2F40-del-presupuesto-se-tienen-que-ir-en-agua-y-desague-no-en-planillas-promete-candidato-de-somos-peru-a-lurin-bernardo-silva-hnews-808668&c=18344659212913558031&mkt=es-us",
+      "titulo": "“40 % (del presupuesto) se tienen que ir en agua y desagüe, no en planillas”, promete candidato de Somos Perú a Lurín Bernardo Silva",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-09-27",
+      "fecha_hecho": null,
+      "snippet": "¿Por qué quiere ser alcalde de Lurín? Esa es una pregunta importante, porque mucha gente dice \"quiero al distrito\" o \"quiero hacer el bien\" sin más. Hay que entender que la política en el Perú es dura ...",
+      "temas": [
+        "Alcantarillado"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:desagüe Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-14 20:15"
     },
     {
       "id": "8cde263eecbc9458",
@@ -68255,5 +68277,5 @@
       "descartar": false
     }
   ],
-  "n": 2916
+  "n": 2917
 }

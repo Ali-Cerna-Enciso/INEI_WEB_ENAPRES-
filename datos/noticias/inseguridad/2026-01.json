@@ -1,6 +1,6 @@
 {
   "mes": "2026-01",
-  "actualizado": "2026-11-14 14:58",
+  "actualizado": "2026-11-14 20:12",
   "items": [
     {
       "id": "8e0e04fef25e5005",
@@ -7039,6 +7039,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-13 16:27"
+    },
+    {
+      "id": "15cd453b9caa95bb",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af906f7beba464080394938650877c7&url=https%3a%2f%2fwww.biobiochile.cl%2fnoticias%2finternacional%2famerica-latina%2f2026%2f01%2f20%2fperu-impondra-altas-multas-a-motos-con-2-personas-para-frenar-delitos-de-sicariato-y-motochorros.shtml&c=4919100590842500938&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af906f7beba464080394938650877c7&url=https%3A%2F%2Fwww.biobiochile.cl%2Fnoticias%2Finternacional%2Famerica-latina%2F2026%2F01%2F20%2Fperu-impondra-altas-multas-a-motos-con-2-personas-para-frenar-delitos-de-sicariato-y-motochorros.shtml&c=4919100590842500938&mkt=es-us",
+      "titulo": "Perú impondrá altas multas a motos con 2 personas para frenar delitos de sicariato y ’motochorros’",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-01-20",
+      "fecha_hecho": null,
+      "snippet": "Resumen generado con una herramienta de Inteligencia Artificial desarrollada por BioBioChile y revisado por el autor de este artículo. La Policía Nacional de Perú iniciará la imposición de multas de ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:sicariato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-14 20:12"
     },
     {
       "id": "35251716e37140c3",
@@ -20956,5 +20978,5 @@
       "descartar": false
     }
   ],
-  "n": 924
+  "n": 925
 }
