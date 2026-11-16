@@ -1,6 +1,6 @@
 {
   "mes": "2026-10",
-  "actualizado": "2026-11-16 17:18",
+  "actualizado": "2026-11-16 18:49",
   "items": [
     {
       "id": "dd548597ed8b8bea",
@@ -1407,6 +1407,31 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-11-16 17:18"
+    },
+    {
+      "id": "dac8e7eb67523727",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb9671ee0e49969654f0320f940b09&url=https%3a%2f%2flarepublica.pe%2fsociedad%2f2026%2f10%2f29%2fcorte-de-luz-masivo-en-lima-callao-y-regiones-del-pais-revisa-los-horarios-y-zonas-sin-servicio-entre-el-30-de-octubre-y-el-1-de-noviembre-1061429&c=13538167280044490022&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb9671ee0e49969654f0320f940b09&url=https%3A%2F%2Flarepublica.pe%2Fsociedad%2F2026%2F10%2F29%2Fcorte-de-luz-masivo-en-lima-callao-y-regiones-del-pais-revisa-los-horarios-y-zonas-sin-servicio-entre-el-30-de-octubre-y-el-1-de-noviembre-1061429&c=13538167280044490022&mkt=es-us",
+      "titulo": "Corte de luz masivo en Lima, Callao y regiones del país: revisa los horarios y zonas sin servicio entre el 31 de octubre y el 1 de noviembre",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-31",
+      "fecha_hecho": null,
+      "snippet": "Congreso de España avala un plan de vivienda, pero frena la renovación automática de alquileres tras huelga general ...",
+      "temas": [
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Callao",
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:\"corte de luz\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-16 18:49"
     },
     {
       "id": "33ff280419a8a4bb",
@@ -3850,6 +3875,28 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-11-08 20:07"
+    },
+    {
+      "id": "e5d4add8fca42d96",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb9676201a4816b005c79f5b19ca41&url=https%3a%2f%2flibero.pe%2ftiempoextra%2f2026%2f10%2f29%2fsedapal-confirma-corte-de-agua-de-12-horas-hoy-viernes-30-de-octubre-revisa-distritos-zonas-afectadas-2133646&c=16903919397289915261&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb9676201a4816b005c79f5b19ca41&url=https%3A%2F%2Flibero.pe%2Ftiempoextra%2F2026%2F10%2F29%2Fsedapal-confirma-corte-de-agua-de-12-horas-hoy-viernes-30-de-octubre-revisa-distritos-zonas-afectadas-2133646&c=16903919397289915261&mkt=es-us",
+      "titulo": "Sedapal confirma CORTE DE AGUA de hasta 12 horas para el 30 de octubre: revisa los distritos y zonas afectadas",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-30",
+      "fecha_hecho": null,
+      "snippet": "Sedapal anunció un nuevo corte de agua para el viernes 30 de octubre debido a trabajos de mantenimiento y mejora.",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:Sedapal",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-16 18:49"
     },
     {
       "id": "0cd420fdb3971299",
@@ -7874,6 +7921,28 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-11-16 17:18"
+    },
+    {
+      "id": "c517bd09c20cce75",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb9671ee0e49969654f0320f940b09&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f10%2f30%2fcorte-de-luz-31-de-octubre-en-estos-distritos-se-suspendera-el-servicio-electrico-por-hasta-12-horas%2f&c=9483871587971275896&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb9671ee0e49969654f0320f940b09&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F10%2F30%2Fcorte-de-luz-31-de-octubre-en-estos-distritos-se-suspendera-el-servicio-electrico-por-hasta-12-horas%2F&c=9483871587971275896&mkt=es-us",
+      "titulo": "Corte de luz, 31 de octubre: en estos distritos se suspenderá el servicio eléctrico por hasta 12 horas",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-30",
+      "fecha_hecho": null,
+      "snippet": "La empresa eléctrica detalló las zonas específicas que tendrán una suspensión temporal del suministro este sábado. Los horarios variarán según el distrito ...",
+      "temas": [
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:\"corte de luz\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-16 18:49"
     },
     {
       "id": "b17926332a734e95",
@@ -26222,6 +26291,30 @@
       "agregado": "2026-11-16 17:18"
     },
     {
+      "id": "1d58c5314d278c1a",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb966fae1242979a2278d718787feb&url=https%3a%2f%2felpopular.pe%2factualidad%2f2026%2f10%2f26%2fsedapal-confirma-corte-de-agua-del-27-al-28-de-octubre-por-hasta-20-horas-seguidas-revisa-los-distritos-afectados-aqui-1147328&c=9001939470731125445&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb966fae1242979a2278d718787feb&url=https%3A%2F%2Felpopular.pe%2Factualidad%2F2026%2F10%2F26%2Fsedapal-confirma-corte-de-agua-del-27-al-28-de-octubre-por-hasta-20-horas-seguidas-revisa-los-distritos-afectados-aqui-1147328&c=9001939470731125445&mkt=es-us",
+      "titulo": "Sedapal confirma CORTE DE AGUA del 27 al 28 de octubre por hasta 20 HORAS SEGUIDAS: revisa los distritos afectados AQUÍ",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-26",
+      "fecha_hecho": null,
+      "snippet": "Sedapal programará un corte de agua en Lima Metropolitana los días 27 y 28 de octubre, impactando varias zonas de Lima Metropolitana.",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:\"corte de agua\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-16 18:49"
+    },
+    {
       "id": "f5d80284709cab88",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae0e9ed13d8486fb988333d45b7ded8&url=https%3a%2f%2fwapa.pe%2focio%2f2026%2f10%2f27%2fsedapal-anuncia-corte-agua-27-28-octubre-distritos-afectados-2645082&c=7486118407900471958&mkt=es-us",
       "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae0e9ed13d8486fb988333d45b7ded8&url=https%3A%2F%2Fwapa.pe%2Focio%2F2026%2F10%2F27%2Fsedapal-anuncia-corte-agua-27-28-octubre-distritos-afectados-2645082&c=7486118407900471958&mkt=es-us",
@@ -31224,6 +31317,30 @@
       "agregado": "2026-11-16 17:18"
     },
     {
+      "id": "4c36d85c292ec0c9",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb967e08134f42b4dcfa96d997591f&url=https%3a%2f%2fperu21.pe%2fperu%2fcorte-de-luz-este-25-de-octubre-revisa-distritos-y-horarios-video%2f&c=17577263122126966974&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb967e08134f42b4dcfa96d997591f&url=https%3A%2F%2Fperu21.pe%2Fperu%2Fcorte-de-luz-este-25-de-octubre-revisa-distritos-y-horarios-video%2F&c=17577263122126966974&mkt=es-us",
+      "titulo": "Cortes de luz de HASTA 10 HORAS este 25 de octubre: revisa la lista de distritos y horarios",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-25",
+      "fecha_hecho": null,
+      "snippet": "Pluz e Hidrandina realizarán trabajos de mantenimiento este domingo en sectores de Lima y regiones del norte. Conoce qué zonas serán afectadas y cuándo volverá la luz.",
+      "temas": [
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:Hidrandina",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-16 18:49"
+    },
+    {
       "id": "42f984725b1c9e9b",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfa1b23c194d31bcbbfa17086a92ea&url=https%3a%2f%2fwww.expreso.com.pe%2factualidad%2fcorte-de-agua-hoy-lunes-26-de-octubre-en-distritos-de-lima-zonas-y-horarios-segun-reporte-de-sedapal-recibo-medidor-tuberias-servicio-potable-alcantarillado-noticia%2f1326010%2f&c=4737810061228959417&mkt=es-us",
       "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfa1b23c194d31bcbbfa17086a92ea&url=https%3A%2F%2Fwww.expreso.com.pe%2Factualidad%2Fcorte-de-agua-hoy-lunes-26-de-octubre-en-distritos-de-lima-zonas-y-horarios-segun-reporte-de-sedapal-recibo-medidor-tuberias-servicio-potable-alcantarillado-noticia%2F1326010%2F&c=4737810061228959417&mkt=es-us",
@@ -33597,6 +33714,29 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-11-16 17:18"
+    },
+    {
+      "id": "eca407fa0d42e734",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb967366ed40a8bca38d3d424c948a&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f10%2f25%2fgobierno-declara-en-emergencia-el-sector-vivienda-ante-deficit-de-19-millones-de-hogares-y-falta-de-agua-y-desague%2f&c=6910450422428808357&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb967366ed40a8bca38d3d424c948a&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F10%2F25%2Fgobierno-declara-en-emergencia-el-sector-vivienda-ante-deficit-de-19-millones-de-hogares-y-falta-de-agua-y-desague%2F&c=6910450422428808357&mkt=es-us",
+      "titulo": "Gobierno declara en emergencia el sector Vivienda ante déficit de 1,9 millones de hogares y falta de agua y desagüe",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-24",
+      "fecha_hecho": null,
+      "snippet": "El ministro Mauricio Arnillas reveló que las obras de saneamiento tardan en promedio 987 días en concretarse y anunció una estrategia con plazo de seis meses ...",
+      "temas": [
+        "Agua por red pública",
+        "Alcantarillado"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 5,
+      "query": "bing:desagüe Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-16 18:49"
     },
     {
       "id": "355ae4d40b0ba135",
@@ -76574,6 +76714,28 @@
       "agregado": "2026-11-16 17:18"
     },
     {
+      "id": "f1c2a75063fa0230",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb968554d54f2192d24f925fc7e075&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f10%2f15%2fel-nino-amenaza-el-acceso-al-agua-en-el-norte-del-peru-8-reservorios-tienen-menos-de-la-mitad-de-su-capacidad%2f&c=13462162162982875864&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb968554d54f2192d24f925fc7e075&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F10%2F15%2Fel-nino-amenaza-el-acceso-al-agua-en-el-norte-del-peru-8-reservorios-tienen-menos-de-la-mitad-de-su-capacidad%2F&c=13462162162982875864&mkt=es-us",
+      "titulo": "El Niño amenaza el acceso al agua en el norte del Perú: 8 reservorios tienen menos de la mitad de su capacidad",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-15",
+      "fecha_hecho": null,
+      "snippet": "La disponibilidad de agua preocupa ante la llegada de El Niño Costero: 14 de los 19 reservorios monitoreados tienen menos agua que hace un año y ocho están por debajo del 50% de su capacidad. Por ...",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:\"acceso al agua\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-16 18:49"
+    },
+    {
       "id": "9ec5d5307247e85f",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOLVlySkdPbncyOWhLY0xyTWhvWHZmQzc1T0xLOFJKMzVZbEEtZmdudlpMM3paWTBFcl9SblduOFNJQVJHU0FKa1BPblNoNkR5TGxkX2t4bmJRZXhzbEdaUURmQlpjV0VXckJ0ZWxDM0ZvMTZNWGt6aEhPRXQ4dzhwdjZlSHM2eEtmQW1kbXNWX0d2dG9kQUhLUGx5WmpTeHdrQjczbVpGTm9zenhUTlRhalRTYW5zNWF0RjZ6M2VwazVrcng3ZklZYUt0bmFYVXNQdllkYVZYNEpiVDA?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOLVlySkdPbncyOWhLY0xyTWhvWHZmQzc1T0xLOFJKMzVZbEEtZmdudlpMM3paWTBFcl9SblduOFNJQVJHU0FKa1BPblNoNkR5TGxkX2t4bmJRZXhzbEdaUURmQlpjV0VXckJ0ZWxDM0ZvMTZNWGt6aEhPRXQ4dzhwdjZlSHM2eEtmQW1kbXNWX0d2dG9kQUhLUGx5WmpTeHdrQjczbVpGTm9zenhUTlRhalRTYW5zNWF0RjZ6M2VwazVrcng3ZklZYUt0bmFYVXNQdllkYVZYNEpiVDA",
@@ -83146,6 +83308,28 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-11-15 20:13"
+    },
+    {
+      "id": "29897005dcf3681e",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb9671ee0e49969654f0320f940b09&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f10%2f13%2fcomo-saber-si-hay-corte-de-luz-programado-en-mi-zona-guia-de-consulta-por-dni%2f&c=7424986121320480410&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb9671ee0e49969654f0320f940b09&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F10%2F13%2Fcomo-saber-si-hay-corte-de-luz-programado-en-mi-zona-guia-de-consulta-por-dni%2F&c=7424986121320480410&mkt=es-us",
+      "titulo": "¿Cómo saber si hay corte de luz programado en mi zona?: Guía de consulta por DNI",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-13",
+      "fecha_hecho": null,
+      "snippet": "El número de suministro o de cliente, disponible en el recibo de electricidad, permite identificar el servicio y realizar consultas en los portales oficiales de las compañías ...",
+      "temas": [
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:\"corte de luz\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-16 18:49"
     },
     {
       "id": "6cdda54be8a0991b",
@@ -107625,6 +107809,28 @@
       "agregado": "2026-11-16 17:18"
     },
     {
+      "id": "f998464027075feb",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb96878bd540c59b588a3c10e88d97&url=https%3a%2f%2felcomercio.pe%2feconomia%2fperu%2fdemanda-duplico-la-oferta-cofide-coloca-s120-millones-con-su-tercer-bono-azul-para-financiar-agua-y-saneamiento-l-ultimas-noticia%2f&c=1571782672136678617&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb96878bd540c59b588a3c10e88d97&url=https%3A%2F%2Felcomercio.pe%2Feconomia%2Fperu%2Fdemanda-duplico-la-oferta-cofide-coloca-s120-millones-con-su-tercer-bono-azul-para-financiar-agua-y-saneamiento-l-ultimas-noticia%2F&c=1571782672136678617&mkt=es-us",
+      "titulo": "Demanda duplicó la oferta: Cofide coloca S/120 millones con su tercer bono azul para financiar agua y saneamiento",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-10-07",
+      "fecha_hecho": null,
+      "snippet": "Cofide, Banco de Desarrollo del Perú, colocó el 6 de octubre su tercer bono azul en el mercado local por S/120 millones, a un plazo de 359 días y una tasa de interés de 4,5625%. Los recursos ...",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:\"agua y saneamiento\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-16 18:49"
+    },
+    {
       "id": "e9446ec6213beb16",
       "url": "https://gestion.pe/mundo/internacional/cuba-recurre-a-energia-solar-de-eeuu-para-mantener-algunas-luces-encendidas-noticia/",
       "url_canon": "https://gestion.pe/mundo/internacional/cuba-recurre-a-energia-solar-de-eeuu-para-mantener-algunas-luces-encendidas-noticia",
@@ -122374,5 +122580,5 @@
       "agregado": "2026-10-02 13:04"
     }
   ],
-  "n": 5228
+  "n": 5237
 }
