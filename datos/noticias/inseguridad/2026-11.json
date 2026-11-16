@@ -1,6 +1,6 @@
 {
   "mes": "2026-11",
-  "actualizado": "2026-11-15 15:26",
+  "actualizado": "2026-11-15 20:11",
   "items": [
     {
       "id": "67eb0c4b6ce5807c",
@@ -137,6 +137,32 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-15 15:26"
+    },
+    {
+      "id": "bf38d72fc366e84f",
+      "url": "https://diariocorreo.pe/edicion/huancayo/vuelven-raqueteros-en-moto-que-arrebatan-moviles-en-calles-de-huancayo-noticia/",
+      "url_canon": "https://diariocorreo.pe/edicion/huancayo/vuelven-raqueteros-en-moto-que-arrebatan-moviles-en-calles-de-huancayo-noticia",
+      "titulo": "Vuelven raqueteros en moto que arrebatan móviles en calles de Huancayo",
+      "fuente": "DiarioCorreo",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "feeds",
+      "fecha_pub": "2026-11-15",
+      "fecha_hecho": null,
+      "snippet": "Seis mil 118 celulares incautaron los policías de la Región Policial de Junín de enero a la fecha. En las últimas horas atraparon a un sujeto por el hurto de celular",
+      "temas": [
+        "Robo de dinero, cartera, celular"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Huancayo",
+        "Junín",
+        "Junin"
+      ],
+      "score": 2,
+      "query": "feed:DiarioCorreo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-15 20:11"
     },
     {
       "id": "888e5af92023bdb6",
@@ -330,6 +356,125 @@
       "agregado": "2026-11-15 14:00"
     },
     {
+      "id": "b68841c7771f9bfe",
+      "url": "https://rpp.pe/peru/actualidad/papa-leon-xiv-en-pucallpa-menciona-a-lideres-indigenas-asesinados-y-victimas-de-abuso-sexual-en-la-amazonia-noticia-1717924",
+      "url_canon": "https://rpp.pe/peru/actualidad/papa-leon-xiv-en-pucallpa-menciona-a-lideres-indigenas-asesinados-y-victimas-de-abuso-sexual-en-la-amazonia-noticia-1717924",
+      "titulo": "Papa León XIV recuerda a líderes indígenas asesinados y víctimas de abuso sexual en la Amazonía durante visita a Pucallpa",
+      "fuente": "RPP",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "feeds",
+      "fecha_pub": "2026-11-15",
+      "fecha_hecho": null,
+      "snippet": "Desde Pucallpa, el papa León XIV también hizo un llamado para combinar el crecimiento económico con la conservación del medio ambiente.",
+      "temas": [
+        "Homicidio / sicariato",
+        "Ofensas sexuales"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Pucallpa"
+      ],
+      "score": 5,
+      "query": "feed:RPP",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-15 20:11"
+    },
+    {
+      "id": "4788f3d171c7be6d",
+      "url": "https://elcomercio.pe/peru/ucayali/papa-leon-xiv-en-pucallpa-sueno-con-una-amazonia-que-luche-por-los-derechos-de-los-mas-pobres-donde-su-voz-sea-escuchada-gira-sudamericana-2026-ultimas-apuesplan-noticia/",
+      "url_canon": "https://elcomercio.pe/peru/ucayali/papa-leon-xiv-en-pucallpa-sueno-con-una-amazonia-que-luche-por-los-derechos-de-los-mas-pobres-donde-su-voz-sea-escuchada-gira-sudamericana-2026-ultimas-apuesplan-noticia",
+      "titulo": "Papa León XIV en Pucallpa: “Sueño con una Amazonía que luche por los derechos de los más pobres, donde su voz sea escuchada”",
+      "fuente": "ElComercio",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "feeds",
+      "fecha_pub": "2026-11-15",
+      "fecha_hecho": null,
+      "snippet": "El papa León XIV expresó su preocupación por la violencia contra los pueblos indígenas de la Amazonía y exigió justicia para los dirigentes asesinados por defender sus territorios. Durante su encuentro con la población d",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Pucallpa"
+      ],
+      "score": 2,
+      "query": "feed:ElComercio",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-15 20:11"
+    },
+    {
+      "id": "3c816475d45eab76",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa58252eb4457b80262156b07280cc&url=https%3a%2f%2fwww.eltiempo.com%2fvida%2freligion%2fpapa-leon-xiv-denuncia-explotacion-de-la-amazonia-en-peru-y-condena-asesinatos-de-lideres-indigenas-abusos-sexuales-y-abandono-estatal-3601328&c=7520304699889124044&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa58252eb4457b80262156b07280cc&url=https%3A%2F%2Fwww.eltiempo.com%2Fvida%2Freligion%2Fpapa-leon-xiv-denuncia-explotacion-de-la-amazonia-en-peru-y-condena-asesinatos-de-lideres-indigenas-abusos-sexuales-y-abandono-estatal-3601328&c=7520304699889124044&mkt=es-us",
+      "titulo": "Papa León XIV denuncia explotación de la Amazonía en Perú y condena asesinatos de líderes indígenas, abusos sexuales y abandono estatal",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-15",
+      "fecha_hecho": null,
+      "snippet": "Durante su visita a Pucallpa, el pontífice escuchó las denuncias de comunidades amazónicas y pidió justicia y paz para sus territorios.",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Pucallpa"
+      ],
+      "score": 3,
+      "query": "bing:asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-15 20:11"
+    },
+    {
+      "id": "d49ac4a4784a57e1",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaF9XbmJzUTh0TFl0Wm40QW10dXlxNk13U25Ic3o4Mkp5eUd2TUx6bms2SHVYUGQ2RGJIX1dTRkRhei1yVjhFYlpMcW9xNHFGQ2Y2VDhjVWYxX0tYWXZHYm1XSWZBa2liWDNLdHQ1c3dUQ1hMTlpQTkdpaGhMRF92UDJqTDdDdFdUazZLNFE4VkJLWm5vQ3prS3VOajhDN0pMakdyS1g2N2VuQ1pVT19fMVV4eVJvNUZmcDAxNFpCa0QxaWRDV1F5MTZfMlNFTVJUYkxCb1hFRXU1TU0?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaF9XbmJzUTh0TFl0Wm40QW10dXlxNk13U25Ic3o4Mkp5eUd2TUx6bms2SHVYUGQ2RGJIX1dTRkRhei1yVjhFYlpMcW9xNHFGQ2Y2VDhjVWYxX0tYWXZHYm1XSWZBa2liWDNLdHQ1c3dUQ1hMTlpQTkdpaGhMRF92UDJqTDdDdFdUazZLNFE4VkJLWm5vQ3prS3VOajhDN0pMakdyS1g2N2VuQ1pVT19fMVV4eVJvNUZmcDAxNFpCa0QxaWRDV1F5MTZfMlNFTVJUYkxCb1hFRXU1TU0",
+      "titulo": "Papa León XIV denuncia asesinato de líderes indígenas y explotación de la Amazonía durante su visita a Perú - ADN Radio",
+      "fuente": "ADN Radio",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-15",
+      "fecha_hecho": null,
+      "snippet": "Papa León XIV denuncia asesinato de líderes indígenas y explotación de la Amazonía durante su visita a Perú ADN Radio",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-15 20:10"
+    },
+    {
+      "id": "eec376086490c528",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa58252eb4457b80262156b07280cc&url=https%3a%2f%2fwww.adnradio.cl%2f2026%2f11%2f15%2fpapa-leon-xiv-denuncia-asesinato-de-lideres-indigenas-y-explotacion-de-la-amazonia-durante-su-visita-a-peru%2f&c=12166071941945713576&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa58252eb4457b80262156b07280cc&url=https%3A%2F%2Fwww.adnradio.cl%2F2026%2F11%2F15%2Fpapa-leon-xiv-denuncia-asesinato-de-lideres-indigenas-y-explotacion-de-la-amazonia-durante-su-visita-a-peru%2F&c=12166071941945713576&mkt=es-us",
+      "titulo": "Papa León XIV denuncia asesinato de líderes indígenas y explotación de la Amazonía durante su visita a Perú",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-15",
+      "fecha_hecho": null,
+      "snippet": "En un encuentro en Pucallpa, el pontífice cuestionó la tala indiscriminada, la minería irregular y los derrames de petróleo. También exigió mayor protección para los habitantes de la región.",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Pucallpa"
+      ],
+      "score": 3,
+      "query": "bing:asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-15 20:11"
+    },
+    {
       "id": "a26584cc9543aa76",
       "url": "https://elbuho.pe/2026/11/municipalidad-de-paucarpata-debera-pagar-multa-superior-a-s-500-mil-por-muerte-de-joven-en-piscina-municipal/",
       "url_canon": "https://elbuho.pe/2026/11/municipalidad-de-paucarpata-debera-pagar-multa-superior-a-s-500-mil-por-muerte-de-joven-en-piscina-municipal",
@@ -350,6 +495,50 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-15 14:01"
+    },
+    {
+      "id": "56cbd60f6da34caa",
+      "url": "https://www.youtube.com/watch?v=eSecgkoPPi4",
+      "url_canon": "https://www.youtube.com/watch?v=eSecgkoPPi4",
+      "titulo": "León XIV: La sangre de líderes indígenas asesinados clama a Dios y reclama justicia a los hombres",
+      "fuente": "TVPeru-Noticias-YT",
+      "tipo_fuente": "Redes sociales",
+      "colector": "feeds",
+      "fecha_pub": "2026-11-15",
+      "fecha_hecho": null,
+      "snippet": "",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "feed:TVPeru-Noticias-YT",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-15 20:11"
+    },
+    {
+      "id": "aa48ce5b04d8199f",
+      "url": "https://elbuho.pe/2026/11/leon-xiv-lamenta-el-asesinato-de-lideres-la-deforestacion-mineria-ilegal-y-el-abandono-institucional-de-la-amazonia/",
+      "url_canon": "https://elbuho.pe/2026/11/leon-xiv-lamenta-el-asesinato-de-lideres-la-deforestacion-mineria-ilegal-y-el-abandono-institucional-de-la-amazonia",
+      "titulo": "León XIV lamenta el asesinato de líderes, la deforestación, minería ilegal y el abandono institucional de la Amazonía",
+      "fuente": "ElBuho",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "feeds",
+      "fecha_pub": "2026-11-15",
+      "fecha_hecho": null,
+      "snippet": "El Papa sabe exactamente lo que ocurre en el Perú. \"Muchos líderes indígenas han sido asesinados...la sangre de estos hermanos clama a Dios y reclama justicia a los hombres\"",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 2,
+      "query": "feed:ElBuho",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-15 20:11"
     },
     {
       "id": "e80bee530a451bb8",
@@ -374,6 +563,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-15 07:26"
+    },
+    {
+      "id": "33118d6a3e69c960",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQd0lPYUN2TzBCNEVGd3c5NEE0d1JkdDZiYXVqTkM3dl9rdmduejg4OGZqS0tVRm9td2t6MHZkX3ZaZGFsVGhkWmRZZ0pFMzI1SkxsRVAyOHFXSTFfQUU3d20zNGc3cGJnUW9NWW5Ib05FUWVXU2U2RzR4enI4ZURNd28zNExUY0JNRHRVdVpNS2FnMmhrMDRHdzF0bVJ1ZFVUWjV2RE56WFhIbmlwMDRvbWUybm1nQnlzMVoyZEFScXJTNkhDdFBwNGpmOEY?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQd0lPYUN2TzBCNEVGd3c5NEE0d1JkdDZiYXVqTkM3dl9rdmduejg4OGZqS0tVRm9td2t6MHZkX3ZaZGFsVGhkWmRZZ0pFMzI1SkxsRVAyOHFXSTFfQUU3d20zNGc3cGJnUW9NWW5Ib05FUWVXU2U2RzR4enI4ZURNd28zNExUY0JNRHRVdVpNS2FnMmhrMDRHdzF0bVJ1ZFVUWjV2RE56WFhIbmlwMDRvbWUybm1nQnlzMVoyZEFScXJTNkhDdFBwNGpmOEY",
+      "titulo": "León XIV denunció en la Amazonía peruana el asesinato de líderes indígenas y la explotación de la región - EntreMedios",
+      "fuente": "EntreMedios",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-15",
+      "fecha_hecho": null,
+      "snippet": "León XIV denunció en la Amazonía peruana el asesinato de líderes indígenas y la explotación de la región EntreMedios",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-15 20:10"
     },
     {
       "id": "dca10aee276383f2",
@@ -424,6 +635,30 @@
       "agregado": "2026-11-15 14:01"
     },
     {
+      "id": "2ba6c1d0e6522a63",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa58252eb4457b80262156b07280cc&url=https%3a%2f%2fwww.abc.es%2fsociedad%2finforme-camara-leon-xiv-denuncia-explotacion-amazonia-20261115000034-nt.html&c=13449740250156706930&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa58252eb4457b80262156b07280cc&url=https%3A%2F%2Fwww.abc.es%2Fsociedad%2Finforme-camara-leon-xiv-denuncia-explotacion-amazonia-20261115000034-nt.html&c=13449740250156706930&mkt=es-us",
+      "titulo": "Informe a cámara: León XIV denuncia explotación de la Amazonía y el asesinato de líderes indígenas en Perú",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-15",
+      "fecha_hecho": null,
+      "snippet": "Pucallpa, (Perú), 15 nov (EFE).- El papa León XIV denunció este domingo la explotación de la región de la Amazonía y condenó el trato que reciben las comunidades indígenas con el asesinato de sus ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Pucallpa"
+      ],
+      "score": 3,
+      "query": "bing:asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-15 20:11"
+    },
+    {
       "id": "839a19dd91f9002e",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWTItVmFyMi1wMGx1VE5oTzJpWE43WURnN3ZhbmkwbGdBVHJFeGNBNEpDX0c0OWNpV0ZZTVUyYnpvR2dmdWZlWEh1UXJmdTVsM1kzVE1aT3g2anZTVmh1Q2FrQkwySFV0R2dxdTdaYkJTOWp3SHVfX21VLV9qTW41Q2MtU25JaE81WXFpVWJoZU81VzEzelhOMmxaWTBfWHNDZkp3?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWTItVmFyMi1wMGx1VE5oTzJpWE43WURnN3ZhbmkwbGdBVHJFeGNBNEpDX0c0OWNpV0ZZTVUyYnpvR2dmdWZlWEh1UXJmdTVsM1kzVE1aT3g2anZTVmh1Q2FrQkwySFV0R2dxdTdaYkJTOWp3SHVfX21VLV9qTW41Q2MtU25JaE81WXFpVWJoZU81VzEzelhOMmxaWTBfWHNDZkp3",
@@ -468,6 +703,362 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-15 15:25"
+    },
+    {
+      "id": "fb1020cc820bd44c",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZHF1ZGk4OXdWVDJCQU4tbzRmWmJKWDJBQnk0QmNNUXhnaFlXWWxSVUc2bnJZei1LaGV2RTcxT0w4aGlWWGw3MU5nRUwtSGg2STVCZ293N0hTazZfb0pEYXhEZU1sa3dQNDY1MER0VGJsZjNLYXduV1d5SGhUSEo2RFJaLVdCMnpfa1NFZWFJNFM1ckl2dmM3ZWgyTTJTSUNJcTFUekNCZVNLRWlUei1aZ0p6eG5XNE00SENaVnZBVkdaaTMwYm1RY9IBzgFBVV95cUxPZFNORWVTbW1HUmpmWjd0cTNJTTNMWTc2QXRHVFlHajdVemtEdGNOZkU5QkQ3cl90eEhESTQ2cFVMZUl3SVhNUTZRRzAyNVlsa2plZkNuSk5fMm1YRGoxNWFySlFqcGhVOE1PekprVDR5U0JvUG44SHFsY01aU2JmTnpSYnRLQ08xMDBLMDZacHREZUQ1eTNieVY5RDFEcTY5RHBackpNa3FxcldyMldRanhTaFBWazYyalhJVjZWWTJDT19vaXA1OS1oTlUxdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZHF1ZGk4OXdWVDJCQU4tbzRmWmJKWDJBQnk0QmNNUXhnaFlXWWxSVUc2bnJZei1LaGV2RTcxT0w4aGlWWGw3MU5nRUwtSGg2STVCZ293N0hTazZfb0pEYXhEZU1sa3dQNDY1MER0VGJsZjNLYXduV1d5SGhUSEo2RFJaLVdCMnpfa1NFZWFJNFM1ckl2dmM3ZWgyTTJTSUNJcTFUekNCZVNLRWlUei1aZ0p6eG5XNE00SENaVnZBVkdaaTMwYm1RY9IBzgFBVV95cUxPZFNORWVTbW1HUmpmWjd0cTNJTTNMWTc2QXRHVFlHajdVemtEdGNOZkU5QkQ3cl90eEhESTQ2cFVMZUl3SVhNUTZRRzAyNVlsa2plZkNuSk5fMm1YRGoxNWFySlFqcGhVOE1PekprVDR5U0JvUG44SHFsY01aU2JmTnpSYnRLQ08xMDBLMDZacHREZUQ1eTNieVY5RDFEcTY5RHBackpNa3FxcldyMldRanhTaFBWazYyalhJVjZWWTJDT19vaXA1OS1oTlUxdw",
+      "titulo": "En la Amazonía peruana, León XIV denunció el asesinato de líderes indígenas y la explotación de la selva - elDiarioAR.com",
+      "fuente": "elDiarioAR.com",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-15",
+      "fecha_hecho": null,
+      "snippet": "En la Amazonía peruana, León XIV denunció el asesinato de líderes indígenas y la explotación de la selva elDiarioAR.com",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-15 20:10"
+    },
+    {
+      "id": "6e374f2d52d331c6",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa58252eb4457b80262156b07280cc&url=https%3a%2f%2fwww.msn.com%2fes-ar%2fnoticias%2fother%2fen-la-amazon%25C3%25ADa-peruana-le%25C3%25B3n-xiv-denunci%25C3%25B3-el-asesinato-de-l%25C3%25ADderes-ind%25C3%25ADgenas-y-la-explotaci%25C3%25B3n-de-la-selva%2far-AA2hvdbc&c=438555657723712582&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa58252eb4457b80262156b07280cc&url=https%3A%2F%2Fwww.msn.com%2Fes-ar%2Fnoticias%2Fother%2Fen-la-amazon%25C3%25ADa-peruana-le%25C3%25B3n-xiv-denunci%25C3%25B3-el-asesinato-de-l%25C3%25ADderes-ind%25C3%25ADgenas-y-la-explotaci%25C3%25B3n-de-la-selva%2Far-AA2hvdbc&c=438555657723712582&mkt=es-us",
+      "titulo": "En la Amazonía peruana, León XIV denunció el asesinato de líderes indígenas y la explotación de la selva",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-15",
+      "fecha_hecho": null,
+      "snippet": "Ante representantes de 21 pueblos originarios en Pucallpa, el papa dijo que las heridas de la región \"se han agravado\" y cuestionó que se la trate como \"una reserva de recursos para explotar\". Después ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Pucallpa"
+      ],
+      "score": 3,
+      "query": "bing:asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-15 20:11"
+    },
+    {
+      "id": "6aab3ae2949bc52f",
+      "url": "https://gestion.pe/peru/el-papa-pide-justicia-para-los-lideres-indigenas-asesinados-por-defender-sus-tierras-noticia/",
+      "url_canon": "https://gestion.pe/peru/el-papa-pide-justicia-para-los-lideres-indigenas-asesinados-por-defender-sus-tierras-noticia",
+      "titulo": "El papa pide “justicia” para los líderes indígenas asesinados por defender sus tierras",
+      "fuente": "Gestion",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "feeds",
+      "fecha_pub": "2026-11-15",
+      "fecha_hecho": null,
+      "snippet": "El papa León XIV pide “justicia” para los líderes indígenas asesinados por defender sus tierras. León XIV condena abusos sexuales y el abandono de las instituciones en la amazonía.",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "feed:Gestion",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-15 20:11"
+    },
+    {
+      "id": "89988778b152c769",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSk84OWxDVEMtSmlfMUVRV1ZMUWZhcFBGYnVHMTNsV3VZYVNzNzd4TEo1TGtpdWFtTC1TN0JPbUdiQ0UwaGNMUlU0enZYcjNoR1NNejEydl9lb1pwZWFTVGc4bDl5NG9WRW5jY0ZUa0RhYmsyWm9FLWpzR3UtUllEd0lSN2FyRjlvbFN6ZkhSYm4yS1RVWm93YkpyTFk4cHo0UlRHaS1nZ0E2dExSTXhpVFlvNGhLMGp2cUtLMkg4WGNjWXdQLXBKWGJoQkxkSHdXNVVJ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSk84OWxDVEMtSmlfMUVRV1ZMUWZhcFBGYnVHMTNsV3VZYVNzNzd4TEo1TGtpdWFtTC1TN0JPbUdiQ0UwaGNMUlU0enZYcjNoR1NNejEydl9lb1pwZWFTVGc4bDl5NG9WRW5jY0ZUa0RhYmsyWm9FLWpzR3UtUllEd0lSN2FyRjlvbFN6ZkhSYm4yS1RVWm93YkpyTFk4cHo0UlRHaS1nZ0E2dExSTXhpVFlvNGhLMGp2cUtLMkg4WGNjWXdQLXBKWGJoQkxkSHdXNVVJ",
+      "titulo": "El papa denuncia en Perú la explotación de la Amazonía y el asesinato de líderes indígenas - Panamá América",
+      "fuente": "Panamá América",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-15",
+      "fecha_hecho": null,
+      "snippet": "El papa denuncia en Perú la explotación de la Amazonía y el asesinato de líderes indígenas Panamá América",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "homicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-15 20:10"
+    },
+    {
+      "id": "f3cc342378f85a87",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa58252eb4457b80262156b07280cc&url=https%3a%2f%2fwww.msn.com%2fes-es%2fnoticias%2fotras%2fel-papa-denuncia-en-per%25C3%25BA-la-explotaci%25C3%25B3n-de-la-amazon%25C3%25ADa-y-el-asesinato-de-l%25C3%25ADderes-ind%25C3%25ADgenas%2far-AA2hujBy&c=12274549755609247384&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa58252eb4457b80262156b07280cc&url=https%3A%2F%2Fwww.msn.com%2Fes-es%2Fnoticias%2Fotras%2Fel-papa-denuncia-en-per%25C3%25BA-la-explotaci%25C3%25B3n-de-la-amazon%25C3%25ADa-y-el-asesinato-de-l%25C3%25ADderes-ind%25C3%25ADgenas%2Far-AA2hujBy&c=12274549755609247384&mkt=es-us",
+      "titulo": "El papa denuncia en Perú la explotación de la Amazonía y el asesinato de líderes indígenas",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-15",
+      "fecha_hecho": null,
+      "snippet": "PAPA PERÚ ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-15 20:11"
+    },
+    {
+      "id": "94eb708641e47757",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNS0ZubldsbW9Namx0MWZwc2U1cl9Gcy1HNDB1elUydmgtbWRpazJ6SWFEbU92cmtnRi1UdElxS2gzUEItY3hqV3hsOEN2RVMwUHVXMWc5LUdXNWpXVzdVV1o3NkFPME0zekt5NzIwVkVYcm5XRXNhVjhPWEtUV2pIY2tSS2EtNFlfdHdZeFl2T3pQY3RpbkdHeWwzbnZvUWFJUkFzZXhwLVp3RDdIRHZZNXFPblQ3T2IxNzhJN2JadHNCWVJmRk5FRVFOVTk0Qjl2elJUdEV0LVNzc3Bx?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNS0ZubldsbW9Namx0MWZwc2U1cl9Gcy1HNDB1elUydmgtbWRpazJ6SWFEbU92cmtnRi1UdElxS2gzUEItY3hqV3hsOEN2RVMwUHVXMWc5LUdXNWpXVzdVV1o3NkFPME0zekt5NzIwVkVYcm5XRXNhVjhPWEtUV2pIY2tSS2EtNFlfdHdZeFl2T3pQY3RpbkdHeWwzbnZvUWFJUkFzZXhwLVp3RDdIRHZZNXFPblQ3T2IxNzhJN2JadHNCWVJmRk5FRVFOVTk0Qjl2elJUdEV0LVNzc3Bx",
+      "titulo": "El papa denuncia en Perú la explotación de la Amazonia y el asesinato de líderes indígenas - Red Uno",
+      "fuente": "Red Uno",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-15",
+      "fecha_hecho": null,
+      "snippet": "El papa denuncia en Perú la explotación de la Amazonia y el asesinato de líderes indígenas Red Uno",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-15 20:10"
+    },
+    {
+      "id": "ea4afb5667001131",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQdnRWRXRBbUgwc0UzUXJnUXFXZ0RVTUQ5RkZ1Y1pVNWxpWXphQWVqV1h3QkdmQjdMZkpvUlJuekYxRmRTN1VnQjJweUxmYVZqNW42eUtsSEpxOUw0Z3h0NE0yRFhGcGpPOGdUVVZZdDRJNHh3WG9VQWFSeXQxem1DY1AyN19Iai1pUjlVVkNPUndxRTJ6VEZ2TXpwcDQ3c2tiY0N4M3VHVUJtSnFmRnJVc3d4Y0NHU0hLbXJVUTB1V3pjbG9adk4tNEFnSnpKZjFYOGhMVk04clBRLUdGMXllLWxTX200YzItdW81Rnl3bm5LNG9tc0HSAfYBQVVfeXFMUHZ0VkV0QW1IMHNFM1FyZ1FxV2dEVU1EOUZGdWNaVTVsaVl6YUFlaldYd0JHZkI3TGZKb1JSbnpGMUZkUzdVZ0IycHlMZmFWajVuNnlLbEhKcTlMNGd4dDRNMkRYRnBqTzhnVFVWWXQ0STR4d1hvVUFhUnl0MXptQ2NQMjdfSGotaVI5VVZDT1J3cUUyelRGdk16cHA0N3NrYmNDeDN1R1VCbUpxZkZyVXN3eGNDR1NIS21yVVEwdVd6Y2xvWnZOLTRBZ0p6SmYxWDhoTFZNOHJQUS1HRjF5ZS1sU19tNGMyLXVvNUZ5d25uSzRvbXNB?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQdnRWRXRBbUgwc0UzUXJnUXFXZ0RVTUQ5RkZ1Y1pVNWxpWXphQWVqV1h3QkdmQjdMZkpvUlJuekYxRmRTN1VnQjJweUxmYVZqNW42eUtsSEpxOUw0Z3h0NE0yRFhGcGpPOGdUVVZZdDRJNHh3WG9VQWFSeXQxem1DY1AyN19Iai1pUjlVVkNPUndxRTJ6VEZ2TXpwcDQ3c2tiY0N4M3VHVUJtSnFmRnJVc3d4Y0NHU0hLbXJVUTB1V3pjbG9adk4tNEFnSnpKZjFYOGhMVk04clBRLUdGMXllLWxTX200YzItdW81Rnl3bm5LNG9tc0HSAfYBQVVfeXFMUHZ0VkV0QW1IMHNFM1FyZ1FxV2dEVU1EOUZGdWNaVTVsaVl6YUFlaldYd0JHZkI3TGZKb1JSbnpGMUZkUzdVZ0IycHlMZmFWajVuNnlLbEhKcTlMNGd4dDRNMkRYRnBqTzhnVFVWWXQ0STR4d1hvVUFhUnl0MXptQ2NQMjdfSGotaVI5VVZDT1J3cUUyelRGdk16cHA0N3NrYmNDeDN1R1VCbUpxZkZyVXN3eGNDR1NIS21yVVEwdVd6Y2xvWnZOLTRBZ0p6SmYxWDhoTFZNOHJQUS1HRjF5ZS1sU19tNGMyLXVvNUZ5d25uSzRvbXNB",
+      "titulo": "El papa denuncia en Perú la explotación de la Amazonia y el asesinato de líderes indígenas - Infobae",
+      "fuente": "Infobae",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-15",
+      "fecha_hecho": null,
+      "snippet": "El papa denuncia en Perú la explotación de la Amazonia y el asesinato de líderes indígenas Infobae",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-15 20:10"
+    },
+    {
+      "id": "c61ad85bd16aaab2",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRjlBUFFhd2o4U2E0ejFxQ3ZEak5kdURsYU9ORGtZTFFFSVdUaFZBcVUxQmNQOVBJRlh2dXQ5Tll2c1Jjd2JrbGxKTlBBQ1FJRXBGTG81QkFMNUJ3ZW94ejJfQXNmTjZ6WFlLUUNpWVFJNndSdnc3UlRkUlkxZ3l5OHdzaTlYYjV4OVhpWGdDNG9WM3dicjFWZGY3UWhKQ3cwN1NBcVNBQlZZVXhpUkVvYjNYSHkxN1JGOGF1VQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRjlBUFFhd2o4U2E0ejFxQ3ZEak5kdURsYU9ORGtZTFFFSVdUaFZBcVUxQmNQOVBJRlh2dXQ5Tll2c1Jjd2JrbGxKTlBBQ1FJRXBGTG81QkFMNUJ3ZW94ejJfQXNmTjZ6WFlLUUNpWVFJNndSdnc3UlRkUlkxZ3l5OHdzaTlYYjV4OVhpWGdDNG9WM3dicjFWZGY3UWhKQ3cwN1NBcVNBQlZZVXhpUkVvYjNYSHkxN1JGOGF1VQ",
+      "titulo": "El papa denuncia en Perú la explotación de la Amazonia y el asesinato de líderes indígenas - El Nuevo Diario",
+      "fuente": "El Nuevo Diario",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-15",
+      "fecha_hecho": null,
+      "snippet": "El papa denuncia en Perú la explotación de la Amazonia y el asesinato de líderes indígenas El Nuevo Diario",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-15 20:10"
+    },
+    {
+      "id": "3488abc62e4377ba",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRU50MElSTmJTeHJZdFNJN3dTOGxJdGVtOVhKQzhzUFRETEVPS0JiUzJzNkpqSVMzUFBDUjUxdHFlOEt4QkViT1FxUXBfclVGQXNaOU5QeVpVT0pqQ05Sb3k1X1FqcW9GRFNDS1I4bldjSml5UTFsUnVCT2FIQXFFcVdoWWJjZlUyb0o5SHlfWnhQLVpoX1dTNGNvakplRHpvc0M1cWktU3M1U2dQ0gGyAUFVX3lxTE9mTU5sRUhBSVJIQ2FndHAtMm5aZ0Jsb2ZSTDFMQVNxdG12VG14a2dTSjNCY1I4OHJ1OGJJQktvUzEtb2ozR0cxVVo1cWtiS0VXZ0lnZS1tR1lyVDFhOVprLTJaSzVTRXF4a0EzcjdnZHpsbG9OdmpSRW15YmZhcFUyV0lxZ0RtLWt5dVlSc0QzcnVSUmdHeW1rdXNPLW1ibzJJbGtsVmdLSEJ4a0NJQkhDSWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRU50MElSTmJTeHJZdFNJN3dTOGxJdGVtOVhKQzhzUFRETEVPS0JiUzJzNkpqSVMzUFBDUjUxdHFlOEt4QkViT1FxUXBfclVGQXNaOU5QeVpVT0pqQ05Sb3k1X1FqcW9GRFNDS1I4bldjSml5UTFsUnVCT2FIQXFFcVdoWWJjZlUyb0o5SHlfWnhQLVpoX1dTNGNvakplRHpvc0M1cWktU3M1U2dQ0gGyAUFVX3lxTE9mTU5sRUhBSVJIQ2FndHAtMm5aZ0Jsb2ZSTDFMQVNxdG12VG14a2dTSjNCY1I4OHJ1OGJJQktvUzEtb2ozR0cxVVo1cWtiS0VXZ0lnZS1tR1lyVDFhOVprLTJaSzVTRXF4a0EzcjdnZHpsbG9OdmpSRW15YmZhcFUyV0lxZ0RtLWt5dVlSc0QzcnVSUmdHeW1rdXNPLW1ibzJJbGtsVmdLSEJ4a0NJQkhDSWc",
+      "titulo": "El papa denuncia en Perú la explotación de la Amazonia y el asesinato de líderes indígenas - ABC",
+      "fuente": "ABC",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-15",
+      "fecha_hecho": null,
+      "snippet": "El papa denuncia en Perú la explotación de la Amazonia y el asesinato de líderes indígenas ABC",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-15 20:10"
+    },
+    {
+      "id": "52d98783570b75dd",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNDRoRno4OUNBYnl4Ql8xWFlaakt2RXR1LVhUQmkwMmFKZUhrbUNxRldVQU1uaUo0VGlucWE2WXItVnVxUVZNdDZHdFJycmhRbDY5b3RMaFdXMWRNRm1LVGxuSzFnNG9tUHR6aWZUckFkSzdqS0NGQWFYLS11WHlubUNpczRlT0lLYUl3TkN5elRsenVvZFYxcW9HWGVQVmo4QmVfaVA5UHpsTkpYZzBQNXRoMEM3WVltN3lOcEFHeDDSAcABQVVfeXFMTnV5RjJxRGdIOVl2amJpcG5qRlRuNU9WZFplcWlZOTV6eG1pZHNzYTFKUzk5WUlVemVMR2hIS3hXUWtkeGhSOHNEbGFaV0Etc2RJdFlwcWJBZTdJOEZ3YjM4ZVVWajVfdnFqU3Y2SW1iVlVnUDlFalk0Qnc0Mkh2VHdsVmpFSEFoMkJiT0kzdXloR3oxamNqN2hOZHdkSURET09VUVdVYk4yZWpwRlNlcXhENER3MHdfdmUxVDN5a1hx?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNDRoRno4OUNBYnl4Ql8xWFlaakt2RXR1LVhUQmkwMmFKZUhrbUNxRldVQU1uaUo0VGlucWE2WXItVnVxUVZNdDZHdFJycmhRbDY5b3RMaFdXMWRNRm1LVGxuSzFnNG9tUHR6aWZUckFkSzdqS0NGQWFYLS11WHlubUNpczRlT0lLYUl3TkN5elRsenVvZFYxcW9HWGVQVmo4QmVfaVA5UHpsTkpYZzBQNXRoMEM3WVltN3lOcEFHeDDSAcABQVVfeXFMTnV5RjJxRGdIOVl2amJpcG5qRlRuNU9WZFplcWlZOTV6eG1pZHNzYTFKUzk5WUlVemVMR2hIS3hXUWtkeGhSOHNEbGFaV0Etc2RJdFlwcWJBZTdJOEZ3YjM4ZVVWajVfdnFqU3Y2SW1iVlVnUDlFalk0Qnc0Mkh2VHdsVmpFSEFoMkJiT0kzdXloR3oxamNqN2hOZHdkSURET09VUVdVYk4yZWpwRlNlcXhENER3MHdfdmUxVDN5a1hx",
+      "titulo": "El papa León XIV en la Amazonía condena asesinato de líderes indígenas - DW.com",
+      "fuente": "DW.com",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-15",
+      "fecha_hecho": null,
+      "snippet": "El papa León XIV en la Amazonía condena asesinato de líderes indígenas DW.com",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-15 20:10"
+    },
+    {
+      "id": "bb96a16c1edbee8e",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa58252eb4457b80262156b07280cc&url=https%3a%2f%2fwww.msn.com%2fes-co%2fnoticias%2fother%2fel-papa-le%25C3%25B3n-xiv-en-la-amazon%25C3%25ADa-condena-asesinato-de-l%25C3%25ADderes-ind%25C3%25ADgenas%2far-AA2hvl9D&c=12948994583087652111&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa58252eb4457b80262156b07280cc&url=https%3A%2F%2Fwww.msn.com%2Fes-co%2Fnoticias%2Fother%2Fel-papa-le%25C3%25B3n-xiv-en-la-amazon%25C3%25ADa-condena-asesinato-de-l%25C3%25ADderes-ind%25C3%25ADgenas%2Far-AA2hvl9D&c=12948994583087652111&mkt=es-us",
+      "titulo": "El papa León XIV en la Amazonía condena asesinato de líderes indígenas",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-15",
+      "fecha_hecho": null,
+      "snippet": "El pontífice en su homilía en la Amazonía, se concentró sobre todo en la protección de la naturaleza y la dignidad del trabajo.",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-15 20:11"
+    },
+    {
+      "id": "e77332f89dcf11f0",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa58252eb4457b80262156b07280cc&url=https%3a%2f%2fwww.elancasti.com.ar%2fmundo%2fel-papa-leon-xiv-denuncio-la-explotacion-la-amazonia-y-el-asesinato-lideres-indigenas-n626111&c=15976638896495978258&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa58252eb4457b80262156b07280cc&url=https%3A%2F%2Fwww.elancasti.com.ar%2Fmundo%2Fel-papa-leon-xiv-denuncio-la-explotacion-la-amazonia-y-el-asesinato-lideres-indigenas-n626111&c=15976638896495978258&mkt=es-us",
+      "titulo": "El papa León XIV denunció la explotación de la Amazonia y el asesinato de líderes indígenas",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-15",
+      "fecha_hecho": null,
+      "snippet": "El Papa también denunció la contaminación de los ríos por la minería y los derrames de petróleo, el avance del narcotráfico y la violencia sexual contra mujeres y niñas.",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-15 20:11"
+    },
+    {
+      "id": "530fb908a0075a79",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOGt5R0Q2M3hVYU5FdUdWREVKQm9hdThIZEVEZDZnanBmOElxVGxHd0llX29wNFp3X0NMNHd6eGpGN3V5Yi1PTGlDT3BrUllIbWZ2aU5yaml2U2FRZGF1NUg3dzZ5N1lfNHdHSmVpODRHQVQxT1BoX3lkQ2NnS3hnRk5SZ21fUTc1R0xvVTNoSDllbnhsSVVKaHdrcjd2YnM4TnlSMnVmczhwMDVFZ3RVRVBhM1JVSHg0TWNxdWx6VXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOGt5R0Q2M3hVYU5FdUdWREVKQm9hdThIZEVEZDZnanBmOElxVGxHd0llX29wNFp3X0NMNHd6eGpGN3V5Yi1PTGlDT3BrUllIbWZ2aU5yaml2U2FRZGF1NUg3dzZ5N1lfNHdHSmVpODRHQVQxT1BoX3lkQ2NnS3hnRk5SZ21fUTc1R0xvVTNoSDllbnhsSVVKaHdrcjd2YnM4TnlSMnVmczhwMDVFZ3RVRVBhM1JVSHg0TWNxdWx6VXc",
+      "titulo": "El papa León XIV denunció en Perú la explotación de la Amazonía y el asesinato de líderes indígenas - Clarin.com",
+      "fuente": "Clarin.com",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-15",
+      "fecha_hecho": null,
+      "snippet": "El papa León XIV denunció en Perú la explotación de la Amazonía y el asesinato de líderes indígenas Clarin.com",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-15 20:10"
+    },
+    {
+      "id": "056cadac22cebf16",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa58252eb4457b80262156b07280cc&url=https%3a%2f%2fwww.diariouno.com.ar%2fmundo%2fpapa-leon-xiv-denuncio-asesinatos-lideres-indigenas-y-abusos-la-amazonia-peruana-n1616696&c=17302387454494634685&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa58252eb4457b80262156b07280cc&url=https%3A%2F%2Fwww.diariouno.com.ar%2Fmundo%2Fpapa-leon-xiv-denuncio-asesinatos-lideres-indigenas-y-abusos-la-amazonia-peruana-n1616696&c=17302387454494634685&mkt=es-us",
+      "titulo": "El papa León XIV denunció asesinatos de líderes indígenas y abusos en la Amazonía peruana",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-15",
+      "fecha_hecho": null,
+      "snippet": "El Papa León XIV denunció asesinatos de líderes indígenas, contaminación y abusos durante su visita a la Amazonía peruana. Cierra su visita a Sudamérica ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-15 20:11"
+    },
+    {
+      "id": "da636a909bc4314a",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdFk5SXQxTy1UOEphQkx3dWNNM0ZsXy1DWDBoVjZfUFNCS2tsWDJNU3p0TC1EZm9BV2w1b3d0RHE5Y09UNURRLUVBNzRTc3FYUVBzOHNDaWFoSnZMOEZoU1hOSzd2QnFFdXpnVmlTc3ZDbXlCLTVIYko5ZGhhNktfbndwb1lYQU1QTGhoZGFjMElNc1pmUnhRcmpJbTU?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdFk5SXQxTy1UOEphQkx3dWNNM0ZsXy1DWDBoVjZfUFNCS2tsWDJNU3p0TC1EZm9BV2w1b3d0RHE5Y09UNURRLUVBNzRTc3FYUVBzOHNDaWFoSnZMOEZoU1hOSzd2QnFFdXpnVmlTc3ZDbXlCLTVIYko5ZGhhNktfbndwb1lYQU1QTGhoZGFjMElNc1pmUnhRcmpJbTU",
+      "titulo": "El papa León XIV denuncia en Perú la explotación de la Amazonía y el asesinato de líderes indígenas - Primicias",
+      "fuente": "Primicias",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-15",
+      "fecha_hecho": null,
+      "snippet": "El papa León XIV denuncia en Perú la explotación de la Amazonía y el asesinato de líderes indígenas Primicias",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-15 20:10"
+    },
+    {
+      "id": "674a2041933c9791",
+      "url": "https://inforegion.pe/el-papa-leon-xiv-en-pucallpa-la-sangre-de-los-lideres-indigenas-asesinados-clama-justicia/",
+      "url_canon": "https://inforegion.pe/el-papa-leon-xiv-en-pucallpa-la-sangre-de-los-lideres-indigenas-asesinados-clama-justicia",
+      "titulo": "El Papa León XIV en Pucallpa: «La sangre de los líderes indígenas asesinados clama justicia»",
+      "fuente": "Inforegion",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "feeds",
+      "fecha_pub": "2026-11-15",
+      "fecha_hecho": null,
+      "snippet": "Desde la «tierra colorada» de Pucallpa, en el corazón de la Amazonía peruana, el... La entrada El Papa León XIV en Pucallpa: «La sangre de los líderes indígenas asesinados clama justicia» se publicó primero en Inforegión",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Pucallpa"
+      ],
+      "score": 3,
+      "query": "feed:Inforegion",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-15 20:11"
     },
     {
       "id": "96c05bc77b1ad839",
@@ -534,6 +1125,31 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-15 14:00"
+    },
+    {
+      "id": "d7395d57b317ba35",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcUxTZWVzRVVEQU1wRjBQLXU2QXdTa2hhRmtSMTlXX0xFUnJSZWtwek1pVHg3OEN6bWpLbjhXSzVMSWkxTWFNcEJidjR6R1RUQVpLWVZBOTlseUpDbTh6NVZUcWltTmh0bTZTRFdWdG9LQVpib0R3MDhpeVVVTTZEbGFRWG1MSG5xMV9VazlLVm9SSDVYa2hKZzF0SG9sRjNVNkRXUlFjYloxeThfNEI5eXU3V19TSEFJ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcUxTZWVzRVVEQU1wRjBQLXU2QXdTa2hhRmtSMTlXX0xFUnJSZWtwek1pVHg3OEN6bWpLbjhXSzVMSWkxTWFNcEJidjR6R1RUQVpLWVZBOTlseUpDbTh6NVZUcWltTmh0bTZTRFdWdG9LQVpib0R3MDhpeVVVTTZEbGFRWG1MSG5xMV9VazlLVm9SSDVYa2hKZzF0SG9sRjNVNkRXUlFjYloxeThfNEI5eXU3V19TSEFJ",
+      "titulo": "Comas: PNP captura a delincuente vinculado al sicariato y extorsión en varios distritos - tvperu.gob.pe",
+      "fuente": "tvperu.gob.pe",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-15",
+      "fecha_hecho": null,
+      "snippet": "Comas: PNP captura a delincuente vinculado al sicariato y extorsión en varios distritos tvperu.gob.pe",
+      "temas": [
+        "Extorsión",
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Comas"
+      ],
+      "score": 5,
+      "query": "sicariato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-15 20:10"
     },
     {
       "id": "bb496969bc8fb645",
@@ -724,6 +1340,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-15 15:26"
+    },
+    {
+      "id": "8599fc3db6001507",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa582478c3493fb1017d3645ee867c&url=https%3a%2f%2fdiariocorreo.pe%2fedicion%2flima%2fate-pnp-desarticula-a-los-faites-de-huaycan-banda-vinculada-al-sicariato-noticia%2f&c=6044019117011191886&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa582478c3493fb1017d3645ee867c&url=https%3A%2F%2Fdiariocorreo.pe%2Fedicion%2Flima%2Fate-pnp-desarticula-a-los-faites-de-huaycan-banda-vinculada-al-sicariato-noticia%2F&c=6044019117011191886&mkt=es-us",
+      "titulo": "Ate: PNP desarticula a “Los Faites de Huaycán”, banda vinculada al sicariato",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-15",
+      "fecha_hecho": null,
+      "snippet": "La intervención policial se realizó cerca del paradero Horacio Zeballos, en Huaycán. Los detenidos son investigados por su presunta vinculación con el asesinato de un hombre de 52 años.",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Ate"
+      ],
+      "score": 3,
+      "query": "bing:sicariato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-15 20:11"
     },
     {
       "id": "3b7a241b3d81cc45",
@@ -1032,6 +1672,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-15 14:00"
+    },
+    {
+      "id": "5b2ba64102bebf6a",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMXE3Y1JVZFRYZHF4eDFUcXBGY0NfblpqNzVzRDk3S0NRWFlVTUdBSlYwZ2ZwdTEzTVNqQjFLMWFnWXhkeUxpY0tfYzREd1htUzcybzk1Wkg3a3lEclBsSTdLMDh6NjB5emJNMmVQWEVQclhvb0JkR1NxbExwRVpCeVl3Z0N2VzB2N3Azdkx5cGl6SUhnUENHcG1iM3ZyVHJ1a2Q0QmtIY1Q5QkFyak84MjRFdzl0bVBHdEpBMGVnUlE4bW4yejBKSUcyWWNsUmRKNEJacV9PZ2JQOXRWX19OX0dkWVBnejkyQzVQbkx1b2w?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMXE3Y1JVZFRYZHF4eDFUcXBGY0NfblpqNzVzRDk3S0NRWFlVTUdBSlYwZ2ZwdTEzTVNqQjFLMWFnWXhkeUxpY0tfYzREd1htUzcybzk1Wkg3a3lEclBsSTdLMDh6NjB5emJNMmVQWEVQclhvb0JkR1NxbExwRVpCeVl3Z0N2VzB2N3Azdkx5cGl6SUhnUENHcG1iM3ZyVHJ1a2Q0QmtIY1Q5QkFyak84MjRFdzl0bVBHdEpBMGVnUlE4bW4yejBKSUcyWWNsUmRKNEJacV9PZ2JQOXRWX19OX0dkWVBnejkyQzVQbkx1b2w",
+      "titulo": "Prometía ganancias con una discoteca que nunca existió y habría estafado Bs 300 mil - Red Uno",
+      "fuente": "Red Uno",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-14",
+      "fecha_hecho": null,
+      "snippet": "Prometía ganancias con una discoteca que nunca existió y habría estafado Bs 300 mil Red Uno",
+      "temas": [
+        "Estafa"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "estafa Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-15 20:10"
     },
     {
       "id": "ab034c1c0c00572c",
@@ -1514,6 +2176,32 @@
       "agregado": "2026-11-15 07:25"
     },
     {
+      "id": "811fbfd42ad48038",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSGhRREJfV0FxQm9GX2VvdTd1V1N2X1R5WDBnNlR6RUlIN0o2Q1FTVl9wUlFTTm5SVVJoNW54R0dRem1SLUlhelNObGdDQkRLU2pxX3NrdXpoWTlxOVRHNjk1blA0RUprdFhzRENlZkUxRk9vMEhmTEpXMkZFNHljVFpCRTROVnZUSXQ0SkdzTlYwMExheXIyVncwTExPOEJHb2tpWWt0Tm5nNzZYQVY4Z3dJblViQ0I3ZUM0QnNqNy1OYVpFeHJfZGhJZlNqdmfSAeoBQVVfeXFMT1YzWXk0SUlBX3VPSzJmOGdVSU0wOHVqbGFna052SUZ6OUVkQ01PVEVyYjN1R2htdjl3QWNwUWE1VFhsbklvb0NRWUYxTjZJaWtOMm5saWo4X21aNzBSZEVHSDlaeDR2SjBXUGdMcERFZWtaRnZjUE1uS3pPa25CcXBZNm9zQTFRMHBTdWZka1JlUU11b203MWVXWmlfN2ZsTVViaGFtNk52SzRzaENMZ01sbWlwS0FDYlQtS3l0bDdaYXFNUi1sN2ExMnk1dnBJOWZZcFRCYS1oaU5yanNtMURRd1NoNmlxTEtn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSGhRREJfV0FxQm9GX2VvdTd1V1N2X1R5WDBnNlR6RUlIN0o2Q1FTVl9wUlFTTm5SVVJoNW54R0dRem1SLUlhelNObGdDQkRLU2pxX3NrdXpoWTlxOVRHNjk1blA0RUprdFhzRENlZkUxRk9vMEhmTEpXMkZFNHljVFpCRTROVnZUSXQ0SkdzTlYwMExheXIyVncwTExPOEJHb2tpWWt0Tm5nNzZYQVY4Z3dJblViQ0I3ZUM0QnNqNy1OYVpFeHJfZGhJZlNqdmfSAeoBQVVfeXFMT1YzWXk0SUlBX3VPSzJmOGdVSU0wOHVqbGFna052SUZ6OUVkQ01PVEVyYjN1R2htdjl3QWNwUWE1VFhsbklvb0NRWUYxTjZJaWtOMm5saWo4X21aNzBSZEVHSDlaeDR2SjBXUGdMcERFZWtaRnZjUE1uS3pPa25CcXBZNm9zQTFRMHBTdWZka1JlUU11b203MWVXWmlfN2ZsTVViaGFtNk52SzRzaENMZ01sbWlwS0FDYlQtS3l0bDdaYXFNUi1sN2ExMnk1dnBJOWZZcFRCYS1oaU5yanNtMURRd1NoNmlxTEtn",
+      "titulo": "Cuatro personas fueron asesinadas a balazos en Piura, Lima, Callao y Junín en las últimas horas - Infobae",
+      "fuente": "Infobae",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-14",
+      "fecha_hecho": null,
+      "snippet": "Cuatro personas fueron asesinadas a balazos en Piura, Lima, Callao y Junín en las últimas horas Infobae",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Piura",
+        "Callao",
+        "Junín"
+      ],
+      "score": 3,
+      "query": "homicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-15 20:10"
+    },
+    {
       "id": "636c03b522d284d9",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQU04tYnNSQVhxdHd3WnFHZTRNdEJDZUdpMlZwYW9FXzFNOENMc3lSNFloTVZza2ZOM21xLWhiQjdtSmNTOWc1UWoxblprRHRGcG1IcXZDZGt1V2VtT2ZmeWRrcHZNY2dKM1R0VVNFQ294ZDFkNkYzV0hjbUVEeVlSQTg3d1czdnAxSWJtWHV5ZUpfanJMSGpOMTJ6d2d6NzN0WVEzMGNlVkpkWHB4VkpTWVFmVDY4NHdSeXdGVFNTdDlYSkdpOE53?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQU04tYnNSQVhxdHd3WnFHZTRNdEJDZUdpMlZwYW9FXzFNOENMc3lSNFloTVZza2ZOM21xLWhiQjdtSmNTOWc1UWoxblprRHRGcG1IcXZDZGt1V2VtT2ZmeWRrcHZNY2dKM1R0VVNFQ294ZDFkNkYzV0hjbUVEeVlSQTg3d1czdnAxSWJtWHV5ZUpfanJMSGpOMTJ6d2d6NzN0WVEzMGNlVkpkWHB4VkpTWVFmVDY4NHdSeXdGVFNTdDlYSkdpOE53",
@@ -1676,6 +2364,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-15 15:26"
+    },
+    {
+      "id": "1ee4f35dd4bc7814",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa582478c3493fb1017d3645ee867c&url=https%3a%2f%2fperu21.pe%2fpoliciales%2fcapturan-4-de-los-faites-de-huaycan-en-ate-por-sicariato%2f&c=4306659058267295219&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa582478c3493fb1017d3645ee867c&url=https%3A%2F%2Fperu21.pe%2Fpoliciales%2Fcapturan-4-de-los-faites-de-huaycan-en-ate-por-sicariato%2F&c=4306659058267295219&mkt=es-us",
+      "titulo": "Ate: capturan a cuatro presuntos integrantes de ‘Los Faites de Huaycán’, banda vinculada al sicariato",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-14",
+      "fecha_hecho": null,
+      "snippet": "La Policía Nacional realizó un operativo cerca del paradero Horacio Zevallos, donde incautó 20 municiones, celulares y presuntas sustancias ilícitas.",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Ate"
+      ],
+      "score": 3,
+      "query": "bing:sicariato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-15 20:11"
     },
     {
       "id": "120d8a3c5708e7fa",
@@ -2101,6 +2813,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-14 14:58"
+    },
+    {
+      "id": "acb6494b263d6ee3",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa5827b5fe45d3aa7267eea14a956e&url=https%3a%2f%2fwww.msn.com%2fes-cl%2fnoticias%2fother%2freportan-nuevo-homicidio-en-el-b%25C3%25ADo-b%25C3%25ADo-hombre-fue-asesinado-a-tiros-en-hualp%25C3%25A9n%2far-AA2hogqe&c=2014502821098516234&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa5827b5fe45d3aa7267eea14a956e&url=https%3A%2F%2Fwww.msn.com%2Fes-cl%2Fnoticias%2Fother%2Freportan-nuevo-homicidio-en-el-b%25C3%25ADo-b%25C3%25ADo-hombre-fue-asesinado-a-tiros-en-hualp%25C3%25A9n%2Far-AA2hogqe&c=2014502821098516234&mkt=es-us",
+      "titulo": "Reportan nuevo homicidio en el Bío Bío: hombre fue asesinado a tiros en Hualpén",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-13",
+      "fecha_hecho": null,
+      "snippet": "Un , región del Bío Bío. Por razones que deberán esclarecidas, el sujeto, de nacionalidad chilena, fue baleado en las piernas y también en el tórax, según información de Radio Bío Bío. Desde Seguridad ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:homicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-15 20:11"
     },
     {
       "id": "a2fda19a03632368",
@@ -3698,6 +4432,29 @@
       "agregado": "2026-11-15 15:26"
     },
     {
+      "id": "2e750b36a4a1674d",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa581f8a1b45ec9051d267ba70fb8c&url=https%3a%2f%2fwww.razon.com.mx%2fmexico%2f2026%2f11%2f12%2fmexico-reune-a-representantes-de-20-paises-para-combatir-el-secuestro-y-la-extorsion%2f&c=7290975654561947277&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa581f8a1b45ec9051d267ba70fb8c&url=https%3A%2F%2Fwww.razon.com.mx%2Fmexico%2F2026%2F11%2F12%2Fmexico-reune-a-representantes-de-20-paises-para-combatir-el-secuestro-y-la-extorsion%2F&c=7290975654561947277&mkt=es-us",
+      "titulo": "México reúne a representantes de 20 países para combatir el secuestro y la extorsión",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-12",
+      "fecha_hecho": null,
+      "snippet": "La SSPC reconoció que la extorsión continúa como un desafío para las autoridades y planteó fortalecer el intercambio de información frente a organizaciones criminales transnacionales ...",
+      "temas": [
+        "Extorsión",
+        "Secuestro"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 5,
+      "query": "bing:secuestro Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-15 20:11"
+    },
+    {
       "id": "9c6ad45a9221b37e",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNd00wMlJWbjNmcVpFaktBNFM1NDI3Y0VCVUV2cWpjWnlTYzZYaXg1d3VpZ1J3ajFtb1FtSU45US1uR2NpaHZiSmpEWEU3ODBhZUtiNXU1VEZwWW5nZ0hUdldLd2d6TzY1aEU1UzJXdlBfYkpQY2ZVNjE4RkdWZ0pUWmVIX1RaVWFpOTVGZzNhM29ET1VyTllCNDQyTTBmNFhkdExhOE02MTJMa3o0ekpJdNIBtgFBVV95cUxQSTFWR29MelpjSGFnRl9rZTdKUk1yaW9ESkNfc2VGZEtYQjVNZHpqQ3VlRGJpYkhWdGhfU2lDT05XYjZfd0ZRRjZNR0l0S0lFazloQWlnWDJfNEF0dnBlaHRRUnZRNk1LRWVFNklzWmV6TWJLLVkyenpDQ0R6cFNOYlJoaWR1WHo2WnRwWkc1Mm9XTm5EeWdHanN1b2w3MURaTVVwU2NQTUJFQ2o3VXhPM09IQnotQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNd00wMlJWbjNmcVpFaktBNFM1NDI3Y0VCVUV2cWpjWnlTYzZYaXg1d3VpZ1J3ajFtb1FtSU45US1uR2NpaHZiSmpEWEU3ODBhZUtiNXU1VEZwWW5nZ0hUdldLd2d6TzY1aEU1UzJXdlBfYkpQY2ZVNjE4RkdWZ0pUWmVIX1RaVWFpOTVGZzNhM29ET1VyTllCNDQyTTBmNFhkdExhOE02MTJMa3o0ekpJdNIBtgFBVV95cUxQSTFWR29MelpjSGFnRl9rZTdKUk1yaW9ESkNfc2VGZEtYQjVNZHpqQ3VlRGJpYkhWdGhfU2lDT05XYjZfd0ZRRjZNR0l0S0lFazloQWlnWDJfNEF0dnBlaHRRUnZRNk1LRWVFNklzWmV6TWJLLVkyenpDQ0R6cFNOYlJoaWR1WHo2WnRwWkc1Mm9XTm5EeWdHanN1b2w3MURaTVVwU2NQTUJFQ2o3VXhPM09IQnotQQ",
@@ -3859,6 +4616,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-12 08:27"
+    },
+    {
+      "id": "da487acbf1a161db",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdTNCYVNmOHI1dGRqaDhsYWdyNnZsdTNQZkZmcW54bklTNmRwU2stYU0zaVg0OTV6TGhVLUtMVmgzdnI2LVlDWEhRQlF2YkxIRFBGaWRwalBfNnVOTGJ4N2ZvNVNjbzltaXBzWnBqV1kyWjhwSzZfNzd3VFZVTEJOb3pGOE43OVlVc1hLSzRfVTk2ZHRRRmhQTEdCLWFubnZycWRjSlNrREF4R2ROMTdJTTVXbmU4QWdIZ0F5VjRLNlpDYzFYaWxuR0RGR2NlMTFyUm5IT0VmSG5pR04zaGtyaEp1TQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdTNCYVNmOHI1dGRqaDhsYWdyNnZsdTNQZkZmcW54bklTNmRwU2stYU0zaVg0OTV6TGhVLUtMVmgzdnI2LVlDWEhRQlF2YkxIRFBGaWRwalBfNnVOTGJ4N2ZvNVNjbzltaXBzWnBqV1kyWjhwSzZfNzd3VFZVTEJOb3pGOE43OVlVc1hLSzRfVTk2ZHRRRmhQTEdCLWFubnZycWRjSlNrREF4R2ROMTdJTTVXbmU4QWdIZ0F5VjRLNlpDYzFYaWxuR0RGR2NlMTFyUm5IT0VmSG5pR04zaGtyaEp1TQ",
+      "titulo": "Juan Carbajal: \"Eliminación de registros falsos sobre homicidios por parte de la Policía desbarata narrativa oficial\" - El Búho.pe",
+      "fuente": "El Búho.pe",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-12",
+      "fecha_hecho": null,
+      "snippet": "Juan Carbajal: \"Eliminación de registros falsos sobre homicidios por parte de la Policía desbarata narrativa oficial\" El Búho.pe",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "homicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-15 20:10"
     },
     {
       "id": "c6a11096be120fce",
@@ -4299,6 +5078,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-15 15:26"
+    },
+    {
+      "id": "9982a17aae553a9d",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa5827b5fe45d3aa7267eea14a956e&url=https%3a%2f%2fwww.msn.com%2fes-cl%2fnoticias%2fotras%2ffiscal%25C3%25ADa-inicia-proceso-de-extradici%25C3%25B3n-desde-per%25C3%25BA-de-carlitos-nike-por-el-homicidio-del-carabinero-daniel-palma%2far-AA2hjnev&c=3907613298013655679&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa5827b5fe45d3aa7267eea14a956e&url=https%3A%2F%2Fwww.msn.com%2Fes-cl%2Fnoticias%2Fotras%2Ffiscal%25C3%25ADa-inicia-proceso-de-extradici%25C3%25B3n-desde-per%25C3%25BA-de-carlitos-nike-por-el-homicidio-del-carabinero-daniel-palma%2Far-AA2hjnev&c=3907613298013655679&mkt=es-us",
+      "titulo": "Fiscalía inicia proceso de extradición desde Perú de Carlitos Nike por el homicidio del carabinero Daniel Palma",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-12",
+      "fecha_hecho": null,
+      "snippet": "Desde el Ministerio Público buscan evitar que el imputado quede en libertad en Perú, donde permanece detenido tras ser sorprendido con una identidad falsa.",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:homicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-15 20:11"
     },
     {
       "id": "5f17c483da599e49",
@@ -7255,6 +8056,31 @@
       "agregado": "2026-11-15 15:26"
     },
     {
+      "id": "a73e8bb0b49ea030",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa583d1b6c4fa2872437812d7a5d31&url=https%3a%2f%2fdiariocorreo.pe%2fedicion%2fla-libertad%2fla-libertad-ratifican-prision-preventiva-contra-investigados-por-masacre-noticia%2f&c=10387984837177179914&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa583d1b6c4fa2872437812d7a5d31&url=https%3A%2F%2Fdiariocorreo.pe%2Fedicion%2Fla-libertad%2Fla-libertad-ratifican-prision-preventiva-contra-investigados-por-masacre-noticia%2F&c=10387984837177179914&mkt=es-us",
+      "titulo": "Trujillo: Ratifican prisión preventiva contra investigados por masacre",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-10",
+      "fecha_hecho": null,
+      "snippet": "Serían integrantes de “Los Pulpos” y son investigados por el secuestro del empresario Jens Lara Tantaquilla y el asesinato de sus cuatro acompañantes, ocurridos el pasado 30 de agosto ...",
+      "temas": [
+        "Secuestro",
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 4,
+      "query": "bing:\"masacre\" Trujillo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-15 20:11"
+    },
+    {
       "id": "299db902245c04c6",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MaHB3ZEtqMFlKQXNoa3owaVEyR29kWGk2MGlTWVRCV1NaMzQ5R3NtOUhSaVBjMjI2QXJZRDlzbzRDMDdKdzBkOGN5bk01dkhpS2p2VkpQbVpKYjdGUFFKNFB0ZW14YVdsMHZHUDBVcUlwV3MyMTZ5TG9NVUwwUnM?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MaHB3ZEtqMFlKQXNoa3owaVEyR29kWGk2MGlTWVRCV1NaMzQ5R3NtOUhSaVBjMjI2QXJZRDlzbzRDMDdKdzBkOGN5bk01dkhpS2p2VkpQbVpKYjdGUFFKNFB0ZW14YVdsMHZHUDBVcUlwV3MyMTZ5TG9NVUwwUnM",
@@ -8378,6 +9204,28 @@
       "agregado": "2026-11-14 13:15"
     },
     {
+      "id": "e059483caf5a02cb",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa581936ad4b098d894b259fac8f3e&url=https%3a%2f%2fperu21.pe%2fpolitica%2ftecnologia-de-meta-llega-peru-para-combatir-extorsiones%2f&c=209902622292484404&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa581936ad4b098d894b259fac8f3e&url=https%3A%2F%2Fperu21.pe%2Fpolitica%2Ftecnologia-de-meta-llega-peru-para-combatir-extorsiones%2F&c=209902622292484404&mkt=es-us",
+      "titulo": "Ministro del Interior anuncia llegada de tecnología de Meta desde EE. UU. para combatir extorsiones en Perú",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-10",
+      "fecha_hecho": null,
+      "snippet": "César Astudillo aseguró que la Embajada de Estados Unidos facilitará el acceso a esta herramienta en aproximadamente un mes.",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:extorsión Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-15 20:11"
+    },
+    {
       "id": "e65dd7a89ec21723",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVHZELVFSekJDWUhQd1ZoVWNSY3pfVl9RZk5sdXUybmxYanpMLVAwNkRvbnV5aDRjc3p5UzlNU3hlVnNnSFBwM05XdXJaM2wxQVc0ZzNmSC1KSF9oQ2RqaWVmOGY3U0tzcXFaQWIwR25ONjZjRG1sbjlySi11ZkZ2MnVFN2ZlYy1aNzVEU01LUFhuTGt2ZHhIX3pGRWk0SXFUejVqRWY4OXFWeXZFQ29pcEhlYzZVVXc4VHlvcGUxNTI?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVHZELVFSekJDWUhQd1ZoVWNSY3pfVl9RZk5sdXUybmxYanpMLVAwNkRvbnV5aDRjc3p5UzlNU3hlVnNnSFBwM05XdXJaM2wxQVc0ZzNmSC1KSF9oQ2RqaWVmOGY3U0tzcXFaQWIwR25ONjZjRG1sbjlySi11ZkZ2MnVFN2ZlYy1aNzVEU01LUFhuTGt2ZHhIX3pGRWk0SXFUejVqRWY4OXFWeXZFQ29pcEhlYzZVVXc4VHlvcGUxNTI",
@@ -8640,6 +9488,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-15 15:26"
+    },
+    {
+      "id": "08d8280336dcbdb9",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa581936ad4b098d894b259fac8f3e&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f11%2f10%2fmininter-anuncia-apoyo-tecnologico-de-meta-contra-extorsiones-y-promete-que-llegara-en-un-mes%2f&c=1383733757228138135&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa581936ad4b098d894b259fac8f3e&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F11%2F10%2Fmininter-anuncia-apoyo-tecnologico-de-meta-contra-extorsiones-y-promete-que-llegara-en-un-mes%2F&c=1383733757228138135&mkt=es-us",
+      "titulo": "Mininter anuncia apoyo tecnológico de Meta contra extorsiones y promete que llegará “en un mes”",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-10",
+      "fecha_hecho": null,
+      "snippet": "El ministro César Astudillo afirmó que la Embajada de Estados Unidos facilitará el acceso a una herramienta para reforzar las labores de inteligencia frente a delitos cometidos mediante plataformas di ...",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:extorsión Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-15 20:11"
     },
     {
       "id": "195865df5ca31b75",
@@ -9265,6 +10135,28 @@
       "agregado": "2026-11-10 16:18"
     },
     {
+      "id": "479bac81f0f9d49d",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQS0loZHJiTlJ3U3JVM2hoWXg4MnB5TVQ4eHpPS285UnVOYkRFRk41UDc4cUxuYjFsX09Fb1dkWDRvR1pnSUx2aU1oYWRlN0hWVjNQSjk4cS1WNnh6bXRVemF4VUtUNkVHMDVUcEZPWk9oOS1qM3F4RmxtQWtwUDFTX1hmdFA4bWlacTllYTJhaUZ0QUJfUUNwLVB2ZjFNLUdfQjUwRV9aWEc4aEdWY05lellpbG0tbW5pdE1UblRn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQS0loZHJiTlJ3U3JVM2hoWXg4MnB5TVQ4eHpPS285UnVOYkRFRk41UDc4cUxuYjFsX09Fb1dkWDRvR1pnSUx2aU1oYWRlN0hWVjNQSjk4cS1WNnh6bXRVemF4VUtUNkVHMDVUcEZPWk9oOS1qM3F4RmxtQWtwUDFTX1hmdFA4bWlacTllYTJhaUZ0QUJfUUNwLVB2ZjFNLUdfQjUwRV9aWEc4aEdWY05lellpbG0tbW5pdE1UblRn",
+      "titulo": "Golpe al sicariato en Bogotá: desmantelan a Los Illimani - City Tv",
+      "fuente": "City Tv",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-10",
+      "fecha_hecho": null,
+      "snippet": "Golpe al sicariato en Bogotá: desmantelan a Los Illimani City Tv",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "sicariato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-15 20:10"
+    },
+    {
       "id": "3cca778f9110fe98",
       "url": "https://rpp.pe/mundo/europa/francia-no-descarta-ninguna-respuesta-contra-iran-por-los-ciberataques-a-supermercados-noticia-1716959",
       "url_canon": "https://rpp.pe/mundo/europa/francia-no-descarta-ninguna-respuesta-contra-iran-por-los-ciberataques-a-supermercados-noticia-1716959",
@@ -9571,6 +10463,32 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-15 15:26"
+    },
+    {
+      "id": "a8bb2f356db6e591",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa58294fb348c39799de107a99fd91&url=https%3a%2f%2flarepublica.pe%2fsociedad%2f2026%2f11%2f09%2fjoven-de-20-anos-es-hallada-sin-vida-en-descampado-de-smp-sus-amigas-rastrearon-la-ubicacion-en-tiempo-real-que-compartio-por-whatsapp-558954&c=1542697659192933443&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa58294fb348c39799de107a99fd91&url=https%3A%2F%2Flarepublica.pe%2Fsociedad%2F2026%2F11%2F09%2Fjoven-de-20-anos-es-hallada-sin-vida-en-descampado-de-smp-sus-amigas-rastrearon-la-ubicacion-en-tiempo-real-que-compartio-por-whatsapp-558954&c=1542697659192933443&mkt=es-us",
+      "titulo": "Fiscalía investiga presunto feminicidio de joven de 20 años hallada sin vida en descampado de San Martín de Porres",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-10",
+      "fecha_hecho": null,
+      "snippet": "Yestelin Torres Común, estudiante de Comunicación Audiovisual, fue hallada sin vida en San Martín de Porres. La joven fue víctima de un presunto feminicidio y su amigo es el principal sospechoso.",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "San Martín de Porres",
+        "San Martín",
+        "San Martin"
+      ],
+      "score": 3,
+      "query": "bing:feminicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-15 20:11"
     },
     {
       "id": "5af08850b77d0d4c",
@@ -13205,6 +14123,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-15 15:26"
+    },
+    {
+      "id": "151cf9d6b24bd180",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa581936ad4b098d894b259fac8f3e&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f11%2f09%2ffacultades-legislativas-cambia-la-legitima-defensa-y-aumentan-penas-contra-quienes-presten-cuentas-para-recibir-dinero-de-extorsiones%2f&c=3308300228883629617&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa581936ad4b098d894b259fac8f3e&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F11%2F09%2Ffacultades-legislativas-cambia-la-legitima-defensa-y-aumentan-penas-contra-quienes-presten-cuentas-para-recibir-dinero-de-extorsiones%2F&c=3308300228883629617&mkt=es-us",
+      "titulo": "Facultades legislativas: Cambia la “legítima defensa” y aumentan penas contra quienes presten cuentas para recibir dinero de extorsiones",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-09",
+      "fecha_hecho": null,
+      "snippet": "Norma publicada por el Gobierno de Keiko Fujimori también aumenta hasta 15 años las condenas para quienes prestan, alquilan o faciliten armas para cometer crímenes ...",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:extorsión Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-15 20:11"
     },
     {
       "id": "92944e05349409ee",
@@ -22585,6 +23525,29 @@
       "agregado": "2026-11-15 15:26"
     },
     {
+      "id": "b571ce7c8b84640a",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa581b10b4438d86e8bdb1240a5da7&url=https%3a%2f%2fwww.lapatria.com%2fsucesos%2fluto-en-el-norte-de-caldas-mataron-un-joven-en-peru&c=9711839682003004662&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa581b10b4438d86e8bdb1240a5da7&url=https%3A%2F%2Fwww.lapatria.com%2Fsucesos%2Fluto-en-el-norte-de-caldas-mataron-un-joven-en-peru&c=9711839682003004662&mkt=es-us",
+      "titulo": "Luto en el Norte de Caldas: mataron a un joven en Perú",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-06",
+      "fecha_hecho": null,
+      "snippet": "La Policía Nacional del Perú (PNP) investiga el caso como un presunto ajuste de cuentas entre bandas dedicadas a la extorsión mediante préstamos.",
+      "temas": [
+        "Extorsión",
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 5,
+      "query": "bing:\"gota a gota\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-15 20:11"
+    },
+    {
       "id": "223fc0f4b9bd90b9",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNV2JpNE55a2U5MndmQTFpZVJfRVNPdTJiLWdGUW9QY0lfYXVxamg0V0UxSHg4ZFZoc25aNk5tbW5OWF9FYlFtRWNrelp3YXg4Ql9rbS1SeHBpb21pRkNxSGVZZlR2d3JFbmhiUDBPaFE5YVhqTWU0UWpiaDJVQlltY0Z3TXpNRGRnSVpWMnFWeDY0dGEyLWV4Wks3b2VIeUczMVhxMXhmQlY5RnpIRXd6NkxjNThERDJzY0VOWWU5N1VfTkd5N0g5S2NHNGVRaGdtU1pPLXNR0gHwAUFVX3lxTE1mNUVXVU5RU2JQbUhrZUhFQUJOZXNXSzlBWWhZZk5fNXIwVTktU29Gd0V3aDRRMy04U0NQNmlRd1dLejFzb29TSTdsTmhTNXNpS2gwNG00c3lpS012RWgwS3N6RVFzSUdLODhYWndZWVVNT0s1SG9taGhXbXhtMm9nWlhwaUJOajVZQVpOOU84UTZFMUE3dm9MNGxhUEFtWF8xdmY1bjRpTGQxZ25Id1ljallHbE9BTmtxOC16UDNiOXAwX0RYa1RHX1lKTnNPUklVZVMzbUc3MWNma3JMSDJreWJkZDlPQzZQdVpSQTVLdA?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNV2JpNE55a2U5MndmQTFpZVJfRVNPdTJiLWdGUW9QY0lfYXVxamg0V0UxSHg4ZFZoc25aNk5tbW5OWF9FYlFtRWNrelp3YXg4Ql9rbS1SeHBpb21pRkNxSGVZZlR2d3JFbmhiUDBPaFE5YVhqTWU0UWpiaDJVQlltY0Z3TXpNRGRnSVpWMnFWeDY0dGEyLWV4Wks3b2VIeUczMVhxMXhmQlY5RnpIRXd6NkxjNThERDJzY0VOWWU5N1VfTkd5N0g5S2NHNGVRaGdtU1pPLXNR0gHwAUFVX3lxTE1mNUVXVU5RU2JQbUhrZUhFQUJOZXNXSzlBWWhZZk5fNXIwVTktU29Gd0V3aDRRMy04U0NQNmlRd1dLejFzb29TSTdsTmhTNXNpS2gwNG00c3lpS012RWgwS3N6RVFzSUdLODhYWndZWVVNT0s1SG9taGhXbXhtMm9nWlhwaUJOajVZQVpOOU84UTZFMUE3dm9MNGxhUEFtWF8xdmY1bjRpTGQxZ25Id1ljallHbE9BTmtxOC16UDNiOXAwX0RYa1RHX1lKTnNPUklVZVMzbUc3MWNma3JMSDJreWJkZDlPQzZQdVpSQTVLdA",
@@ -24168,6 +25131,30 @@
       "agregado": "2026-11-15 15:26"
     },
     {
+      "id": "098a29dc4023d12a",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa583c4d104c1fb887ba7ac448995b&url=https%3a%2f%2flarepublica.pe%2fsociedad%2f2026%2f11%2f06%2fataque-violento-en-vivienda-deja-un-muerto-y-un-herido-en-trujillo-fallecido-seria-integrante-de-los-pulpos-83868&c=639855211460929230&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa583c4d104c1fb887ba7ac448995b&url=https%3A%2F%2Flarepublica.pe%2Fsociedad%2F2026%2F11%2F06%2Fataque-violento-en-vivienda-deja-un-muerto-y-un-herido-en-trujillo-fallecido-seria-integrante-de-los-pulpos-83868&c=639855211460929230&mkt=es-us",
+      "titulo": "Ataque violento en vivienda deja un muerto y un herido en Trujillo: fallecido sería integrante de Los Pulpos",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-06",
+      "fecha_hecho": null,
+      "snippet": "La víctima, conocida como 'Pato Cabezon', sería miembro de la organización criminal Los Pulpos. Los hechos sucedieron en una vivienda de la avenida Sánchez Carrión. Es el tercer ataque registrado este ...",
+      "temas": [
+        "Asalto a mano armada"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 2,
+      "query": "bing:\"Los Pulpos\" Trujillo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-15 20:11"
+    },
+    {
       "id": "0e6003f91f0779fc",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee2bd50cbc4da09d6b42779d5bf025&url=https%3a%2f%2felcomercio.pe%2fmag%2fusa%2flocal-us%2fasi-operaba-la-estafa-con-ia-que-habria-robado-129-millones-de-dolares-a-empresas-en-varios-paises-nnda-nnrt-noticia%2f&c=13433800251138720298&mkt=es-us",
       "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee2bd50cbc4da09d6b42779d5bf025&url=https%3A%2F%2Felcomercio.pe%2Fmag%2Fusa%2Flocal-us%2Fasi-operaba-la-estafa-con-ia-que-habria-robado-129-millones-de-dolares-a-empresas-en-varios-paises-nnda-nnrt-noticia%2F&c=13433800251138720298&mkt=es-us",
@@ -24518,6 +25505,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-15 15:26"
+    },
+    {
+      "id": "bfbcaf7bf022f1f5",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa582b5bbe4b2fba6790ab7fd577f2&url=https%3a%2f%2felcomercio.pe%2fmag%2fusa%2flocal-us%2fasi-operaba-la-estafa-con-ia-que-habria-robado-129-millones-de-dolares-a-empresas-en-varios-paises-nnda-nnrt-noticia%2f&c=13433800251138720298&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa582b5bbe4b2fba6790ab7fd577f2&url=https%3A%2F%2Felcomercio.pe%2Fmag%2Fusa%2Flocal-us%2Fasi-operaba-la-estafa-con-ia-que-habria-robado-129-millones-de-dolares-a-empresas-en-varios-paises-nnda-nnrt-noticia%2F&c=13433800251138720298&mkt=es-us",
+      "titulo": "Así operaba la estafa con IA que habría robado 129 millones de dólares a empresas en varios países",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-06",
+      "fecha_hecho": null,
+      "snippet": "Tres presuntos estafadores fueron imputados en Nueva York por usar inteligencia artificial para suplantar a ejecutivos y abogados y robar unos 129 millones de dólares a empresas de todo el mundo duran ...",
+      "temas": [
+        "Estafa"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:estafa Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-15 20:11"
     },
     {
       "id": "b8384aed41b27edd",
@@ -25713,6 +26722,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-15 15:26"
+    },
+    {
+      "id": "767345348afcb396",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa583c4d104c1fb887ba7ac448995b&url=https%3a%2f%2fdiariocorreo.pe%2fedicion%2fla-libertad%2ftrujillo-envian-a-la-carcel-a-presunto-integrante-de-los-pulpos-noticia%2f&c=13562639140818404718&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa583c4d104c1fb887ba7ac448995b&url=https%3A%2F%2Fdiariocorreo.pe%2Fedicion%2Fla-libertad%2Ftrujillo-envian-a-la-carcel-a-presunto-integrante-de-los-pulpos-noticia%2F&c=13562639140818404718&mkt=es-us",
+      "titulo": "Trujillo: Envían a la cárcel a presunto integrante de “Los Pulpos”",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-05",
+      "fecha_hecho": null,
+      "snippet": "Alias “Brunacho” fue enviado al penal El Milagro nueve meses de manera preventiva. Él es investigado por extorsión ...",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 3,
+      "query": "bing:\"Los Pulpos\" Trujillo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-15 20:11"
     },
     {
       "id": "bbf191a40b200817",
@@ -30790,6 +31823,30 @@
       "agregado": "2026-11-15 15:26"
     },
     {
+      "id": "904acea10f3e4ecc",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa58294fb348c39799de107a99fd91&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f11%2f03%2fmariela-cespedes-quemada-viva-por-su-expareja-y-arrojada-a-un-canal-el-feminicidio-en-piura-que-vuelve-a-exponer-la-brutal-violencia-machista%2f&c=12634021592967645876&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa58294fb348c39799de107a99fd91&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F11%2F03%2Fmariela-cespedes-quemada-viva-por-su-expareja-y-arrojada-a-un-canal-el-feminicidio-en-piura-que-vuelve-a-exponer-la-brutal-violencia-machista%2F&c=12634021592967645876&mkt=es-us",
+      "titulo": "Mariela Céspedes, quemada viva por su expareja y arrojada a un canal: el feminicidio en Piura que vuelve a exponer la brutal violencia machista",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-03",
+      "fecha_hecho": null,
+      "snippet": "La víctima murió tras sufrir quemaduras en el 80% de su cuerpo luego de un ataque atribuido a Luis Rivera Arévalo, actualmente detenido. El crimen machista se suma a otros 13 registrados entre septiem ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Piura"
+      ],
+      "score": 3,
+      "query": "bing:feminicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-15 20:11"
+    },
+    {
       "id": "6cd89abda5baa390",
       "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOamNpd09rUWxNX2FfZEVmeHR3QUN0X3d0eE1IdGIwVFhtTEFqbzcwSm8zRU5lQkJZMWEyN2JZODFITzQyWkhXbFZ5c3c3dVNKeXVDQmQ4cGZZenBSNFR4UkJtZGZnaDh4Z1VXRzN3QjhaRVlFQkFoZTF6aS1mWFdBSnpRTExzb214U3ZkWVFkblU2V0hOOF9JY0RWRTlUQ0huZk83Vi1CWnc2UEQ3VWttaEc1ODB6aTIxTWlTZG1GRm9CSzdaRG9XTVQxbng1d2prMkFUNkF6M3lDdmFZanRiQUZXU2Q5TU05YXFTeUtCZnFNeHBHZEoxZmRoenZOcUk5T2NGRHowOFZBbXA2REdPZEV1NXrSAZoCQVVfeXFMTVVweFFIRV9KdjV6MkZaVzN1SC10T29wbTJJMXpjYktzXzFQLU9IR1hqRzdEM2U0NFhaOGlySFJNYU14MHdMWmlBNWRnbTJ6NEtYNzBoUm1TTTVva19LdUM2MXFVeXpNLVM3dENlOXNHd3VUT05nN2E5VGFHNU5pU3VRYS14Wm9fbGM0QzY5Y3hOMUFHalNzZC1XR3kxSEVoeld5VUJsQVd4RG50MTYza2ZBZEUzeHY3ZHVUX2JMcllpcFJVeEp2WHVXZnNoSFo4bzJCUlF2U3ljWW1HVEl2am5oMWdWbVlVbUhUQWVFbmkweWowQl9aaFN1WVkwQmprQjZJSGF3OTlyTGd4dEZQUDVILUJoMzVURmlR?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOamNpd09rUWxNX2FfZEVmeHR3QUN0X3d0eE1IdGIwVFhtTEFqbzcwSm8zRU5lQkJZMWEyN2JZODFITzQyWkhXbFZ5c3c3dVNKeXVDQmQ4cGZZenBSNFR4UkJtZGZnaDh4Z1VXRzN3QjhaRVlFQkFoZTF6aS1mWFdBSnpRTExzb214U3ZkWVFkblU2V0hOOF9JY0RWRTlUQ0huZk83Vi1CWnc2UEQ3VWttaEc1ODB6aTIxTWlTZG1GRm9CSzdaRG9XTVQxbng1d2prMkFUNkF6M3lDdmFZanRiQUZXU2Q5TU05YXFTeUtCZnFNeHBHZEoxZmRoenZOcUk5T2NGRHowOFZBbXA2REdPZEV1NXrSAZoCQVVfeXFMTVVweFFIRV9KdjV6MkZaVzN1SC10T29wbTJJMXpjYktzXzFQLU9IR1hqRzdEM2U0NFhaOGlySFJNYU14MHdMWmlBNWRnbTJ6NEtYNzBoUm1TTTVva19LdUM2MXFVeXpNLVM3dENlOXNHd3VUT05nN2E5VGFHNU5pU3VRYS14Wm9fbGM0QzY5Y3hOMUFHalNzZC1XR3kxSEVoeld5VUJsQVd4RG50MTYza2ZBZEUzeHY3ZHVUX2JMcllpcFJVeEp2WHVXZnNoSFo4bzJCUlF2U3ljWW1HVEl2am5oMWdWbVlVbUhUQWVFbmkweWowQl9aaFN1WVkwQmprQjZJSGF3OTlyTGd4dEZQUDVILUJoMzVURmlR",
@@ -32559,6 +33616,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-15 15:26"
+    },
+    {
+      "id": "a52ec63d0840de28",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa58294fb348c39799de107a99fd91&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f11%2f04%2fcomo-denunciar-la-violencia-de-genero-en-peru-conoce-las-rutas-de-ayuda-y-las-penas-previstas-por-feminicidio%2f&c=4513615904677912814&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afa58294fb348c39799de107a99fd91&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F11%2F04%2Fcomo-denunciar-la-violencia-de-genero-en-peru-conoce-las-rutas-de-ayuda-y-las-penas-previstas-por-feminicidio%2F&c=4513615904677912814&mkt=es-us",
+      "titulo": "Cómo denunciar la violencia de género en Perú: conoce las rutas de ayuda y las penas previstas por feminicidio",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-03",
+      "fecha_hecho": null,
+      "snippet": "La Línea 100, los Centros Emergencia Mujer y las dependencias estatales ofrecen asistencia ante hechos de agresión, cuya sanción puede alcanzar la cadena perpetua ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:feminicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-15 20:11"
     },
     {
       "id": "42601e4e0f7bc67d",
@@ -37703,5 +38782,5 @@
       "agregado": "2026-11-01 19:54"
     }
   ],
-  "n": 1640
+  "n": 1687
 }
