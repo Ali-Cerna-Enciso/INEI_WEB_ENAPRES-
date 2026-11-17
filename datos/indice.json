@@ -1,14 +1,63 @@
 {
-  "actualizado": "2026-11-16 17:12",
+  "actualizado": "2026-11-16 23:01",
   "max_live": 31,
   "dias": [
     {
       "dia": "2026-11-16",
-      "n": 0,
-      "n_del_dia": 0,
-      "n_nuevo": 0,
-      "actualizado": "",
-      "colectores": {}
+      "n": 1,
+      "n_del_dia": 1,
+      "n_nuevo": 1,
+      "actualizado": "2026-11-16 23:01",
+      "colectores": {
+        "oficial": {
+          "n": 9,
+          "crudo": 9,
+          "error": "",
+          "ok": true
+        },
+        "gobpe": {
+          "n": 9,
+          "crudo": 9,
+          "error": "",
+          "ok": true
+        },
+        "medios": {
+          "n": 15,
+          "crudo": 15,
+          "error": "",
+          "ok": true
+        },
+        "gnews": {
+          "n": 18,
+          "crudo": 18,
+          "error": "",
+          "ok": true
+        },
+        "feeds": {
+          "n": 0,
+          "crudo": 0,
+          "error": "",
+          "ok": true
+        },
+        "youtube": {
+          "n": 0,
+          "crudo": 4,
+          "error": "",
+          "ok": true
+        },
+        "gdelt": {
+          "n": 0,
+          "crudo": 0,
+          "error": "",
+          "ok": true
+        },
+        "bing": {
+          "n": 2,
+          "crudo": 2,
+          "error": "",
+          "ok": true
+        }
+      }
     },
     {
       "dia": "2026-11-01",
@@ -129,7 +178,7 @@
       "n": 1,
       "n_del_dia": 1,
       "n_nuevo": 1,
-      "actualizado": "2026-11-16 17:12",
+      "actualizado": "2026-11-16 23:01",
       "colectores": {
         "oficial": {
           "n": 9,
@@ -144,14 +193,14 @@
           "ok": true
         },
         "medios": {
-          "n": 11,
-          "crudo": 11,
+          "n": 15,
+          "crudo": 15,
           "error": "",
           "ok": true
         },
         "gnews": {
-          "n": 7,
-          "crudo": 7,
+          "n": 18,
+          "crudo": 18,
           "error": "",
           "ok": true
         },
@@ -163,7 +212,7 @@
         },
         "youtube": {
           "n": 0,
-          "crudo": 5,
+          "crudo": 4,
           "error": "",
           "ok": true
         },
@@ -186,7 +235,7 @@
       "n": 3,
       "n_del_dia": 3,
       "n_nuevo": 3,
-      "actualizado": "2026-11-16 17:12",
+      "actualizado": "2026-11-16 23:01",
       "colectores": {
         "oficial": {
           "n": 9,
@@ -201,14 +250,14 @@
           "ok": true
         },
         "medios": {
-          "n": 11,
-          "crudo": 11,
+          "n": 15,
+          "crudo": 15,
           "error": "",
           "ok": true
         },
         "gnews": {
-          "n": 7,
-          "crudo": 7,
+          "n": 18,
+          "crudo": 18,
           "error": "",
           "ok": true
         },
@@ -220,7 +269,7 @@
         },
         "youtube": {
           "n": 0,
-          "crudo": 5,
+          "crudo": 4,
           "error": "",
           "ok": true
         },
@@ -243,7 +292,7 @@
       "n": 3,
       "n_del_dia": 3,
       "n_nuevo": 2,
-      "actualizado": "2026-11-16 17:12",
+      "actualizado": "2026-11-16 23:01",
       "colectores": {
         "oficial": {
           "n": 9,
@@ -258,14 +307,14 @@
           "ok": true
         },
         "medios": {
-          "n": 11,
-          "crudo": 11,
+          "n": 15,
+          "crudo": 15,
           "error": "",
           "ok": true
         },
         "gnews": {
-          "n": 7,
-          "crudo": 7,
+          "n": 18,
+          "crudo": 18,
           "error": "",
           "ok": true
         },
@@ -277,7 +326,7 @@
         },
         "youtube": {
           "n": 0,
-          "crudo": 5,
+          "crudo": 4,
           "error": "",
           "ok": true
         },
@@ -300,7 +349,7 @@
       "n": 5,
       "n_del_dia": 5,
       "n_nuevo": 4,
-      "actualizado": "2026-11-16 17:12",
+      "actualizado": "2026-11-16 23:01",
       "colectores": {
         "oficial": {
           "n": 9,
@@ -315,14 +364,14 @@
           "ok": true
         },
         "medios": {
-          "n": 11,
-          "crudo": 11,
+          "n": 15,
+          "crudo": 15,
           "error": "",
           "ok": true
         },
         "gnews": {
-          "n": 7,
-          "crudo": 7,
+          "n": 18,
+          "crudo": 18,
           "error": "",
           "ok": true
         },
@@ -334,7 +383,7 @@
         },
         "youtube": {
           "n": 0,
-          "crudo": 5,
+          "crudo": 4,
           "error": "",
           "ok": true
         },
@@ -357,7 +406,7 @@
       "n": 1,
       "n_del_dia": 1,
       "n_nuevo": 1,
-      "actualizado": "2026-11-16 17:12",
+      "actualizado": "2026-11-16 23:01",
       "colectores": {
         "oficial": {
           "n": 9,
@@ -372,14 +421,14 @@
           "ok": true
         },
         "medios": {
-          "n": 11,
-          "crudo": 11,
+          "n": 15,
+          "crudo": 15,
           "error": "",
           "ok": true
         },
         "gnews": {
-          "n": 7,
-          "crudo": 7,
+          "n": 18,
+          "crudo": 18,
           "error": "",
           "ok": true
         },
@@ -391,7 +440,7 @@
         },
         "youtube": {
           "n": 0,
-          "crudo": 5,
+          "crudo": 4,
           "error": "",
           "ok": true
         },
@@ -414,7 +463,7 @@
       "n": 2,
       "n_del_dia": 2,
       "n_nuevo": 2,
-      "actualizado": "2026-11-16 17:12",
+      "actualizado": "2026-11-16 23:01",
       "colectores": {
         "oficial": {
           "n": 9,
@@ -429,14 +478,14 @@
           "ok": true
         },
         "medios": {
-          "n": 11,
-          "crudo": 11,
+          "n": 15,
+          "crudo": 15,
           "error": "",
           "ok": true
         },
         "gnews": {
-          "n": 7,
-          "crudo": 7,
+          "n": 18,
+          "crudo": 18,
           "error": "",
           "ok": true
         },
@@ -448,7 +497,7 @@
         },
         "youtube": {
           "n": 0,
-          "crudo": 5,
+          "crudo": 4,
           "error": "",
           "ok": true
         },
@@ -471,7 +520,7 @@
       "n": 3,
       "n_del_dia": 3,
       "n_nuevo": 2,
-      "actualizado": "2026-11-16 17:12",
+      "actualizado": "2026-11-16 23:01",
       "colectores": {
         "oficial": {
           "n": 9,
@@ -486,14 +535,14 @@
           "ok": true
         },
         "medios": {
-          "n": 11,
-          "crudo": 11,
+          "n": 15,
+          "crudo": 15,
           "error": "",
           "ok": true
         },
         "gnews": {
-          "n": 7,
-          "crudo": 7,
+          "n": 18,
+          "crudo": 18,
           "error": "",
           "ok": true
         },
@@ -505,7 +554,7 @@
         },
         "youtube": {
           "n": 0,
-          "crudo": 5,
+          "crudo": 4,
           "error": "",
           "ok": true
         },
@@ -528,7 +577,7 @@
       "n": 3,
       "n_del_dia": 3,
       "n_nuevo": 1,
-      "actualizado": "2026-11-16 17:12",
+      "actualizado": "2026-11-16 23:01",
       "colectores": {
         "oficial": {
           "n": 9,
@@ -543,14 +592,14 @@
           "ok": true
         },
         "medios": {
-          "n": 11,
-          "crudo": 11,
+          "n": 15,
+          "crudo": 15,
           "error": "",
           "ok": true
         },
         "gnews": {
-          "n": 7,
-          "crudo": 7,
+          "n": 18,
+          "crudo": 18,
           "error": "",
           "ok": true
         },
@@ -562,7 +611,7 @@
         },
         "youtube": {
           "n": 0,
-          "crudo": 5,
+          "crudo": 4,
           "error": "",
           "ok": true
         },
@@ -600,14 +649,14 @@
           "ok": true
         },
         "medios": {
-          "n": 11,
-          "crudo": 11,
+          "n": 15,
+          "crudo": 15,
           "error": "",
           "ok": true
         },
         "gnews": {
-          "n": 7,
-          "crudo": 7,
+          "n": 18,
+          "crudo": 18,
           "error": "",
           "ok": true
         },
@@ -619,7 +668,7 @@
         },
         "youtube": {
           "n": 0,
-          "crudo": 5,
+          "crudo": 4,
           "error": "",
           "ok": true
         },
@@ -642,7 +691,7 @@
       "n": 1,
       "n_del_dia": 1,
       "n_nuevo": 1,
-      "actualizado": "2026-11-16 17:12",
+      "actualizado": "2026-11-16 23:01",
       "colectores": {
         "oficial": {
           "n": 9,
@@ -657,14 +706,14 @@
           "ok": true
         },
         "medios": {
-          "n": 11,
-          "crudo": 11,
+          "n": 15,
+          "crudo": 15,
           "error": "",
           "ok": true
         },
         "gnews": {
-          "n": 7,
-          "crudo": 7,
+          "n": 18,
+          "crudo": 18,
           "error": "",
           "ok": true
         },
@@ -676,7 +725,7 @@
         },
         "youtube": {
           "n": 0,
-          "crudo": 5,
+          "crudo": 4,
           "error": "",
           "ok": true
         },
@@ -699,7 +748,7 @@
       "n": 3,
       "n_del_dia": 3,
       "n_nuevo": 1,
-      "actualizado": "2026-11-16 17:12",
+      "actualizado": "2026-11-16 23:01",
       "colectores": {
         "gobpe": {
           "n": 9,
@@ -714,14 +763,14 @@
           "ok": true
         },
         "medios": {
-          "n": 11,
-          "crudo": 11,
+          "n": 15,
+          "crudo": 15,
           "error": "",
           "ok": true
         },
         "gnews": {
-          "n": 7,
-          "crudo": 7,
+          "n": 18,
+          "crudo": 18,
           "error": "",
           "ok": true
         },
@@ -733,7 +782,7 @@
         },
         "youtube": {
           "n": 0,
-          "crudo": 5,
+          "crudo": 4,
           "error": "",
           "ok": true
         },
@@ -756,7 +805,7 @@
       "n": 1,
       "n_del_dia": 1,
       "n_nuevo": 1,
-      "actualizado": "2026-11-16 17:12",
+      "actualizado": "2026-11-16 23:01",
       "colectores": {
         "oficial": {
           "n": 9,
@@ -771,14 +820,14 @@
           "ok": true
         },
         "medios": {
-          "n": 11,
-          "crudo": 11,
+          "n": 15,
+          "crudo": 15,
           "error": "",
           "ok": true
         },
         "gnews": {
-          "n": 7,
-          "crudo": 7,
+          "n": 18,
+          "crudo": 18,
           "error": "",
           "ok": true
         },
@@ -790,7 +839,7 @@
         },
         "youtube": {
           "n": 0,
-          "crudo": 5,
+          "crudo": 4,
           "error": "",
           "ok": true
         },
@@ -813,7 +862,7 @@
       "n": 2,
       "n_del_dia": 2,
       "n_nuevo": 1,
-      "actualizado": "2026-11-16 17:12",
+      "actualizado": "2026-11-16 23:01",
       "colectores": {
         "oficial": {
           "n": 9,
@@ -828,14 +877,14 @@
           "ok": true
         },
         "medios": {
-          "n": 11,
-          "crudo": 11,
+          "n": 15,
+          "crudo": 15,
           "error": "",
           "ok": true
         },
         "gnews": {
-          "n": 7,
-          "crudo": 7,
+          "n": 18,
+          "crudo": 18,
           "error": "",
           "ok": true
         },
@@ -847,7 +896,7 @@
         },
         "youtube": {
           "n": 0,
-          "crudo": 5,
+          "crudo": 4,
           "error": "",
           "ok": true
         },
@@ -870,7 +919,7 @@
       "n": 1,
       "n_del_dia": 1,
       "n_nuevo": 1,
-      "actualizado": "2026-11-16 17:12",
+      "actualizado": "2026-11-16 23:01",
       "colectores": {
         "oficial": {
           "n": 9,
@@ -885,14 +934,14 @@
           "ok": true
         },
         "medios": {
-          "n": 11,
-          "crudo": 11,
+          "n": 15,
+          "crudo": 15,
           "error": "",
           "ok": true
         },
         "gnews": {
-          "n": 7,
-          "crudo": 7,
+          "n": 18,
+          "crudo": 18,
           "error": "",
           "ok": true
         },
@@ -904,7 +953,7 @@
         },
         "youtube": {
           "n": 0,
-          "crudo": 5,
+          "crudo": 4,
           "error": "",
           "ok": true
         },
@@ -927,7 +976,7 @@
       "n": 1,
       "n_del_dia": 1,
       "n_nuevo": 1,
-      "actualizado": "2026-11-16 17:12",
+      "actualizado": "2026-11-16 23:01",
       "colectores": {
         "oficial": {
           "n": 9,
@@ -942,14 +991,14 @@
           "ok": true
         },
         "medios": {
-          "n": 11,
-          "crudo": 11,
+          "n": 15,
+          "crudo": 15,
           "error": "",
           "ok": true
         },
         "gnews": {
-          "n": 7,
-          "crudo": 7,
+          "n": 18,
+          "crudo": 18,
           "error": "",
           "ok": true
         },
@@ -961,7 +1010,7 @@
         },
         "youtube": {
           "n": 0,
-          "crudo": 5,
+          "crudo": 4,
           "error": "",
           "ok": true
         },
@@ -984,7 +1033,7 @@
       "n": 7,
       "n_del_dia": 7,
       "n_nuevo": 3,
-      "actualizado": "2026-11-16 17:12",
+      "actualizado": "2026-11-16 23:01",
       "colectores": {
         "gobpe": {
           "n": 9,
@@ -999,14 +1048,14 @@
           "ok": true
         },
         "medios": {
-          "n": 11,
-          "crudo": 11,
+          "n": 15,
+          "crudo": 15,
           "error": "",
           "ok": true
         },
         "gnews": {
-          "n": 7,
-          "crudo": 7,
+          "n": 18,
+          "crudo": 18,
           "error": "",
           "ok": true
         },
@@ -1018,7 +1067,7 @@
         },
         "youtube": {
           "n": 0,
-          "crudo": 5,
+          "crudo": 4,
           "error": "",
           "ok": true
         },
@@ -1056,14 +1105,14 @@
           "ok": true
         },
         "medios": {
-          "n": 11,
-          "crudo": 11,
+          "n": 15,
+          "crudo": 15,
           "error": "",
           "ok": true
         },
         "gnews": {
-          "n": 7,
-          "crudo": 7,
+          "n": 18,
+          "crudo": 18,
           "error": "",
           "ok": true
         },
@@ -1075,7 +1124,7 @@
         },
         "youtube": {
           "n": 0,
-          "crudo": 5,
+          "crudo": 4,
           "error": "",
           "ok": true
         },
@@ -1098,7 +1147,7 @@
       "n": 6,
       "n_del_dia": 6,
       "n_nuevo": 3,
-      "actualizado": "2026-11-16 17:12",
+      "actualizado": "2026-11-16 23:01",
       "colectores": {
         "gobpe": {
           "n": 9,
@@ -1113,14 +1162,14 @@
           "ok": true
         },
         "medios": {
-          "n": 11,
-          "crudo": 11,
+          "n": 15,
+          "crudo": 15,
           "error": "",
           "ok": true
         },
         "gnews": {
-          "n": 7,
-          "crudo": 7,
+          "n": 18,
+          "crudo": 18,
           "error": "",
           "ok": true
         },
@@ -1132,7 +1181,7 @@
         },
         "youtube": {
           "n": 0,
-          "crudo": 5,
+          "crudo": 4,
           "error": "",
           "ok": true
         },
@@ -1212,7 +1261,7 @@
       "n": 1,
       "n_del_dia": 1,
       "n_nuevo": 1,
-      "actualizado": "2026-11-16 17:12",
+      "actualizado": "2026-11-16 23:01",
       "colectores": {
         "oficial": {
           "n": 9,
@@ -1227,14 +1276,14 @@
           "ok": true
         },
         "medios": {
-          "n": 11,
-          "crudo": 11,
+          "n": 15,
+          "crudo": 15,
           "error": "",
           "ok": true
         },
         "gnews": {
-          "n": 7,
-          "crudo": 7,
+          "n": 18,
+          "crudo": 18,
           "error": "",
           "ok": true
         },
@@ -1246,7 +1295,7 @@
         },
         "youtube": {
           "n": 0,
-          "crudo": 5,
+          "crudo": 4,
           "error": "",
           "ok": true
         },
@@ -1269,7 +1318,7 @@
       "n": 10,
       "n_del_dia": 10,
       "n_nuevo": 5,
-      "actualizado": "2026-11-16 17:12",
+      "actualizado": "2026-11-16 23:01",
       "colectores": {
         "gobpe": {
           "n": 9,
@@ -1284,14 +1333,14 @@
           "ok": true
         },
         "medios": {
-          "n": 11,
-          "crudo": 11,
+          "n": 15,
+          "crudo": 15,
           "error": "",
           "ok": true
         },
         "gnews": {
-          "n": 7,
-          "crudo": 7,
+          "n": 18,
+          "crudo": 18,
           "error": "",
           "ok": true
         },
@@ -1303,7 +1352,7 @@
         },
         "youtube": {
           "n": 0,
-          "crudo": 5,
+          "crudo": 4,
           "error": "",
           "ok": true
         },
@@ -1341,14 +1390,14 @@
           "ok": true
         },
         "medios": {
-          "n": 11,
-          "crudo": 11,
+          "n": 15,
+          "crudo": 15,
           "error": "",
           "ok": true
         },
         "gnews": {
-          "n": 7,
-          "crudo": 7,
+          "n": 18,
+          "crudo": 18,
           "error": "",
           "ok": true
         },
@@ -1360,7 +1409,7 @@
         },
         "youtube": {
           "n": 0,
-          "crudo": 5,
+          "crudo": 4,
           "error": "",
           "ok": true
         },
@@ -1383,7 +1432,7 @@
       "n": 6,
       "n_del_dia": 6,
       "n_nuevo": 2,
-      "actualizado": "2026-11-16 17:12",
+      "actualizado": "2026-11-16 23:01",
       "colectores": {
         "oficial": {
           "n": 9,
@@ -1398,14 +1447,14 @@
           "ok": true
         },
         "medios": {
-          "n": 11,
-          "crudo": 11,
+          "n": 15,
+          "crudo": 15,
           "error": "",
           "ok": true
         },
         "gnews": {
-          "n": 7,
-          "crudo": 7,
+          "n": 18,
+          "crudo": 18,
           "error": "",
           "ok": true
         },
@@ -1417,7 +1466,7 @@
         },
         "youtube": {
           "n": 0,
-          "crudo": 5,
+          "crudo": 4,
           "error": "",
           "ok": true
         },
@@ -1497,7 +1546,7 @@
       "n": 1,
       "n_del_dia": 1,
       "n_nuevo": 1,
-      "actualizado": "2026-11-16 17:12",
+      "actualizado": "2026-11-16 23:01",
       "colectores": {
         "gobpe": {
           "n": 9,
@@ -1512,14 +1561,14 @@
           "ok": true
         },
         "medios": {
-          "n": 11,
-          "crudo": 11,
+          "n": 15,
+          "crudo": 15,
           "error": "",
           "ok": true
         },
         "gnews": {
-          "n": 7,
-          "crudo": 7,
+          "n": 18,
+          "crudo": 18,
           "error": "",
           "ok": true
         },
@@ -1531,7 +1580,7 @@
         },
         "youtube": {
           "n": 0,
-          "crudo": 5,
+          "crudo": 4,
           "error": "",
           "ok": true
         },
@@ -1554,7 +1603,7 @@
       "n": 1,
       "n_del_dia": 1,
       "n_nuevo": 1,
-      "actualizado": "2026-11-16 17:12",
+      "actualizado": "2026-11-16 23:01",
       "colectores": {
         "oficial": {
           "n": 9,
@@ -1569,14 +1618,14 @@
           "ok": true
         },
         "medios": {
-          "n": 11,
-          "crudo": 11,
+          "n": 15,
+          "crudo": 15,
           "error": "",
           "ok": true
         },
         "gnews": {
-          "n": 7,
-          "crudo": 7,
+          "n": 18,
+          "crudo": 18,
           "error": "",
           "ok": true
         },
@@ -1588,7 +1637,7 @@
         },
         "youtube": {
           "n": 0,
-          "crudo": 5,
+          "crudo": 4,
           "error": "",
           "ok": true
         },
@@ -1611,7 +1660,7 @@
       "n": 3,
       "n_del_dia": 3,
       "n_nuevo": 3,
-      "actualizado": "2026-11-16 17:12",
+      "actualizado": "2026-11-16 23:01",
       "colectores": {
         "oficial": {
           "n": 9,
@@ -1626,14 +1675,14 @@
           "ok": true
         },
         "medios": {
-          "n": 11,
-          "crudo": 11,
+          "n": 15,
+          "crudo": 15,
           "error": "",
           "ok": true
         },
         "gnews": {
-          "n": 7,
-          "crudo": 7,
+          "n": 18,
+          "crudo": 18,
           "error": "",
           "ok": true
         },
@@ -1645,7 +1694,7 @@
         },
         "youtube": {
           "n": 0,
-          "crudo": 5,
+          "crudo": 4,
           "error": "",
           "ok": true
         },
@@ -1668,7 +1717,7 @@
       "n": 2,
       "n_del_dia": 2,
       "n_nuevo": 1,
-      "actualizado": "2026-11-16 17:12",
+      "actualizado": "2026-11-16 23:01",
       "colectores": {
         "oficial": {
           "n": 9,
@@ -1683,14 +1732,14 @@
           "ok": true
         },
         "medios": {
-          "n": 11,
-          "crudo": 11,
+          "n": 15,
+          "crudo": 15,
           "error": "",
           "ok": true
         },
         "gnews": {
-          "n": 7,
-          "crudo": 7,
+          "n": 18,
+          "crudo": 18,
           "error": "",
           "ok": true
         },
@@ -1702,7 +1751,7 @@
         },
         "youtube": {
           "n": 0,
-          "crudo": 5,
+          "crudo": 4,
           "error": "",
           "ok": true
         },
@@ -1727,7 +1776,7 @@
       "n": 1,
       "archivo": "2026-01-16.jsonl.gz",
       "bytes": 433,
-      "archivado": "2026-11-16 17:12"
+      "archivado": "2026-11-16 23:01"
     }
   ]
 }
