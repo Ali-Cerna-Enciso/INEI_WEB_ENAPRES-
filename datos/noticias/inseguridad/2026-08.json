@@ -1,6 +1,6 @@
 {
   "mes": "2026-08",
-  "actualizado": "2026-11-19 21:30",
+  "actualizado": "2026-11-20 08:47",
   "items": [
     {
       "id": "d9d4232fbcb587d1",
@@ -14548,6 +14548,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-19 21:30"
+    },
+    {
+      "id": "700120d828eb4967",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b004f7bd183452a8d7c28c77a332c5b&url=https%3a%2f%2fdiariocorreo.pe%2fpolitica%2fmasacre-en-trujillo-renzo-reggiardo-pide-al-congreso-aprobar-facultades-legislativas-para-enfrentar-delincuencia-noticia%2f&c=9134434544173010546&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b004f7bd183452a8d7c28c77a332c5b&url=https%3A%2F%2Fdiariocorreo.pe%2Fpolitica%2Fmasacre-en-trujillo-renzo-reggiardo-pide-al-congreso-aprobar-facultades-legislativas-para-enfrentar-delincuencia-noticia%2F&c=9134434544173010546&mkt=es-us",
+      "titulo": "Masacre en Trujillo: Renzo Reggiardo pide al Congreso aprobar facultades legislativas para enfrentar delincuencia",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-31",
+      "fecha_hecho": null,
+      "snippet": "Reggiardo señaló que los congresistas deben asumir responsabilidad ante la ciudadanía si continúan postergando la decisión sobre las facultades solicitadas por el Gobierno. El alcalde sostuvo que ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 3,
+      "query": "bing:\"masacre\" Trujillo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-20 08:47"
     },
     {
       "id": "f6b6d1e545edb4f0",
@@ -31122,6 +31146,28 @@
       "agregado": "2026-11-19 21:30"
     },
     {
+      "id": "b428aa67b565d7a6",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b004f6c30e4481489bebb5b1ef21ff9&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f08%2f26%2fidentidades-sinteticas-y-tecnicas-de-fatiga-contrasenas-ya-no-frenan-el-fraude-digital-y-bancos-en-peru-encienden-las-alertas%2f&c=10172187503192527293&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b004f6c30e4481489bebb5b1ef21ff9&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F08%2F26%2Fidentidades-sinteticas-y-tecnicas-de-fatiga-contrasenas-ya-no-frenan-el-fraude-digital-y-bancos-en-peru-encienden-las-alertas%2F&c=10172187503192527293&mkt=es-us",
+      "titulo": "Identidades sintéticas y técnicas de fatiga: contraseñas ya no frenan el fraude digital y bancos en Perú encienden las alertas",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-26",
+      "fecha_hecho": null,
+      "snippet": "El crecimiento de las operaciones digitales amplió la exposición al fraude bancario, que ahora apunta a suplantar identidades digitales y tomar control de cuentas legítimas Por Esteban Salazar Herrada ...",
+      "temas": [
+        "Fraude bancario"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 2,
+      "query": "bing:\"fraude bancario\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-20 08:47"
+    },
+    {
       "id": "2c07c7b4a2a841ad",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNzJQQzYyZUFGdUhtVTZnRDNMUWsyYm4yX0dTNVR1M3MwSU1IRVNodk1iZFVZOTVmN1h6ZGtrdzdGQ0I5S05wUHU0VENydU02a1YwSWNxcTkxbVpqNkZ6ZmFxdThTTE5VZ3BBMlhKM1haek83ZEZEdHN6UW5uaFpsVGZkRlNVdFVvYzFtSXJRQjc0ZWhyOFl6UFAwSGhuWTF2Y1N6c2lQdTZiN2VTbGlQV0l4Qm9VdXJPaldxQ2xWQTVQZ1VYZFdBalVKUWpnTWxmLVJwWjdGalAwQ0ZJQmFRTUwzWjnSAf8BQVVfeXFMTm1JUmdPV3RFbHVYTldCcTdJOTFCQzQycHRlOUFxS01aUWEwczhpZU1uQVYxLUtNbEZYelJ6YVFYOTdIWTNtMzRvOWJGR1otbXluYUktVHlONWZJcHowWnRjci12d1pBcVMxMW95REt3RzlnbXAwVjJQWTdSZDhuUERZUXg5LVY4LTJ6VFhDWU9JbVNPZzlnaHk3X0U5M1BVSURqY25MaG9rMl9sb055elFjYjhmenhwNTl2TklkWFpueTlBczBoUU9rWEJ2TkJxQ002WGtNZXYyTWFBRktxcll0V0sxRnRudlNGN3Fob2hFeWtldWhBdUlkeDVhNkxR?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNzJQQzYyZUFGdUhtVTZnRDNMUWsyYm4yX0dTNVR1M3MwSU1IRVNodk1iZFVZOTVmN1h6ZGtrdzdGQ0I5S05wUHU0VENydU02a1YwSWNxcTkxbVpqNkZ6ZmFxdThTTE5VZ3BBMlhKM1haek83ZEZEdHN6UW5uaFpsVGZkRlNVdFVvYzFtSXJRQjc0ZWhyOFl6UFAwSGhuWTF2Y1N6c2lQdTZiN2VTbGlQV0l4Qm9VdXJPaldxQ2xWQTVQZ1VYZFdBalVKUWpnTWxmLVJwWjdGalAwQ0ZJQmFRTUwzWjnSAf8BQVVfeXFMTm1JUmdPV3RFbHVYTldCcTdJOTFCQzQycHRlOUFxS01aUWEwczhpZU1uQVYxLUtNbEZYelJ6YVFYOTdIWTNtMzRvOWJGR1otbXluYUktVHlONWZJcHowWnRjci12d1pBcVMxMW95REt3RzlnbXAwVjJQWTdSZDhuUERZUXg5LVY4LTJ6VFhDWU9JbVNPZzlnaHk3X0U5M1BVSURqY25MaG9rMl9sb055elFjYjhmenhwNTl2TklkWFpueTlBczBoUU9rWEJ2TkJxQ002WGtNZXYyTWFBRktxcll0V0sxRnRudlNGN3Fob2hFeWtldWhBdUlkeDVhNkxR",
@@ -32228,6 +32274,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-18 08:38"
+    },
+    {
+      "id": "7d104bed986fc64f",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b004f656e584ad2ba2ae8a08a7ec898&url=https%3a%2f%2fwww.swissinfo.ch%2fspa%2fjusticia-de-per%25c3%25ba-condena-a-cuatro-hombres-por-el-homicidio-de-l%25c3%25adder-ind%25c3%25adgena-en-2023%2f91948763&c=8869166249240707959&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b004f656e584ad2ba2ae8a08a7ec898&url=https%3A%2F%2Fwww.swissinfo.ch%2Fspa%2Fjusticia-de-per%25c3%25ba-condena-a-cuatro-hombres-por-el-homicidio-de-l%25c3%25adder-ind%25c3%25adgena-en-2023%2F91948763&c=8869166249240707959&mkt=es-us",
+      "titulo": "Justicia de Perú condena a cuatro hombres por el homicidio de líder indígena en 2023",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-24",
+      "fecha_hecho": null,
+      "snippet": "Lima, 24 ago (EFE).- Un juzgado de la Corte Superior Nacional de Perú condenó este lunes a cuatro hombres a penas entre 15 y 35 años de cárcel, por el homicidio del líder indígena Quinto Inuma ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:homicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-20 08:47"
     },
     {
       "id": "e53690b5eee6d2b9",
@@ -36878,6 +36948,31 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-19 21:30"
+    },
+    {
+      "id": "bb8181ed57c55232",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b004f7800cc4db99fe17aa14efbf1c1&url=https%3a%2f%2fwww.msn.com%2fes-co%2fnoticias%2fother%2fholand%25C3%25A9s-condenado-en-eeuu-y-per%25C3%25BA-pide-cambio-de-c%25C3%25A1rcel-por-supuestas-amenazas-de-muerte%2far-AA2aBJ3C&c=12078230844436437049&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b004f7800cc4db99fe17aa14efbf1c1&url=https%3A%2F%2Fwww.msn.com%2Fes-co%2Fnoticias%2Fother%2Fholand%25C3%25A9s-condenado-en-eeuu-y-per%25C3%25BA-pide-cambio-de-c%25C3%25A1rcel-por-supuestas-amenazas-de-muerte%2Far-AA2aBJ3C&c=12078230844436437049&mkt=es-us",
+      "titulo": "Holandés condenado en EEUU y Perú pide cambio de cárcel por supuestas amenazas de muerte",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-20",
+      "fecha_hecho": null,
+      "snippet": "LIMA (AP) — Un holandés condenado en 2023 en Estados Unidos por extorsionar a la familia de una estadounidense a la que mató en 2005 y sentenciado en Perú por asesinar a una peruana en 2010 pidió ser ...",
+      "temas": [
+        "Extorsión",
+        "Amenazas e intimidaciones"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 5,
+      "query": "bing:\"amenazas de muerte\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-20 08:47"
     },
     {
       "id": "799fc5b287526bbb",
@@ -46760,6 +46855,28 @@
       "agregado": "2026-11-19 21:30"
     },
     {
+      "id": "153ae625025df3d9",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b004f6704604885ae5f9095db987bb6&url=https%3a%2f%2frpp.pe%2fperu%2factualidad%2fel-numero-de-presos-por-feminicidio-en-el-peru-se-multiplico-por-seis-en-la-ultima-decada-informe-noticia-1700934&c=16529491939722550603&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b004f6704604885ae5f9095db987bb6&url=https%3A%2F%2Frpp.pe%2Fperu%2Factualidad%2Fel-numero-de-presos-por-feminicidio-en-el-peru-se-multiplico-por-seis-en-la-ultima-decada-informe-noticia-1700934&c=16529491939722550603&mkt=es-us",
+      "titulo": "El número de presos por feminicidio en el Perú se multiplicó por seis en la última década [Informe]",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-10",
+      "fecha_hecho": null,
+      "snippet": "Cifras obtenidas por RPP revelan que, en los últimos diez años, el número de personas presas por feminicidio o por tentativa de feminicidio se multiplicó por seis. Los números también evidencian que ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:feminicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-20 08:47"
+    },
+    {
       "id": "0b6c0c5a8f0a8d14",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOekNGekctTzhMM2ExZUg4RGMxakpMSmdJekxFdzN1X240WEtoYkhpLTBfNk5keU9EWWlhdTRJcmx2UDBzMHRjOGJqNmpNTVhzdlloMEp5d0p1eE9xemw4bTVRQi1iclVwT2RmcFRhTUJmNFJ2MGd0Y1M1b2lmZEZGODdnRDVJeHF3WXNsZVNpVWt2MXpxQVhiN0o2QTZJQi1KZGJVcDJZUmZlWFI1ZTZPM1RDQklyUDk4ZDUtNUI4UkU3MnVGRVFHQ3FWUEhoSVU?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOekNGekctTzhMM2ExZUg4RGMxakpMSmdJekxFdzN1X240WEtoYkhpLTBfNk5keU9EWWlhdTRJcmx2UDBzMHRjOGJqNmpNTVhzdlloMEp5d0p1eE9xemw4bTVRQi1iclVwT2RmcFRhTUJmNFJ2MGd0Y1M1b2lmZEZGODdnRDVJeHF3WXNsZVNpVWt2MXpxQVhiN0o2QTZJQi1KZGJVcDJZUmZlWFI1ZTZPM1RDQklyUDk4ZDUtNUI4UkU3MnVGRVFHQ3FWUEhoSVU",
@@ -48962,5 +49079,5 @@
       "descartar": true
     }
   ],
-  "n": 2064
+  "n": 2069
 }
