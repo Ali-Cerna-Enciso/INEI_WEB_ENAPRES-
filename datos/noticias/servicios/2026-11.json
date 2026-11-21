@@ -1,7 +1,29 @@
 {
   "mes": "2026-11",
-  "actualizado": "2026-11-21 08:15",
+  "actualizado": "2026-11-21 14:30",
   "items": [
+    {
+      "id": "c2e45bb4eb6fe02d",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQYU1RYWVMb3BaNzA3TTRNUFh0X21PRGFTS3c1RGxCaXJHNnA2OVdYenYzZXV3ZUw2R1ZTZlgxV2h6S25hZXFhWjVEd2pKU2VuYVZsSFkwU0RqSjctTWkxM2pWdnkyT19uUFh5LXFvWHNVemVxdkhCWU4wb1FXM3BaM0pndDVRX2ktVEFBVjFRVW5MdDZVX09uYmQ4N0RYb0JVQzhFeUw4aEZjNjRLSV80dm1sOTNCVUZYNnJpY0JjOWwxeENvVGIwVi1mMVRobG5iODFlYkpLbWtSeFVPdGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQYU1RYWVMb3BaNzA3TTRNUFh0X21PRGFTS3c1RGxCaXJHNnA2OVdYenYzZXV3ZUw2R1ZTZlgxV2h6S25hZXFhWjVEd2pKU2VuYVZsSFkwU0RqSjctTWkxM2pWdnkyT19uUFh5LXFvWHNVemVxdkhCWU4wb1FXM3BaM0pndDVRX2ktVEFBVjFRVW5MdDZVX09uYmQ4N0RYb0JVQzhFeUw4aEZjNjRLSV80dm1sOTNCVUZYNnJpY0JjOWwxeENvVGIwVi1mMVRobG5iODFlYkpLbWtSeFVPdGc",
+      "titulo": "🔴🔵 ¡A llenar los baldes YA! 🪣🚱 Anuncian corte de AGUA el 23 de noviembre: estos distritos se verán afectados el lunes 👇 - Facebook",
+      "fuente": "Facebook",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-21",
+      "fecha_hecho": null,
+      "snippet": "🔴🔵 ¡A llenar los baldes YA! 🪣🚱 Anuncian corte de AGUA el 23 de noviembre: estos distritos se verán afectados el lunes 👇 Facebook",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "\"corte de agua\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-21 14:29"
+    },
     {
       "id": "966c4a6d8d6c2c3a",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQ1FzRUFtbkxUR19DaG1acHB4MElVRks0aEdLcUxnY0lRSHJGRmFVOEw0S2ZoYzg1UWllbVZXbkg5R0NvOGk5Z0htSGdlcUxnbE5rX3NiemwxaWVHdG1DcVlnTHdjYV9WSWpuWGtHSEtJX1lHVmhzSFdJOVVLcVBVbWdLYVJPWE43MUU2SE9MWEgyTzE5XzdtOVpZaHRPZEdjS29NcENwNkd4VDg3ZGNTcW04Ql84c1gwT2ptQ1FwSW9xUzNNWkpuVlBVd1FCOVpUT2cwalZheTNrbkZobGVkQ19pVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
@@ -25,6 +47,148 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-11-21 08:14"
+    },
+    {
+      "id": "b17c69dfea1bb12a",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01f118077e442685b7b20fe34a1efb&url=https%3a%2f%2felpopular.pe%2factualidad%2f2026%2f11%2f21%2fhasta-13-horas-sin-agua-sedapal-confirma-corte-este-lunes-23-de-noviembre-en-lima-conoce-aqui-los-distritos-y-horarios-1969674&c=9707441458577984041&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01f118077e442685b7b20fe34a1efb&url=https%3A%2F%2Felpopular.pe%2Factualidad%2F2026%2F11%2F21%2Fhasta-13-horas-sin-agua-sedapal-confirma-corte-este-lunes-23-de-noviembre-en-lima-conoce-aqui-los-distritos-y-horarios-1969674&c=9707441458577984041&mkt=es-us",
+      "titulo": "¡HASTA 13 HORAS SIN AGUA! Sedapal confirma CORTE este lunes 23 de noviembre en Lima: conoce AQUÍ los distritos y horarios",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-21",
+      "fecha_hecho": null,
+      "snippet": "Sedapal anunció una nueva interrupción del servicio de agua potable para este lunes 23 de noviembre. Algunas zonas de Lima permanecerán sin suministro hasta las 10:00 p. m. Revisa si tu vivienda está ...",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:Sedapal",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-21 14:29"
+    },
+    {
+      "id": "4bdcd65341c74e92",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNXVJZlpZZnNqSmtxdWxfNDREVldlSVJfZk9XTVU1YXhqVXU4MVBYVmNiMmVRN2UtcE5DZXVSM0FJSkNkcTVSUENjQS1OOVlhRUtpdUZESmlBR2RQUkdycEJjaV9CMFU0NlRUWWtmTkpBY3lwMnh1blc2dDY1RGVKMkdjeDlrcjVRT2dSM1pkSWdPVWhUdEJHWEFKUEtoZjU5VlVlTFlQZ2RaSXl3UmU3WjljS1I4Z2I3VEtwTDRTQ2U1N0FTd2w3eUJScE1ZQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNXVJZlpZZnNqSmtxdWxfNDREVldlSVJfZk9XTVU1YXhqVXU4MVBYVmNiMmVRN2UtcE5DZXVSM0FJSkNkcTVSUENjQS1OOVlhRUtpdUZESmlBR2RQUkdycEJjaV9CMFU0NlRUWWtmTkpBY3lwMnh1blc2dDY1RGVKMkdjeDlrcjVRT2dSM1pkSWdPVWhUdEJHWEFKUEtoZjU5VlVlTFlQZ2RaSXl3UmU3WjljS1I4Z2I3VEtwTDRTQ2U1N0FTd2w3eUJScE1ZQQ",
+      "titulo": "Un fuerte sismo de 6,7 sacudió Perú y provocó daños en viviendas, bloqueos en carreteras y cortes de luz - Los Andes",
+      "fuente": "Los Andes",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-21",
+      "fecha_hecho": null,
+      "snippet": "Un fuerte sismo de 6,7 sacudió Perú y provocó daños en viviendas, bloqueos en carreteras y cortes de luz Los Andes",
+      "temas": [
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "\"corte de luz\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-21 14:29"
+    },
+    {
+      "id": "4f2e8f922865c9ca",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNbXJhdno2Y0s4M1VDOHpMYURfUDBHeGV0LTVicDlfbmd6bXV0eVJMc2paNkp6QmFjWFltLWZjZkdBYkRsc2RidlBQWG94VmVXS2JGcnZGQW1sc3hFVFVhckw1U1JJVHRXaVlseUZ0c0diRXRFM0lWWFFDOFNJTFZwV0MyUnVESXg2ajVua2JGV1EzaHZzQWg2T2NFZy0zeFg1eEp4aWtfQnVGR1RtQ0dMVXZIZDRuRzhQS00wbWpub0VFNkp2WDVwOXlwbVpreE0xYmxPbXFHWUNIVlU1N1lmNXhWRG9wSUdSaG96VXBnUTg5MXFULWVTR2hUTXp3bjZfS1NyWUtvT3FvU2h0UXhET1NpQ1ZDbUktUlZrVFp5akPSAaACQVVfeXFMTW1yYXZ6NmNLODNVQzh6TGFEX1AwR3hldC01YnA5X25nem11dHlSTHNqWjZKekJhY1hZbS1mY2ZHQWJEbHNkYnZQUFhveFZlV0tiRnJ2RkFtbHN4RVRVYXJMNVNSSVR0V2lZbHlGdHNHYkV0RTNJVlhRQzhTSUxWcFdDMlJ1REl4Nmo1bmtiRldRM2h2c0FoNk9jRWctM3hYNXhKeGlrX0J1RkdUbUNHTFV2SGQ0bkc4UEtNMG1qbm9FRTZKdlg1cDl5cG1aa3hNMWJsT21xR1lDSFZVNTdZZjV4VkRvcElHUmhvelVwZ1E4OTFxVC1lU0doVE16d242X0tTcllLb09xb1NodFF4RE9TaUNWQ21JLVJWa1RaeWpD?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNbXJhdno2Y0s4M1VDOHpMYURfUDBHeGV0LTVicDlfbmd6bXV0eVJMc2paNkp6QmFjWFltLWZjZkdBYkRsc2RidlBQWG94VmVXS2JGcnZGQW1sc3hFVFVhckw1U1JJVHRXaVlseUZ0c0diRXRFM0lWWFFDOFNJTFZwV0MyUnVESXg2ajVua2JGV1EzaHZzQWg2T2NFZy0zeFg1eEp4aWtfQnVGR1RtQ0dMVXZIZDRuRzhQS00wbWpub0VFNkp2WDVwOXlwbVpreE0xYmxPbXFHWUNIVlU1N1lmNXhWRG9wSUdSaG96VXBnUTg5MXFULWVTR2hUTXp3bjZfS1NyWUtvT3FvU2h0UXhET1NpQ1ZDbUktUlZrVFp5akPSAaACQVVfeXFMTW1yYXZ6NmNLODNVQzh6TGFEX1AwR3hldC01YnA5X25nem11dHlSTHNqWjZKekJhY1hZbS1mY2ZHQWJEbHNkYnZQUFhveFZlV0tiRnJ2RkFtbHN4RVRVYXJMNVNSSVR0V2lZbHlGdHNHYkV0RTNJVlhRQzhTSUxWcFdDMlJ1REl4Nmo1bmtiRldRM2h2c0FoNk9jRWctM3hYNXhKeGlrX0J1RkdUbUNHTFV2SGQ0bkc4UEtNMG1qbm9FRTZKdlg1cDl5cG1aa3hNMWJsT21xR1lDSFZVNTdZZjV4VkRvcElHUmhvelVwZ1E4OTFxVC1lU0doVE16d242X0tTcllLb09xb1NodFF4RE9TaUNWQ21JLVJWa1RaeWpD",
+      "titulo": "Tumbes sufre tormentas eléctricas y lluvias intensas que activan quebradas y provocan aniegos en zonas agrícolas - El Comercio Perú",
+      "fuente": "El Comercio Perú",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-21",
+      "fecha_hecho": null,
+      "snippet": "Tumbes sufre tormentas eléctricas y lluvias intensas que activan quebradas y provocan aniegos en zonas agrícolas El Comercio Perú",
+      "temas": [
+        "Alcantarillado"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Tumbes"
+      ],
+      "score": 3,
+      "query": "aniego Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-21 14:29"
+    },
+    {
+      "id": "9a4aae629b0a4eb6",
+      "url": "https://elcomercio.pe/peru/tumbes/fenomeno-el-nino-tumbes-sufre-tormentas-electricas-y-lluvias-intensas-que-activan-quebradas-y-provocan-aniegos-en-zonas-agricolas-ultimas-noticia/",
+      "url_canon": "https://elcomercio.pe/peru/tumbes/fenomeno-el-nino-tumbes-sufre-tormentas-electricas-y-lluvias-intensas-que-activan-quebradas-y-provocan-aniegos-en-zonas-agricolas-ultimas-noticia",
+      "titulo": "Tumbes sufre tormentas eléctricas y lluvias intensas que activan quebradas y provocan aniegos en zonas agrícolas",
+      "fuente": "ElComercio",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "feeds",
+      "fecha_pub": "2026-11-21",
+      "fecha_hecho": null,
+      "snippet": "La región de Tumbes soportó una tormenta eléctrica acompañada de lluvias de moderada a fuerte intensidad desde la noche del viernes 20 de noviembre hasta las primeras horas de hoy sábado. Estas precipitaciones generaron ",
+      "temas": [
+        "Alcantarillado"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Tumbes"
+      ],
+      "score": 3,
+      "query": "feed:ElComercio",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-21 14:30"
+    },
+    {
+      "id": "f1f633f64eb3f862",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE42NkpxUm4wTUtIMW05eHktZ3l0Nm9QNE04QmxDN1lyQlU5ZWFmMko3Z0RLU1R4ZnF0bHUxQTB0ckFYRGxqZ2JES0IzVV8tdURJNmhaOGZkajAtNF9XOXBJQjh2R0VrdkJPM2l1b21JZFlPZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMickFVX3lxTE42NkpxUm4wTUtIMW05eHktZ3l0Nm9QNE04QmxDN1lyQlU5ZWFmMko3Z0RLU1R4ZnF0bHUxQTB0ckFYRGxqZ2JES0IzVV8tdURJNmhaOGZkajAtNF9XOXBJQjh2R0VrdkJPM2l1b21JZFlPZw",
+      "titulo": "Trujillo: reclaman falta de agua en viviendas de urb. El Valle - soltv peru",
+      "fuente": "soltv peru",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-21",
+      "fecha_hecho": null,
+      "snippet": "Trujillo: reclaman falta de agua en viviendas de urb. El Valle soltv peru",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 3,
+      "query": "Sedalib",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-21 14:29"
+    },
+    {
+      "id": "1fe452b34eb7d095",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMYnhYSDBBVk5CNjRST0MwcW5nSFFNV2xIX0RnOFVfWDdpa0xDUU10Rko4YjZoVGZUR3BjTFdUNDBVeGppZnBibC1yRm5iSjNoMkMxRGNxMHlzNzZ5QzhWbDhGR2RhQ2k3NXJBSg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMYnhYSDBBVk5CNjRST0MwcW5nSFFNV2xIX0RnOFVfWDdpa0xDUU10Rko4YjZoVGZUR3BjTFdUNDBVeGppZnBibC1yRm5iSjNoMkMxRGNxMHlzNzZ5QzhWbDhGR2RhQ2k3NXJBSg",
+      "titulo": "Trujillo: MPT elige sus candidatos a directorio de Sedalib - soltv peru",
+      "fuente": "soltv peru",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-21",
+      "fecha_hecho": null,
+      "snippet": "Trujillo: MPT elige sus candidatos a directorio de Sedalib soltv peru",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 3,
+      "query": "Sedalib",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-21 14:29"
     },
     {
       "id": "9cd08d62833e7f80",
@@ -125,6 +289,28 @@
       "agregado": "2026-11-21 08:15"
     },
     {
+      "id": "5897b7e98c32372a",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd3lXZ1lDSVpCcnNiU18wQ3pvaFVaZG9HTlNobUwyZ2hCVkpLbmZrOGN2Uk5GTEZyOUZXTEtkcWJzTWhRZ2g0TmEwWVhPdndOd3ZFS0JCaWkyR3BaSDI4Ymw2TjNZcEVXOXhGM3ZzbE4xYlNyTGQ2YUo0LXNIVGt0ak5xdzVpdUVOUjQzV1paRXpvZ2pNdkZ6cFljdEQ5THFpRnYySGtCOXZSbkxPbGMxdkdZUURUN0Ft0gHTAUFVX3lxTE4zTE1XQXFNeWhmMUcybmltaHZTa1dMZmJDNFlKRXRFTWhLYVQwRGxHNEp0T3dvYzIweFdUa2pvV2pEQk9lUUpFczR5SU8yMjNuNUhJQUtwdWFabjRINjJ2UE5iZ3RvTFRKTEQ0czZ5aXpnLWRlU1NDbmFOTGJXXzMtSGZBaGlnb0lhbjFNaUM4bjQxNXZiX0t3M2hLRHkxZndrc0ozdDdlbUM3Tklta3JUYjg4bmkxM3BtcWdLYXBWdlRGLWptd284amdWRHJlYXl2elE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd3lXZ1lDSVpCcnNiU18wQ3pvaFVaZG9HTlNobUwyZ2hCVkpLbmZrOGN2Uk5GTEZyOUZXTEtkcWJzTWhRZ2g0TmEwWVhPdndOd3ZFS0JCaWkyR3BaSDI4Ymw2TjNZcEVXOXhGM3ZzbE4xYlNyTGQ2YUo0LXNIVGt0ak5xdzVpdUVOUjQzV1paRXpvZ2pNdkZ6cFljdEQ5THFpRnYySGtCOXZSbkxPbGMxdkdZUURUN0Ft0gHTAUFVX3lxTE4zTE1XQXFNeWhmMUcybmltaHZTa1dMZmJDNFlKRXRFTWhLYVQwRGxHNEp0T3dvYzIweFdUa2pvV2pEQk9lUUpFczR5SU8yMjNuNUhJQUtwdWFabjRINjJ2UE5iZ3RvTFRKTEQ0czZ5aXpnLWRlU1NDbmFOTGJXXzMtSGZBaGlnb0lhbjFNaUM4bjQxNXZiX0t3M2hLRHkxZndrc0ozdDdlbUM3Tklta3JUYjg4bmkxM3BtcWdLYXBWdlRGLWptd284amdWRHJlYXl2elE",
+      "titulo": "Corte de agua para este lunes 23 de noviembre: ¿Cuáles son las zonas afectadas? - Infobae",
+      "fuente": "Infobae",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-21",
+      "fecha_hecho": null,
+      "snippet": "Corte de agua para este lunes 23 de noviembre: ¿Cuáles son las zonas afectadas? Infobae",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "\"corte de agua\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-21 14:29"
+    },
+    {
       "id": "8e7d8d63af11ea92",
       "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQbU1BcFNkR1hKUUNlOHBVUTNyYk05Uk5mRUVFQ1laRy1ySFZ5NG1uLVZUYk1YYy14bHVvTGF2VXEzQm1pN3ByUVBCaXpMREF0YVlLbWQtMkQ1aGdLbWhqaHI2eGJWc2Z5WXhYNDZWQi1KX0dPUExtSHFZbWVDZ21xVjBRd29rUFdoLXdiYkxJUlRZdjM5endRRW53aGJEa1ZTYUJBVGhLeGxvUExIVWI3SWYtdlJvWkE2eXBBWHBSTnhKdGMySTBrZWJOU0FBUFQ4WlRGVGdZaGp1dkdtR2NhOVo0T1dXd1gzM0ZSbVdRclc5RFRqblgzYWVnUVoyVWZaZHJ1RDJVNlZJTUtNQl9sc1N3MUZVUGx0YTE5aVkzVTNCTU9tcFR2bGp1QW1BZWdlZF9SQ0d3X1E1QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQbU1BcFNkR1hKUUNlOHBVUTNyYk05Uk5mRUVFQ1laRy1ySFZ5NG1uLVZUYk1YYy14bHVvTGF2VXEzQm1pN3ByUVBCaXpMREF0YVlLbWQtMkQ1aGdLbWhqaHI2eGJWc2Z5WXhYNDZWQi1KX0dPUExtSHFZbWVDZ21xVjBRd29rUFdoLXdiYkxJUlRZdjM5endRRW53aGJEa1ZTYUJBVGhLeGxvUExIVWI3SWYtdlJvWkE2eXBBWHBSTnhKdGMySTBrZWJOU0FBUFQ4WlRGVGdZaGp1dkdtR2NhOVo0T1dXd1gzM0ZSbVdRclc5RFRqblgzYWVnUVoyVWZaZHJ1RDJVNlZJTUtNQl9sc1N3MUZVUGx0YTE5aVkzVTNCTU9tcFR2bGp1QW1BZWdlZF9SQ0d3X1E1QQ",
@@ -147,6 +333,76 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-11-21 08:14"
+    },
+    {
+      "id": "d0d773ea79c7227d",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOTEwTEtwNlZ4bG1CSjNQZE50Rnc2YjJHbFlhcG84cjJuakZhTDdMcno5NUhSNUVOU1RPaXIzTE5iS1RraGhISGtrZzZ1ZlBEUUtLWXdpTUFLeEM5TTZtVmlrVWZHRVJMX25aak8tLWk1UXI3QldtLXNCVHBWRVEtRkhJcUVXV0tBYkttVW45dVUzNXYtbmMtWmFiR2Q2VHEyWHZiQk51U0hKc0VoVEo3UDBudG95T0ROek1OYnA4X2h6REFNekVuRXpIdjZJY0ZGclE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOTEwTEtwNlZ4bG1CSjNQZE50Rnc2YjJHbFlhcG84cjJuakZhTDdMcno5NUhSNUVOU1RPaXIzTE5iS1RraGhISGtrZzZ1ZlBEUUtLWXdpTUFLeEM5TTZtVmlrVWZHRVJMX25aak8tLWk1UXI3QldtLXNCVHBWRVEtRkhJcUVXV0tBYkttVW45dVUzNXYtbmMtWmFiR2Q2VHEyWHZiQk51U0hKc0VoVEo3UDBudG95T0ROek1OYnA4X2h6REFNekVuRXpIdjZJY0ZGclE",
+      "titulo": "Corte de agua hoy, 21 de noviembre: horarios y distritos afectados sin el servicio de Sedapal - Latina Noticias",
+      "fuente": "Latina Noticias",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-21",
+      "fecha_hecho": null,
+      "snippet": "Corte de agua hoy, 21 de noviembre: horarios y distritos afectados sin el servicio de Sedapal Latina Noticias",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "\"corte de agua\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-21 14:29"
+    },
+    {
+      "id": "55986a607c811335",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONm5sNEV3SE1fc2VldHNtYklOV3hLOS1yNE9NSEVWN2JpektaMGlGcmxCUjkwTHdyTk54M0dDSmRucEJERGE1eWZCbnQzTWFwVjhNTGFOMW1LWjMzVlJHUE1pVDZxNUJRenlFSFIxWEtLT3hlc0FEZVlCcGtXQ0Z6WGp4NzBUMU1zWjFyOUNyMlBtWTl1bzBUYkJlc2ZlVXpkZlQ4cWIzOE1Tel9yUUNJempCNGN2d3ltdHk0SmE2QmlzNlZfekktZ0R2b3B1YWFrd3QzQWhGZU9EMHAyel9Z0gHzAUFVX3lxTE0tWl9iMGdGNUhqZ2dnTHdwTXlENzhCeVB4RlEtMGRIVnpLSFNMLXZiTHlaU1J5UlBmdkY2OXBmYkt4NXU0dVhhNk1KWWNYMC1LUWtiekUwNDl1QndHSHY5WU9pOTVYWXJ5S3VRRFRIaVNndmRvNWNmSWxIdGhpOG5uV1Q3cFBJSjNlY3lQYmhtMnIya19jc1Q0cnVfRGFneWN6T0tHRU1INFZOMEZwMkg5b29JUnhDcEpnc0kyc0lrdmJEZ3BJeEFEOENDOGJ4TXJ6THhYOVpQQkxqbjF0WGlMSi1raElraDk2NzN2Z2RUVjFmWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONm5sNEV3SE1fc2VldHNtYklOV3hLOS1yNE9NSEVWN2JpektaMGlGcmxCUjkwTHdyTk54M0dDSmRucEJERGE1eWZCbnQzTWFwVjhNTGFOMW1LWjMzVlJHUE1pVDZxNUJRenlFSFIxWEtLT3hlc0FEZVlCcGtXQ0Z6WGp4NzBUMU1zWjFyOUNyMlBtWTl1bzBUYkJlc2ZlVXpkZlQ4cWIzOE1Tel9yUUNJempCNGN2d3ltdHk0SmE2QmlzNlZfekktZ0R2b3B1YWFrd3QzQWhGZU9EMHAyel9Z0gHzAUFVX3lxTE0tWl9iMGdGNUhqZ2dnTHdwTXlENzhCeVB4RlEtMGRIVnpLSFNMLXZiTHlaU1J5UlBmdkY2OXBmYkt4NXU0dVhhNk1KWWNYMC1LUWtiekUwNDl1QndHSHY5WU9pOTVYWXJ5S3VRRFRIaVNndmRvNWNmSWxIdGhpOG5uV1Q3cFBJSjNlY3lQYmhtMnIya19jc1Q0cnVfRGFneWN6T0tHRU1INFZOMEZwMkg5b29JUnhDcEpnc0kyc0lrdmJEZ3BJeEFEOENDOGJ4TXJ6THhYOVpQQkxqbjF0WGlMSi1raElraDk2NzN2Z2RUVjFmWQ",
+      "titulo": "Corte de agua en Lima: horarios y distritos afectados este sábado 21 de noviembre - El Comercio Perú",
+      "fuente": "El Comercio Perú",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-21",
+      "fecha_hecho": null,
+      "snippet": "Corte de agua en Lima: horarios y distritos afectados este sábado 21 de noviembre El Comercio Perú",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "\"corte de agua\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-21 14:29"
+    },
+    {
+      "id": "02b2be043425fd87",
+      "url": "https://elcomercio.pe/respuestas/a-que-hora/corte-de-agua-en-lima-sedapal-horarios-y-distritos-afectados-este-sabado-21-de-noviembre-tdpe-noticia/",
+      "url_canon": "https://elcomercio.pe/respuestas/a-que-hora/corte-de-agua-en-lima-sedapal-horarios-y-distritos-afectados-este-sabado-21-de-noviembre-tdpe-noticia",
+      "titulo": "Corte de agua en Lima: horarios y distritos afectados este sábado 21 de noviembre",
+      "fuente": "ElComercio",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "feeds",
+      "fecha_pub": "2026-11-21",
+      "fecha_hecho": null,
+      "snippet": "Corte de agua en Lima: revisa los reportes de Sedapal con los horarios y zonas afectadas del próximo corte.",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "feed:ElComercio",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-21 14:30"
     },
     {
       "id": "1d6bd6a850f25aed",
@@ -196,6 +452,30 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-11-21 08:15"
+    },
+    {
+      "id": "e9017e8e51d020fb",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMXZXZlV1QXJfWjEycmNleFZJX0lwQmdkcjFoTE1VM01JazlBTk9nZDRfVmctU3FkRThnV3BlWG40MkJ2OURtY3prVDFrM0dtZFh1SmxKRnhSdXJzbjNkdGJFM0hLN2dpZ2dSZU96UEtYLTZRUkNLa0s1RV84QzlXU01zM2xzcWlpd2w5WmNSbUhkNklaSXZGVU9oNVRxbVhNVjJJTUFLcEZLNUdHM3NiWVV1R0h6ZVRrMFdkVmd3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMXZXZlV1QXJfWjEycmNleFZJX0lwQmdkcjFoTE1VM01JazlBTk9nZDRfVmctU3FkRThnV3BlWG40MkJ2OURtY3prVDFrM0dtZFh1SmxKRnhSdXJzbjNkdGJFM0hLN2dpZ2dSZU96UEtYLTZRUkNLa0s1RV84QzlXU01zM2xzcWlpd2w5WmNSbUhkNklaSXZGVU9oNVRxbVhNVjJJTUFLcEZLNUdHM3NiWVV1R0h6ZVRrMFdkVmd3",
+      "titulo": "Corte de AGUA el 23 de noviembre: descubre qué distritos de Lima se verán afectados, según Sedapal - Exitosa Noticias",
+      "fuente": "Exitosa Noticias",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-21",
+      "fecha_hecho": null,
+      "snippet": "Corte de AGUA el 23 de noviembre: descubre qué distritos de Lima se verán afectados, según Sedapal Exitosa Noticias",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "Sedapal",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-21 14:29"
     },
     {
       "id": "05291a43a9d091d9",
@@ -557,6 +837,28 @@
       "agregado": "2026-11-21 08:14"
     },
     {
+      "id": "6e24e17afc73a497",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOd2dQa2RzemhpakpLdlpVM2h2R2h2bWU2ZmMtbnJieG1vbGp2U3BROVlNamlNckxidDg4TE1qSmxDMkxvdVBELWZMcmxqR3otb3M4MFBBdWxPcVFkZ2xXamdCWlAzSXUzR2dJV25LVkZud25sUXNHS1Q3cmJobXpXaHJ4ZTdXUjQzM0k2X1JHSkh5dkIzajNHQlFqLWJQVzhBdDFFcmllTGVpdjFHYVlrSlEyd3NxNFB6OW5DNU1sMlhlMjZIOUowcnNmOTFnQVVYeTR3QUlheW5YNnBUNGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOd2dQa2RzemhpakpLdlpVM2h2R2h2bWU2ZmMtbnJieG1vbGp2U3BROVlNamlNckxidDg4TE1qSmxDMkxvdVBELWZMcmxqR3otb3M4MFBBdWxPcVFkZ2xXamdCWlAzSXUzR2dJV25LVkZud25sUXNHS1Q3cmJobXpXaHJ4ZTdXUjQzM0k2X1JHSkh5dkIzajNHQlFqLWJQVzhBdDFFcmllTGVpdjFHYVlrSlEyd3NxNFB6OW5DNU1sMlhlMjZIOUowcnNmOTFnQVVYeTR3QUlheW5YNnBUNGc",
+      "titulo": "💧 ¡SEGUIMOS TRABAJANDO POR EL ACCESO AL AGUA POTABLE EN NUESTRAS COMUNIDADES! El Gobierno Autónomo Municipal de Arbieto, a la cabeza de nuestro alcalde Sr. Aquilino Franco Chamo, realizó la entrega de MATERIALES PARA LA RE - Facebook",
+      "fuente": "Facebook",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-20",
+      "fecha_hecho": null,
+      "snippet": "💧 ¡SEGUIMOS TRABAJANDO POR EL ACCESO AL AGUA POTABLE EN NUESTRAS COMUNIDADES! El Gobierno Autónomo Municipal de Arbieto, a la cabeza de nuestro alcalde Sr. Aquilino Franco Chamo, realizó la entrega de MATERIALES PARA LA ",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "\"acceso al agua\" site:facebook.com",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-21 14:29"
+    },
+    {
       "id": "07cf511170deb24b",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdWdTR2otVXFXYWV4ZC1RYlNTaFFLVDBWRXZ5VnM5TmJNc2hSNWtrMjNVSlhJSklvM0FLQjR0a3lCZWhyRjZ3NV8tb195QkhkRGVGYWZ0czl2Z0tMc1l4Q3hBc3hvM25PXzlHSG1oUDBvNWlnVnhlQ3FtMUJjZUhSbTBQU2xWb0JjVnNwbjNQV2MxZ0huWXBKMkoyazRTQXd3Z21ua2NSNWMxU3hyLXo2TU5qbTR0c3A2bWlybXpiZS1mZHdQbm91bzhIbWp1aE9kYVpaNTNGQTN2M3lTZEpmeg?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdWdTR2otVXFXYWV4ZC1RYlNTaFFLVDBWRXZ5VnM5TmJNc2hSNWtrMjNVSlhJSklvM0FLQjR0a3lCZWhyRjZ3NV8tb195QkhkRGVGYWZ0czl2Z0tMc1l4Q3hBc3hvM25PXzlHSG1oUDBvNWlnVnhlQ3FtMUJjZUhSbTBQU2xWb0JjVnNwbjNQV2MxZ0huWXBKMkoyazRTQXd3Z21ua2NSNWMxU3hyLXo2TU5qbTR0c3A2bWlybXpiZS1mZHdQbm91bzhIbWp1aE9kYVpaNTNGQTN2M3lTZEpmeg",
@@ -838,6 +1140,32 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-11-21 08:15"
+    },
+    {
+      "id": "dced6d784d96f0d1",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01f118077e442685b7b20fe34a1efb&url=https%3a%2f%2flarepublica.pe%2fsociedad%2f2026%2f11%2f19%2fcasi-15-horas-sin-agua-sedapal-confirma-corte-este-viernes-20-de-noviembre-en-lima-revisa-aqui-las-zonas-afectadas-379297&c=3846606586598383498&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01f118077e442685b7b20fe34a1efb&url=https%3A%2F%2Flarepublica.pe%2Fsociedad%2F2026%2F11%2F19%2Fcasi-15-horas-sin-agua-sedapal-confirma-corte-este-viernes-20-de-noviembre-en-lima-revisa-aqui-las-zonas-afectadas-379297&c=3846606586598383498&mkt=es-us",
+      "titulo": "¡Casi 15 horas sin agua! Sedapal confirma corte este viernes 20 de noviembre en Lima: revisa AQUÍ las zonas afectadas",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-20",
+      "fecha_hecho": null,
+      "snippet": "Sedapal programó interrupciones del suministro de agua potable para este viernes 20 de noviembre en sectores de San Juan de Miraflores y Ate. Algunas zonas recuperarán el servicio recién a las 11:55 p ...",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Ate",
+        "San Juan de Miraflores",
+        "Miraflores"
+      ],
+      "score": 3,
+      "query": "bing:Sedapal",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-21 14:29"
     },
     {
       "id": "11f21a588770e698",
@@ -1472,6 +1800,28 @@
       "agregado": "2026-11-20 17:19"
     },
     {
+      "id": "0f87ac0c2b1ffb79",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ1RTcUdJV3pRQm9EdVA0QmlDc3BCb2ZzZGw0Z1dWQ05LWFEzcUtjeEhBRy1NWmVJZklCdHFNNW1Wb05pZkRmMGp1UndvQzRzc3dsM1RZZkZ3LVdtY1Nkd3NTODhNNFZwRzllYV9VZFVGNXJ2N0V0SmJnWlBla3ZhSjVwYmdwUkVlZG90MmR4T2FmZDNKcHBuTUtBNl9ETXkxZkJV?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ1RTcUdJV3pRQm9EdVA0QmlDc3BCb2ZzZGw0Z1dWQ05LWFEzcUtjeEhBRy1NWmVJZklCdHFNNW1Wb05pZkRmMGp1UndvQzRzc3dsM1RZZkZ3LVdtY1Nkd3NTODhNNFZwRzllYV9VZFVGNXJ2N0V0SmJnWlBla3ZhSjVwYmdwUkVlZG90MmR4T2FmZDNKcHBuTUtBNl9ETXkxZkJV",
+      "titulo": "Histórico: Maitencillo pone en marcha su primera red de agua potable - G5noticias",
+      "fuente": "G5noticias",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-20",
+      "fecha_hecho": null,
+      "snippet": "Histórico: Maitencillo pone en marcha su primera red de agua potable G5noticias",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "\"cobertura de agua\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-21 14:29"
+    },
+    {
       "id": "a966477aea1355ba",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZFJiWXVaWVFVbFh2TXVaLVFHX19PWHdlTzNtUlh0bXVmdWJ2bmlhNEsxRnRqV1RhOFJpdDNmZVZxZWNpdzZveVJ5UUo2dW4wbHpaemNzck1ZMzduLW9HY1dNbEVuaW85U09ldFV1UHc3RE5PdFNWZGZIZTI4YjJrbGR2a0twUy1SZ18wOTdmc0dzVnJ1THo4M1pVRGRqYTB0ZlVxaW80MTZxTnFuczhQWm16ZjhZYmhUUUdOLVNDRWlfcF92N1JHcGthUDFYc3Axd2Z4OTNkbktHdGdMQ3hLdXZYVUk3OUI0ZnltRXlR?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZFJiWXVaWVFVbFh2TXVaLVFHX19PWHdlTzNtUlh0bXVmdWJ2bmlhNEsxRnRqV1RhOFJpdDNmZVZxZWNpdzZveVJ5UUo2dW4wbHpaemNzck1ZMzduLW9HY1dNbEVuaW85U09ldFV1UHc3RE5PdFNWZGZIZTI4YjJrbGR2a0twUy1SZ18wOTdmc0dzVnJ1THo4M1pVRGRqYTB0ZlVxaW80MTZxTnFuczhQWm16ZjhZYmhUUUdOLVNDRWlfcF92N1JHcGthUDFYc3Axd2Z4OTNkbktHdGdMQ3hLdXZYVUk3OUI0ZnltRXlR",
@@ -1626,6 +1976,28 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-11-20 21:32"
+    },
+    {
+      "id": "fd19cf92aeb77c7d",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPQmpaRGdpbE5ac3V1VXdaaFpGOHNTLWl0UHZPR28tcWN2cDBPRTF5Z3gtUWhZbDJ4Y0JQb3lDeG5WN3gxZE13VUZfT2NPY1lhUFBsMllFMm5wd3F4WGx6NzJqejB2TklNajJTc2ZLbUlYQ0dSODB5MVVFamxXQmhQM1A2b3pNZmx5dHRsaHVGT0hmNzlKUVBiRVRvVy1KR2FscUxsY25vNnB2Yi1lNmt3dy1GWUxFa25LSmJpUHVSZTM4d3BieVZ4NTJ2akphMTFwY0RpZ2FzLTI4R2FyRlEzTHZRM1huMS1RQm0tUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPQmpaRGdpbE5ac3V1VXdaaFpGOHNTLWl0UHZPR28tcWN2cDBPRTF5Z3gtUWhZbDJ4Y0JQb3lDeG5WN3gxZE13VUZfT2NPY1lhUFBsMllFMm5wd3F4WGx6NzJqejB2TklNajJTc2ZLbUlYQ0dSODB5MVVFamxXQmhQM1A2b3pNZmx5dHRsaHVGT0hmNzlKUVBiRVRvVy1KR2FscUxsY25vNnB2Yi1lNmt3dy1GWUxFa25LSmJpUHVSZTM4d3BieVZ4NTJ2akphMTFwY0RpZ2FzLTI4R2FyRlEzTHZRM1huMS1RQm0tUQ",
+      "titulo": "El acceso al agua segura también se construye con acciones que llegan directamente a las comunidades. 🚰 A través del programa #ReciclaON, habitantes de Las Jaras, Las Trojes, Los Fresnos, San Luis y El Cedrito, en #CoatepecHarinas, recibieron filtros - Facebook",
+      "fuente": "Facebook",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-20",
+      "fecha_hecho": null,
+      "snippet": "El acceso al agua segura también se construye con acciones que llegan directamente a las comunidades. 🚰 A través del programa #ReciclaON, habitantes de Las Jaras, Las Trojes, Los Fresnos, San Luis y El Cedrito, en #Coate",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "\"acceso al agua\" site:facebook.com",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-21 14:29"
     },
     {
       "id": "fda535c27c70eab0",
@@ -1952,6 +2324,30 @@
       "agregado": "2026-11-21 08:15"
     },
     {
+      "id": "26db978fe1b4f98b",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01f111388744a189cfc971e240a8fd&url=https%3a%2f%2fwww.expreso.com.pe%2factualidad%2fcorte-de-agua-hoy-sabado-21-de-noviembre-en-distritos-de-lima-zonas-y-horarios-segun-reporte-de-sedapal-recibo-medidor-tuberias-servicio-potable-alcantarillado-noticia%2f1333776%2f&c=2831763398845459489&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01f111388744a189cfc971e240a8fd&url=https%3A%2F%2Fwww.expreso.com.pe%2Factualidad%2Fcorte-de-agua-hoy-sabado-21-de-noviembre-en-distritos-de-lima-zonas-y-horarios-segun-reporte-de-sedapal-recibo-medidor-tuberias-servicio-potable-alcantarillado-noticia%2F1333776%2F&c=2831763398845459489&mkt=es-us",
+      "titulo": "Corte de agua hoy, sábado 21 de noviembre, en distritos de Lima: zonas y horarios, según reporte de Sedapal.",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-20",
+      "fecha_hecho": null,
+      "snippet": "Sedapal comunicó que hoy, 21 de noviembre de 2026, se ejecutará el corte de agua en varios distritos de Lima Metropolitana.",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:\"corte de agua\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-21 14:29"
+    },
+    {
       "id": "6140e803004de768",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNk83Y3B5b0V6WDZtT2MyYVpXTlJSVzJhblFJOEZxUGt3WUJ1bUdxbjBVR3Jwc01oYXRqTWZoSnhJV0tFeW5qU2JjeC12NnZqYjJibDNxOG5TLURWN1Q4Y2tXdG1VVzdTZHpWN0lrWjlrc0xxNFpXMEhIYnNlc0ozU2NualF6cUQ4QXRNclpndTJ1bkJjMjJTVFZHSXVmOHBJSE1qdTVBOVpEeFVEc0x4bWJfeEhNSlladHk3cktEOGZqeWRzc3lkMkw4MTFtMEhsdkVQbNIB2gFBVV95cUxOZnl0NnlINzVDck5DYmxMRWFiOEtNYU5pT2VaekVGWHAxTGhQSmNGOGJIczI4aEQ5WUxSanRrc25BUWVRZVpEZllITHcxV3RTLUx2c1UxSjJhYkQwa0dPemdnU0YxalplbUlZaXF6SG9taW53by1QTExaWkRNVFVZb2xkampQd0RoZjN5OHJCXy1jMFlTS2NRWllWclN3THJxUWhIUWxQd25IOVVDZzhqU195MUc5RXNEenlSNXV6UW1HeEtZR09acjlseGZDajlQcGRrSFJ2V0JIQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNk83Y3B5b0V6WDZtT2MyYVpXTlJSVzJhblFJOEZxUGt3WUJ1bUdxbjBVR3Jwc01oYXRqTWZoSnhJV0tFeW5qU2JjeC12NnZqYjJibDNxOG5TLURWN1Q4Y2tXdG1VVzdTZHpWN0lrWjlrc0xxNFpXMEhIYnNlc0ozU2NualF6cUQ4QXRNclpndTJ1bkJjMjJTVFZHSXVmOHBJSE1qdTVBOVpEeFVEc0x4bWJfeEhNSlladHk3cktEOGZqeWRzc3lkMkw4MTFtMEhsdkVQbNIB2gFBVV95cUxOZnl0NnlINzVDck5DYmxMRWFiOEtNYU5pT2VaekVGWHAxTGhQSmNGOGJIczI4aEQ5WUxSanRrc25BUWVRZVpEZllITHcxV3RTLUx2c1UxSjJhYkQwa0dPemdnU0YxalplbUlZaXF6SG9taW53by1QTExaWkRNVFVZb2xkampQd0RoZjN5OHJCXy1jMFlTS2NRWllWclN3THJxUWhIUWxQd25IOVVDZzhqU195MUc5RXNEenlSNXV6UW1HeEtZR09acjlseGZDajlQcGRrSFJ2V0JIQQ",
@@ -1974,6 +2370,31 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-11-20 21:32"
+    },
+    {
+      "id": "7c38f306a94496ff",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01f111388744a189cfc971e240a8fd&url=https%3a%2f%2felcomercio.pe%2frespuestas%2fa-que-hora%2fcorte-de-agua-en-lima-sedapal-horarios-y-distritos-afectados-este-sabado-21-de-noviembre-tdpe-noticia%2f&c=16844282629211398885&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01f111388744a189cfc971e240a8fd&url=https%3A%2F%2Felcomercio.pe%2Frespuestas%2Fa-que-hora%2Fcorte-de-agua-en-lima-sedapal-horarios-y-distritos-afectados-este-sabado-21-de-noviembre-tdpe-noticia%2F&c=16844282629211398885&mkt=es-us",
+      "titulo": "Corte de agua en Lima: horarios y distritos afectados este sábado 21 de noviembre",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-20",
+      "fecha_hecho": null,
+      "snippet": "El Servicio de Agua Potable y Alcantarillado de Lima (Sedapal) anunció un nuevo corte de agua programado para distintos distritos de Lima. La entidad responsable del suministro de agua señaló que el ...",
+      "temas": [
+        "Agua por red pública",
+        "Alcantarillado"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 5,
+      "query": "bing:\"corte de agua\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-21 14:29"
     },
     {
       "id": "d5a7423b600c619d",
@@ -2826,6 +3247,30 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-11-21 08:15"
+    },
+    {
+      "id": "bfeef3acd7138d75",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01f118077e442685b7b20fe34a1efb&url=https%3a%2f%2felpopular.pe%2factualidad%2f2026%2f11%2f20%2fhasta-15-horas-sin-agua-sedapal-confirma-corte-hoy-viernes-20-de-noviembre-revisa-aqui-los-distritos-afectados-1356100&c=17128072425569853319&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01f118077e442685b7b20fe34a1efb&url=https%3A%2F%2Felpopular.pe%2Factualidad%2F2026%2F11%2F20%2Fhasta-15-horas-sin-agua-sedapal-confirma-corte-hoy-viernes-20-de-noviembre-revisa-aqui-los-distritos-afectados-1356100&c=17128072425569853319&mkt=es-us",
+      "titulo": "¡HASTA 15 HORAS SIN AGUA! Sedapal confirma CORTE HOY viernes 20 de noviembre: revisa AQUÍ los distritos afectados",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-19",
+      "fecha_hecho": null,
+      "snippet": "Sedapal realizará trabajos de mantenimiento que afectarán sectores específicos de Lima. Conoce los horarios de suspensión y cuándo regresará el servicio.",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:Sedapal",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-21 14:29"
     },
     {
       "id": "a8323a23e6ffe315",
@@ -3833,6 +4278,28 @@
       "agregado": "2026-11-21 08:15"
     },
     {
+      "id": "9f0714e38eb2daba",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01f118077e442685b7b20fe34a1efb&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f11%2f20%2femergencia-por-fuga-de-gas-en-surco-tuberia-rota-durante-obras-de-sedapal-genero-columna-de-tres-metros-cerca-de-comercios%2f&c=10252539715603112140&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01f118077e442685b7b20fe34a1efb&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F11%2F20%2Femergencia-por-fuga-de-gas-en-surco-tuberia-rota-durante-obras-de-sedapal-genero-columna-de-tres-metros-cerca-de-comercios%2F&c=10252539715603112140&mkt=es-us",
+      "titulo": "Emergencia por fuga de gas en Surco: tubería rota durante obras de Sedapal generó columna de tres metros cerca de comercios",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-19",
+      "fecha_hecho": null,
+      "snippet": "El escape de combustible generó preocupación entre vecinos y comerciantes por la cercanía de viviendas y establecimientos ...",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:Sedapal",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-21 14:29"
+    },
+    {
       "id": "15566ef55bfa2214",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tNlhKYWZXOEJCdXlDdkZtZ3lNNnBVTGRBYzFYdE12VlFiVHhmbHN0bThsa0h0OHhYRllaRlJkS200YzhVVEh1OHh6SHYzTE5JRDc5b0NCVmVRTFJGa2ZRMXlXTjl0OWQtVUJmaXNSeFQtU3hnNl9V?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tNlhKYWZXOEJCdXlDdkZtZ3lNNnBVTGRBYzFYdE12VlFiVHhmbHN0bThsa0h0OHhYRllaRlJkS200YzhVVEh1OHh6SHYzTE5JRDc5b0NCVmVRTFJGa2ZRMXlXTjl0OWQtVUJmaXNSeFQtU3hnNl9V",
@@ -4280,6 +4747,30 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-11-21 08:15"
+    },
+    {
+      "id": "3588a37d9634697f",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01f111388744a189cfc971e240a8fd&url=https%3a%2f%2fwww.expreso.com.pe%2factualidad%2fcorte-de-agua-hoy-viernes-20-de-noviembre-en-distritos-de-lima-zonas-y-horarios-segun-reporte-de-sedapal-recibo-medidor-tuberias-servicio-potable-alcantarillado-noticia%2f1333470%2f&c=13539756418676202719&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01f111388744a189cfc971e240a8fd&url=https%3A%2F%2Fwww.expreso.com.pe%2Factualidad%2Fcorte-de-agua-hoy-viernes-20-de-noviembre-en-distritos-de-lima-zonas-y-horarios-segun-reporte-de-sedapal-recibo-medidor-tuberias-servicio-potable-alcantarillado-noticia%2F1333470%2F&c=13539756418676202719&mkt=es-us",
+      "titulo": "Corte de agua hoy, viernes 20 de noviembre, en distritos de Lima: zonas y horarios, según reporte de Sedapal.",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-19",
+      "fecha_hecho": null,
+      "snippet": "Sedapal comunicó que hoy, 20 de noviembre de 2026, se ejecutará el corte de agua en varios distritos de Lima Metropolitana.",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:\"corte de agua\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-21 14:29"
     },
     {
       "id": "499a649db1b625cd",
@@ -5044,6 +5535,30 @@
       "agregado": "2026-11-21 08:15"
     },
     {
+      "id": "7929af7dd3eb791e",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01f114728748999a036723431caabf&url=https%3a%2f%2fes-us.noticias.yahoo.com%2fagua-desag%25C3%25BCe-lambayeque-aciertan-planes-160813395.html&c=7148509184389627141&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01f114728748999a036723431caabf&url=https%3A%2F%2Fes-us.noticias.yahoo.com%2Fagua-desag%25C3%25BCe-lambayeque-aciertan-planes-160813395.html&c=7148509184389627141&mkt=es-us",
+      "titulo": "Agua y desagüe en Lambayeque: ¿aciertan los planes de gobierno de Fuerza Popular y Somos Perú en los problemas hídricos?",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-19",
+      "fecha_hecho": null,
+      "snippet": "Lambayeque es una de las regiones en las que se realizará una segunda vuelta electoral para elegir al próximo gobernador regional, luego de que ningún candidato obtuviera más del 30% en los comicios d ...",
+      "temas": [
+        "Alcantarillado"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lambayeque"
+      ],
+      "score": 3,
+      "query": "bing:desagüe Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-21 14:29"
+    },
+    {
       "id": "18906c5991008040",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUll1anNhY1J1dTB0OHo3WkQwQ252ZW1qM3RFRnlkUUpaV0hlbDFucFlrWHRTdTYtWnJ4OWRRR3NPdnAyMXFJdkhncEJ4MHJaOHB6clBRNGFzVk9uU1B6VHgxMnlRZ0dpUUpOOXV6cUU0ZHdQamdJQU9mYjYzcFRTVHF6ZHRNSTJfZlNRNXN0TFBjRTBpT3hYZjg4Y3k5Ri1QaVlsX3JxZFBmeHRBdHJWOFZlZWViczVZcUV2N1g3NlBoRWtoODR0djZxSHlLSWtlcW02ZzdqTk9kWThlZ0gxLUpGb3M2OFdyNnZHTg?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUll1anNhY1J1dTB0OHo3WkQwQ252ZW1qM3RFRnlkUUpaV0hlbDFucFlrWHRTdTYtWnJ4OWRRR3NPdnAyMXFJdkhncEJ4MHJaOHB6clBRNGFzVk9uU1B6VHgxMnlRZ0dpUUpOOXV6cUU0ZHdQamdJQU9mYjYzcFRTVHF6ZHRNSTJfZlNRNXN0TFBjRTBpT3hYZjg4Y3k5Ri1QaVlsX3JxZFBmeHRBdHJWOFZlZWViczVZcUV2N1g3NlBoRWtoODR0djZxSHlLSWtlcW02ZzdqTk9kWThlZ0gxLUpGb3M2OFdyNnZHTg",
@@ -5493,6 +6008,28 @@
       "agregado": "2026-11-19 15:51"
     },
     {
+      "id": "861c6de0c1c6d9c2",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWlhjaVJoalp3cEF3SXZQbG1LNnZoaHhkcXNac2RNNG5ncEJkdlgtM0pkR1BPTmdENnpLZ0VOTDQ2Y3h3ZWluM1NITmFYYWY5TnFhLWgwN0RmYWUwZ3ZYYm9zNENXOGZOc3lkVHAtZEI0VnZlUWtxRlRaRTlqT1RyczNfNjNIWU9IN0JwYXhnbTlKSEE0Y29ULVR5N2dDc2RuUnR3U3ZCY2VMWWJXTXpKa2pfSGhtTlQ5TXdXcldSVXZHR3M2bjRKandIOUt2TDBzODlWNWNfbjE2bWI0dEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWlhjaVJoalp3cEF3SXZQbG1LNnZoaHhkcXNac2RNNG5ncEJkdlgtM0pkR1BPTmdENnpLZ0VOTDQ2Y3h3ZWluM1NITmFYYWY5TnFhLWgwN0RmYWUwZ3ZYYm9zNENXOGZOc3lkVHAtZEI0VnZlUWtxRlRaRTlqT1RyczNfNjNIWU9IN0JwYXhnbTlKSEE0Y29ULVR5N2dDc2RuUnR3U3ZCY2VMWWJXTXpKa2pfSGhtTlQ5TXdXcldSVXZHR3M2bjRKandIOUt2TDBzODlWNWNfbjE2bWI0dEE",
+      "titulo": "💧 ¡El acceso al agua limpia no es un favor, es un derecho! ✊🏽 Vecinos y vecinas de los AA.HH. Iván Vásquez y 21 de Setiembre, alzan su voz para exigir el cumplimiento de la sentencia del Tribunal Constitucional (TC) que garantiza su derecho a una vida di - Facebook",
+      "fuente": "Facebook",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-18",
+      "fecha_hecho": null,
+      "snippet": "💧 ¡El acceso al agua limpia no es un favor, es un derecho! ✊🏽 Vecinos y vecinas de los AA.HH. Iván Vásquez y 21 de Setiembre, alzan su voz para exigir el cumplimiento de la sentencia del Tribunal Constitucional (TC) que ",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "\"acceso al agua\" site:facebook.com",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-21 14:29"
+    },
+    {
       "id": "a4e4ca1d59832929",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeFEzZmR3NE41dURvUXAwNW9oNmM2TEk0dDI3OEd6Z1BKX0VsZlA2ejVOOHhhWFZLOGh1LTZQSnRqazRjZU51UldQRjhnRU9mU3RYa3Q3Q1NqOHg1YW1udUNKWEo5Q0hrUmo5UzNad2JkMnUxYi1Zdy1TVDlWYk1mTlFQT01wYmo0dHFCeGdZWWJZazhNZGRWeXV4blY4SF82bGxTSzRpYVdPSVRhc3J5Q080RHlBa1NNdGNRc3NvYkxHRFd0dVoxcGo2T295UkJ6WkRubTloNzhNanBE?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeFEzZmR3NE41dURvUXAwNW9oNmM2TEk0dDI3OEd6Z1BKX0VsZlA2ejVOOHhhWFZLOGh1LTZQSnRqazRjZU51UldQRjhnRU9mU3RYa3Q3Q1NqOHg1YW1udUNKWEo5Q0hrUmo5UzNad2JkMnUxYi1Zdy1TVDlWYk1mTlFQT01wYmo0dHFCeGdZWWJZazhNZGRWeXV4blY4SF82bGxTSzRpYVdPSVRhc3J5Q080RHlBa1NNdGNRc3NvYkxHRFd0dVoxcGo2T295UkJ6WkRubTloNzhNanBE",
@@ -5913,6 +6450,28 @@
       "agregado": "2026-11-18 17:40"
     },
     {
+      "id": "7684501d89c06384",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPX0tSQjZqQlNpRm9XUllPVVFwazE1VGYzQWIySUpVWmNPYW1KNExMblpublktd2pmRWxkUXdrRm9XZlFiSXhYbTU1M3FLYkt3OFhVRXlSSzF4WGQyY3VTNFBCdzJWU250UllBRGVLRUk5T1F1cFl1aVczQnBWYTlRRWMtOVh4N0pNVzFRX3lQV19sdFhXbTJDVDRfMFo1YzRFd01WVU9Pa3dEaHhPaXZiX3duS2dodTR3aFE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPX0tSQjZqQlNpRm9XUllPVVFwazE1VGYzQWIySUpVWmNPYW1KNExMblpublktd2pmRWxkUXdrRm9XZlFiSXhYbTU1M3FLYkt3OFhVRXlSSzF4WGQyY3VTNFBCdzJWU250UllBRGVLRUk5T1F1cFl1aVczQnBWYTlRRWMtOVh4N0pNVzFRX3lQV19sdFhXbTJDVDRfMFo1YzRFd01WVU9Pa3dEaHhPaXZiX3duS2dodTR3aFE",
+      "titulo": "¿Qué pasó con el apagón mundial del 17 de noviembre? La verdad detrás de las 72 horas que nunca llegaron - DSN Noticias",
+      "fuente": "DSN Noticias",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-18",
+      "fecha_hecho": null,
+      "snippet": "¿Qué pasó con el apagón mundial del 17 de noviembre? La verdad detrás de las 72 horas que nunca llegaron DSN Noticias",
+      "temas": [
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "apagón Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-21 14:29"
+    },
+    {
       "id": "3f784b079989b393",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMkFsQzlPX1RyQUJfcWpQRUZkLTlRQTRFRFNqUTZGaG9oejB5R1ByR1RsRmxmNmwyME1SNzlpTXljNF9YVlFEQ0oxRnd4dzlxSUFpRk5QODQ0TjlRbkg0NVVrcDhTb0ZvemlpR3A5YUZ6VDlWbVAtcmItY080QmhtaVhIaFlBcVhLb21WeS0xOVFUcDVtcXpacDRmcGFKTE5SQnQ5dlVLcWFpU0E?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMkFsQzlPX1RyQUJfcWpQRUZkLTlRQTRFRFNqUTZGaG9oejB5R1ByR1RsRmxmNmwyME1SNzlpTXljNF9YVlFEQ0oxRnd4dzlxSUFpRk5QODQ0TjlRbkg0NVVrcDhTb0ZvemlpR3A5YUZ6VDlWbVAtcmItY080QmhtaVhIaFlBcVhLb21WeS0xOVFUcDVtcXpacDRmcGFKTE5SQnQ5dlVLcWFpU0E",
@@ -6256,6 +6815,31 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-11-21 08:15"
+    },
+    {
+      "id": "892f52b7bd8ade10",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01f112d56048b6ae3e77ebb6cc7b19&url=https%3a%2f%2flibero.pe%2ftiempoextra%2f2026%2f11%2f17%2fcorte-de-luz-8-horas-confirman-suspension-del-servicio-hoy-miercoles-18-de-noviembre-mira-zonas-afectadas-horarios-1073346&c=14939124955062232109&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01f112d56048b6ae3e77ebb6cc7b19&url=https%3A%2F%2Flibero.pe%2Ftiempoextra%2F2026%2F11%2F17%2Fcorte-de-luz-8-horas-confirman-suspension-del-servicio-hoy-miercoles-18-de-noviembre-mira-zonas-afectadas-horarios-1073346&c=14939124955062232109&mkt=es-us",
+      "titulo": "¡MÁS DE 8 HORAS SIN LUZ! Confirman CORTE del servicio HOY, miércoles 18 de noviembre: mira las zonas afectadas y horarios",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-18",
+      "fecha_hecho": null,
+      "snippet": "Anuncian cortes de luz para este miércoles 18 de noviembre: Comas, San Juan de Lurigancho y otros distritos se verán perjudicados.",
+      "temas": [
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Comas",
+        "San Juan de Lurigancho"
+      ],
+      "score": 3,
+      "query": "bing:\"corte de luz\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-21 14:29"
     },
     {
       "id": "f6b6c2f492f02868",
@@ -6774,6 +7358,30 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-11-21 08:15"
+    },
+    {
+      "id": "ec4b80bf8f3f4b87",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01f118077e442685b7b20fe34a1efb&url=https%3a%2f%2flibero.pe%2ftiempoextra%2f2026%2f11%2f17%2fsedapal-confirma-corte-de-agua-miercoles-18-de-noviembre-revisa-distritos-zonas-afectadas-lima-205904&c=16130701779298489035&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01f118077e442685b7b20fe34a1efb&url=https%3A%2F%2Flibero.pe%2Ftiempoextra%2F2026%2F11%2F17%2Fsedapal-confirma-corte-de-agua-miercoles-18-de-noviembre-revisa-distritos-zonas-afectadas-lima-205904&c=16130701779298489035&mkt=es-us",
+      "titulo": "Sedapal confirma CORTE DE AGUA para HOY, miércoles 18 de noviembre: revisa los distritos y zonas afectadas",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-18",
+      "fecha_hecho": null,
+      "snippet": "Sedapal anunció un corte de agua programado para este 18 de noviembre en varios distritos de Lima. ¿Qué áreas se verán afectadas?",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:Sedapal",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-21 14:29"
     },
     {
       "id": "2394e8d8ad536d05",
@@ -9282,6 +9890,28 @@
       "agregado": "2026-11-21 08:15"
     },
     {
+      "id": "6c3ddccff2af42df",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01f11bd85f40f2ad12e9c2b7bd9a5a&url=https%3a%2f%2flibero.pe%2ftiempoextra%2f2026%2f11%2f16%2fperu-tendra-luz-internet-bancos-martes-17-de-noviembre-revisa-todo-rumor-del-apagon-mundial-1376384&c=13246228872040575277&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01f11bd85f40f2ad12e9c2b7bd9a5a&url=https%3A%2F%2Flibero.pe%2Ftiempoextra%2F2026%2F11%2F16%2Fperu-tendra-luz-internet-bancos-martes-17-de-noviembre-revisa-todo-rumor-del-apagon-mundial-1376384&c=13246228872040575277&mkt=es-us",
+      "titulo": "¿Perú NO tendrá LUZ, internet y bancos este martes 17 de noviembre? Revisa todo sobre el rumor del APAGÓN MUNDIAL",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-17",
+      "fecha_hecho": null,
+      "snippet": "En las redes sociales, se han difundido alertas sobre un presunto apagón global que duraría 72 horas. Aquí todo lo que se sabe.",
+      "temas": [
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:apagón Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-21 14:29"
+    },
+    {
       "id": "93794b561252a4e1",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afe0e8fa3ae4294b776aeec10756c26&url=https%3a%2f%2frevistamercado.do%2fmoney-invest%2fhubo-apagon-mundial-17-noviembre-que-paso-prueba-fema%2f&c=7685142939254017868&mkt=es-us",
       "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afe0e8fa3ae4294b776aeec10756c26&url=https%3A%2F%2Frevistamercado.do%2Fmoney-invest%2Fhubo-apagon-mundial-17-noviembre-que-paso-prueba-fema%2F&c=7685142939254017868&mkt=es-us",
@@ -11226,6 +11856,28 @@
       "agregado": "2026-11-20 21:32"
     },
     {
+      "id": "a504e36f8e938f65",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01f12991204a1f8596de906245552e&url=https%3a%2f%2fandina.pe%2fagencia%2fnoticia-ministerio-vivienda-y-bid-evaluan-financiamiento-para-proyectos-agua-y-saneamiento-1100454.aspx&c=4643818581003432046&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01f12991204a1f8596de906245552e&url=https%3A%2F%2Fandina.pe%2Fagencia%2Fnoticia-ministerio-vivienda-y-bid-evaluan-financiamiento-para-proyectos-agua-y-saneamiento-1100454.aspx&c=4643818581003432046&mkt=es-us",
+      "titulo": "Ministerio de Vivienda y BID evalúan financiamiento para proyectos de agua y saneamiento",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-17",
+      "fecha_hecho": null,
+      "snippet": "El Ministerio de Vivienda, Construcción y Saneamiento (MVCS) y el Banco Interamericano de Desarrollo (BID) evalúan alternativas de financiamiento para acelerar el cierre de brechas de cobertura y cali ...",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:\"agua y saneamiento\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-21 14:29"
+    },
+    {
       "id": "65f846728fdf09a3",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aff02b5ee894d39b4066312d5bc0670&url=https%3a%2f%2fandina.pe%2fagencia%2finicio%2fnoticia-produce-movilizo-mas-s-68-millones-para-impulsar-innovacion-empresarial-1100430.aspx&c=7588098909738884230&mkt=es-us",
       "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aff02b5ee894d39b4066312d5bc0670&url=https%3A%2F%2Fandina.pe%2Fagencia%2Finicio%2Fnoticia-produce-movilizo-mas-s-68-millones-para-impulsar-innovacion-empresarial-1100430.aspx&c=7588098909738884230&mkt=es-us",
@@ -11422,6 +12074,28 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-11-21 08:15"
+    },
+    {
+      "id": "6b01b29e468843d2",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01f12991204a1f8596de906245552e&url=https%3a%2f%2fandina.pe%2fagencia%2finicio%2fnoticia-produce-movilizo-mas-s-68-millones-para-impulsar-innovacion-empresarial-1100430.aspx&c=7588098909738884230&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01f12991204a1f8596de906245552e&url=https%3A%2F%2Fandina.pe%2Fagencia%2Finicio%2Fnoticia-produce-movilizo-mas-s-68-millones-para-impulsar-innovacion-empresarial-1100430.aspx&c=7588098909738884230&mkt=es-us",
+      "titulo": "Ministerio de Vivienda invertirá más de S/ 1,500 millones en agua y saneamiento en 2027",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-17",
+      "fecha_hecho": null,
+      "snippet": "Para el 2027, el Ministerio de Vivienda, Construcción y Saneamiento (MVCS) contará con un presupuesto de 3,806 millones de soles, de los cuales más de 1,500 millones de soles serán destinados a financ ...",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:\"agua y saneamiento\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-21 14:29"
     },
     {
       "id": "ab7ac9cf3511d1d1",
@@ -11872,6 +12546,30 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-11-21 08:15"
+    },
+    {
+      "id": "c054577b88615f50",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01f119b0e7458b9e900b7efd5bb4c1&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f11%2f17%2flas-empresas-de-agua-en-peru-ya-no-tendran-que-cumplir-sus-metas-de-presion-y-continuidad-del-servicio-por-el-nino-los-detalles%2f&c=8333121799756406521&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01f119b0e7458b9e900b7efd5bb4c1&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F11%2F17%2Flas-empresas-de-agua-en-peru-ya-no-tendran-que-cumplir-sus-metas-de-presion-y-continuidad-del-servicio-por-el-nino-los-detalles%2F&c=8333121799756406521&mkt=es-us",
+      "titulo": "Las empresas de agua en Perú ya no tendrán que cumplir sus metas de presión y continuidad del servicio por El Niño: los detalles",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-17",
+      "fecha_hecho": null,
+      "snippet": "Sunass flexibiliza las metas anuales de cumplimiento para empresas como Sedapal, Sedalib y Agua Tumbes, pero mantiene obligaciones de calidad sobre usuarios ...",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Tumbes"
+      ],
+      "score": 2,
+      "query": "bing:Sedalib",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-21 14:29"
     },
     {
       "id": "6a6bd2dcae79e556",
@@ -15680,6 +16378,31 @@
       "agregado": "2026-11-21 08:15"
     },
     {
+      "id": "6753d17cfa231108",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01f112d56048b6ae3e77ebb6cc7b19&url=https%3a%2f%2fwww.exitosanoticias.pe%2factualidad%2fcorte-luz-lima-callao-18-noviembre-estos-distritos-veran-afectados-miercoles-n188401&c=13012364480729302036&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01f112d56048b6ae3e77ebb6cc7b19&url=https%3A%2F%2Fwww.exitosanoticias.pe%2Factualidad%2Fcorte-luz-lima-callao-18-noviembre-estos-distritos-veran-afectados-miercoles-n188401&c=13012364480729302036&mkt=es-us",
+      "titulo": "Corte de LUZ en Lima y Callao el 18 de noviembre: estos distritos se verán afectados el miércoles",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-16",
+      "fecha_hecho": null,
+      "snippet": "Conoce qué distritos de Lima y el Callao se verán afectados por el corte de luz programado para el miércoles 18 de noviembre, según Pluz Perú. ¿Tu zona está en la lista?",
+      "temas": [
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Callao",
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:\"corte de luz\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-21 14:29"
+    },
+    {
       "id": "2499a13727e62f05",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMzVfdUNORUFGZmNmel9oS0ljQXVTendMOFo5bS1naFZwRDZ5dkdtNGlxZ0dSZjhNWGZ6MHY5WEtMSzJJaHdUTV9aVmo0aW5oRDEtU2RoWnQwaEJEcllWeW85cG5GamE1c3ZoTVAzUkhZbE9FV29ZSFRIVzdfVHRpSDZ6azVtU29BVnB1ckVUdjVZQi0yTk5hcHRjUXRvRUl1R09ZcjJ2MEpVR1JIZm1DOFZac04zRExHZjFpeA?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMzVfdUNORUFGZmNmel9oS0ljQXVTendMOFo5bS1naFZwRDZ5dkdtNGlxZ0dSZjhNWGZ6MHY5WEtMSzJJaHdUTV9aVmo0aW5oRDEtU2RoWnQwaEJEcllWeW85cG5GamE1c3ZoTVAzUkhZbE9FV29ZSFRIVzdfVHRpSDZ6azVtU29BVnB1ckVUdjVZQi0yTk5hcHRjUXRvRUl1R09ZcjJ2MEpVR1JIZm1DOFZac04zRExHZjFpeA",
@@ -16229,6 +16952,28 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-11-21 08:15"
+    },
+    {
+      "id": "2c861a4fdf949b9c",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01f11bd85f40f2ad12e9c2b7bd9a5a&url=https%3a%2f%2fwww.msn.com%2fes-xl%2fnoticias%2fotras%2fapag%25C3%25B3n-mundial-del-17-de-noviembre-qu%25C3%25A9-pasar%25C3%25A1-en-eeuu-y-latinoam%25C3%25A9rica%2far-AA2hyyXT&c=17032393678974580323&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01f11bd85f40f2ad12e9c2b7bd9a5a&url=https%3A%2F%2Fwww.msn.com%2Fes-xl%2Fnoticias%2Fotras%2Fapag%25C3%25B3n-mundial-del-17-de-noviembre-qu%25C3%25A9-pasar%25C3%25A1-en-eeuu-y-latinoam%25C3%25A9rica%2Far-AA2hyyXT&c=17032393678974580323&mkt=es-us",
+      "titulo": "Apagón mundial del 17 de noviembre: ¿qué pasará en EEUU y Latinoamérica?",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-16",
+      "fecha_hecho": null,
+      "snippet": "Desmontamos el rumor viral de las 72 horas a oscuras: conoce el alcance real de la prueba de emergencia en Estados Unidos y cómo operarán los ...",
+      "temas": [
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:apagón Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-21 14:29"
     },
     {
       "id": "da9b2bd60f2b48e6",
@@ -24253,6 +24998,28 @@
       "agregado": "2026-11-21 08:15"
     },
     {
+      "id": "dd1fb010b7138227",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01f1275f2b4a308164446e34736296&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f11%2f14%2ffenomeno-el-nino-en-peru-como-obtener-agua-potable-del-aire-y-del-mar-ante-una-posible-escasez-hasta-2027%2f&c=3440861281459393472&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01f1275f2b4a308164446e34736296&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F11%2F14%2Ffenomeno-el-nino-en-peru-como-obtener-agua-potable-del-aire-y-del-mar-ante-una-posible-escasez-hasta-2027%2F&c=3440861281459393472&mkt=es-us",
+      "titulo": "Fenómeno El Niño en Perú: cómo obtener agua potable del aire y del mar ante una posible escasez hasta 2027",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-13",
+      "fecha_hecho": null,
+      "snippet": "La Comisión Multisectorial del ENFEN prevé que el fenómeno alcance una magnitud extraordinaria y afecte a cerca de 7 millones de personas en distintas zonas del país ...",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:\"acceso al agua\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-21 14:29"
+    },
+    {
       "id": "a0361e4f165c3656",
       "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQUGpxNkE5eFIzcDNtVkY2dE1LZ28zUWtFc2ZhZ1Vwb0ZxS2ZjcmtuWXh4ZWNSd05DVlpIbzRzcHlyX2pHTHpoaHFxOU1TSnBCbV9aZjI0VjUxNnNFMGlDcUFVV25qWXQ5ODUyblB4cldtQWtqX3lIQTAzSmR5RDZWa2xUREM0eHBHWnBQRHF3cWt3SHZ2UUdOYkVBcW9Fd3B2NU9lT3dfUG5OTjJweEJtazNGSU1tcVY2Q1N1Z3RibGpZa1dhczRmNE1ZRTF4azUtMDd4dFdTZFZwdk05SmUzMVBvSWdvY2ZydDIwVmoyVVlhR05hRWZjWXRsbzdrM25WWTA2N3V2Smh5aTU0T0pucjBB0gGSAkFVX3lxTFBQanE2QTl4UjNwM21WRjZ0TUtnbzNRa0VzZmFnVXBvRnFLZmNya25ZeHhlY1J3TkNWWkhvNHNweXJfakdMemhocXE5TVNKcEJtX1pmMjRWNTE2c0UwaUNxQVVXbmpZdDk4NTJuUHhyV21Ba2pfeUhBMDNKZHlENlZrbFREQzR4cEdacFBEcXdxa3dIdnZRR05iRUFxb0V3cHY1T2VPd19Qbk5OMnB4Qm1rM0ZJTW1xVjZDU3VndGJsallrV2FzNGY0TVlFMXhrNS0wN3h0V1NkVnB2TTlKZTMxUG9JZ29jZnJ0MjBWajJVWWFHTmFFZmNZdGxvN2szblZZMDY3dXZKaHlpNTRPSm5yMEE?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQUGpxNkE5eFIzcDNtVkY2dE1LZ28zUWtFc2ZhZ1Vwb0ZxS2ZjcmtuWXh4ZWNSd05DVlpIbzRzcHlyX2pHTHpoaHFxOU1TSnBCbV9aZjI0VjUxNnNFMGlDcUFVV25qWXQ5ODUyblB4cldtQWtqX3lIQTAzSmR5RDZWa2xUREM0eHBHWnBQRHF3cWt3SHZ2UUdOYkVBcW9Fd3B2NU9lT3dfUG5OTjJweEJtazNGSU1tcVY2Q1N1Z3RibGpZa1dhczRmNE1ZRTF4azUtMDd4dFdTZFZwdk05SmUzMVBvSWdvY2ZydDIwVmoyVVlhR05hRWZjWXRsbzdrM25WWTA2N3V2Smh5aTU0T0pucjBB0gGSAkFVX3lxTFBQanE2QTl4UjNwM21WRjZ0TUtnbzNRa0VzZmFnVXBvRnFLZmNya25ZeHhlY1J3TkNWWkhvNHNweXJfakdMemhocXE5TVNKcEJtX1pmMjRWNTE2c0UwaUNxQVVXbmpZdDk4NTJuUHhyV21Ba2pfeUhBMDNKZHlENlZrbFREQzR4cEdacFBEcXdxa3dIdnZRR05iRUFxb0V3cHY1T2VPd19Qbk5OMnB4Qm1rM0ZJTW1xVjZDU3VndGJsallrV2FzNGY0TVlFMXhrNS0wN3h0V1NkVnB2TTlKZTMxUG9JZ29jZnJ0MjBWajJVWWFHTmFFZmNZdGxvN2szblZZMDY3dXZKaHlpNTRPSm5yMEE",
@@ -27347,6 +28114,32 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-11-21 08:15"
+    },
+    {
+      "id": "e2ba05666f7db4d4",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01f118077e442685b7b20fe34a1efb&url=https%3a%2f%2flarepublica.pe%2fsociedad%2f2026%2f11%2f12%2fhasta-12-horas-sin-agua-sedapal-confirma-corte-este-viernes-13-de-noviembre-en-lima-revisa-aqui-las-zonas-afectadas-800376&c=326932831661939903&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01f118077e442685b7b20fe34a1efb&url=https%3A%2F%2Flarepublica.pe%2Fsociedad%2F2026%2F11%2F12%2Fhasta-12-horas-sin-agua-sedapal-confirma-corte-este-viernes-13-de-noviembre-en-lima-revisa-aqui-las-zonas-afectadas-800376&c=326932831661939903&mkt=es-us",
+      "titulo": "¡Hasta 12 horas sin agua! Sedapal confirma corte este viernes 13 de noviembre en Lima: revisa AQUÍ las zonas afectadas",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-12",
+      "fecha_hecho": null,
+      "snippet": "Sedapal anunció la suspensión temporal del servicio de agua potable en sectores de Carabayllo y Villa María del Triunfo. Conoce las zonas afectadas y los horarios del viernes 13 de noviembre.",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Villa María del Triunfo",
+        "Carabayllo",
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:Sedapal",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-21 14:29"
     },
     {
       "id": "daac21604800dae1",
@@ -33141,6 +33934,31 @@
       "agregado": "2026-11-20 21:32"
     },
     {
+      "id": "21d05bc65281ac8b",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01f116b6754217a2918e9b2460a1c9&url=https%3a%2f%2fgestion.pe%2fperu%2fmml-cierra-preventivamente-el-bypass-nueva-esperanza-en-villa-maria-del-triunfo-tras-nuevo-aniego-por-lloviznas-en-lima-noticia%2f&c=12251212391247536419&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01f116b6754217a2918e9b2460a1c9&url=https%3A%2F%2Fgestion.pe%2Fperu%2Fmml-cierra-preventivamente-el-bypass-nueva-esperanza-en-villa-maria-del-triunfo-tras-nuevo-aniego-por-lloviznas-en-lima-noticia%2F&c=12251212391247536419&mkt=es-us",
+      "titulo": "MML cierra el bypass Nueva Esperanza tras nuevo aniego por lloviznas en Lima",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-11",
+      "fecha_hecho": null,
+      "snippet": "La Municipalidad de Lima informó que el paso a desnivel de Villa María del Triunfo fue cerrado de manera preventiva. EMAPE realiza labores de limpieza y drenaje para restablecer el tránsito.",
+      "temas": [
+        "Alcantarillado"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Villa María del Triunfo",
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:aniego Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-21 14:29"
+    },
+    {
       "id": "eb0237bef2203744",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU2VacEtoUXVzdnZEX0JXa3Nlak1nakVFbHM3bWN2SDh1eWZRUm9RYW5UUUtFYmw1R3lSSWs4eVg0MXpFdmg0TEtPb0lWLS11NUtOR014UUJSSTh5dENyX2lVNU43U1lueVNDcGxuMlMxRFJxNVA1T3hDNE5qUUJFRXZ3ampKMnF0SlFZa2J3NGVhdlBEVmtzeUQ1UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU2VacEtoUXVzdnZEX0JXa3Nlak1nakVFbHM3bWN2SDh1eWZRUm9RYW5UUUtFYmw1R3lSSWs4eVg0MXpFdmg0TEtPb0lWLS11NUtOR014UUJSSTh5dENyX2lVNU43U1lueVNDcGxuMlMxRFJxNVA1T3hDNE5qUUJFRXZ3ampKMnF0SlFZa2J3NGVhdlBEVmtzeUQ1UQ",
@@ -36823,6 +37641,31 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-11-19 17:44"
+    },
+    {
+      "id": "85eb1c805ea6184b",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01f112d56048b6ae3e77ebb6cc7b19&url=https%3a%2f%2fwww.exitosanoticias.pe%2factualidad%2fcorte-luz-distritos-lima-callao-12-noviembre-cuales-son-zonas-afectadas-jueves-n187967&c=11872130467326474849&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01f112d56048b6ae3e77ebb6cc7b19&url=https%3A%2F%2Fwww.exitosanoticias.pe%2Factualidad%2Fcorte-luz-distritos-lima-callao-12-noviembre-cuales-son-zonas-afectadas-jueves-n187967&c=11872130467326474849&mkt=es-us",
+      "titulo": "Corte de luz en distritos de Lima y el Callao el 12 de noviembre: ¿cuáles son las zonas afectadas este jueves?",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-10",
+      "fecha_hecho": null,
+      "snippet": "Conoce qué distritos de Lima y el Callao se verán afectodos por el corte de luz programado para el 12 de noviembre, según el comunicado de Pluz Perú. ¿Tu zona está en la lista?",
+      "temas": [
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Callao",
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:\"corte de luz\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-21 14:29"
     },
     {
       "id": "074e32a24cc7e6cd",
@@ -41160,6 +42003,31 @@
       "agregado": "2026-11-21 08:15"
     },
     {
+      "id": "b9cdff32fc8be3c1",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01f112d56048b6ae3e77ebb6cc7b19&url=https%3a%2f%2fwww.expreso.com.pe%2factualidad%2fcorte-de-luz-en-lima-y-callao-este-martes-10-de-noviembre-revisa-los-seis-distritos-afectados-y-sus-horarios-pluz-peru-ahorro-noticia%2f1330571%2f&c=13394641499021540100&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01f112d56048b6ae3e77ebb6cc7b19&url=https%3A%2F%2Fwww.expreso.com.pe%2Factualidad%2Fcorte-de-luz-en-lima-y-callao-este-martes-10-de-noviembre-revisa-los-seis-distritos-afectados-y-sus-horarios-pluz-peru-ahorro-noticia%2F1330571%2F&c=13394641499021540100&mkt=es-us",
+      "titulo": "Corte de luz en Lima y Callao este martes 10 de noviembre: revisa los seis distritos afectados y sus horarios",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-09",
+      "fecha_hecho": null,
+      "snippet": "Pluz Perú anunció cortes programados de electricidad para este martes 10 de noviembre. Conoce qué sectores afrontarán interrupciones.",
+      "temas": [
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Callao",
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:\"corte de luz\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-21 14:29"
+    },
+    {
       "id": "093332505c15c2e8",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af378cf24e444b19fab1362b6ac9f59&url=https%3a%2f%2felcomercio.pe%2frespuestas%2fa-que-hora%2fsin-luz-en-lima-y-callao-del-10-al-15-de-noviembre-corte-de-luz-horarios-y-distritos-afectados-pluz-energia-tdpe-noticia%2f&c=15903358469312862347&mkt=es-us",
       "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af378cf24e444b19fab1362b6ac9f59&url=https%3A%2F%2Felcomercio.pe%2Frespuestas%2Fa-que-hora%2Fsin-luz-en-lima-y-callao-del-10-al-15-de-noviembre-corte-de-luz-horarios-y-distritos-afectados-pluz-energia-tdpe-noticia%2F&c=15903358469312862347&mkt=es-us",
@@ -44472,6 +45340,28 @@
       "agregado": "2026-11-20 08:49"
     },
     {
+      "id": "bd4bbc5d6e89fd3a",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01f112d56048b6ae3e77ebb6cc7b19&url=https%3a%2f%2flibero.pe%2ftiempoextra%2f2026%2f11%2f08%2fcorte-de-luz-en-cinco-distritos-de-lima-metropolitana-callao-hoy-lunes-9-de-noviembre-revisa-zonas-seran-afectadas-horarios-698592&c=5628378956977659245&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01f112d56048b6ae3e77ebb6cc7b19&url=https%3A%2F%2Flibero.pe%2Ftiempoextra%2F2026%2F11%2F08%2Fcorte-de-luz-en-cinco-distritos-de-lima-metropolitana-callao-hoy-lunes-9-de-noviembre-revisa-zonas-seran-afectadas-horarios-698592&c=5628378956977659245&mkt=es-us",
+      "titulo": "Confirman CORTE de luz en cinco distritos este 9 de noviembre: revisa qué zonas serán AFECTADAS y HORARIOS",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-08",
+      "fecha_hecho": null,
+      "snippet": "Las interrupciones en el servicio se realizarán en horarios distintos dependiendo del distrito. Conoce qué sectores serán perjudicados.",
+      "temas": [
+        "Energía eléctrica"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:\"corte de luz\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-21 14:29"
+    },
+    {
       "id": "672d68e29659d6a5",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPUzVQUVlfYkc2MWkxeWNXZVk0cTViLWl5QU1pTjlxVUZCSHAzRjd6THhHbE9JX245ZGtxUkNKYVlsSTJoT09yRmZoSERBcFB0dk5OUzhMdVFjc3pHbmJyVEwzNkY1THhjdXNIMXhtV2F2Y2hSU2FZZUNUUThvUVZyT1ptOHBvZ0VqR1h0d19mR2RsWk9ZdnJKYTdoQkpRTzlHUUJpNWc2RlhJMUY3Vno3dDdnOFdYQ3R0N1NlVjBpckpQeW4xbGdRLWIxX2NCZ1plQ0RnY25GeVFIbkQwZml2cEhFaHNIZmhodGtwMVYzYmpUUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPUzVQUVlfYkc2MWkxeWNXZVk0cTViLWl5QU1pTjlxVUZCSHAzRjd6THhHbE9JX245ZGtxUkNKYVlsSTJoT09yRmZoSERBcFB0dk5OUzhMdVFjc3pHbmJyVEwzNkY1THhjdXNIMXhtV2F2Y2hSU2FZZUNUUThvUVZyT1ptOHBvZ0VqR1h0d19mR2RsWk9ZdnJKYTdoQkpRTzlHUUJpNWc2RlhJMUY3Vno3dDdnOFdYQ3R0N1NlVjBpckpQeW4xbGdRLWIxX2NCZ1plQ0RnY25GeVFIbkQwZml2cEhFaHNIZmhodGtwMVYzYmpUUQ",
@@ -47169,6 +48059,28 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-11-21 08:15"
+    },
+    {
+      "id": "b377062923b6028a",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01f118077e442685b7b20fe34a1efb&url=https%3a%2f%2flibero.pe%2ftiempoextra%2f2026%2f11%2f06%2fsedapal-confirma-corte-de-agua-sabado-7-de-noviembre-revisa-distritos-zonas-afectadas-472260&c=11585980006277698805&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01f118077e442685b7b20fe34a1efb&url=https%3A%2F%2Flibero.pe%2Ftiempoextra%2F2026%2F11%2F06%2Fsedapal-confirma-corte-de-agua-sabado-7-de-noviembre-revisa-distritos-zonas-afectadas-472260&c=11585980006277698805&mkt=es-us",
+      "titulo": "Sedapal confirma CORTE DE AGUA para HOY, sábado 7 de noviembre: revisa los distritos y zonas afectadas",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-07",
+      "fecha_hecho": null,
+      "snippet": "Sedapal aconsejó a sus vecinos almacenar agua con anticipación tras anunciarse el periodo de suspensión del servicio. Consulta el horario.",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:Sedapal",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-21 14:29"
     },
     {
       "id": "74ccade4eba897af",
@@ -59838,6 +60750,31 @@
       "agregado": "2026-11-21 08:15"
     },
     {
+      "id": "53b39804f4c0a05d",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01f118077e442685b7b20fe34a1efb&url=https%3a%2f%2felcomercio.pe%2flima%2fsucesos%2fsedapal-triplica-capacidad-para-captar-agua-con-alta-turbidez-en-la-atarjea-ante-el-nino-noticia%2f&c=5435598398429370278&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01f118077e442685b7b20fe34a1efb&url=https%3A%2F%2Felcomercio.pe%2Flima%2Fsucesos%2Fsedapal-triplica-capacidad-para-captar-agua-con-alta-turbidez-en-la-atarjea-ante-el-nino-noticia%2F&c=5435598398429370278&mkt=es-us",
+      "titulo": "Sedapal triplica capacidad para captar agua con alta turbidez en La Atarjea ante El Niño",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-04",
+      "fecha_hecho": null,
+      "snippet": "La empresa elevó de 10.000 a 30.000 unidades el nivel de turbidez que puede manejar para captar agua del río Rímac y asegura que no prevé cortes masivos. Sin embargo, especialistas advierten riesgos d ...",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Rímac",
+        "Rimac"
+      ],
+      "score": 3,
+      "query": "bing:Sedapal",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-21 14:29"
+    },
+    {
       "id": "274b5ec30edefb8a",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQlE1S25iMk81ZGNnVmJlWGdQbGs0bW94OWVieW1aRlhNRHJubFZ0MzM0ZllUbUNqZ29YalBPelNUbUVCbndFdk1GTzVmd0ZNSFJ3MDJMSldKR2RpNjd0S21PclNzdEZzbkNrdG51TE9TWTVSMW9jMUxqMDVYeWx4RERLQzdpRWhTRkg1c3dPcVViTDFmWXfSAZsBQVVfeXFMUE44Z19VT0pQME9hOVdTLWg2b25zYmdZNjQ4RFBxUThVQ2FQVHZERXVQZ3JNalRvbld1X0RoclJ1UW9nQ1lwOE9wRTlUWXl1UlRlVFR2MGplbUh4Z25tLVJqZFBSbGIyeENSYXAxel8xOFJuVTZFa1MteldZd1BDR1VfZ0UxZTQ5X19jT0VmenJEWEU5NGJYVmJXdWs?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQlE1S25iMk81ZGNnVmJlWGdQbGs0bW94OWVieW1aRlhNRHJubFZ0MzM0ZllUbUNqZ29YalBPelNUbUVCbndFdk1GTzVmd0ZNSFJ3MDJMSldKR2RpNjd0S21PclNzdEZzbkNrdG51TE9TWTVSMW9jMUxqMDVYeWx4RERLQzdpRWhTRkg1c3dPcVViTDFmWXfSAZsBQVVfeXFMUE44Z19VT0pQME9hOVdTLWg2b25zYmdZNjQ4RFBxUThVQ2FQVHZERXVQZ3JNalRvbld1X0RoclJ1UW9nQ1lwOE9wRTlUWXl1UlRlVFR2MGplbUh4Z25tLVJqZFBSbGIyeENSYXAxel8xOFJuVTZFa1MteldZd1BDR1VfZ0UxZTQ5X19jT0VmenJEWEU5NGJYVmJXdWs",
@@ -69598,6 +70535,30 @@
       "agregado": "2026-11-21 08:15"
     },
     {
+      "id": "5b18afa832ffc9e4",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01f118077e442685b7b20fe34a1efb&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f11%2f03%2flima-se-quedara-sin-agua-potable-por-el-fenomeno-el-nino-la-respuesta-y-acciones-de-sedapal%2f&c=3753568177305949797&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01f118077e442685b7b20fe34a1efb&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F11%2F03%2Flima-se-quedara-sin-agua-potable-por-el-fenomeno-el-nino-la-respuesta-y-acciones-de-sedapal%2F&c=3753568177305949797&mkt=es-us",
+      "titulo": "¿Lima se quedará sin agua potable por el fenómeno El Niño? La respuesta y acciones de Sedapal",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-02",
+      "fecha_hecho": null,
+      "snippet": "Las lluvias intensas y el arrastre de lodo pueden complicar la captación y el tratamiento del agua en Lima. Sedapal asegura que cuenta con filtros y protocolos de contingencia, aunque la continuidad d ...",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:Sedapal",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-21 14:29"
+    },
+    {
       "id": "6e66169e02f8dc0c",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQVFI2VG9Md0ZTSEhmTHdFMkFOUEpUdGM0RjlsbGhOLTNhQXl6T3B6ZWFnUnVGcmdEN1dyNXBlZVlqMDJyZk4yeDlzVU5hS2JhVzkyeEZON2NDY2JaazljWGN3VlF2RFBtclNRZ2pEcjQzV3pMZFl3SnFCNi1ocnZkYm1SUlY1VlVGaExpclJYX3hrMWZ1ZkpRcGd2Zm5FTHhYb0Nyck5zWmRkMzNuQ2RBOFV3OWNXWmlXWkttZzhSYkF3QU1xUl94UTJWMVVUWVZDU21GSmpWd3BWTnFiV3ltY0JsOTYxcUNNZnNfRnliTGdiMVktRzRvekIwdlo?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQVFI2VG9Md0ZTSEhmTHdFMkFOUEpUdGM0RjlsbGhOLTNhQXl6T3B6ZWFnUnVGcmdEN1dyNXBlZVlqMDJyZk4yeDlzVU5hS2JhVzkyeEZON2NDY2JaazljWGN3VlF2RFBtclNRZ2pEcjQzV3pMZFl3SnFCNi1ocnZkYm1SUlY1VlVGaExpclJYX3hrMWZ1ZkpRcGd2Zm5FTHhYb0Nyck5zWmRkMzNuQ2RBOFV3OWNXWmlXWkttZzhSYkF3QU1xUl94UTJWMVVUWVZDU21GSmpWd3BWTnFiV3ltY0JsOTYxcUNNZnNfRnliTGdiMVktRzRvekIwdlo",
@@ -74481,5 +75442,5 @@
       "agregado": "2026-11-04 14:57"
     }
   ],
-  "n": 3194
+  "n": 3235
 }

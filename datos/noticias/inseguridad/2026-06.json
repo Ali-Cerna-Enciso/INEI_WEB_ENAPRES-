@@ -1,6 +1,6 @@
 {
   "mes": "2026-06",
-  "actualizado": "2026-11-21 08:12",
+  "actualizado": "2026-11-21 14:27",
   "items": [
     {
       "id": "26d94905d70f5f18",
@@ -3830,6 +3830,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-21 08:12"
+    },
+    {
+      "id": "9f3b9fc42c05756b",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01f07d0e93413eb9285ff5b0fe023b&url=https%3a%2f%2fcadenaser.com%2fcomunitat-valenciana%2f2026%2f06%2f24%2fdetenida-en-alicante-una-fugitiva-acusada-de-estafa-en-peru-radio-alicante%2f&c=16552710934103439200&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01f07d0e93413eb9285ff5b0fe023b&url=https%3A%2F%2Fcadenaser.com%2Fcomunitat-valenciana%2F2026%2F06%2F24%2Fdetenida-en-alicante-una-fugitiva-acusada-de-estafa-en-peru-radio-alicante%2F&c=16552710934103439200&mkt=es-us",
+      "titulo": "Detenida en Alicante una fugitiva acusada de estafa en Perú",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-06-23",
+      "fecha_hecho": null,
+      "snippet": "La Policía Nacional ha detenido en Alicante a una fugitiva sobre la que pesaba una orden de detención peruana por estafa. Se trata de una mujer de 46 años, sobre la que figuraba vigente una orden ...",
+      "temas": [
+        "Estafa"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:estafa Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-21 14:27"
     },
     {
       "id": "dcbdeee79cbb5249",
@@ -12270,6 +12292,30 @@
       "agregado": "2026-11-21 08:12"
     },
     {
+      "id": "dd29bddc72ae8058",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01f06cd8f34cd98d5b7e97d3a37c5d&url=https%3a%2f%2fwww.lanacion.com.ar%2fel-mundo%2fla-extorsion-y-la-violencia-se-expanden-en-peru-y-marcan-una-eleccion-atravesada-por-el-panico-nid06062026%2f&c=11332839978930933097&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01f06cd8f34cd98d5b7e97d3a37c5d&url=https%3A%2F%2Fwww.lanacion.com.ar%2Fel-mundo%2Fla-extorsion-y-la-violencia-se-expanden-en-peru-y-marcan-una-eleccion-atravesada-por-el-panico-nid06062026%2F&c=11332839978930933097&mkt=es-us",
+      "titulo": "La extorsión y la violencia se expanden en Perú y marcan una elección atravesada por el pánico",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-06-06",
+      "fecha_hecho": null,
+      "snippet": "LIMA.– Las calles son estrechas, las bocinas son una constante y el tránsito es caótico, como si los semáforos no lograran contener la masividad de los conductores, mototaxis y transeúntes que ...",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:extorsión Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-21 14:27"
+    },
+    {
       "id": "402d0dc81025228d",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYWFfWFVpT25iMVp3UmNkUEc5YnhFUURjQ0w2ZWZEUWpObTNuLWJxdHdUT0JrcGNlOElmdnc4Nng1bGpMdzBESDRVaEJZRVJoeUNzZGZ0UGZnT2I3d1BuTkxHeFV1bTBQUTZvRmJuWnY3ejd6Vk5Cb19FTE1yekE5MjRkdHllOFVqTTVLVTNQc1dIYmVKWVZOQVhqdGc5bnhINTQ5ZDE2WWJla3VoVmdz?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYWFfWFVpT25iMVp3UmNkUEc5YnhFUURjQ0w2ZWZEUWpObTNuLWJxdHdUT0JrcGNlOElmdnc4Nng1bGpMdzBESDRVaEJZRVJoeUNzZGZ0UGZnT2I3d1BuTkxHeFV1bTBQUTZvRmJuWnY3ejd6Vk5Cb19FTE1yekE5MjRkdHllOFVqTTVLVTNQc1dIYmVKWVZOQVhqdGc5bnhINTQ5ZDE2WWJla3VoVmdz",
@@ -19009,5 +19055,5 @@
       "descartar": false
     }
   ],
-  "n": 833
+  "n": 835
 }
