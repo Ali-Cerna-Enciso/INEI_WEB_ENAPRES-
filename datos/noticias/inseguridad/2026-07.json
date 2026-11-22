@@ -1,6 +1,6 @@
 {
   "mes": "2026-07",
-  "actualizado": "2026-11-22 08:02",
+  "actualizado": "2026-11-22 14:51",
   "items": [
     {
       "id": "1afe8ca6c5860d94",
@@ -3490,6 +3490,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-22 08:02"
+    },
+    {
+      "id": "677c868ec2ea50dd",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03479d34be4d729560a07c79bff12e&url=https%3a%2f%2fwww.infobae.com%2fvideo%2factualidad%2flatina-noticias-estafa-con-falso-bono-afecta-a-madres-solteras-en-peru%2fhbHiBWt8%2f&c=17357761945487786764&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03479d34be4d729560a07c79bff12e&url=https%3A%2F%2Fwww.infobae.com%2Fvideo%2Factualidad%2Flatina-noticias-estafa-con-falso-bono-afecta-a-madres-solteras-en-peru%2FhbHiBWt8%2F&c=17357761945487786764&mkt=es-us",
+      "titulo": "Latina Noticias: Estafa con falso bono afecta a madres solteras en Perú",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-07-21",
+      "fecha_hecho": null,
+      "snippet": "Este video presenta un segmento de noticias en vivo de Latina Noticias. Dos presentadoras discuten sobre una estafa. En pantalla se observan gráficos que anuncian un 'Bono Madre Soltera' y 'Bonos de ...",
+      "temas": [
+        "Estafa"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:estafa Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-22 14:51"
     },
     {
       "id": "49277486de5b35ec",
@@ -9861,6 +9883,32 @@
       "agregado": "2026-11-21 20:29"
     },
     {
+      "id": "0df9f7c408620916",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b034796fe564ecdbad6411f3e774dd8&url=https%3a%2f%2fwww.abc.com.py%2finternacionales%2f2025%2f12%2f22%2fperu-anuncia-un-subsistema-de-justicia-para-enfrentar-extorsion-sicariato-y-secuestro%2f&c=15021620673450360077&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b034796fe564ecdbad6411f3e774dd8&url=https%3A%2F%2Fwww.abc.com.py%2Finternacionales%2F2025%2F12%2F22%2Fperu-anuncia-un-subsistema-de-justicia-para-enfrentar-extorsion-sicariato-y-secuestro%2F&c=15021620673450360077&mkt=es-us",
+      "titulo": "Perú anuncia un \"subsistema de justicia\" para enfrentar extorsión, sicariato y secuestro",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-07-12",
+      "fecha_hecho": null,
+      "snippet": "Lima, 22 dic (EFE).- El Gobierno de Perú creará un \"subsistema de justicia\" que se dedicará a combatir los casos de extorsión, sicariato y secuestro, con el objetivo de tener una respuesta más rápida ...",
+      "temas": [
+        "Extorsión",
+        "Secuestro",
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 7,
+      "query": "bing:sicariato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-22 14:51"
+    },
+    {
       "id": "96b908d4506a9558",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX2E5TGhYbDRDaTdNVTNXa1BWWkdfS3oteGgwZE9rU3hQR05mVVpVQ0VNZFg2UXVPNXVrVTVqTzVfUWVNenZVdkg3RWRJLWJwbXdUc25rTXdsT2dINlREeFFCTGE4Y0wzRWlRTVRGWEZ5RkxmRFdUakFhNjdBUElSTnZKNGhjSGVPS05Qdk5zbVEwQm5Ya3RYZnFKbmVBX1oybFVxWTREakJWOHpTU3B0dXgzUXZRRkVXcFJWemRhM2o?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX2E5TGhYbDRDaTdNVTNXa1BWWkdfS3oteGgwZE9rU3hQR05mVVpVQ0VNZFg2UXVPNXVrVTVqTzVfUWVNenZVdkg3RWRJLWJwbXdUc25rTXdsT2dINlREeFFCTGE4Y0wzRWlRTVRGWEZ5RkxmRFdUakFhNjdBUElSTnZKNGhjSGVPS05Qdk5zbVEwQm5Ya3RYZnFKbmVBX1oybFVxWTREakJWOHpTU3B0dXgzUXZRRkVXcFJWemRhM2o",
@@ -13252,5 +13300,5 @@
       "descartar": false
     }
   ],
-  "n": 563
+  "n": 565
 }
