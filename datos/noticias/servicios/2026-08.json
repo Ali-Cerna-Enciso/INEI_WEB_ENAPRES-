@@ -1,6 +1,6 @@
 {
   "mes": "2026-08",
-  "actualizado": "2026-11-23 10:37",
+  "actualizado": "2026-11-23 19:07",
   "items": [
     {
       "id": "bb9b57aa4ebf0c95",
@@ -3875,6 +3875,28 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-11-23 10:37"
+    },
+    {
+      "id": "0bf0ff2419d5e732",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b04d52500a24249b6395e7d056081a2&url=https%3a%2f%2fwww.iagua.es%2fnoticias%2fredaccion%2fperu-impulsa-17-proyectos-de-agua-y-saneamiento-por-us-5-700-millones&c=1187784902998694764&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b04d52500a24249b6395e7d056081a2&url=https%3A%2F%2Fwww.iagua.es%2Fnoticias%2Fredaccion%2Fperu-impulsa-17-proyectos-de-agua-y-saneamiento-por-us-5-700-millones&c=1187784902998694764&mkt=es-us",
+      "titulo": "Perú impulsa 17 proyectos de agua y saneamiento por US$ 5.700 millones",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-31",
+      "fecha_hecho": null,
+      "snippet": "La Agencia de Promoción de la Inversión Privada (PROINVERSIÓN), entidad adscrita al Ministerio de Economía y Finanzas de Perú, promueve una cartera de 17 proyectos de agua y saneamiento con una ...",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:\"agua y saneamiento\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-23 19:07"
     },
     {
       "id": "8b29e2d63381b7f4",
@@ -10871,6 +10893,28 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-11-23 10:37"
+    },
+    {
+      "id": "2cff02b9c9b64ec5",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b04d52500a24249b6395e7d056081a2&url=https%3a%2f%2fgestion.pe%2fperu%2fsismos-en-peru-estan-preparadas-las-redes-de-agua-y-saneamiento-noticia%2f&c=16114097099455607576&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b04d52500a24249b6395e7d056081a2&url=https%3A%2F%2Fgestion.pe%2Fperu%2Fsismos-en-peru-estan-preparadas-las-redes-de-agua-y-saneamiento-noticia%2F&c=16114097099455607576&mkt=es-us",
+      "titulo": "Sismos en Perú: ¿están preparadas las redes de agua y saneamiento?",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-21",
+      "fecha_hecho": null,
+      "snippet": "Cuando ocurre un evento extremo, mantener operativo el servicio de agua potable y saneamiento depende de más factores que la disponibilidad del recurso. Las redes encargadas de transportarlo deben ...",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:\"agua y saneamiento\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-23 19:07"
     },
     {
       "id": "288c8e8ce8f1d39d",
@@ -21297,5 +21341,5 @@
       "descartar": false
     }
   ],
-  "n": 931
+  "n": 933
 }
