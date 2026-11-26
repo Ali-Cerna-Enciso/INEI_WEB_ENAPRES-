@@ -1,6 +1,6 @@
 {
   "mes": "2026-11",
-  "actualizado": "2026-11-26 16:44",
+  "actualizado": "2026-11-26 18:51",
   "items": [
     {
       "id": "910f1b61ab260a1c",
@@ -23,6 +23,32 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-26 16:43"
+    },
+    {
+      "id": "4bf394084d4c9ab8",
+      "url": "https://diariocorreo.pe/edicion/la-libertad/trujillo-detienen-a-alias-curro-por-asesinato-de-joven-en-urbanizacion-los-pinos-noticia/",
+      "url_canon": "https://diariocorreo.pe/edicion/la-libertad/trujillo-detienen-a-alias-curro-por-asesinato-de-joven-en-urbanizacion-los-pinos-noticia",
+      "titulo": "Trujillo: Detienen a alias “Curro” por asesinato de joven en urbanización Los Pinos",
+      "fuente": "DiarioCorreo",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "feeds",
+      "fecha_pub": "2026-11-26",
+      "fecha_hecho": null,
+      "snippet": "Agentes del Departamento de Investigación Criminal (Depincri) de La Libertad capturaron en el Callao a alias “Curro”, quien tenía una orden de detención preliminar por ser el presunto autor del asesinato de Amir Reza Bag",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo",
+        "Callao",
+        "La Libertad"
+      ],
+      "score": 3,
+      "query": "feed:DiarioCorreo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-26 18:51"
     },
     {
       "id": "9cff56450cc6dc9a",
@@ -69,6 +95,28 @@
       "agregado": "2026-11-26 16:44"
     },
     {
+      "id": "ff11ec94c0d59cce",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMzhhanI3UXg2T2Q4cTlYMWlVeWZQU2ZHb2dmWm9fSWpPbHhBcHIzZ0tfeEktbE94NTFfQnFsN0diNWpLbnU2cXpuMWF1T01JbHhrVWdNUE03Mi1VcFphVnRkQUZNTXNUQjBYcWRDUmJtQmI3NDcxMElLOTN6Z0s2OFNSWTZsbDA5azhBZlRFRHZaRGJBNGhlV3Q2anZNNW95ZWdlNUEtVXF4ZWRGTGpvY0MyOTJMVl9EVzliYUVKaXB2MmgtanJtdGh5OWZsSkVNZ0lTcWxjTndoVUhqTThOQ2ZqT1BWcDdUNUHSAe8BQVVfeXFMTlpob3FuR0V3OVlsRFJRS1pfTTNjRlZwcE5IOGlqS3Q2Q2xnTjFWaEI5ZU4tSGhldlRzY2ZjTHJzTTVISXlVeXBIeUtmOUNZdE9rNDFuTFZHeW05aFpHelFobWdPZnpUWHV2NHNQT3Bpejk3cVlVTkw5Zkx5YXlSUXBnMU9yeWRsN0tpTGVPZXV5Tm9kVnAxQndWOUc1Zm5ZQnFQTUZDcHFwVDU1N2V0OTZyM0VMdGwzeDNfTmNBdW1SQ0FsdmJLQkt2UE1DMnd4ZUJjcG82N0NGQkxYRTJUZnJ3S1FGeUpmS1ZQM193NDg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMzhhanI3UXg2T2Q4cTlYMWlVeWZQU2ZHb2dmWm9fSWpPbHhBcHIzZ0tfeEktbE94NTFfQnFsN0diNWpLbnU2cXpuMWF1T01JbHhrVWdNUE03Mi1VcFphVnRkQUZNTXNUQjBYcWRDUmJtQmI3NDcxMElLOTN6Z0s2OFNSWTZsbDA5azhBZlRFRHZaRGJBNGhlV3Q2anZNNW95ZWdlNUEtVXF4ZWRGTGpvY0MyOTJMVl9EVzliYUVKaXB2MmgtanJtdGh5OWZsSkVNZ0lTcWxjTndoVUhqTThOQ2ZqT1BWcDdUNUHSAe8BQVVfeXFMTlpob3FuR0V3OVlsRFJRS1pfTTNjRlZwcE5IOGlqS3Q2Q2xnTjFWaEI5ZU4tSGhldlRzY2ZjTHJzTTVISXlVeXBIeUtmOUNZdE9rNDFuTFZHeW05aFpHelFobWdPZnpUWHV2NHNQT3Bpejk3cVlVTkw5Zkx5YXlSUXBnMU9yeWRsN0tpTGVPZXV5Tm9kVnAxQndWOUc1Zm5ZQnFQTUZDcHFwVDU1N2V0OTZyM0VMdGwzeDNfTmNBdW1SQ0FsdmJLQkt2UE1DMnd4ZUJjcG82N0NGQkxYRTJUZnJ3S1FGeUpmS1ZQM193NDg",
+      "titulo": "Transportistas de Guatemala suspenden sus servicios indefinidamente por amenazas y extorsiones de pandillas - La República",
+      "fuente": "La República",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-26",
+      "fecha_hecho": null,
+      "snippet": "Transportistas de Guatemala suspenden sus servicios indefinidamente por amenazas y extorsiones de pandillas La República",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "\"amenazas de muerte\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-26 18:51"
+    },
+    {
       "id": "019a1e6d69b631cc",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPMU5BZ09tMjMtYk5nVDBlTnVHTlRWRzM5XzU2SVR6Uk14OU5ubTZnQnhvOGE1Zjd4ejhJTHUzcTFBUkdmTWpDTEx2QmxQS3UzV1pUV2NPMDE2ZjV1QUxOazJoX051NnFZZmJfcG5TU19mT0M2Vkl6Snp5NWRSdUt5bTJUSVByNGZsYWlRaElvbGhnUlFXaXJuVzI5aGZkZnRfc2FybDlUVjU2RzNzY2YweDBRdGVvTHNnbXZRNGlTSnVrUmRsZ3pJMWJxM09FNEdxaUVOX2c5bUJyMzRYWms3Q1JEWDd1N09vOVZfdHNoUi0tMFNJSndBbNIBkwJBVV95cUxNbkdiRnFZX2ZpVUxacWx3dGNoWk1KQkQ2SjhHTnYxay1PU0lUTElld2FiM1RRTmp5SXdVQVdvSVJySWtlQ19ZZmt6QjRMck1lMG5mTHlpenhxRkVtNXg3TGM0X3JqV21tdFdnZjFVaE5JMWlrZ0JhdE1BNE12SFRFSWFTVnBraDRiTkdXV284UGRkT3ZSMFlvMFc5dHJ4Y3ZVRmtVOWNhb2VQZGNnWldSVTBxb1lySk5nRWl2Ni13a0NNZVNTMnI2eUZJTmRocXZmMTl2ZG1reUJHekFPUk9nM3J1THZtLVRIUjltQ0Q5TXNvZGVBNnlia0d5TEg0TFdiallwcVJBLVhkX285ck1SanM5cw?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPMU5BZ09tMjMtYk5nVDBlTnVHTlRWRzM5XzU2SVR6Uk14OU5ubTZnQnhvOGE1Zjd4ejhJTHUzcTFBUkdmTWpDTEx2QmxQS3UzV1pUV2NPMDE2ZjV1QUxOazJoX051NnFZZmJfcG5TU19mT0M2Vkl6Snp5NWRSdUt5bTJUSVByNGZsYWlRaElvbGhnUlFXaXJuVzI5aGZkZnRfc2FybDlUVjU2RzNzY2YweDBRdGVvTHNnbXZRNGlTSnVrUmRsZ3pJMWJxM09FNEdxaUVOX2c5bUJyMzRYWms3Q1JEWDd1N09vOVZfdHNoUi0tMFNJSndBbNIBkwJBVV95cUxNbkdiRnFZX2ZpVUxacWx3dGNoWk1KQkQ2SjhHTnYxay1PU0lUTElld2FiM1RRTmp5SXdVQVdvSVJySWtlQ19ZZmt6QjRMck1lMG5mTHlpenhxRkVtNXg3TGM0X3JqV21tdFdnZjFVaE5JMWlrZ0JhdE1BNE12SFRFSWFTVnBraDRiTkdXV284UGRkT3ZSMFlvMFc5dHJ4Y3ZVRmtVOWNhb2VQZGNnWldSVTBxb1lySk5nRWl2Ni13a0NNZVNTMnI2eUZJTmRocXZmMTl2ZG1reUJHekFPUk9nM3J1THZtLVRIUjltQ0Q5TXNvZGVBNnlia0d5TEg0TFdiallwcVJBLVhkX285ck1SanM5cw",
@@ -111,6 +159,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-26 09:38"
+    },
+    {
+      "id": "eb3e8b5dc278e6a4",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTU92M3paVDRrd3luaGZuQl94eUpaWXJXRG9xZ1gwaW5DNDNiLUdVZHNKNGlWdDZGVFp0VzBZd2g1YkxUeDRQTkxoZmk3U1BwUVFydnlyaFJPdEZ6MERqUmxsMHNOWHVKdTJCVnoyWHlFcFkxLUtIYlpxNFdnV1ZkUTdWSHQtUHRIaHZ2Mk9EYVpUNDVZWkhGdFhJZnlQbVk2Z09hdlUtamY?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTU92M3paVDRrd3luaGZuQl94eUpaWXJXRG9xZ1gwaW5DNDNiLUdVZHNKNGlWdDZGVFp0VzBZd2g1YkxUeDRQTkxoZmk3U1BwUVFydnlyaFJPdEZ6MERqUmxsMHNOWHVKdTJCVnoyWHlFcFkxLUtIYlpxNFdnV1ZkUTdWSHQtUHRIaHZ2Mk9EYVpUNDVZWkhGdFhJZnlQbVk2Z09hdlUtamY",
+      "titulo": "Susy Díaz denuncia que extorsionadores le exigen S/ 500.000 - Gaceta Perú TV",
+      "fuente": "Gaceta Perú TV",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-26",
+      "fecha_hecho": null,
+      "snippet": "Susy Díaz denuncia que extorsionadores le exigen S/ 500.000 Gaceta Perú TV",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "extorsión Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-26 18:51"
     },
     {
       "id": "eff62b9e3bbd4349",
@@ -346,6 +416,30 @@
       "agregado": "2026-11-26 16:43"
     },
     {
+      "id": "858351125581c843",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWFZNNDJJMnFMWmxuSzAxR296NHJVNklVc0kyVlZDUGJsVy1hc0pxaUo4M1ZwVVAyRUFjckYxSXlyNWoxaG9aeTNsTVF3OEZfR0Q0bUR4aXVDYnIwWXAxdHlZT3V4QWRPRk9iWUJzYlIxbEJ0aWVTblVkYTllOE4wQ0h5bjFfaDlNcmFPMzZ2cEZKMFZ0SFZ0ZUJZckVXT0psbHZLZzNQUFRiUHp60gGyAUFVX3lxTE9IZDZMck5PZ1NISGhVRUFqRUFCbENzcTdHNGlkRVVqdFFsdm1feFAwUl9YZ1dEcVppRkx6WUhPWE5WX29VdWxoTjlTS19oajdZdl9WOHQ3a0k0X19FMzQ5MC1iN1FkMHhtWXdjQy1BQ1oySklObWJHaEhXVW1WWFloLUNsT3VjQ0hPZ0hKVUpLcjRBQzQ2NmQzVnFIc3hLSnhkeVc3N0J1LW5kWFViZW9od0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWFZNNDJJMnFMWmxuSzAxR296NHJVNklVc0kyVlZDUGJsVy1hc0pxaUo4M1ZwVVAyRUFjckYxSXlyNWoxaG9aeTNsTVF3OEZfR0Q0bUR4aXVDYnIwWXAxdHlZT3V4QWRPRk9iWUJzYlIxbEJ0aWVTblVkYTllOE4wQ0h5bjFfaDlNcmFPMzZ2cEZKMFZ0SFZ0ZUJZckVXT0psbHZLZzNQUFRiUHp60gGyAUFVX3lxTE9IZDZMck5PZ1NISGhVRUFqRUFCbENzcTdHNGlkRVVqdFFsdm1feFAwUl9YZ1dEcVppRkx6WUhPWE5WX29VdWxoTjlTS19oajdZdl9WOHQ3a0k0X19FMzQ5MC1iN1FkMHhtWXdjQy1BQ1oySklObWJHaEhXVW1WWFloLUNsT3VjQ0hPZ0hKVUpLcjRBQzQ2NmQzVnFIc3hLSnhkeVc3N0J1LW5kWFViZW9od0E",
+      "titulo": "Luis Pacherrez Atarama muere tras secuestro en Piura - América TV",
+      "fuente": "América TV",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-26",
+      "fecha_hecho": null,
+      "snippet": "Luis Pacherrez Atarama muere tras secuestro en Piura América TV",
+      "temas": [
+        "Secuestro"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Piura"
+      ],
+      "score": 3,
+      "query": "secuestro Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-26 18:51"
+    },
+    {
       "id": "f273836f48ef0976",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWUIyZnptV2NDa091cHRSd0xLb1pTekQ2WS02dG5tNE1wQUo5WjlYdVF2dGRnNDlQVnJnSGlTdUJKc1BpZHBaZVhzVk1RRGVXcjF2WXdES2l5eE0xSW13TkpVa0RXTExLNVJXaXFwcWk5QUZ3aHhDUG81cEYtSGNfSHZwSllMXzc4MVd5T0lQR2diel85ZEJzZjJaX25zSkpES1M2S2VmWGtPc0l6U2ZlT0kzM0x4N09FR0VJSFU3ejZidmPSAdcBQVVfeXFMTkhjVF9yMGlvR0xFNDhnTy05WXJIYVBvQ1h5emhNTzhEMUstQUVwVWxORzJaVEpxUndnam1zbFVlVXZORlJFQ1pXeV9pYlVuNm91MTVVZVNvcjZxTXdXOUFoWUxoY1MzbWg3ck5yOXBRbGRQTHBXa0xMZEpmYmhLazJUMVkxQWd5YTdZRXBmdWhUamdmNWt0Vmo5TDVQaGxibUJuWVJIWmlzaUt3bEdGX0JrVzh0MGNrQzdSdEJYSDR2WlFwN2loQ1pnSVNWS0V1THVVY1BvYWM?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWUIyZnptV2NDa091cHRSd0xLb1pTekQ2WS02dG5tNE1wQUo5WjlYdVF2dGRnNDlQVnJnSGlTdUJKc1BpZHBaZVhzVk1RRGVXcjF2WXdES2l5eE0xSW13TkpVa0RXTExLNVJXaXFwcWk5QUZ3aHhDUG81cEYtSGNfSHZwSllMXzc4MVd5T0lQR2diel85ZEJzZjJaX25zSkpES1M2S2VmWGtPc0l6U2ZlT0kzM0x4N09FR0VJSFU3ejZidmPSAdcBQVVfeXFMTkhjVF9yMGlvR0xFNDhnTy05WXJIYVBvQ1h5emhNTzhEMUstQUVwVWxORzJaVEpxUndnam1zbFVlVXZORlJFQ1pXeV9pYlVuNm91MTVVZVNvcjZxTXdXOUFoWUxoY1MzbWg3ck5yOXBRbGRQTHBXa0xMZEpmYmhLazJUMVkxQWd5YTdZRXBmdWhUamdmNWt0Vmo5TDVQaGxibUJuWVJIWmlzaUt3bEdGX0JrVzh0MGNrQzdSdEJYSDR2WlFwN2loQ1pnSVNWS0V1THVVY1BvYWM",
@@ -537,6 +631,28 @@
       "agregado": "2026-11-26 09:39"
     },
     {
+      "id": "6b9914a50206587d",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQWpRZUl2akFVUDB6dmkwMUhGWWRuS19EUDBnUzgtSVBGaTc4VGR0d3hXX0FMbTBBdS00blphWTdGY0VNM2REX1F1RVdGS2JncTB6TVZQbmUxR2hzYWNIZVY3aEppMlBOYmJua19RUGQzTFJaTERZT24ydUNrTFFjMkFZZWRobTFESnBmN1hUM0NaWlh0OXU4aUliUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQWpRZUl2akFVUDB6dmkwMUhGWWRuS19EUDBnUzgtSVBGaTc4VGR0d3hXX0FMbTBBdS00blphWTdGY0VNM2REX1F1RVdGS2JncTB6TVZQbmUxR2hzYWNIZVY3aEppMlBOYmJua19RUGQzTFJaTERZT24ydUNrTFFjMkFZZWRobTFESnBmN1hUM0NaWlh0OXU4aUliUQ",
+      "titulo": "Fracasa el Comando Unificado: subimos a 7 asesinatos al día por incapacidad de Keiko - Crónica Viva",
+      "fuente": "Crónica Viva",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-26",
+      "fecha_hecho": null,
+      "snippet": "Fracasa el Comando Unificado: subimos a 7 asesinatos al día por incapacidad de Keiko Crónica Viva",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-26 18:51"
+    },
+    {
       "id": "4278ba7a32e708c6",
       "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQbE40VUFSSzZDUmJmM3A2VTdMakkxT0xXbGlHaWNWenJnOGZQQWZodTlzV1ktOFYzbjRUNkk1MWhfWVJ0a0tWeHIweXhlZW5xSlE1TFJnQ2Mwd2d4cEI4a1N6eTU4cnA1aGVGdk1LTUVrRUlsSFlQcjZaWmRMVXBCdXJleTdKTVQ4ZHhSeHBRekN4c051XzZMVlRJUFRCUnNHZHZGRFBScTNJSjNNaDR2MGVpTV9ubmRORzd4RTlGYkQwMWJyd2J4YTgxMTQ1OUtIeEQ0bjIxY2I2X3J5NjZnMHZBanU1VmhvZTJCT3l3NzE0SVdMVERDSmFYbE9IZjhPNFNRR2NBQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQbE40VUFSSzZDUmJmM3A2VTdMakkxT0xXbGlHaWNWenJnOGZQQWZodTlzV1ktOFYzbjRUNkk1MWhfWVJ0a0tWeHIweXhlZW5xSlE1TFJnQ2Mwd2d4cEI4a1N6eTU4cnA1aGVGdk1LTUVrRUlsSFlQcjZaWmRMVXBCdXJleTdKTVQ4ZHhSeHBRekN4c051XzZMVlRJUFRCUnNHZHZGRFBScTNJSjNNaDR2MGVpTV9ubmRORzd4RTlGYkQwMWJyd2J4YTgxMTQ1OUtIeEQ0bjIxY2I2X3J5NjZnMHZBanU1VmhvZTJCT3l3NzE0SVdMVERDSmFYbE9IZjhPNFNRR2NBQQ",
@@ -633,6 +749,28 @@
       "agregado": "2026-11-26 09:39"
     },
     {
+      "id": "740475e5f0523810",
+      "url": "https://gestion.pe/mundo/internacional/fifa-confirma-ciberataque-y-condena-acceso-ilegal-a-informacion-personal-y-empresarial-noticia/",
+      "url_canon": "https://gestion.pe/mundo/internacional/fifa-confirma-ciberataque-y-condena-acceso-ilegal-a-informacion-personal-y-empresarial-noticia",
+      "titulo": "FIFA confirma ciberataque y condena acceso ilegal a información personal y empresarial",
+      "fuente": "Gestion",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "feeds",
+      "fecha_pub": "2026-11-26",
+      "fecha_hecho": null,
+      "snippet": "La FIFA confirmó este jueves que fue víctima de un ciberataque delictivo que permitió el acceso no autorizado a un conjunto limitado de información personal y empresarial. Frente a lo ocurrido, el organismo expresó su re",
+      "temas": [
+        "Delito informático"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "feed:Gestion",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-26 18:51"
+    },
+    {
       "id": "485ec206efee4069",
       "url": "https://diariocorreo.pe/deportes/fifa-confirma-ciberataque-que-permitio-el-acceso-a-datos-personales-y-empresariales-noticia/",
       "url_canon": "https://diariocorreo.pe/deportes/fifa-confirma-ciberataque-que-permitio-el-acceso-a-datos-personales-y-empresariales-noticia",
@@ -719,6 +857,31 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-26 16:43"
+    },
+    {
+      "id": "98dfc2fb856120e8",
+      "url": "https://diariocorreo.pe/edicion/la-libertad/detenidos-por-extorsion-fueron-enviados-al-penal-de-trujillo-noticia/",
+      "url_canon": "https://diariocorreo.pe/edicion/la-libertad/detenidos-por-extorsion-fueron-enviados-al-penal-de-trujillo-noticia",
+      "titulo": "Detenidos por extorsión fueron enviados al penal de Trujillo",
+      "fuente": "DiarioCorreo",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "feeds",
+      "fecha_pub": "2026-11-26",
+      "fecha_hecho": null,
+      "snippet": "El Poder Judicial de La Libertad envió a prisión a tres presuntos extorsionadores que perpetraron sus ilícitos en Paiján (Ascope), Chepén y Trujillo. Ellos cayeron en pleno cobro de cupos.",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo",
+        "La Libertad"
+      ],
+      "score": 2,
+      "query": "feed:DiarioCorreo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-26 18:51"
     },
     {
       "id": "5a3b450318bc19a4",
@@ -837,6 +1000,30 @@
       "agregado": "2026-11-26 16:44"
     },
     {
+      "id": "bd88a524243e80ef",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08c5f39c3a4a89be5cbb1c53defaac&url=https%3a%2f%2fwww.infobae.com%2fvideo%2factualidad%2fcallao-capturan-a-presunto-autor-del-asesinato-con-arma-blanca-de-un-hombre-en-un-parque%2fwd3j2c9l%2f&c=12812216779378627168&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08c5f39c3a4a89be5cbb1c53defaac&url=https%3A%2F%2Fwww.infobae.com%2Fvideo%2Factualidad%2Fcallao-capturan-a-presunto-autor-del-asesinato-con-arma-blanca-de-un-hombre-en-un-parque%2Fwd3j2c9l%2F&c=12812216779378627168&mkt=es-us",
+      "titulo": "Callao: capturan a presunto autor del asesinato con arma blanca de un hombre en un parque",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-26",
+      "fecha_hecho": null,
+      "snippet": "Reporte informativo de 24 Horas sobre la captura de un sujeto investigado por el asesinato con arma blanca de un hombre en el cruce de las avenidas Alameda y Santa Rosa, en el Callao. Según informaron ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Callao"
+      ],
+      "score": 3,
+      "query": "bing:asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-26 18:51"
+    },
+    {
       "id": "9548de05157ac42b",
       "url": "https://gestion.pe/mix/california-cayo-en-una-estafa-por-supuesto-hackeo-de-us22550-pero-recupero-su-dinero-nnda-nnrt-noticia/",
       "url_canon": "https://gestion.pe/mix/california-cayo-en-una-estafa-por-supuesto-hackeo-de-us22550-pero-recupero-su-dinero-nnda-nnrt-noticia",
@@ -902,6 +1089,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-26 16:43"
+    },
+    {
+      "id": "d2d28593566ab6e9",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPU0ZuRGh3R0JZN3J2N1FZQ3djOGhtSDcxeXROWmdldURRTnhFNVNOdDFxTlRyR0dJZFRLUXVnSldkWDBqd3FXTEI3QTdldmNuUnRJTExDT1FpQ25GWGlNRzBXX2hlR0RJdWpoQy15SENEQ2tubUQtZVczT2lrTXFUTG1VcEVkZTZLTVBRVXlrM1hEQjh1VWY3cTMzYmVQWnB2aER6Q2tmajB4dU1hYjZNN1kxVG9SUGk0NjJxUUtB?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPU0ZuRGh3R0JZN3J2N1FZQ3djOGhtSDcxeXROWmdldURRTnhFNVNOdDFxTlRyR0dJZFRLUXVnSldkWDBqd3FXTEI3QTdldmNuUnRJTExDT1FpQ25GWGlNRzBXX2hlR0RJdWpoQy15SENEQ2tubUQtZVczT2lrTXFUTG1VcEVkZTZLTVBRVXlrM1hEQjh1VWY3cTMzYmVQWnB2aER6Q2tmajB4dU1hYjZNN1kxVG9SUGk0NjJxUUtB",
+      "titulo": "Autor de asesinato con arma blanca en Callao habría atentado anteriormente contra un anciano - Uruguay Al Día",
+      "fuente": "Uruguay Al Día",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-26",
+      "fecha_hecho": null,
+      "snippet": "Autor de asesinato con arma blanca en Callao habría atentado anteriormente contra un anciano Uruguay Al Día",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Callao"
+      ],
+      "score": 3,
+      "query": "homicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-26 18:51"
     },
     {
       "id": "339f46f04cf7e3b8",
@@ -1697,6 +1908,30 @@
       "agregado": "2026-11-26 16:44"
     },
     {
+      "id": "c00a0bba663a76d1",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08c5e775e9450fa56bfd7026dff8a7&url=https%3a%2f%2fdiariolalibertad.com%2f2026%2f11%2f25%2ftrabajadoras-sexuales-protestan-en-peru-y-denuncian-que-cierres-de-locales-las-dejan-expuestas-a-extorsiones%2f&c=2668160562749322102&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08c5e775e9450fa56bfd7026dff8a7&url=https%3A%2F%2Fdiariolalibertad.com%2F2026%2F11%2F25%2Ftrabajadoras-sexuales-protestan-en-peru-y-denuncian-que-cierres-de-locales-las-dejan-expuestas-a-extorsiones%2F&c=2668160562749322102&mkt=es-us",
+      "titulo": "Trabajadoras sexuales protestan en Perú y denuncian que cierres de locales las dejan expuestas a extorsiones",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-25",
+      "fecha_hecho": null,
+      "snippet": "Decenas de trabajadoras sexuales se concentraron este miércoles frente al Congreso de Perú, en Lima, para reclamar garantías para ejercer su actividad y ...",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:extorsión Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-26 18:51"
+    },
+    {
       "id": "3ce02c7ed10abd6a",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOd0RyQ1JsSGdzVEZqS0RKTVBDa2dPU0w2V1BuVkw3eXBWa3R3ZTJMS3ZXTTA1b0V2XzNPajNvcFd1VWFmUUpLT2FGUl9WbF9HZHp5dWxlQnE2ZHo0bFh5M1psaHN4NC1BS21BQmE3VEJwTm50Rlpvc2JGejREQzZZU25EazhteFkyZGpqVDRKS1QzTDNld3BKUjJCOC1VTWJWbjI3R2dMZThsYVc1R0M1WmxvbE85Q1lmSlNKR2E3ZWY0bGZhWEE?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOd0RyQ1JsSGdzVEZqS0RKTVBDa2dPU0w2V1BuVkw3eXBWa3R3ZTJMS3ZXTTA1b0V2XzNPajNvcFd1VWFmUUpLT2FGUl9WbF9HZHp5dWxlQnE2ZHo0bFh5M1psaHN4NC1BS21BQmE3VEJwTm50Rlpvc2JGejREQzZZU25EazhteFkyZGpqVDRKS1QzTDNld3BKUjJCOC1VTWJWbjI3R2dMZThsYVc1R0M1WmxvbE85Q1lmSlNKR2E3ZWY0bGZhWEE",
@@ -1829,6 +2064,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-26 16:44"
+    },
+    {
+      "id": "88c509209fa9d32e",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08c5e775e9450fa56bfd7026dff8a7&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f11%2f26%2fsusy-diaz-sospecha-de-expareja-de-florcita-tras-extorsiones-cada-vez-que-se-pelea-con-esta-persona-empiezan-a-extorsionarnos%2f&c=8714163672256828351&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08c5e775e9450fa56bfd7026dff8a7&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F11%2F26%2Fsusy-diaz-sospecha-de-expareja-de-florcita-tras-extorsiones-cada-vez-que-se-pelea-con-esta-persona-empiezan-a-extorsionarnos%2F&c=8714163672256828351&mkt=es-us",
+      "titulo": "Susy Díaz sospecha de expareja de Florcita tras extorsiones: “Cada vez que se pelea con esta persona empiezan a extorsionarnos”",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-25",
+      "fecha_hecho": null,
+      "snippet": "La exvedette contó que las amenazas comenzaron cuando Florcita se enfrentó a su expareja y que, meses después, volvieron a contactarla. La artista asegura que conserva los registros de las llamadas pa ...",
+      "temas": [
+        "Extorsión"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:extorsión Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-26 18:51"
     },
     {
       "id": "dd0b1a86e3922372",
@@ -2267,6 +2524,30 @@
       "agregado": "2026-11-25 22:43"
     },
     {
+      "id": "a9fb9cb6f3fa0dbe",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTVdnT0lEdzItWE1HaUExd0RLZWtiSUVWMG94dXBFdzZURS1rOHRwaU9tUzFlOFNZczhTa051eEU2X3o2V0xQb1FxWnR6Uk5LekJIaXRfdjd3b2d5NkdITXdndENRREozWHkzWmlOOTI5UXNhUnZDd0N0WXVIdlFTenpjUmN0cGVfT01vUEZZZ2pkdFBpZ0RnTjE0eDhMdFBtbzBxY0dxMmRNeU9VN1dkOWJFTG9UYTlKQTRr0gG7AUFVX3lxTFBNV2dPSUR3Mi1YTUdpQTF3REtla2JJRVYwb3h1cEV3NlRFLWs4dHBpT21TMWU4U1lzOFNrTnV4RTZfejZXTFBvUXFadHpSTkt6QkhpdF92N3dvZ3k2R0hNd2d0Q1FESjNYeTNaaU45MjlRc2FSdkN3Q3RZdUh2UVN6emNSY3RwZV9PTW9QRllnamR0UGlnRGdOMTR4OEx0UG1vMHFjR3EyZE15T1U3V2Q5YkVMb1RhOUpBNGs?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTVdnT0lEdzItWE1HaUExd0RLZWtiSUVWMG94dXBFdzZURS1rOHRwaU9tUzFlOFNZczhTa051eEU2X3o2V0xQb1FxWnR6Uk5LekJIaXRfdjd3b2d5NkdITXdndENRREozWHkzWmlOOTI5UXNhUnZDd0N0WXVIdlFTenpjUmN0cGVfT01vUEZZZ2pkdFBpZ0RnTjE0eDhMdFBtbzBxY0dxMmRNeU9VN1dkOWJFTG9UYTlKQTRr0gG7AUFVX3lxTFBNV2dPSUR3Mi1YTUdpQTF3REtla2JJRVYwb3h1cEV3NlRFLWs4dHBpT21TMWU4U1lzOFNrTnV4RTZfejZXTFBvUXFadHpSTkt6QkhpdF92N3dvZ3k2R0hNd2d0Q1FESjNYeTNaaU45MjlRc2FSdkN3Q3RZdUh2UVN6emNSY3RwZV9PTW9QRllnamR0UGlnRGdOMTR4OEx0UG1vMHFjR3EyZE15T1U3V2Q5YkVMb1RhOUpBNGs",
+      "titulo": "Perú registra 1.471 feminicidios en la última década con una mayor incidencia en Lima - Noticias SIN",
+      "fuente": "Noticias SIN",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-25",
+      "fecha_hecho": null,
+      "snippet": "Perú registra 1.471 feminicidios en la última década con una mayor incidencia en Lima Noticias SIN",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "feminicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-26 18:51"
+    },
+    {
       "id": "09fa845e7cfc6b10",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUTgybkt5dDJXdlItXzRaaWpTSkNNVWtxMTF0U2hPZ1NRU1F6LW1JUDByNXFrLV95VEVqX00zQlVvUUd0a01kS0JVZXB3d1pMQUdtQy02RVo5Zl9Cb29PcUdGalBIcTQ5eEtIeWNlU1dqQVpZU3UyTjA2QmJOYlVEd0MwdHJQS0w3NmFjaGtwUVFWMUt6S3JZWk1OZGVoM0JDTlNtUTVVVjhEd0gxOG5IWGRtWWtGNlY2SnJ4cTFmNVhwdlk5NUlnUVNVdnR2YjRXa2Jr0gHuAUFVX3lxTE04dHZkbU5lRC1UeVpQRWZwS295NkVWR2swZUtMZThQV1R3djRKWFRZQmhOeXhIZ1Q2SlBkeU0tRGd4T2FEcTVna05wc3pWVGpEZXh0N2VjLXdoaFllc0d4SFlpNjlKdHA3cWJrMmN6YVJ2eVBGalMtMkI1dDZMeXctazNfeTJuLXpXbG4yTTFZZWE2aFh2cmxRVi05SU1Ca3N1S01pWldlTzlKdlhvYmJTbGYxQUxydkk1SHh3ekFoaWpCWTMzZkNOYV9DVTY2UTFBMEV2VzJsTWpxWm1ISXl0LUNFVUFpbFh1bC1zLUE?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUTgybkt5dDJXdlItXzRaaWpTSkNNVWtxMTF0U2hPZ1NRU1F6LW1JUDByNXFrLV95VEVqX00zQlVvUUd0a01kS0JVZXB3d1pMQUdtQy02RVo5Zl9Cb29PcUdGalBIcTQ5eEtIeWNlU1dqQVpZU3UyTjA2QmJOYlVEd0MwdHJQS0w3NmFjaGtwUVFWMUt6S3JZWk1OZGVoM0JDTlNtUTVVVjhEd0gxOG5IWGRtWWtGNlY2SnJ4cTFmNVhwdlk5NUlnUVNVdnR2YjRXa2Jr0gHuAUFVX3lxTE04dHZkbU5lRC1UeVpQRWZwS295NkVWR2swZUtMZThQV1R3djRKWFRZQmhOeXhIZ1Q2SlBkeU0tRGd4T2FEcTVna05wc3pWVGpEZXh0N2VjLXdoaFllc0d4SFlpNjlKdHA3cWJrMmN6YVJ2eVBGalMtMkI1dDZMeXctazNfeTJuLXpXbG4yTTFZZWE2aFh2cmxRVi05SU1Ca3N1S01pWldlTzlKdlhvYmJTbGYxQUxydkk1SHh3ekFoaWpCWTMzZkNOYV9DVTY2UTFBMEV2VzJsTWpxWm1ISXl0LUNFVUFpbFh1bC1zLUE",
@@ -2409,6 +2690,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-26 16:44"
+    },
+    {
+      "id": "da4095883e61e323",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08c5f6cc404eb2b69f01bfe6cfb2c4&url=https%3a%2f%2fnoticiassin.com%2fmundo%2f2026%2f11%2f25%2fperu-suma-1-471-feminicidios-en-una-decada-con-lima-a-la-cabeza-2176919%2f&c=1410031009349803512&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08c5f6cc404eb2b69f01bfe6cfb2c4&url=https%3A%2F%2Fnoticiassin.com%2Fmundo%2F2026%2F11%2F25%2Fperu-suma-1-471-feminicidios-en-una-decada-con-lima-a-la-cabeza-2176919%2F&c=1410031009349803512&mkt=es-us",
+      "titulo": "Perú registra 1.471 feminicidios en la última década con una mayor incidencia en Lima",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-25",
+      "fecha_hecho": null,
+      "snippet": "Perú suma 1.471 feminicidios entre 2015 y 2025; Lima concentra 350 casos y en 2025 hubo 126 víctimas, según el INEI.",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:feminicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-26 18:51"
     },
     {
       "id": "8fbeb1b860f47a7f",
@@ -2645,6 +2950,31 @@
       "agregado": "2026-11-26 16:44"
     },
     {
+      "id": "b6f91e0ae20c829a",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08c5f6cc404eb2b69f01bfe6cfb2c4&url=https%3a%2f%2fwww.americatv.com.pe%2fnoticias%2factualidad%2fmujer-que-sobrevivio-intento-feminicidio-teme-su-vida-n524810&c=9611452750942110346&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08c5f6cc404eb2b69f01bfe6cfb2c4&url=https%3A%2F%2Fwww.americatv.com.pe%2Fnoticias%2Factualidad%2Fmujer-que-sobrevivio-intento-feminicidio-teme-su-vida-n524810&c=9611452750942110346&mkt=es-us",
+      "titulo": "Mujer que sobrevivió a intento de feminicidio teme por su vida",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-25",
+      "fecha_hecho": null,
+      "snippet": "Doris, una sobreviviente de intento de feminicidio que perdió un ojo y parte del cráneo tras dos disparos en marzo de este año en Bellavista, San Martín, teme por su vida si Luis Armando Novoa Sagama ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "San Martín",
+        "San Martin"
+      ],
+      "score": 2,
+      "query": "bing:feminicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-26 18:51"
+    },
+    {
       "id": "925f38561011f575",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRDQwYzBIUzdtc0huRE1DNUhoMWFzM3pqcE9MU2Zvd0xsRlpJQVFINWVRNllWaUpGeDU1NkRRUEdyY1BHT25XbkhqVHlVcmp0UEozWTNhZkpEblR4V0FzYkpEeGNWc29WTWp6SUFfV014STcwTUZUWUU1eFZidFdoSlJFUFVWUjFLWDVpSW1vR3hNWlFfa2pBa2o4OWJmNnd1UEpNTk5Ja052N0JJVTFjQlN0ZndlWS1ydlYtcTFXZGRySHBDLWE3QXNpZUgtWnNGTW0telJjdC1ITG9pNC02X3NWT1pROURtZEJuUHd5VVBKRXZoQlN0T0hfMlo?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRDQwYzBIUzdtc0huRE1DNUhoMWFzM3pqcE9MU2Zvd0xsRlpJQVFINWVRNllWaUpGeDU1NkRRUEdyY1BHT25XbkhqVHlVcmp0UEozWTNhZkpEblR4V0FzYkpEeGNWc29WTWp6SUFfV014STcwTUZUWUU1eFZidFdoSlJFUFVWUjFLWDVpSW1vR3hNWlFfa2pBa2o4OWJmNnd1UEpNTk5Ja052N0JJVTFjQlN0ZndlWS1ydlYtcTFXZGRySHBDLWE3QXNpZUgtWnNGTW0telJjdC1ITG9pNC02X3NWT1pROURtZEJuUHd5VVBKRXZoQlN0T0hfMlo",
@@ -2873,6 +3203,28 @@
       "agregado": "2026-11-25 16:51"
     },
     {
+      "id": "3fb8057ae1befd40",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT1p0ZWhmT21CanpSM1lETkVzMlZWQW9nSFlCbG5xUlhVMUZvVld5QVJzWVNEcXVHSHFPNDVhNEJYd1gtaG1QRjdDanJhTzZYbkZsMllEZk1OeVQ0cGFSbjBfWV9lU0Jrc2RxbEZEdlVYbWdWUVZ6RTdxeWpGOEZZRTR1Skx5cjlhOEh6b2NoUVFLaHRsUHkzMzZLX1p0WjFzX1JXMC1TUUtZTDdIdzdNRm1Ic251ODRyZEduRmNhRVY?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT1p0ZWhmT21CanpSM1lETkVzMlZWQW9nSFlCbG5xUlhVMUZvVld5QVJzWVNEcXVHSHFPNDVhNEJYd1gtaG1QRjdDanJhTzZYbkZsMllEZk1OeVQ0cGFSbjBfWV9lU0Jrc2RxbEZEdlVYbWdWUVZ6RTdxeWpGOEZZRTR1Skx5cjlhOEh6b2NoUVFLaHRsUHkzMzZLX1p0WjFzX1JXMC1TUUtZTDdIdzdNRm1Ic251ODRyZEduRmNhRVY",
+      "titulo": "Huawei es declarada culpable en EE.UU. por fraude bancario y robo de secretos industriales - altavoz.pe",
+      "fuente": "altavoz.pe",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-25",
+      "fecha_hecho": null,
+      "snippet": "Huawei es declarada culpable en EE.UU. por fraude bancario y robo de secretos industriales altavoz.pe",
+      "temas": [
+        "Fraude bancario"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "\"fraude bancario\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-26 18:51"
+    },
+    {
       "id": "4e0d5f8112c651d2",
       "url": "https://diariocorreo.pe/edicion/huancayo/huancayo-taxista-por-aplicativo-es-detenido-tras-denuncia-de-robo-de-celular-a-pasajero-noticia/",
       "url_canon": "https://diariocorreo.pe/edicion/huancayo/huancayo-taxista-por-aplicativo-es-detenido-tras-denuncia-de-robo-de-celular-a-pasajero-noticia",
@@ -3019,6 +3371,30 @@
       "agregado": "2026-11-26 16:44"
     },
     {
+      "id": "fe9af0da1e7f8971",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08c5f39c3a4a89be5cbb1c53defaac&url=https%3a%2f%2fwww.infobae.com%2fvideo%2factualidad%2fhombre-es-asesinado-a-balazos-tras-dejar-a-su-hija-en-el-colegio-en-callao%2fRcxCZJYe%2f&c=15712780028110351774&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08c5f39c3a4a89be5cbb1c53defaac&url=https%3A%2F%2Fwww.infobae.com%2Fvideo%2Factualidad%2Fhombre-es-asesinado-a-balazos-tras-dejar-a-su-hija-en-el-colegio-en-callao%2FRcxCZJYe%2F&c=15712780028110351774&mkt=es-us",
+      "titulo": "Hombre es Asesinado a Balazos Tras Dejar a su Hija en el Colegio en Callao",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-25",
+      "fecha_hecho": null,
+      "snippet": "Un hombre fue asesinado a balazos en Callao, Perú, luego de dejar a su hija en el colegio. El violento suceso ocurrió en la vía pública, generando conmoción en la zona. Las autoridades investigan los ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Callao"
+      ],
+      "score": 3,
+      "query": "bing:asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-26 18:51"
+    },
+    {
       "id": "fcd5523c964b6ecb",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ2hrZks1VE1VejZ1WGhiMnF2NUxtcVp6Smx3TWhXaFJaZjU4RElpMHptbGRuX0lGQnFabFoyVk5hSmdidzkwUk1tV0JITUM3d3habXhWbU45OThDb05OaUg2UGl1NWdhOURrckx5S040OGtoS1dOeTRnLXk3Vm1WZURtTGJRY1VBQjNCODRxb0VBT1ZhQjZ5aDdYYlg3RXNf?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ2hrZks1VE1VejZ1WGhiMnF2NUxtcVp6Smx3TWhXaFJaZjU4RElpMHptbGRuX0lGQnFabFoyVk5hSmdidzkwUk1tV0JITUM3d3habXhWbU45OThDb05OaUg2UGl1NWdhOURrckx5S040OGtoS1dOeTRnLXk3Vm1WZURtTGJRY1VBQjNCODRxb0VBT1ZhQjZ5aDdYYlg3RXNf",
@@ -3039,6 +3415,31 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-25 10:09"
+    },
+    {
+      "id": "71ec768269707d51",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdHhLSThRYXFmYTVlclFMempOOUFUTTZmTXNyQzdydHdSdXFqNzJlQlpMT25lSU5IUTBFWlI5Rll6ZmxMbV9tcGpSS0l6QW5wVDdnX1hWTVp4S2JaLUxEWVpidkZaZ051RXRNU2VCTXAxQzNiU2Z0X2hxUnJqR0l2MnBtRGZQaWFlTkJkdUVqM3VtR3dpbDVETmcxanVjc1BXYUlCdkxpSldiaVdMcFJnREZHU1RMZWdDaEtWNWxsaE8?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdHhLSThRYXFmYTVlclFMempOOUFUTTZmTXNyQzdydHdSdXFqNzJlQlpMT25lSU5IUTBFWlI5Rll6ZmxMbV9tcGpSS0l6QW5wVDdnX1hWTVp4S2JaLUxEWVpidkZaZ051RXRNU2VCTXAxQzNiU2Z0X2hxUnJqR0l2MnBtRGZQaWFlTkJkdUVqM3VtR3dpbDVETmcxanVjc1BXYUlCdkxpSldiaVdMcFJnREZHU1RMZWdDaEtWNWxsaE8",
+      "titulo": "Giro sorpresivo en caso de secuestro en Piura: Sobrina habría asesinado a su familiar - www.apnoticias.pe",
+      "fuente": "www.apnoticias.pe",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-25",
+      "fecha_hecho": null,
+      "snippet": "Giro sorpresivo en caso de secuestro en Piura: Sobrina habría asesinado a su familiar www.apnoticias.pe",
+      "temas": [
+        "Secuestro",
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Piura"
+      ],
+      "score": 5,
+      "query": "secuestro Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-26 18:51"
     },
     {
       "id": "0d80f57721d15247",
@@ -3676,6 +4077,30 @@
       "agregado": "2026-11-25 18:39"
     },
     {
+      "id": "bc9f1b6782162694",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUmZLRWdWendsbHpHUWVOcmI5S3RDSWE1enZpQVNGSGVTX25ia3NTNVYyN0ZEdFZDZHNWcElPT2RRXzRkOUZSQXIyZEk4alc1VG1FMEtyWWVyd2R4c3c1bE5fUTAxSkFTNHBYcTBzNlRVeTJVNVR3V1M5NHBTY2ZLR3diQ1FWeXFpSjJNX2dWeWwtMnd3c2J6THVrbUo2aFdKaHJtYzhiREp4MUYyYXRfS192a0R2LXFtVGthYVAtYWpxOTR6WWVmSVdDVElHM0hPanBwVUxxbE9JQUk?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUmZLRWdWendsbHpHUWVOcmI5S3RDSWE1enZpQVNGSGVTX25ia3NTNVYyN0ZEdFZDZHNWcElPT2RRXzRkOUZSQXIyZEk4alc1VG1FMEtyWWVyd2R4c3c1bE5fUTAxSkFTNHBYcTBzNlRVeTJVNVR3V1M5NHBTY2ZLR3diQ1FWeXFpSjJNX2dWeWwtMnd3c2J6THVrbUo2aFdKaHJtYzhiREp4MUYyYXRfS192a0R2LXFtVGthYVAtYWpxOTR6WWVmSVdDVElHM0hPanBwVUxxbE9JQUk",
+      "titulo": "Dos muertos en ataque armado en Chorrillos: comerciantes corrieron aterrados tras escuchar los disparos - Infobae",
+      "fuente": "Infobae",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-25",
+      "fecha_hecho": null,
+      "snippet": "Dos muertos en ataque armado en Chorrillos: comerciantes corrieron aterrados tras escuchar los disparos Infobae",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Chorrillos"
+      ],
+      "score": 2,
+      "query": "sicariato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-26 18:51"
+    },
+    {
       "id": "3c353fd8f63c4c28",
       "url": "https://diariocorreo.pe/edicion/lima/dos-hombres-fueron-asesinados-durante-ataque-armado-en-exteriores-de-un-mercado-en-chorrillos-noticia/",
       "url_canon": "https://diariocorreo.pe/edicion/lima/dos-hombres-fueron-asesinados-durante-ataque-armado-en-exteriores-de-un-mercado-en-chorrillos-noticia",
@@ -3855,6 +4280,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-26 16:44"
+    },
+    {
+      "id": "9035cbd282e73c72",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08c5f6cc404eb2b69f01bfe6cfb2c4&url=https%3a%2f%2flarepublica.pe%2fsociedad%2f2026%2f11%2f25%2fdos-de-cada-tres-victimas-de-feminicidio-en-peru-fueron-asesinadas-por-su-pareja-o-expareja-617900&c=398117894773884296&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08c5f6cc404eb2b69f01bfe6cfb2c4&url=https%3A%2F%2Flarepublica.pe%2Fsociedad%2F2026%2F11%2F25%2Fdos-de-cada-tres-victimas-de-feminicidio-en-peru-fueron-asesinadas-por-su-pareja-o-expareja-617900&c=398117894773884296&mkt=es-us",
+      "titulo": "Dos de cada tres víctimas de feminicidio en Perú fueron asesinadas por su pareja o expareja",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-25",
+      "fecha_hecho": null,
+      "snippet": "El INEI reportó 126 feminicidios durante 2025. En 84 casos, el presunto victimario era un hombre que mantenía o había mantenido una relación sentimental con la víctima.",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:feminicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-26 18:51"
     },
     {
       "id": "2271d5b46c565ba7",
@@ -4038,6 +4485,51 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-26 16:44"
+    },
+    {
+      "id": "df96faad598e4c4b",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08c5f8140c44afb57292a43d86a34f&url=https%3a%2f%2flarepublica.pe%2fsociedad%2f2026%2f11%2f25%2fde-sjl-a-miami-peruana-es-procesada-por-millonaria-estafa-y-extorsion-a-30000-inmigrantes-en-ee-uu-2353475&c=4368626997250547005&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08c5f8140c44afb57292a43d86a34f&url=https%3A%2F%2Flarepublica.pe%2Fsociedad%2F2026%2F11%2F25%2Fde-sjl-a-miami-peruana-es-procesada-por-millonaria-estafa-y-extorsion-a-30000-inmigrantes-en-ee-uu-2353475&c=4368626997250547005&mkt=es-us",
+      "titulo": "De SJL a Miami: peruana es extraditada por millonaria estafa y extorsión a 30.000 inmigrantes en EE. UU.",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-25",
+      "fecha_hecho": null,
+      "snippet": "Karount Jannet Toledo Vázquez es acusada de integrar una red que habría utilizado identidades falsas de funcionarios para exigir pagos a personas de habla hispana en Estados Unidos. El falso call cent ...",
+      "temas": [
+        "Extorsión",
+        "Estafa"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 5,
+      "query": "bing:estafa Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-26 18:51"
+    },
+    {
+      "id": "b419604a0fbde3b3",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdGNTSEhBbkFJOG5XRFllRDdLMHNqVndXWFVFNU9XU0ZMampoeS1BSHRQd2Zla0NqN1lTdU5aVG9BZUhYU3VMQ21TbGtvQ1pSRXhCaUszQ0ozZ3pQNk5abEhfZVNYZkx6UTRWZ0F0MXhBMTVsYm5aM2g1YlJWc0twbzNQdlI0Mno4a29zV3MtdFExUTh1b1lJR2tpa1BZQWxxV2s2UGFqUnVUQVJ4Z212V0lvNmFxczVpV1YyTzdNVjdUeUx5aEhRbEcxRTNWVktt0gHrAUFVX3lxTE1KXzhSYVF3dl9iN1g4ZVJqRXQwQ2hSb3lpZ0J4VkVLalYyX2E4Z1oyc3hsSEhkeUI5WVp0aGV1V2F0d1RWT2J6d1VGTGtYazM3cW5RYU1XUkp2cEdyeGR6TTBLUEJTSkc2bmEzMTd1ODRpLXRJX0FUbWs2V2Mza1BxZlU5aktlNmJTUHZHVVNMcWdhQl9aZ05SZHpYcE9CVWNQTWVHSFRxZlliWG95c3J4al84cEdkcUdiQlBiVkVrSEJlcnFLRnNtMm94SUsxLUEya2w0X3cyOExQV3lrNmMwNy1hRVNHSFcwbnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdGNTSEhBbkFJOG5XRFllRDdLMHNqVndXWFVFNU9XU0ZMampoeS1BSHRQd2Zla0NqN1lTdU5aVG9BZUhYU3VMQ21TbGtvQ1pSRXhCaUszQ0ozZ3pQNk5abEhfZVNYZkx6UTRWZ0F0MXhBMTVsYm5aM2g1YlJWc0twbzNQdlI0Mno4a29zV3MtdFExUTh1b1lJR2tpa1BZQWxxV2s2UGFqUnVUQVJ4Z212V0lvNmFxczVpV1YyTzdNVjdUeUx5aEhRbEcxRTNWVktt0gHrAUFVX3lxTE1KXzhSYVF3dl9iN1g4ZVJqRXQwQ2hSb3lpZ0J4VkVLalYyX2E4Z1oyc3hsSEhkeUI5WVp0aGV1V2F0d1RWT2J6d1VGTGtYazM3cW5RYU1XUkp2cEdyeGR6TTBLUEJTSkc2bmEzMTd1ODRpLXRJX0FUbWs2V2Mza1BxZlU5aktlNmJTUHZHVVNMcWdhQl9aZ05SZHpYcE9CVWNQTWVHSFRxZlliWG95c3J4al84cEdkcUdiQlBiVkVrSEJlcnFLRnNtMm94SUsxLUEya2w0X3cyOExQV3lrNmMwNy1hRVNHSFcwbnc",
+      "titulo": "Cuatro colombianos fueron asesinados en Chile por disputas territoriales y de microtráfico - Infobae",
+      "fuente": "Infobae",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-25",
+      "fecha_hecho": null,
+      "snippet": "Cuatro colombianos fueron asesinados en Chile por disputas territoriales y de microtráfico Infobae",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "\"gota a gota\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-26 18:51"
     },
     {
       "id": "e7df839ef301d358",
@@ -4764,6 +5256,30 @@
       "agregado": "2026-11-26 16:44"
     },
     {
+      "id": "870f5aa0bcd9f33a",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08c5f39c3a4a89be5cbb1c53defaac&url=https%3a%2f%2flarepublica.pe%2fsociedad%2f2026%2f11%2f26%2fasesinan-con-arma-blanca-a-hombre-con-discapacidad-mientras-descansaba-en-el-callao-348920&c=5774398841749309841&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08c5f39c3a4a89be5cbb1c53defaac&url=https%3A%2F%2Flarepublica.pe%2Fsociedad%2F2026%2F11%2F26%2Fasesinan-con-arma-blanca-a-hombre-con-discapacidad-mientras-descansaba-en-el-callao-348920&c=5774398841749309841&mkt=es-us",
+      "titulo": "Asesinan con arma blanca a hombre con discapacidad mientras descansaba en el Callao",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-25",
+      "fecha_hecho": null,
+      "snippet": "La Policía detuvo al principal sospechoso minutos después del crimen, mientras que se investiga el móvil y las circunstancias del asesinato de Ocsas Blanco, quien tenía discapacidad.",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Callao"
+      ],
+      "score": 2,
+      "query": "bing:asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-26 18:51"
+    },
+    {
       "id": "bc743183e8f1bde1",
       "url": "https://elbuho.pe/2026/11/arequipa-jenry-huisa-denuncia-seguimiento-e-intimidaciones-durante-campana-de-segunda-vuelta/",
       "url_canon": "https://elbuho.pe/2026/11/arequipa-jenry-huisa-denuncia-seguimiento-e-intimidaciones-durante-campana-de-segunda-vuelta",
@@ -5112,6 +5628,29 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-25 10:09"
+    },
+    {
+      "id": "81ada192463fb4da",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPei1ya1J4Wm43NTF0QU1uWE9YM010bHZiNmprdzg1VmZZcFZmRDUtcHZTaER2UFdqbVFFU3ZFMHByYnJKSk1xV3p3ZnFrWF9mbXh6UjdmamhIYUtncjcwU3VlLXhMeVEzalJRckdDeThaU2psSDZkd0l1MmEwUHlPRXNDRElRclpfYkQ1bTY0R3JnVmoxSUVVOVZLNnJ1UzZGTDBfdEJncnRLVkplcVFzSVdBRkdPbnZGU0dJeGNNUDFBdXp4VmJIbHBaUFlVc3RnRjFib3U3al9VQVh5Wk9UYtIB-wFBVV95cUxQQkhjWU05cHdHZUlHei1NMjg0SEhuV05EVTA5amJTSHRUcEVSTUNpbUw5dXVVRHJ6Z1dEcXlVTmNndjB6dnBHajNUZmdBTjhacC1EcnE2dGY1WWNycVZIT3lYUUtydlNwd3pQVGp3VW9VZTdlMTkyZ3dMQURaaUZpREMyUnQ4TU5HQUMzWDNpNXRWcTRWRmtpSE1yYS11ajZzNHlhOUlfazRjMXFPMU9iUmN1aW1TRTFkVzhaUmdEczBwRTVMVU1leXNZS1U3T0o0QkFwOFFLU0Fxb01PeWR1bklOSVo0d3JvTmRtMDRDRU4wNWhNWllZQTF6aw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPei1ya1J4Wm43NTF0QU1uWE9YM010bHZiNmprdzg1VmZZcFZmRDUtcHZTaER2UFdqbVFFU3ZFMHByYnJKSk1xV3p3ZnFrWF9mbXh6UjdmamhIYUtncjcwU3VlLXhMeVEzalJRckdDeThaU2psSDZkd0l1MmEwUHlPRXNDRElRclpfYkQ1bTY0R3JnVmoxSUVVOVZLNnJ1UzZGTDBfdEJncnRLVkplcVFzSVdBRkdPbnZGU0dJeGNNUDFBdXp4VmJIbHBaUFlVc3RnRjFib3U3al9VQVh5Wk9UYtIB-wFBVV95cUxQQkhjWU05cHdHZUlHei1NMjg0SEhuV05EVTA5amJTSHRUcEVSTUNpbUw5dXVVRHJ6Z1dEcXlVTmNndjB6dnBHajNUZmdBTjhacC1EcnE2dGY1WWNycVZIT3lYUUtydlNwd3pQVGp3VW9VZTdlMTkyZ3dMQURaaUZpREMyUnQ4TU5HQUMzWDNpNXRWcTRWRmtpSE1yYS11ajZzNHlhOUlfazRjMXFPMU9iUmN1aW1TRTFkVzhaUmdEczBwRTVMVU1leXNZS1U3T0o0QkFwOFFLU0Fxb01PeWR1bklOSVo0d3JvTmRtMDRDRU4wNWhNWllZQTF6aw",
+      "titulo": "‘El Negro Abad’ fue vinculado a proceso por narcomenudeo, lo investigan por extorsión y homicidio en Oaxaca - Infobae",
+      "fuente": "Infobae",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-24",
+      "fecha_hecho": null,
+      "snippet": "‘El Negro Abad’ fue vinculado a proceso por narcomenudeo, lo investigan por extorsión y homicidio en Oaxaca Infobae",
+      "temas": [
+        "Extorsión",
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 5,
+      "query": "\"gota a gota\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-26 18:51"
     },
     {
       "id": "58cd252dffa26344",
@@ -5676,6 +6215,28 @@
       "agregado": "2026-11-24 10:29"
     },
     {
+      "id": "a30144bf61662630",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMVNnYlFRcHNLbWJlRUVQSnRJa1RmWi05QVMyTjlrY1lPVWp6MlFTdVhyMTNkZFYzTW1WUC1NeFRTNVk4eEQ5dkplX195bjBKaEFXQnlUREFWc3hpNzFZbm4tQmVOQndFTEdQMktXamZONC1IWV9GY2hTbGVKV0tPcUtBTlJDaXZib3ZJWHY5Y2pxNGxfTE52YW9QclBHSEhQTWpzODBaTjNrX2NxRzMxR0ZJaW8?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMVNnYlFRcHNLbWJlRUVQSnRJa1RmWi05QVMyTjlrY1lPVWp6MlFTdVhyMTNkZFYzTW1WUC1NeFRTNVk4eEQ5dkplX195bjBKaEFXQnlUREFWc3hpNzFZbm4tQmVOQndFTEdQMktXamZONC1IWV9GY2hTbGVKV0tPcUtBTlJDaXZib3ZJWHY5Y2pxNGxfTE52YW9QclBHSEhQTWpzODBaTjNrX2NxRzMxR0ZJaW8",
+      "titulo": "Refuerzan seguridad en mercado de San Lorenzo Tezonco tras doble homicidio - Enfoque Noticias",
+      "fuente": "Enfoque Noticias",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-24",
+      "fecha_hecho": null,
+      "snippet": "Refuerzan seguridad en mercado de San Lorenzo Tezonco tras doble homicidio Enfoque Noticias",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "\"gota a gota\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-26 18:51"
+    },
+    {
       "id": "daeaccae781947b4",
       "url": "https://rpp.pe/peru/actualidad/jolin-valderrama-ordenan-internamiento-en-centro-de-reclusion-de-maxima-seguridad-en-el-callao-noticia-1719534",
       "url_canon": "https://rpp.pe/peru/actualidad/jolin-valderrama-ordenan-internamiento-en-centro-de-reclusion-de-maxima-seguridad-en-el-callao-noticia-1719534",
@@ -5866,6 +6427,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-26 16:44"
+    },
+    {
+      "id": "d4614dab71907328",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08c5f6cc404eb2b69f01bfe6cfb2c4&url=https%3a%2f%2fdiariocorreo.pe%2fperu%2fperu-registra-53-feminicidios-en-2026-y-otras-107-muertes-de-mujeres-bajo-investigacion-noticia%2f&c=7048904569435249421&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08c5f6cc404eb2b69f01bfe6cfb2c4&url=https%3A%2F%2Fdiariocorreo.pe%2Fperu%2Fperu-registra-53-feminicidios-en-2026-y-otras-107-muertes-de-mujeres-bajo-investigacion-noticia%2F&c=7048904569435249421&mkt=es-us",
+      "titulo": "Perú registra 53 feminicidios en 2026 y otras 107 muertes de mujeres bajo investigación",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-24",
+      "fecha_hecho": null,
+      "snippet": "Entre enero de 2009 y octubre de 2026, el Ministerio Público registró 2 mil 109 víctimas de feminicidio en el país. Arequipa figura entre las seis regiones que concentran el 55 % de los casos registra ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Arequipa"
+      ],
+      "score": 3,
+      "query": "bing:feminicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-26 18:51"
     },
     {
       "id": "bed0bfd7e31367ee",
@@ -6256,6 +6841,30 @@
       "agregado": "2026-11-26 09:39"
     },
     {
+      "id": "8a8bb45a56df8201",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08c5ec2a6045f1a9777a6db772dab6&url=https%3a%2f%2fwww.swissinfo.ch%2fspa%2fl%25c3%25adder-de-banda-criminal-peruana-la-jaur%25c3%25ada-ser%25c3%25a1-recluido-en-base-naval-de-m%25c3%25a1xima-seguridad%2f92432249&c=1271428662392924348&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08c5ec2a6045f1a9777a6db772dab6&url=https%3A%2F%2Fwww.swissinfo.ch%2Fspa%2Fl%25c3%25adder-de-banda-criminal-peruana-la-jaur%25c3%25ada-ser%25c3%25a1-recluido-en-base-naval-de-m%25c3%25a1xima-seguridad%2F92432249&c=1271428662392924348&mkt=es-us",
+      "titulo": "Líder de banda criminal peruana La Jauría será recluido en base naval de máxima seguridad",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-24",
+      "fecha_hecho": null,
+      "snippet": "Lima, 24 nov (EFE).- El líder de la banda criminal peruana La Jauría, Jolín Bazán, que fue detenido en Ecuador y entregado a autoridades de Perú la semana pasada, será enviado a la prisión de máxima s ...",
+      "temas": [
+        "Asalto a mano armada"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 2,
+      "query": "bing:secuestro Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-26 18:51"
+    },
+    {
       "id": "f8f83e7c866a42e8",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0662dc37af4bae83094e103f63367a&url=https%3a%2f%2fwww.msn.com%2fes-us%2fnoticias%2fotras%2flas-hermanas-mirabal-desafiaron-al-tirano-trujillo-y-cambiaron-el-rumbo-de-la-historia-el-25-de-noviembre-honra-su-lucha%2far-AA2ia55h&c=4451755171593938493&mkt=es-us",
       "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0662dc37af4bae83094e103f63367a&url=https%3A%2F%2Fwww.msn.com%2Fes-us%2Fnoticias%2Fotras%2Flas-hermanas-mirabal-desafiaron-al-tirano-trujillo-y-cambiaron-el-rumbo-de-la-historia-el-25-de-noviembre-honra-su-lucha%2Far-AA2ia55h&c=4451755171593938493&mkt=es-us",
@@ -6424,6 +7033,30 @@
       "agregado": "2026-11-26 16:44"
     },
     {
+      "id": "63b3b6bc0cca3c5e",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08c60bed1f457e8d9652526aa66c1e&url=https%3a%2f%2fwww.msn.com%2fes-us%2fnoticias%2fotras%2flas-hermanas-mirabal-desafiaron-al-tirano-trujillo-y-cambiaron-el-rumbo-de-la-historia-el-25-de-noviembre-honra-su-lucha%2far-AA2ia55h&c=4451755171593938493&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08c60bed1f457e8d9652526aa66c1e&url=https%3A%2F%2Fwww.msn.com%2Fes-us%2Fnoticias%2Fotras%2Flas-hermanas-mirabal-desafiaron-al-tirano-trujillo-y-cambiaron-el-rumbo-de-la-historia-el-25-de-noviembre-honra-su-lucha%2Far-AA2ia55h&c=4451755171593938493&mkt=es-us",
+      "titulo": "Las hermanas Mirabal desafiaron al tirano Trujillo y cambiaron el rumbo de la historia. El 25 de noviembre honra su lucha",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-24",
+      "fecha_hecho": null,
+      "snippet": "Las hermanas Mirabal desafiaron la dictadura de Trujillo en República Dominicana. Su asesinato en 1960 impulsó la resistencia y convirtió su historia en símbolo de la lucha contra la violencia hacia l ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 2,
+      "query": "bing:\"masacre\" Trujillo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-26 18:51"
+    },
+    {
       "id": "4c53515f84a0caaa",
       "url": "https://elcomercio.pe/mundo/latinoamerica/la-seguridad-de-colombia-en-la-mira-que-impacto-tienen-los-recientes-atentados-en-los-primeros-100-dias-de-abelardo-de-la-espriella-apuesplan-noticia/",
       "url_canon": "https://elcomercio.pe/mundo/latinoamerica/la-seguridad-de-colombia-en-la-mira-que-impacto-tienen-los-recientes-atentados-en-los-primeros-100-dias-de-abelardo-de-la-espriella-apuesplan-noticia",
@@ -6576,6 +7209,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-26 16:44"
+    },
+    {
+      "id": "b5afd7c78144b579",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08c5f6cc404eb2b69f01bfe6cfb2c4&url=https%3a%2f%2flarepublica.pe%2fopinion%2f2026%2f11%2f24%2fla-cuenta-del-feminicidio-editorial-1940112&c=12844637385650790806&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08c5f6cc404eb2b69f01bfe6cfb2c4&url=https%3A%2F%2Flarepublica.pe%2Fopinion%2F2026%2F11%2F24%2Fla-cuenta-del-feminicidio-editorial-1940112&c=12844637385650790806&mkt=es-us",
+      "titulo": "La cuenta del feminicidio",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-24",
+      "fecha_hecho": null,
+      "snippet": "América Latina registró 3.828 feminicidios en 2024 y en el Perú el recuento desde 2009 supera las dos mil doscientas víctimas.",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:feminicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-26 18:51"
     },
     {
       "id": "4e4a9d4aa94c640f",
@@ -6812,6 +7467,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-26 16:44"
+    },
+    {
+      "id": "6319eeb91d4127ae",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08c5ec2a6045f1a9777a6db772dab6&url=https%3a%2f%2flarepublica.pe%2fsociedad%2f2026%2f11%2f24%2fjolin-bazan-sera-recluido-en-la-base-naval-del-callao-cumplira-cadena-perpetua-por-secuestro-de-empresario-2383104&c=6811581864590338289&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08c5ec2a6045f1a9777a6db772dab6&url=https%3A%2F%2Flarepublica.pe%2Fsociedad%2F2026%2F11%2F24%2Fjolin-bazan-sera-recluido-en-la-base-naval-del-callao-cumplira-cadena-perpetua-por-secuestro-de-empresario-2383104&c=6811581864590338289&mkt=es-us",
+      "titulo": "Jolín Bazán será recluido en la Base Naval del Callao: cumplirá cadena perpetua por secuestro de empresario",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-24",
+      "fecha_hecho": null,
+      "snippet": "El cabecilla de La Nueva Jauría, capturado el 19 de noviembre en Ecuador, cumplirá su condena en la Base Naval del Callao, donde también se encuentran recluidos Erick Moreno Hernández, alias El Monstr ...",
+      "temas": [
+        "Secuestro"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Callao"
+      ],
+      "score": 3,
+      "query": "bing:secuestro Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-26 18:51"
     },
     {
       "id": "be4a0c0cd46df852",
@@ -7314,6 +7993,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-26 16:44"
+    },
+    {
+      "id": "aab88d3b37fe9ec5",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08c5f6cc404eb2b69f01bfe6cfb2c4&url=https%3a%2f%2fwww.infobae.com%2fperu%2f2026%2f11%2f24%2ffeminicidios-en-peru-cerca-de-11-mujeres-fueron-asesinadas-cada-mes-en-2026%2f&c=2976192072281034591&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08c5f6cc404eb2b69f01bfe6cfb2c4&url=https%3A%2F%2Fwww.infobae.com%2Fperu%2F2026%2F11%2F24%2Ffeminicidios-en-peru-cerca-de-11-mujeres-fueron-asesinadas-cada-mes-en-2026%2F&c=2976192072281034591&mkt=es-us",
+      "titulo": "Feminicidios en Perú: cerca de 11 mujeres fueron asesinadas cada mes en 2026",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-24",
+      "fecha_hecho": null,
+      "snippet": "El reporte del Programa Nacional Warmi Ñan registró 117 casos. Lima Metropolitana concentró el mayor número de víctimas ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 3,
+      "query": "bing:feminicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-26 18:51"
     },
     {
       "id": "a3564bb5c1f0acf5",
@@ -7877,6 +8580,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-24 10:28"
+    },
+    {
+      "id": "cdeea52e6f1b476a",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNTnRHcjROZDFWTkJfeUw0ZnBnNzAzS3A3Ukl5ajlvZno4TDN3QWs5UVBIMjJXTmVtNHBqdXFFZnE3SFBpeE83UVUyY0k1RGFJbkNUWHBWa2I1aXVwWUJkamNXWTFMa3JmNjg0NjJneHk0bERfWWh4bFFLMVpmekNOUWFsMGpnTUxlLVg2TS1xMDBEWTlZZWUtZENieHJqWEhLSjlxZm5Tc056SnlTTjI4YkgxQncydl9LMTQtMVpMN2xSelN1TDdFWjYxYXZfMnpYUDBMd1poR2NNN2xuakVVRDlCdHBWcXVEb3NqRWtlXzlUWWdWenlvSmlocWcwN0VnUGstdzNB0gGGAkFVX3lxTE1OdEdyNE5kMVZOQl95TDRmcGc3MDNLcDdSSXlqOW9mejhMM3dBazlRUEgyMldOZW00cGp1cUVmcTdIUGl4TzdRVTJjSTVEYUluQ1RYcFZrYjVpdXBZQmRqY1dZMUxrcmY2ODQ2Mmd4eTRsRF9ZaHhsUUsxWmZ6Q05RYWwwamdNTGUtWDZNLXEwMERZOVllZS1kQ2J4cmpYSEtKOXFmblNzTnpKeVNOMjhiSDFCdzJ2X0sxNC0xWkw3bFJ6U3VMN0VaNjFhdl8yelhQMEx3WmhHY003bG5qRVVEOUJ0cFZxdURvc2pFa2VfOVRZZ1Z6eW9KaWhxZzA3RWdQay13M0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNTnRHcjROZDFWTkJfeUw0ZnBnNzAzS3A3Ukl5ajlvZno4TDN3QWs5UVBIMjJXTmVtNHBqdXFFZnE3SFBpeE83UVUyY0k1RGFJbkNUWHBWa2I1aXVwWUJkamNXWTFMa3JmNjg0NjJneHk0bERfWWh4bFFLMVpmekNOUWFsMGpnTUxlLVg2TS1xMDBEWTlZZWUtZENieHJqWEhLSjlxZm5Tc056SnlTTjI4YkgxQncydl9LMTQtMVpMN2xSelN1TDdFWjYxYXZfMnpYUDBMd1poR2NNN2xuakVVRDlCdHBWcXVEb3NqRWtlXzlUWWdWenlvSmlocWcwN0VnUGstdzNB0gGGAkFVX3lxTE1OdEdyNE5kMVZOQl95TDRmcGc3MDNLcDdSSXlqOW9mejhMM3dBazlRUEgyMldOZW00cGp1cUVmcTdIUGl4TzdRVTJjSTVEYUluQ1RYcFZrYjVpdXBZQmRqY1dZMUxrcmY2ODQ2Mmd4eTRsRF9ZaHhsUUsxWmZ6Q05RYWwwamdNTGUtWDZNLXEwMERZOVllZS1kQ2J4cmpYSEtKOXFmblNzTnpKeVNOMjhiSDFCdzJ2X0sxNC0xWkw3bFJ6U3VMN0VaNjFhdl8yelhQMEx3WmhHY003bG5qRVVEOUJ0cFZxdURvc2pFa2VfOVRZZ1Z6eW9KaWhxZzA3RWdQay13M0E",
+      "titulo": "Carlos Bromley: Detrás de la violencia contra la mujer hay un factor estructural conocido como machismo - La República",
+      "fuente": "La República",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-24",
+      "fecha_hecho": null,
+      "snippet": "Carlos Bromley: Detrás de la violencia contra la mujer hay un factor estructural conocido como machismo La República",
+      "temas": [
+        "Maltrato físico y/o psicológico"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "feminicidio Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-26 18:51"
     },
     {
       "id": "b515827a253a60f4",
@@ -11618,6 +12343,28 @@
       "agregado": "2026-11-26 16:44"
     },
     {
+      "id": "a239e33ec5acd3fd",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08c5fbd83c41d6a2b292bd42412a2d&url=https%3a%2f%2fwww.expreso.com.pe%2fen-portada%2falarma-en-seguridad-de-la-informacion-peru-frente-a-la-oleada-mundial-de-ciberataques-europa-noticia%2f1334170%2f&c=14267549959760255843&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08c5fbd83c41d6a2b292bd42412a2d&url=https%3A%2F%2Fwww.expreso.com.pe%2Fen-portada%2Falarma-en-seguridad-de-la-informacion-peru-frente-a-la-oleada-mundial-de-ciberataques-europa-noticia%2F1334170%2F&c=14267549959760255843&mkt=es-us",
+      "titulo": "Alarma en seguridad de la información: Perú frente a la oleada mundial de ciberataques",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-22",
+      "fecha_hecho": null,
+      "snippet": "El Perú enfrenta una creciente exposición a los delitos informáticos, mientras una serie de ciberataques contra bancos, organismos policiales e instituciones gubernamentales de Estados Unidos y Europa ...",
+      "temas": [
+        "Delito informático"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:\"fraude bancario\" Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-26 18:51"
+    },
+    {
       "id": "40011964c3e716ad",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZHR5TTNNUlZYQU05NGdaX2RNa3QweVFvWmxTVWNfV3BrZFJfLXhsWjFJNEJMUEdlUkhvWkJhWlF6MlhxVzFWdU9NbUhjQXRJTHN1aGdXalVHdEhGOWFPZGkzcnNORS1mbjFRWGpJN2VLZ21tTWU0UjNTU1ZEUVdKOUQwUmUxOXVUaV80LU9aYWFUNEhsSTZVdHdHZTk5LUpPWG5waDhn0gGrAUFVX3lxTE1oQmloM3VuR3daMmNOVHhUSnJjWkNVQWpTdENySUZxSUUwR2pDOGNEZV8tWFgzUEg1RGFxdHp0UGwwV2pHa0dWWkI5ZWwwdkgtaTNuQ0VUQ182ejQ5bDNIUU8ydjdzSlRwVnY5aFQ0NURYclFEam16LWstbld2SmdmTlVFTzB5d2VrY2xtb1g1NF9zWUZmUXRQcDNDRkVzZ2l2MXlnakhHQjJYOA?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZHR5TTNNUlZYQU05NGdaX2RNa3QweVFvWmxTVWNfV3BrZFJfLXhsWjFJNEJMUEdlUkhvWkJhWlF6MlhxVzFWdU9NbUhjQXRJTHN1aGdXalVHdEhGOWFPZGkzcnNORS1mbjFRWGpJN2VLZ21tTWU0UjNTU1ZEUVdKOUQwUmUxOXVUaV80LU9aYWFUNEhsSTZVdHdHZTk5LUpPWG5waDhn0gGrAUFVX3lxTE1oQmloM3VuR3daMmNOVHhUSnJjWkNVQWpTdENySUZxSUUwR2pDOGNEZV8tWFgzUEg1RGFxdHp0UGwwV2pHa0dWWkI5ZWwwdkgtaTNuQ0VUQ182ejQ5bDNIUU8ydjdzSlRwVnY5aFQ0NURYclFEam16LWstbld2SmdmTlVFTzB5d2VrY2xtb1g1NF9zWUZmUXRQcDNDRkVzZ2l2MXlnakhHQjJYOA",
@@ -14839,6 +15586,28 @@
       "agregado": "2026-11-20 15:33"
     },
     {
+      "id": "3f98eee4742466dc",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbFJBN1Z3SzVFZnM3WlBCeEJuTnNuUi1WTnJkUlhBektkQ0E2bHVnNEdMc2RRcUdpUHotM0ZiWHRuSFpBajZGOFctSElvNXc5bG9NdjE5cDA3eFFrUDBvaVZhb0Q5TVcwNHNpRDM1Z2xiLVBSbkJiVExUR2ZfZ0ZfQnJVTU84OGU4OTA5cHo2SXYwYmhUVEE1dlF3T01ta2FndGlJbE9RWGNZSkZxTERpMkl5dlJPUnPSAbwBQVVfeXFMTWhnUXRaQlg5UXhuSmgycHdFVXlmcGZsUEVXeHVxcklkRWdDeUVydVJsaEhLOFdBc0pfT1RCMUZMWjlaLVdpTXp5NG1RN3laQ09rbVU2LThyMmxTRDdQNDQtT2dnaExyOEQ3VWxNVWQ1bXI1TVFNRVpkZUdUN0otNUQ3M1JtVE1iV1lmVEl2YkhsTlFmbF9WSnJYdDdzY2FZN3Ntb085aVNFd3B4VFhiMkVNSUllbWNyeGNpVE8?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbFJBN1Z3SzVFZnM3WlBCeEJuTnNuUi1WTnJkUlhBektkQ0E2bHVnNEdMc2RRcUdpUHotM0ZiWHRuSFpBajZGOFctSElvNXc5bG9NdjE5cDA3eFFrUDBvaVZhb0Q5TVcwNHNpRDM1Z2xiLVBSbkJiVExUR2ZfZ0ZfQnJVTU84OGU4OTA5cHo2SXYwYmhUVEE1dlF3T01ta2FndGlJbE9RWGNZSkZxTERpMkl5dlJPUnPSAbwBQVVfeXFMTWhnUXRaQlg5UXhuSmgycHdFVXlmcGZsUEVXeHVxcklkRWdDeUVydVJsaEhLOFdBc0pfT1RCMUZMWjlaLVdpTXp5NG1RN3laQ09rbVU2LThyMmxTRDdQNDQtT2dnaExyOEQ3VWxNVWQ1bXI1TVFNRVpkZUdUN0otNUQ3M1JtVE1iV1lmVEl2YkhsTlFmbF9WSnJYdDdzY2FZN3Ntb085aVNFd3B4VFhiMkVNSUllbWNyeGNpVE8",
+      "titulo": "Lurín: Policía rescata a joven secuestrada tras tiroteo - América TV",
+      "fuente": "América TV",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-20",
+      "fecha_hecho": null,
+      "snippet": "Lurín: Policía rescata a joven secuestrada tras tiroteo América TV",
+      "temas": [
+        "Secuestro"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "secuestro Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-26 18:51"
+    },
+    {
       "id": "04b6ba16dc7c4654",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRVg1bW9ZWm5pWDdSWUNvRkdFV2hUSVpvbFJ3MFJFUElPVTY5NnMxbDZGSnJXS05fVDk1RWJXRHl0cG85WndVaXJybjk0VGdfbU01QTdqYnU2RTFCb240VnIzNlAxa2h6MlZyak1PTVNkYkdsR1daVnRWYjNPWjNjX1lhdjdqR0x5bG5DTG9MN1NoY2ViN1hBVW1wb0lpb3hLVzhYUVlaWGs?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRVg1bW9ZWm5pWDdSWUNvRkdFV2hUSVpvbFJ3MFJFUElPVTY5NnMxbDZGSnJXS05fVDk1RWJXRHl0cG85WndVaXJybjk0VGdfbU01QTdqYnU2RTFCb240VnIzNlAxa2h6MlZyak1PTVNkYkdsR1daVnRWYjNPWjNjX1lhdjdqR0x5bG5DTG9MN1NoY2ViN1hBVW1wb0lpb3hLVzhYUVlaWGs",
@@ -16076,6 +16845,32 @@
       "agregado": "2026-11-26 16:44"
     },
     {
+      "id": "9b9e67a630dfca73",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08c5e775e9450fa56bfd7026dff8a7&url=https%3a%2f%2fwww.msn.com%2fes-us%2fnoticias%2fother%2fecuador-captura-en-establecimiento-vacacional-de-lujo-a-uno-de-los-delincuentes-m%25C3%25A1s-buscados-de-per%25C3%25BA%2far-AA2hRCWl&c=11156368069671640150&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08c5e775e9450fa56bfd7026dff8a7&url=https%3A%2F%2Fwww.msn.com%2Fes-us%2Fnoticias%2Fother%2Fecuador-captura-en-establecimiento-vacacional-de-lujo-a-uno-de-los-delincuentes-m%25C3%25A1s-buscados-de-per%25C3%25BA%2Far-AA2hRCWl&c=11156368069671640150&mkt=es-us",
+      "titulo": "Ecuador captura en establecimiento vacacional de lujo a uno de los delincuentes más buscados de Perú",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-20",
+      "fecha_hecho": null,
+      "snippet": "LIMA (AP) — Uno de los delincuentes más buscados de Perú y líder de una banda dedicada a las extorsiones, secuestros y asesinatos fue capturado por la policía ecuatoriana en un establecimiento vacacio ...",
+      "temas": [
+        "Extorsión",
+        "Secuestro",
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 4,
+      "query": "bing:extorsión Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-26 18:51"
+    },
+    {
       "id": "d4faa3d2ae455281",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b00c6d5b6e7439f8190d12e1de63ca5&url=https%3a%2f%2fwww.msn.com%2fes-mx%2fnoticias%2fotras%2fecuador-captura-a-jol%25C3%25ADn-baz%25C3%25A1n-presunto-l%25C3%25ADder-de-la-jaur%25C3%25ADa-y-uno-de-los-delincuentes-m%25C3%25A1s-buscados-de-per%25C3%25BA%2far-AA2hRF0i&c=16061270447716665645&mkt=es-us",
       "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b00c6d5b6e7439f8190d12e1de63ca5&url=https%3A%2F%2Fwww.msn.com%2Fes-mx%2Fnoticias%2Fotras%2Fecuador-captura-a-jol%25C3%25ADn-baz%25C3%25A1n-presunto-l%25C3%25ADder-de-la-jaur%25C3%25ADa-y-uno-de-los-delincuentes-m%25C3%25A1s-buscados-de-per%25C3%25BA%2Far-AA2hRF0i&c=16061270447716665645&mkt=es-us",
@@ -17103,6 +17898,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-19 15:48"
+    },
+    {
+      "id": "528a9218a746c552",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQeEVaTV9ONEplS2VUa09VVkpEZ3oyRVVnZ0hOempGbnpZSnZIUGR6dVRJeDN2VUtveHZiOFpONU1WbU9CNmZJSExIanRmRE1rSDVvSVJKdHhKU3U1NzJBSjRZcGE2a2VRejlHVDVaNzRTcTRfemtiRFN4STBBOGxqVjBNZmVDNTBYb2lSMlRzcTFWMzZvazdCTFJNcFhKYjhLc1l6U1ZRQzdyaEJTaWZuWEJtdlBjajhmZ1RNZHJsdEtPTnBwM2F5UldURVI5S0FmSThvY0JidFB5eTNNbkZkb3d0cTJfd0Ftck02bzZSczJtMlgyRXgyY1JENks?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url_canon": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQeEVaTV9ONEplS2VUa09VVkpEZ3oyRVVnZ0hOempGbnpZSnZIUGR6dVRJeDN2VUtveHZiOFpONU1WbU9CNmZJSExIanRmRE1rSDVvSVJKdHhKU3U1NzJBSjRZcGE2a2VRejlHVDVaNzRTcTRfemtiRFN4STBBOGxqVjBNZmVDNTBYb2lSMlRzcTFWMzZvazdCTFJNcFhKYjhLc1l6U1ZRQzdyaEJTaWZuWEJtdlBjajhmZ1RNZHJsdEtPTnBwM2F5UldURVI5S0FmSThvY0JidFB5eTNNbkZkb3d0cTJfd0Ftck02bzZSczJtMlgyRXgyY1JENks",
+      "titulo": "Sicarios asesinan a hombre en el Callao cuando regresaba de dejar a su hija en el colegio: Criminalística encontró 26 casquillos - Infobae",
+      "fuente": "Infobae",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "gnews",
+      "fecha_pub": "2026-11-19",
+      "fecha_hecho": null,
+      "snippet": "Sicarios asesinan a hombre en el Callao cuando regresaba de dejar a su hija en el colegio: Criminalística encontró 26 casquillos Infobae",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Callao"
+      ],
+      "score": 3,
+      "query": "asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-26 18:51"
     },
     {
       "id": "1c93dc45c01ba30a",
@@ -20731,6 +21550,30 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-26 16:44"
+    },
+    {
+      "id": "b7426d20945e83f8",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08c5f128554c0c99a2d5c63bfb8e7d&url=https%3a%2f%2fwww.msn.com%2fes-es%2fnoticias%2fother%2fdetenido-en-ecuador-uno-de-los-fugitivos-m%25C3%25A1s-buscados-de-per%25C3%25BA-condenado-a-cadena-perpetua%2far-AA2hQaTW&c=5269200281805343581&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08c5f128554c0c99a2d5c63bfb8e7d&url=https%3A%2F%2Fwww.msn.com%2Fes-es%2Fnoticias%2Fother%2Fdetenido-en-ecuador-uno-de-los-fugitivos-m%25C3%25A1s-buscados-de-per%25C3%25BA-condenado-a-cadena-perpetua%2Far-AA2hQaTW&c=5269200281805343581&mkt=es-us",
+      "titulo": "Detenido en Ecuador uno de los fugitivos más buscados de Perú, condenado a cadena perpetua",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-19",
+      "fecha_hecho": null,
+      "snippet": "Jolín Bazán Valderrama, alias 'Jolín', líder de la organización criminal 'La Nueva Jauría' tenía vínculos con actividades de minería ilegal, sicariato, extorsión y secuestro ...",
+      "temas": [
+        "Extorsión",
+        "Secuestro",
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 4,
+      "query": "bing:sicariato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-26 18:51"
     },
     {
       "id": "3cf41aac481a3933",
@@ -25949,6 +26792,28 @@
       "agregado": "2026-11-26 09:39"
     },
     {
+      "id": "a9fdc49cdb979ef4",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08c5f39c3a4a89be5cbb1c53defaac&url=https%3a%2f%2fwww.msn.com%2fes-ve%2fnoticias%2fotras%2finvestigu%25C3%25A9-el-asesinato-de-mi-padre-y-desaf%25C3%25ADo-la-versi%25C3%25B3n-oficial-de-un-episodio-clave-de-la-historia-de-per%25C3%25BA%2far-AA2hH6a5&c=14741100348847430135&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08c5f39c3a4a89be5cbb1c53defaac&url=https%3A%2F%2Fwww.msn.com%2Fes-ve%2Fnoticias%2Fotras%2Finvestigu%25C3%25A9-el-asesinato-de-mi-padre-y-desaf%25C3%25ADo-la-versi%25C3%25B3n-oficial-de-un-episodio-clave-de-la-historia-de-per%25C3%25BA%2Far-AA2hH6a5&c=14741100348847430135&mkt=es-us",
+      "titulo": "Investigué el asesinato de mi padre y desafío la versión oficial de un episodio clave de la historia de Perú",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-17",
+      "fecha_hecho": null,
+      "snippet": "La matanza de varios periodistas en Uchuraccay es uno de los episodios más recordados de un pasado doloroso y de nuevo en discusión.",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-26 18:51"
+    },
+    {
       "id": "7e5c9d6a2a297105",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWUxCeGgycWFLcmw1aFhuSHBmSnA5bDlUVGR5TC1vdGxBR3JNV3BlemdBVWt1OWV5Y1FOdk9zV2pwTHB6YXAyd2hFalpkQmJ1XzUwblNDNlBOd1E0QzlDdmgyV1RCdDBvTy1OOWsxSmJ2U0lkZEt4MGlwUHFlcHZwVzZrWlh5NDc2d2NYNlJPQTMtZGNyMEVJWENlbGd1a1BPSUVmaUJ5MzltTUVSYzFGMFY2dXd4TkFON3NZbDVXeDhZOWM?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWUxCeGgycWFLcmw1aFhuSHBmSnA5bDlUVGR5TC1vdGxBR3JNV3BlemdBVWt1OWV5Y1FOdk9zV2pwTHB6YXAyd2hFalpkQmJ1XzUwblNDNlBOd1E0QzlDdmgyV1RCdDBvTy1OOWsxSmJ2U0lkZEt4MGlwUHFlcHZwVzZrWlh5NDc2d2NYNlJPQTMtZGNyMEVJWENlbGd1a1BPSUVmaUJ5MzltTUVSYzFGMFY2dXd4TkFON3NZbDVXeDhZOWM",
@@ -28418,6 +29283,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-26 16:44"
+    },
+    {
+      "id": "bfe3b7729d35f29d",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08c5f39c3a4a89be5cbb1c53defaac&url=https%3a%2f%2fes.mongabay.com%2f2026%2f11%2fperu-papa-leon-xiv-condena-asesinatos-lideres-indigenas-defienden-territorios%2f&c=2853433372972869563&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08c5f39c3a4a89be5cbb1c53defaac&url=https%3A%2F%2Fes.mongabay.com%2F2026%2F11%2Fperu-papa-leon-xiv-condena-asesinatos-lideres-indigenas-defienden-territorios%2F&c=2853433372972869563&mkt=es-us",
+      "titulo": "Perú: El papa León XIV condena los asesinatos de líderes indígenas que defienden sus territorios",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-16",
+      "fecha_hecho": null,
+      "snippet": "El papa León XIV condena los asesinatos de líderes indígenas que defienden sus territorios. Aquí los detalles.",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-26 18:51"
     },
     {
       "id": "963b1dbd32ecbebb",
@@ -33080,6 +33967,30 @@
       "agregado": "2026-11-26 09:39"
     },
     {
+      "id": "d27d8e99ed6d699f",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08c5f39c3a4a89be5cbb1c53defaac&url=https%3a%2f%2fdiario.elmundo.sv%2fel-mundo%2fel-papa-denuncia-en-peru-la-explotacion-de-la-amazonia-y-el-asesinato-de-lideres-indigenas&c=7070349872481242737&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08c5f39c3a4a89be5cbb1c53defaac&url=https%3A%2F%2Fdiario.elmundo.sv%2Fel-mundo%2Fel-papa-denuncia-en-peru-la-explotacion-de-la-amazonia-y-el-asesinato-de-lideres-indigenas&c=7070349872481242737&mkt=es-us",
+      "titulo": "El papa denuncia en Perú la explotación de la Amazonía y el asesinato de líderes indígenas",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-15",
+      "fecha_hecho": null,
+      "snippet": "Durante su visita a Pucallpa, en Perú, el pontífice denunció el asesinato de líderes indígenas, la deforestación y los abusos contra mujeres y niñas. También celebró la primera misa papal en la cuenca ...",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Pucallpa"
+      ],
+      "score": 3,
+      "query": "bing:asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-26 18:51"
+    },
+    {
       "id": "1496a900c38f6f89",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR3NsUkRDYnhRRFVaV2RGQ1JzVmt2Z0JaZjFnY3NlRkpEVDctdEdxWTl3c09OUTBtS2otbUFubmRzbHVYajRWTEZrRElvVGV0UjFQdzl6dTBGdUxSVGMtT1FZdjAzWXBMbEM4cS1HMDRIZUVJa3dVNTRoSktrYTNCcGM1U0dxY1ZkRHpaeWExWE9teVhZdjJxNFJFUUlvZw?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url_canon": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR3NsUkRDYnhRRFVaV2RGQ1JzVmt2Z0JaZjFnY3NlRkpEVDctdEdxWTl3c09OUTBtS2otbUFubmRzbHVYajRWTEZrRElvVGV0UjFQdzl6dTBGdUxSVGMtT1FZdjAzWXBMbEM4cS1HMDRIZUVJa3dVNTRoSktrYTNCcGM1U0dxY1ZkRHpaeWExWE9teVhZdjJxNFJFUUlvZw",
@@ -34269,6 +35180,28 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-26 16:44"
+    },
+    {
+      "id": "5f887e022723bbaf",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08c5f39c3a4a89be5cbb1c53defaac&url=https%3a%2f%2fwww.primicias.ec%2finternacional%2fpapa-leon-peru-cusco-indigenas-asesinato-amazonia-137192%2f&c=17058509791588337189&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08c5f39c3a4a89be5cbb1c53defaac&url=https%3A%2F%2Fwww.primicias.ec%2Finternacional%2Fpapa-leon-peru-cusco-indigenas-asesinato-amazonia-137192%2F&c=17058509791588337189&mkt=es-us",
+      "titulo": "El papa León XIV denuncia en Perú la explotación de la Amazonía y el asesinato de líderes indígenas",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-15",
+      "fecha_hecho": null,
+      "snippet": "El papa León XIV consideró 'inaceptable que, en muchas comunidades, el derecho al acceso a la salud y a la educación sea negado, debido a las distancias físicas y al abandono de las instituciones'.",
+      "temas": [
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:asesinato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-26 18:51"
     },
     {
       "id": "c761a48ba7b7602b",
@@ -64898,6 +65831,30 @@
       "agregado": "2026-11-26 09:39"
     },
     {
+      "id": "f0f4fd72e0f6d8d8",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08c6096d15439ea71cca53bf996145&url=https%3a%2f%2flarepublica.pe%2fsociedad%2f2026%2f11%2f06%2fataque-violento-en-vivienda-deja-un-muerto-y-un-herido-en-trujillo-fallecido-seria-integrante-de-los-pulpos-83868&c=639855211460929230&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08c6096d15439ea71cca53bf996145&url=https%3A%2F%2Flarepublica.pe%2Fsociedad%2F2026%2F11%2F06%2Fataque-violento-en-vivienda-deja-un-muerto-y-un-herido-en-trujillo-fallecido-seria-integrante-de-los-pulpos-83868&c=639855211460929230&mkt=es-us",
+      "titulo": "Ataque violento en vivienda deja un muerto y un herido en Trujillo: fallecido sería integrante de Los Pulpos",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-11-06",
+      "fecha_hecho": null,
+      "snippet": "La víctima, conocida como 'Pato Cabezon', sería miembro de la organización criminal Los Pulpos. Los hechos sucedieron en una vivienda de la avenida Sánchez Carrión. Es el tercer ataque registrado este ...",
+      "temas": [
+        "Asalto a mano armada"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Trujillo"
+      ],
+      "score": 2,
+      "query": "bing:\"Los Pulpos\" Trujillo",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-26 18:51"
+    },
+    {
       "id": "0e6003f91f0779fc",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee2bd50cbc4da09d6b42779d5bf025&url=https%3a%2f%2felcomercio.pe%2fmag%2fusa%2flocal-us%2fasi-operaba-la-estafa-con-ia-que-habria-robado-129-millones-de-dolares-a-empresas-en-varios-paises-nnda-nnrt-noticia%2f&c=13433800251138720298&mkt=es-us",
       "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee2bd50cbc4da09d6b42779d5bf025&url=https%3A%2F%2Felcomercio.pe%2Fmag%2Fusa%2Flocal-us%2Fasi-operaba-la-estafa-con-ia-que-habria-robado-129-millones-de-dolares-a-empresas-en-varios-paises-nnda-nnrt-noticia%2F&c=13433800251138720298&mkt=es-us",
@@ -80399,5 +81356,5 @@
       "agregado": "2026-11-01 19:54"
     }
   ],
-  "n": 3497
+  "n": 3538
 }
