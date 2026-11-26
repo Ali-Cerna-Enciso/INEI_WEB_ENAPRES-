@@ -1,6 +1,6 @@
 {
   "mes": "2026-08",
-  "actualizado": "2026-11-26 09:41",
+  "actualizado": "2026-11-26 16:46",
   "items": [
     {
       "id": "bb9b57aa4ebf0c95",
@@ -4139,6 +4139,28 @@
       "area": "servicios",
       "cluster_id": null,
       "agregado": "2026-11-26 09:41"
+    },
+    {
+      "id": "70f5464d72fc4c5a",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08a8c22bca4e589e7e6a8e5f62e416&url=https%3a%2f%2fwww.iagua.es%2fnoticias%2fredaccion%2fperu-impulsa-17-proyectos-de-agua-y-saneamiento-por-us-5-700-millones&c=1187784902998694764&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08a8c22bca4e589e7e6a8e5f62e416&url=https%3A%2F%2Fwww.iagua.es%2Fnoticias%2Fredaccion%2Fperu-impulsa-17-proyectos-de-agua-y-saneamiento-por-us-5-700-millones&c=1187784902998694764&mkt=es-us",
+      "titulo": "Perú impulsa 17 proyectos de agua y saneamiento por US$ 5.700 millones",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-08-31",
+      "fecha_hecho": null,
+      "snippet": "La Agencia de Promoción de la Inversión Privada (PROINVERSIÓN), entidad adscrita al Ministerio de Economía y Finanzas de Perú, promueve una cartera de 17 proyectos de agua y saneamiento con una ...",
+      "temas": [
+        "Agua por red pública"
+      ],
+      "descartar": false,
+      "ubigeo": [],
+      "score": 3,
+      "query": "bing:\"agua y saneamiento\" Perú",
+      "area": "servicios",
+      "cluster_id": null,
+      "agregado": "2026-11-26 16:46"
     },
     {
       "id": "8b29e2d63381b7f4",
@@ -21825,5 +21847,5 @@
       "descartar": false
     }
   ],
-  "n": 955
+  "n": 956
 }
