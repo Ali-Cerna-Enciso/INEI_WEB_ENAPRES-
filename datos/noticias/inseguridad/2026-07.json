@@ -1,6 +1,6 @@
 {
   "mes": "2026-07",
-  "actualizado": "2026-11-27 16:29",
+  "actualizado": "2026-11-27 18:28",
   "items": [
     {
       "id": "1afe8ca6c5860d94",
@@ -70,6 +70,31 @@
       "area": "inseguridad",
       "cluster_id": null,
       "agregado": "2026-11-27 09:35"
+    },
+    {
+      "id": "417a2371dbe2fe21",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a12193d6947258a0c8e8186c34805&url=https%3a%2f%2fwww.abc.com.py%2finternacionales%2f2025%2f11%2f22%2fpolicia-de-peru-detiene-en-lima-a-14-integrantes-de-banda-de-extorsion-y-sicariato%2f&c=14649831950799933104&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a12193d6947258a0c8e8186c34805&url=https%3A%2F%2Fwww.abc.com.py%2Finternacionales%2F2025%2F11%2F22%2Fpolicia-de-peru-detiene-en-lima-a-14-integrantes-de-banda-de-extorsion-y-sicariato%2F&c=14649831950799933104&mkt=es-us",
+      "titulo": "Policía de Perú detiene en Lima a 14 integrantes de banda de extorsión y sicariato",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-07-31",
+      "fecha_hecho": null,
+      "snippet": "Lima, 22 nov (EFE).- Catorce presuntos integrantes de la banda dedicada a la extorsión y al sicariato, conocida como 'Los Injertos del Cono Norte' y presuntamente liderada por el delincuente Erick ...",
+      "temas": [
+        "Extorsión",
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 5,
+      "query": "bing:sicariato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-27 18:28"
     },
     {
       "id": "bf585f232eba4c99",
@@ -10894,6 +10919,32 @@
       "agregado": "2026-11-27 16:29"
     },
     {
+      "id": "0d52f328f042e45d",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a12193d6947258a0c8e8186c34805&url=https%3a%2f%2fwww.abc.com.py%2finternacionales%2f2025%2f12%2f22%2fperu-anuncia-un-subsistema-de-justicia-para-enfrentar-extorsion-sicariato-y-secuestro%2f&c=15021620673450360077&mkt=es-us",
+      "url_canon": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a12193d6947258a0c8e8186c34805&url=https%3A%2F%2Fwww.abc.com.py%2Finternacionales%2F2025%2F12%2F22%2Fperu-anuncia-un-subsistema-de-justicia-para-enfrentar-extorsion-sicariato-y-secuestro%2F&c=15021620673450360077&mkt=es-us",
+      "titulo": "Perú anuncia un \"subsistema de justicia\" para enfrentar extorsión, sicariato y secuestro",
+      "fuente": "bing",
+      "tipo_fuente": "Noticias/reportes",
+      "colector": "bing",
+      "fecha_pub": "2026-07-12",
+      "fecha_hecho": null,
+      "snippet": "Lima, 22 dic (EFE).- El Gobierno de Perú creará un \"subsistema de justicia\" que se dedicará a combatir los casos de extorsión, sicariato y secuestro, con el objetivo de tener una respuesta más rápida ...",
+      "temas": [
+        "Extorsión",
+        "Secuestro",
+        "Homicidio / sicariato"
+      ],
+      "descartar": false,
+      "ubigeo": [
+        "Lima"
+      ],
+      "score": 7,
+      "query": "bing:sicariato Perú",
+      "area": "inseguridad",
+      "cluster_id": null,
+      "agregado": "2026-11-27 18:28"
+    },
+    {
       "id": "96b908d4506a9558",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX2E5TGhYbDRDaTdNVTNXa1BWWkdfS3oteGgwZE9rU3hQR05mVVpVQ0VNZFg2UXVPNXVrVTVqTzVfUWVNenZVdkg3RWRJLWJwbXdUc25rTXdsT2dINlREeFFCTGE4Y0wzRWlRTVRGWEZ5RkxmRFdUakFhNjdBUElSTnZKNGhjSGVPS05Qdk5zbVEwQm5Ya3RYZnFKbmVBX1oybFVxWTREakJWOHpTU3B0dXgzUXZRRkVXcFJWemRhM2o?oc=5",
       "url_canon": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX2E5TGhYbDRDaTdNVTNXa1BWWkdfS3oteGgwZE9rU3hQR05mVVpVQ0VNZFg2UXVPNXVrVTVqTzVfUWVNenZVdkg3RWRJLWJwbXdUc25rTXdsT2dINlREeFFCTGE4Y0wzRWlRTVRGWEZ5RkxmRFdUakFhNjdBUElSTnZKNGhjSGVPS05Qdk5zbVEwQm5Ya3RYZnFKbmVBX1oybFVxWTREakJWOHpTU3B0dXgzUXZRRkVXcFJWemRhM2o",
@@ -14285,5 +14336,5 @@
       "descartar": false
     }
   ],
-  "n": 606
+  "n": 608
 }
